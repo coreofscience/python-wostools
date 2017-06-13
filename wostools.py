@@ -3,6 +3,7 @@ The whole wostools thing.
 """
 
 import collections
+import glob
 import itertools
 import re
 
@@ -68,6 +69,12 @@ class CollectionLazy(object):
     def __init__(self, *filenames):
         self.filenames = filenames
 
+    @classmethod
+    def from_glob(cls, pattern):
+        """
+        Creates a new collection from a pattern using glob.
+        """
+        return cls(*glob.glob(pattern))
 
     @property
     def files(self):

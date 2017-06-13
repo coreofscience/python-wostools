@@ -20,4 +20,6 @@ setup(
     download_url=f'https://github.com/pcm-ca/wostools/tarball/{VERSION}',
     keywords=['wos', 'bibliography', ],
     description='Utilities for the wos plain text files',
+    license='MIT',
+    long_description=open('README.rst').read(),
 )

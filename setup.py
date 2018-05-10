@@ -1,24 +1,45 @@
-"""
-Setup of the wostools project.
-"""
+#!/usr/bin/env python
 
-from setuptools import setup
+"""The setup script."""
 
-VERSION = '0.1.1'
+from setuptools import setup, find_packages
+
+with open('README.rst') as readme_file:
+    readme = readme_file.read()
+
+with open('HISTORY.rst') as history_file:
+    history = history_file.read()
+
+requirements = [ ]
+
+setup_requirements = ['pytest-runner', ]
+
+test_requirements = ['pytest', ]
 
 setup(
+    author="Core of Science",
+    author_email='dev@coreofscience.com',
+    classifiers=[
+        'Development Status :: 2 - Pre-Alpha',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: MIT License',
+        'Natural Language :: English',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3.6',
+    ],
+    description="Translates isi web of knowledge files into python objects.",
+    install_requires=requirements,
+    license="MIT license",
+    long_description=readme + '\n\n' + history,
+    include_package_data=True,
+    keywords='wostools',
     name='wostools',
-    version=VERSION,
-    author='Oscar D. Arbeláez-Echeverri <@odarbelaeze>, Juan C. Henao-Londoño',
-    author_email='odarbelaeze@gmail.com',
-    py_modules=['wostools'],
-    install_requires=[],
-    tests_require=[],
-    setup_requires=[],
-    url='https://github.com/pcm-ca/wostools',
-    download_url=f'https://github.com/pcm-ca/wostools/tarball/{VERSION}',
-    keywords=['wos', 'bibliography', ],
-    description='Utilities for the wos plain text files',
-    license='MIT',
-    long_description=open('README.rst').read(),
+    packages=find_packages(include=['wostools']),
+    setup_requires=setup_requirements,
+    test_suite='tests',
+    tests_require=test_requirements,
+    url='https://github.com/coreofscience/wostools',
+    version='0.1.1',
+    zip_safe=False,
 )

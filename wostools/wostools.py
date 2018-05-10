@@ -52,7 +52,9 @@ class Article(object):
 
     def __getattr__(self, name):
         if name not in self._data and not hasattr(self._data, name):
-            raise AttributeError(f'{self.__class__.__name__} does not have an attribute {name}')
+            raise AttributeError(
+                f'{self.__class__.__name__} does not have an attribute {name}'
+            )
         if name not in self._data:
             return getattr(self._data, name)
         return self._data[name]

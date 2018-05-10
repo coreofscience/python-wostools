@@ -6,18 +6,18 @@ Python WoS tools
 .. image:: https://img.shields.io/pypi/v/wostools.svg
         :target: https://pypi.python.org/pypi/wostools
 
-.. image:: https://img.shields.io/travis/coreofscience/wostools.svg
-        :target: https://travis-ci.org/coreofscience/wostools
+.. image:: https://img.shields.io/travis/coreofscience/python-wostools.svg
+        :target: https://travis-ci.org/coreofscience/python-wostools
 
-.. image:: https://readthedocs.org/projects/wostools/badge/?version=latest
-        :target: https://wostools.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/python-wostools/badge/?version=latest
+        :target: https://python-wostools.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
 Translates isi web of knowledge files into python objects.
 
 * Free software: MIT license
-* Documentation: https://wostools.readthedocs.io.
+* Documentation: https://python-wostools.readthedocs.io.
 
 
 Quickstart

@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/coreofscience/wostools
+    $ git clone git://github.com/coreofscience/python-wostools
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/coreofscience/wostools/tarball/master
+    $ curl  -OL https://github.com/coreofscience/python-wostools/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/coreofscience/wostools
-.. _tarball: https://github.com/coreofscience/wostools/tarball/master
+.. _Github repo: https://github.com/coreofscience/python-wostools
+.. _tarball: https://github.com/coreofscience/python-wostools/tarball/master

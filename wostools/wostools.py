@@ -57,7 +57,7 @@ class Article(object):
             )
         if name not in self._data:
             return getattr(self._data, name)
-        return self._data[name]
+        return ' '.join(self._data[name])
 
     def __hasattr__(self, name):
         return name in self._data

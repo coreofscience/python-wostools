@@ -62,6 +62,23 @@ class Article(object):
     def __hasattr__(self, name):
         return name in self._data
 
+    @property
+    def label(self):
+        fields_normalizers = {
+            'AU': lambda au: au[0].replace(',', ''),
+            'PY': lambda py: py[0],
+            'J9': lambda j9: j9[0],
+            'VL': lambda vl: f'V{vl[0]}',
+            'PG': lambda pg: f'P{pg[0]}',
+            'DI': lambda di: f'DOI {di[0]}',
+        }
+        normalized_fields = [
+            normalizer(self._data[field])
+            for field, normalizer in fields_normalizers.items()
+            if self._data.get(field)
+        ]
+        label = ', '.join(normalized_fields)
+        return label
 
 class CollectionLazy(object):
     """

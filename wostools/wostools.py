@@ -67,7 +67,7 @@ class Article(object):
         fields_normalizers = {
             'AU': lambda au: au[0].replace(',', ''),
             'PY': lambda py: py[0],
-            'SO': lambda so: so[0],
+            'J9': lambda j9: j9[0],
             'VL': lambda vl: f'V{vl[0]}',
             'PG': lambda pg: f'P{pg[0]}',
             'DI': lambda di: f'DOI {di[0]}',

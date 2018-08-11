@@ -42,7 +42,7 @@ def preprocess(raw_dict):
             field = FIELDS[key]
             parsed = field.parse(seq)
             processed_data[key] = parsed
-            for alias in fields.aliases:
+            for alias in field.aliases:
                 processed_data[alias] = parsed
         else:
             processed_data[key] = ' '.join(seq)

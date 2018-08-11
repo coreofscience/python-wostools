@@ -7,34 +7,7 @@ import glob
 import itertools
 import re
 
-
-IsiField = collections.namedtuple(
-    'IsiField',
-    ['key', 'description', 'parse', 'aliases']
-)
-
-
-FIELDS = {
-    'AB': IsiField(
-        'AB',
-        'Abstract',
-        lambda seq: ' '.join(seq),
-        ['abstract']
-    ),
-    'TI': IsiField(
-        'TI',
-        'Title',
-        lambda seq: ' '.join(seq),
-        ['title']
-    ),
-    'CR': IsiField(
-        'TI',
-        'Cited references',
-        lambda seq: seq,
-        ['citations', 'references']
-    ),
-}
-
+from wostools.isi_fields import FIELDS
 
 def popular(iterable, limit):
     """

@@ -8,6 +8,34 @@ import itertools
 import re
 
 
+IsiField = collections.namedtuple(
+    'IsiField',
+    ['key', 'description', 'parse', 'aliases']
+)
+
+
+FIELDS = {
+    'AB': IsiField(
+        'AB',
+        'Abstract',
+        lambda seq: ' '.join(seq),
+        ['abstract']
+    ),
+    'TI': IsiField(
+        'TI',
+        'Title',
+        lambda seq: ' '.join(seq),
+        ['title']
+    ),
+    'CR': IsiField(
+        'TI',
+        'Cited references',
+        lambda seq: seq,
+        ['citations', 'references']
+    ),
+}
+
+
 def popular(iterable, limit):
     """
     A little utility to compute popular values on an iterable.
@@ -34,6 +62,20 @@ def article_text_to_dict(article_text: str):
     return dict(data)
 
 
+def preprocess(raw_dict):
+    processed_data = {}
+    for key, seq in raw_dict.items():
+        if key in FIELDS:
+            field = FIELDS[key]
+            parsed = field.parse(seq)
+            processed_data[key] = parsed
+            for alias in fields.aliases:
+                processed_data[alias] = parsed
+        else:
+            processed_data[key] = ' '.join(seq)
+    return processed_data
+
+
 class WosToolsError(Exception):
     """
     All the errors go here.
@@ -49,9 +91,10 @@ class Article(object):
     def __init__(self, article_text):
         self._article_text = article_text
         self._data = article_text_to_dict(article_text)
+        self._processed_data = preprocess(self._data)
 
     def __getattr__(self, name):
-        if name not in self._data and not hasattr(self._data, name):
+        if name not in self._processed_data and not hasattr(self._processed_data, name):
             raise AttributeError(
                 f'{self.__class__.__name__} does not have an attribute {name}'
             )

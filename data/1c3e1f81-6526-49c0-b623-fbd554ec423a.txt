@@ -1,0 +1,177 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Wong, Yoke-Rung
+   Lee, Chuan Shing
+   Loke, Austin M. K.
+   Liu, Xuan
+   Suzana, Ita M. J.
+   Tay, Shian Chao
+TI Comparison of Flexor Tendon Repair Between 6-Strand Lim-Tsai With
+   4-Strand Cruciate and Becker Technique
+SO JOURNAL OF HAND SURGERY-AMERICAN VOLUME
+VL 40
+IS 9
+BP 1806
+EP 1811
+DI 10.1016/j.jhsa.2015.05.007
+PD SEP 2015
+PY 2015
+AB Purpose To compare the strength of 6-strand Lim-Tsai repair with
+   4-strand cruciate and Becker repair, which were done using braided
+   polyblend. We hypothesized that the biomechanical strength of 4-strand
+   repair could be as strong as 6-strand repair because of different flexor
+   tendon repair configurations and uneven load bearing.
+   Methods We harvested 60 porcine flexor tendons. A transverse cut at the
+   middle of the tendons was made to perfoint tendon repair. Six-strand
+   Lim-Tsai repair (consisting of 2 Lim-Tsai locking loops), 4-strand
+   cruciate repair (with 3 cross-stitch loops), and 4-strand Becker repair
+   (with 2 double cross-stitch locking loops) were used for the repairs.
+   The repaired tendons were pulled until failure using a mechanical
+   tester. We recorded ultimate tensile strength, load to 2-mm gap force,
+   stiffness, and mechanism of failure.
+   Results The Becker repairs had significantly greater tensile strength
+   than the cruciate and Lim-Tsai repairs. The load to 2-mm gap force and
+   stiffness were significantly greater for cruciate repairs and Becker
+   repairs than Lim-Tsai repairs.
+   Conclusions The biomechanical strength of 4-strand and Becker repairs
+   could be as strong as 6-strand Lim-Tsai repairs. This study implies that
+   the number of strands crossing the repair site of tendons may not be
+   proportional to the biomechanical strength of flexor tendon repair.
+   Clinical relevance Hand surgeons are urged to be aware of the
+   biomechanic characteristics of different flexor tendon repair techniques
+   used in the clinical setting. Copyright (C) 2015 by the American Society
+   for Surgery of the Hand. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0363-5023
+EI 1531-6564
+UT WOS:000361271000011
+PM 26142080
+ER
+
+PT J
+AU Yildirim, Ahmet Ozgur
+   Alemdaroglu, Kadir Bahadir
+   Yuksel, Halil Yalcin
+   Oken, Ozdamar Fuad
+   Ucaner, Ahmet
+TI Finite element analysis of the stability of transverse acetabular
+   fractures in standing and sitting positions by different fixation
+   options
+SO INJURY-INTERNATIONAL JOURNAL OF THE CARE OF THE INJURED
+VL 46
+BP S29
+EP S35
+DI 10.1016/j.injury.2015.05.029
+SU 2
+PD JUL 2015
+PY 2015
+AB Background: Treatment of a transverse acetabular fracture type is
+   possible from an anterior approach, a posterior approach or both.
+   Different fixation methods have been described but whether one is
+   superior to the other is still under debate. The aim of the current
+   study was to test the different fixation alternatives of stabilization
+   of transverse acetabular fractures under two basic physiological loading
+   conditions: standing and sitting utilizing a finite element model.
+   Material and methods: A transtectal transverse fracture model was fixed
+   in five different alternatives: an anterior column plate; a posterior
+   column plate; an anterior column plate combined with a posterior column
+   screw; a posterior column plate combined with an anterior column screw;
+   and a posterior column plate and an anterior column plate. In these
+   models, a load of 400 N was applied at standing and sitting positions
+   and the displacements were analyzed by using three-dimensional finite
+   element stress analysis method.
+   Results: In the model simulating standing human position, overall motion
+   at the posterior column was minimum when two columns were plated (0.071
+   mm). The second best fixation was posterior column plate with an
+   anterior column screw (0.077 mm). Overall motion at the anterior column
+   was minimum by posterior column plate with an anterior column screw
+   (0.0326 mm). The plating of two columns was associated with motion of
+   (0.0333 mm).
+   In the model that simulates sitting position, the motion at the
+   posterior column was minimum when two columns were plated (0.0478 mm),
+   and (0.0517 mm) when a posterior column plate with an anterior column
+   screw was used. Overall motion in the anterior column was minimum when
+   posterior column plate with an anterior column screw (0.0198 mm) was
+   used, whereas the motion was (0.0203 mm) when plating of both columns
+   was examined.
+   Conclusion: Posterior column plating combined with an anterior column
+   screw has quite comparable results to a both column plating in
+   transverse fractures, suggesting that two column fixations might be
+   unnecessary. This method is also very superior to anterior column
+   plating combined with a posterior column screw in that type of
+   fractures. (C) 2015 Elsevier Ltd. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0020-1383
+EI 1879-0267
+UT WOS:000360122000007
+PM 26028425
+ER
+
+PT J
+AU Roth, Klaus Edgar
+   Peters, Jennifer
+   Schmidtmann, Irene
+   Maus, Uwe
+   Stephan, Daniel
+   Augat, Peter
+TI Intraosseous Fixation Compared to Plantar Plate Fixation for First
+   Metatarsocuneiform Arthrodesis: A Cadaveric Biomechanical Analysis
+SO FOOT & ANKLE INTERNATIONAL
+VL 35
+IS 11
+BP 1209
+EP 1216
+DI 10.1177/1071100714547082
+PD NOV 2014
+PY 2014
+AB Background: Metatarsocuneiform (MTC) fusion is a treatment option for
+   management of hallux valgus. We compared the biomechanical
+   characteristics of an internal fixation device with plantar plate
+   fixation.
+   Methods: Seven matched pairs of feet from human cadavers were used to
+   compare the intramedullary (IM) device plus compression screw to plantar
+   plate combined with a compression screw. Specimen constructs were loaded
+   in a cyclic 4-point bending test. We obtained initial/final stiffness,
+   maximum load, and number of cycles to failure. Bone mineral density was
+   measured with peripheral quantitative computed tomography. Performance
+   was compared using time to event analysis with number of cycles as time
+   variable, and a proportional hazard model including shared frailty model
+   fitted with treatment and bone mineral density as covariates.
+   Results: On average the plates failed after 7517 cycles and a maximum
+   load of 167 N, while the IM-implants failed on average after 2946 cycles
+   and a maximum load of 69 N. In all pairs the 1 treated with IM-implant
+   failed earlier than the 1 treated with a plate (hazard ratio for
+   IM-implant versus plate was 79.9 (95% confidence interval [6.1, 1052.2],
+   P = .0009). The initial stiffness was 131 N/mm for the plantar plate and
+   43.3 N/mm for the IM implant. Initial stiffness (r = .955) and final
+   stiffness (r = .952) were strongly related to the number of cycles to
+   failure. Bone mineral density had no effect on the number of cycles to
+   failure.
+   Conclusion: Plantar plate fixation created a stronger and stiffer
+   construct than IM fixation.
+RI Augat, Peter/A-2051-2011
+OI Augat, Peter/0000-0003-4805-2128
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1071-1007
+EI 1944-7876
+UT WOS:000345189600017
+PM 25121509
+ER
+
+EF

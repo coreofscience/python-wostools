@@ -1,0 +1,2794 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Schmidt, CM
+   Cielo, ID
+   Wenningkamp, KR
+   Tomio, M
+AF Schmidt, Carla M.
+   Cielo, Ivanete D.
+   Wenningkamp, Keila R.
+   Tomio, Marialva
+TI Collective Actions in Sustainable Rural Tourism: A Case Study of the
+   Western Region of Parana
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+LA English
+DT Article
+DE collective action; sustainable rural tourism; entrepreneur groups
+ID NETWORKS; FORMS
+AB This is a study of a collective action oriented to developing rural sustainable tourism in the west of Parana state, Brazil. We have endeavoured to identify the advantages and disadvantages experienced by rural entrepreneurs while participating in a collective action group. We have carried out a qualitative case study of a descriptive nature, and after interviewing participant entrepreneurs, we concluded that collective action was essential for the development of sustainable rural tourism. Overall, the advantages surpass the disadvantages. Copyright (c) 2015 John Wiley & Sons, Ltd.
+C1 [Schmidt, Carla M.; Cielo, Ivanete D.; Wenningkamp, Keila R.] State Univ West Parana, Cascavel, Brazil.
+   [Tomio, Marialva] Univ Reg Blumenau, Blumenau, Brazil.
+RP Schmidt, CM (reprint author), State Univ West Parana, Cascavel, Brazil.
+EM c.m.schmidt@bol.com.br
+CR Menard C, 2004, J INST THEOR ECON, V160, P345, DOI 10.1628/0932456041960605
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   GRANDORI A, 1995, ORGAN STUD, V16, P183, DOI 10.1177/017084069501600201
+   Brito CM, 2001, J BUS IND MARK, V16, P150, DOI 10.1108/08858620110389777
+   Austin JE., 2001, PARCERIAS
+   Benevides IP., 2002, TURISMO DESENVOLVIME
+   Bregolin M., 2012, 8 CITRUDES C INT TUR
+   desAlmeida MG, 2010, REV BIBLIO GEOGRAFIA, VXV
+   Dias R., 2008, TURISMO SUSTENTAVEL
+   Fukuyama F., 1996, CONFIANCA VIRTUDES S
+   Granovetter M., 1973, AM J SOCIOL, V78, P1930
+   Lazzarini S. G., 2001, J CHAIN NETWORK SCI, V1, P7, DOI 10.3920/JCNS2001.x002
+   Maeda MY, 2009, 12 SEMEAD SEM ADM 12
+   MagalhAes CF., 2002, DIRETRIZES TURISMO S
+   Minayo MCS de, 2010, PESQUISA SOCIAL TEOR
+   Nassar A, 2004, REV ADM SAO PAULO, p[39, 141]
+   Nassar AM, 2001, THESIS U SAO PAULO S, V2001, p236f
+   Olson M., 1999, LOGICA ACAO COLETIVA
+   Ostrom E., 2007, SOCIOLOGICA, V3, P1, DOI 10.2383/25950
+   Pires PS., 2002, DIMENSOES ECOTURISMO
+   Plog S., 2002, TURISMO GLOBAL
+   POWELL WW, 1990, RES ORGAN BEHAV, V12, P295
+   Reis C., 2013, Revista Brasileira de Pesquisa em Turismo, V7, P209
+   Sachs I., 2003, INCLUSAO SOCIAL PELO
+   Saes MSM., 2008, THESIS DEP ADM FACUL
+   Sandler T., 2004, GLOBAL COLLECTIVE AC
+   Schmidt CM., 2010, THESIS U SAO PAULO
+   Schneider Sergio, 2010, Rev. Econ. Polit., V30, P511, DOI 10.1590/S0101-31572010000300009
+   Veiga JE., 2007, EC TERRITORIO BRASIL
+   Zylbersztajn D., 2005, Revista de Economia e Sociologia Rural, V43, P385, DOI 10.1590/S0103-20032005000300001
+   Zylbertsztajn D, 1999, INT FOOD AGRIBUS MAN, V2, P249, DOI 10.1016/S1096-7508(00)00014-8
+NR 31
+TC 0
+Z9 0
+U1 11
+U2 11
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1092-7026
+EI 1099-1743
+J9 SYST RES BEHAV SCI
+JI Syst. Res. Behav. Sci.
+PD MAR-APR
+PY 2016
+VL 33
+IS 2
+SI SI
+BP 249
+EP 258
+DI 10.1002/sres.2380
+PG 10
+WC Management; Social Sciences, Interdisciplinary
+SC Business & Economics; Social Sciences - Other Topics
+GA DG2WX
+UT WOS:000371932500005
+ER
+
+PT J
+AU Nieto-Romero, M
+   Milcu, A
+   Leventon, J
+   Mikulcak, F
+   Fischer, J
+AF Nieto-Romero, Marta
+   Milcu, Andra
+   Leventon, Julia
+   Mikulcak, Friederike
+   Fischer, Joern
+TI The role of scenarios in fostering collective action for sustainable
+   development: Lessons from central Romania
+SO LAND USE POLICY
+LA English
+DT Article
+DE Barriers; Collective action; Scenario planning; Sustainable development;
+   Trade-offs
+ID ENVIRONMENTAL-MANAGEMENT; CONSERVATION; FRAMEWORK; EUROPE; EXPERIENCES;
+   GOVERNANCE; RELEVANCE; LEGACIES; POLICY; FUTURE
+AB Scenario planning is increasingly used to help rural communities to navigate a transition towards sustainability. Although some benefits of scenario planning -e.g. awareness raising, information sharing, and visioning are widely recognized and assessed, its final impact on prompting tangible actions by the community is usually overlooked. This study aims to fill this gap by assessing the opportunities and limitations of scenario planning in shaping a tangible agenda for sustainable development within a rural community. Based on previously elaborated scenarios for Transylvania (Central Romania), we interviewed 24 actors relevant to the development of the area in a second-stage process. Using a qualitative approach for data analysis, we explored the barriers for action as well as the trade-offs actors were willing to accept to collaborate with other groups to reach a common vision. We found that scenario planning was useful to articulate a shared development trajectory. Yet, actors perceived different barriers to act towards their preferred future. Likewise, the trade-offs the different actor groups accepted for collaboration differed. In view of our results, we developed a conceptual framework highlighting how information sharing and visioning alone are not enough to break through the barriers actors perceived to bring about change in a community. However, scenarios are useful to identify barriers and opportunities for collective action. In consequence, scenarios and elicited barriers for action can feed into the design of a longer-term agenda for sustainable development and necessary strategies. Framing scenario planning as input for second-stage participatory processes instead of a stand-alone exercise can thus help to increase the added value of scenario planning, and its return to the community altogether. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Nieto-Romero, Marta; Milcu, Andra; Mikulcak, Friederike; Fischer, Joern] Univ Luneburg, Fac Sustainabil, Inst Ecol, D-21335 Luneburg, Germany.
+   [Leventon, Julia] Univ Luneburg, Fac Sustainabil, Inst Environm & Sustainabil Commun, D-21335 Luneburg, Germany.
+RP Nieto-Romero, M (reprint author), Univ Politecn Madrid, Ctr Management Agr & Environm Risks CEIGRAM, Senda Rey 13,Ciudad Univ, E-28040 Madrid, Spain.
+EM marta.nieto@upm.es
+FU Alexander von Humboldt Foundation; German Ministry for Research and
+   Education
+FX The authors greatly appreciate the time and patience of all
+   interviewees. We are grateful to Tibor Hartel for assisting in the field
+   work and for insightful discussions. We would like to thank Jacqueline
+   Loos and Marlene Roellig for contributing logistically to this study.
+   Finally, we are grateful to Ignacio Palomo for insightful critiques on
+   the manuscript in its early stages. The research was funded through a
+   Sofja Kovalevskaja Award by the Alexander von Humboldt Foundation to
+   Joern Fischer, financed by the German Ministry for Research and
+   Education. Detailed suggestions by anonymous reviewers greatly helped to
+   improve the quality of the manuscript.
+CR ADEPT, 2011, BIOD AR SCI EC CULT
+   Wakefield SEL, 2006, ENVIRON MANAGE, V37, P40, DOI 10.1007/s00267-004-0323-3
+   Wilson I, 2000, TECHNOL FORECAST SOC, V65, P23, DOI 10.1016/S0040-1625(99)00122-5
+   Elo S, 2008, J ADV NURS, V62, P107, DOI 10.1111/j.1365-2648.2007.04569.x
+   Lawrence Anna, 2008, International Journal of Biodiversity Science & Management, V4, P179, DOI 10.3843/Biodiv.4.4:1
+   Meyer-Sahling JH, 2009, INT REV ADM SCI, V75, P509, DOI 10.1177/0020852309337670
+   Volkery A, 2009, TECHNOL FORECAST SOC, V76, P1198, DOI 10.1016/j.techfore.2009.07.009
+   Peterson GD, 2003, CONSERV BIOL, V17, P358, DOI 10.1046/j.1523-1739.2003.01491.x
+   Hanspach J, 2014, ECOL SOC, V19, DOI 10.5751/ES-06915-190432
+   Palomo I, 2011, ECOL SOC, V16
+   Milcu AI, 2014, LAND USE POLICY, V41, P408, DOI 10.1016/j.landusepol.2014.06.019
+   Costanza R, 1999, ECOL ECON, V31, P199, DOI 10.1016/S0921-8009(99)00079-8
+   Brown LD, 1996, WORLD DEV, V24, P1467, DOI 10.1016/0305-750X(96)00053-8
+   Mikulcak F, 2013, ENVIRON CONSERV, V40, P129, DOI 10.1017/S0376892912000392
+   Bradfield R, 2005, FUTURES, V37, P795, DOI 10.1016/j.futures.2005.01.003
+   Badescu G, 2005, EUROPE-ASIA STUD, V57, P117, DOI 10.1080/0966813052000314138
+   McKenzie-Mohr D, 2000, J SOC ISSUES, V56, P543, DOI 10.1111/0022-4537.00183
+   Ghisa M, 2011, FUTURES, V43, P996, DOI 10.1016/j.futures.2011.06.009
+   van de Kerkhof M, 2006, POLICY SCI, V39, P279, DOI 10.1007/s11077-006-9024-5
+   Wangel J, 2011, TECHNOL FORECAST SOC, V78, P872, DOI 10.1016/j.techfore.2011.03.007
+   Kurz T, 2005, BRIT J SOC PSYCHOL, V44, P603, DOI 10.1348/014466604X18064
+   Albrechts L, 2004, ENVIRON PLANN B, V31, P743, DOI 10.1068/b3065
+   Fazey I, 2005, ECOL SOC, V10
+   Bohensky E, 2011, GLOBAL ENVIRON CHANG, V21, P876, DOI 10.1016/j.gloenvcha.2011.03.009
+   Daconto G, 2010, MT RES DEV, V30, P103, DOI 10.1659/MRD-JOURNAL-D-09-00047.1
+   Gertler MS, 2004, FUTURES, V36, P45, DOI 10.1016/S0016-3287(03)00139-3
+   Mitchell B, 2005, SOC INDIC RES, V71, P123, DOI 10.1007/s11205-004-8016-0
+   Reed MS, 2013, J ENVIRON MANAGE, V128, P345, DOI 10.1016/j.jenvman.2013.05.016
+   SCHNEIDER A, 1990, J POLIT, V52, P510, DOI 10.2307/2131904
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   Oteros-Rozas E, 2013, RANGELAND J, V35, P251, DOI 10.1071/RJ12092
+   Fischer J, 2012, CONSERV LETT, V5, P167, DOI 10.1111/j.1755-263X.2012.00227.x
+   SELIN S, 1995, ENVIRON MANAGE, V19, P189, DOI 10.1007/BF02471990
+   Campeanu C., 2014, GLOBAL ENV CHANGE
+   Carpenter S. R., 2005, MILLENNIUM ECOSYSTEM, V2
+   Costa O., 2008, TECHNOL ANAL STRATEG, V20, P369
+   Dinu C., 2012, THESIS
+   Dorresteijn I, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0065236
+   Dyer J. C., 2013, RESOURCES, V2, P1, DOI DOI 10.3390/RESOURCES2010001
+   EEA, 2006, COR LAND COV 2006 SE
+   EEA, 2009, 32009 EEA
+   Evans K., 2006, FIELD GUIDE FUTURE 4
+   Evans K., 2008, Surveys and Perspectives Intergrating Environment and Society (SAPIENS), V1, P97
+   Glaser B. G., 2009, DISCOVERY GROUNDED T
+   Henrichs T., 2010, ECOSYSTEMS HUMAN WEL
+   Hughes A., 2008, J POLIT SCI THEORY, V4, P309
+   IPCC, 2007, CLIM CHANG 2007 SYNT
+   Patela M, 2007, LAND USE POLICY, V24, P546, DOI 10.1016/j.landusepol.2006.02.005
+   Kolb D. A, 1984, EXPERIENTIAL LEARNIN
+   Loos J, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0103256
+   McKenzie-Mohr D., 2013, FOSTERING SUSTAINABL
+   Mikulcak F., 2015, LAND USE POLICY
+   Plieninger T, 2013, ECOL SOC, V18, DOI 10.5751/ES-05802-180339
+   QSR International Pty Ltd, 2012, QSR INT PTY LTD VERS
+   Sabatier PA, 1998, J EUR PUBLIC POLICY, V5, P98, DOI 10.1080/13501768880000051
+   Sabatier P. A., 1988, POLICY SCI, V21, P129, DOI DOI 10.1007/BF00136406
+   Schwarz P., 1991, ART LONG VIEW PLANNI
+   Van der Heijden K., 2005, SCENARIOS ART STRATE
+   Voss J.-P., 2009, ECOL SOC, V16, P9
+   Wyborn CA, 2015, ECOL SOC, V20, DOI 10.5751/ES-06510-200111
+NR 60
+TC 0
+Z9 0
+U1 6
+U2 6
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0264-8377
+EI 1873-5754
+J9 LAND USE POLICY
+JI Land Use Pol.
+PD JAN
+PY 2016
+VL 50
+BP 156
+EP 168
+DI 10.1016/j.landusepol.2015.09.013
+PG 13
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA DA4FO
+UT WOS:000367755700015
+ER
+
+PT J
+AU Jimmy, KP
+   Moumouni, I
+AF Jimmy, Kouete P.
+   Moumouni, Ismail
+TI Flexibility of rules and individual participation in collective action:
+   the Case of the General Union of Producers of the Irrigated Perimeter of
+   Malanville in Benin
+SO EUROPEAN JOURNAL OF DEVELOPMENT RESEARCH
+LA French
+DT Article
+DE action collective; participation individuelle; systemes d'irrigation;
+   homogeneite socio-culturelle; flexibilite des regles; Benin
+ID RURAL-DEVELOPMENT; COOPERATION; MANAGEMENT; RESOURCES; ORGANIZATIONS;
+   INDIA; INSTITUTIONS; PUNISHMENT; GOVERNANCE; STATE
+AB This article analyses the determinants of individual participation in collective irrigation management, in terms of the payment of fees and participation in collective maintenance. It is based on a case study of the Union des Groupements de Producteurs du Perimetre Irrigue de Malanville (General Union of Producers of the irrigated perimeter in Malanville, UGPPM) in Benin. Data was collected through a survey sent to a random sample of 183 respondents, each belonging to one of five producers' cooperatives within the UGPPM. The statistical results indicate that cooperative members who have large families or are dissatisfied with the financial management of the UGPPM do not pay irrigation fees; whereas female and elderly cooperative members, and those who perceive the UGPPM decision-making process as autocratic, do not regularly participate in collective maintenance activities. The socio-cultural homogeneity of the UGPPM sustains the flexibility of rules and facilitates free riding.
+C1 [Jimmy, Kouete P.; Moumouni, Ismail] Univ Parakou, Parakou, Benin.
+RP Jimmy, KP (reprint author), Univ Parakou, Parakou, Benin.
+EM ismailmm@gmail.com
+CR Nakano Y, 2011, ENVIRON DEV ECON, V16, P527, DOI 10.1017/S1355770X11000167
+   BARDHAN P, 1993, WORLD DEV, V21, P633, DOI 10.1016/0305-750X(93)90115-P
+   Andreoni J, 2003, AM ECON REV, V93, P893, DOI 10.1257/000282803322157142
+   Agrawal A, 2001, WORLD DEV, V29, P1649, DOI 10.1016/S0305-750X(01)00063-8
+   Baland JM, 1999, WORLD DEV, V27, P773, DOI 10.1016/S0305-750X(99)00026-1
+   Bardhan P, 2000, ECON DEV CULT CHANGE, V48, P847, DOI 10.1086/452480
+   Agrawal A, 2001, COMP POLIT STUD, V34, P63, DOI 10.1177/0010414001034001003
+   Bandiera O, 2005, ECON TRANSIT, V13, P473, DOI 10.1111/j.1468-0351.2005.00228.x
+   Fehr E, 2000, AM ECON REV, V90, P980, DOI 10.1257/aer.90.4.980
+   Meinzen-Dick R, 2002, WORLD DEV, V30, P649, DOI 10.1016/S0305-750X(01)00130-9
+   Lam WF, 1996, WORLD DEV, V24, P1039, DOI 10.1016/0305-750X(96)00020-4
+   Mwangi E, 2009, NAT RESOUR FORUM, V33, P160, DOI 10.1111/j.1477-8947.2009.01219.x
+   Masclet D, 2003, AM ECON REV, V93, P366, DOI 10.1257/000282803321455359
+   Varughese G, 2001, WORLD DEV, V29, P747, DOI 10.1016/S0305-750X(01)00012-2
+   Bernard T, 2008, WORLD DEV, V36, P2188, DOI 10.1016/j.worlddev.2007.10.010
+   Dayton-Johnson J, 2000, J DEV ECON, V62, P181, DOI 10.1016/S0304-3878(00)00080-8
+   Khalkheili TA, 2009, AGR WATER MANAGE, V96, P859, DOI 10.1016/j.agwat.2008.11.008
+   [Anonymous], 1992, CRAFTING I SELF GOVE
+   Baland JM, 1996, HALTING DEGRADATION
+   Bardhan P.K., 2001, DRAMA COMMONS, P87
+   Daghfous N., 2013, 81 C ASS CAN FRANC A
+   Fujita M., 1999, WORLD BANK SEM 1 SEP
+   Gallati J., 2008, 26 INT C SYST DYN SO
+   JAYARAMAN TK, 1982, AGR ADMIN EXT, V10, P189, DOI 10.1016/0309-586X(82)90017-6
+   Jodha N., 2008, EUR J DEV RES, V20, P597, DOI 10.1080/09578810802464896
+   Me Kean M, 1998, FOREST RESOURCES I
+   Meinzen-Dick R.S., 2001, COLLECTIVE ACTION PR, P40
+   Olson Jr.M., 1965, LOGIC COLLECT ACTION, P5
+   Ostrom E, 2000, J ECON PERSPECT, V14, P137, DOI 10.1257/jep.14.3.137
+   Ostrom E., 1985, W8531 IND U WORKSH P
+   Pretty J, 2003, SCIENCE, V302, P1912, DOI 10.1126/science.1090847
+   Sakurai T., 2002, CAPRI WORKSH COLL AC
+   Sefton M., 2001, EFFECTS REWARD UNPUB
+   Sserunkuuma D., 2003, COLLECTIVE ACTION CA
+   Suresh Kumar D., 2009, INDIA J AGR EC, V64, P108
+   Svendsen M., 1997, INR WORKSH CENTR INT
+   Tole L., 2010, ENVIRON MANAGE, V4, P1312
+   WADE R, 1987, CAMBRIDGE J ECON, V11, P95
+   Uphoff N, 2000, WORLD DEV, V28, P1875, DOI 10.1016/S0305-750X(00)00063-2
+NR 39
+TC 0
+Z9 0
+U1 4
+U2 4
+PU PALGRAVE MACMILLAN LTD
+PI BASINGSTOKE
+PA BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE RG21 6XS, HANTS, ENGLAND
+SN 0957-8811
+EI 1743-9728
+J9 EUR J DEV RES
+JI Eur. J. Dev. Res.
+PD DEC
+PY 2015
+VL 27
+IS 5
+BP 745
+EP 761
+DI 10.1057/ejdr.2014.56
+PG 17
+WC Planning & Development
+SC Public Administration
+GA CU1WR
+UT WOS:000363313400007
+ER
+
+PT J
+AU Christmann, S
+   Aw-Hassan, A
+   Rajabov, T
+   Rabbimov, A
+AF Christmann, Stefanie
+   Aw-Hassan, Aden
+   Rajabov, Toshpulot
+   Rabbimov, Abdullo
+TI Collective Action for Common Rangelands Improvement: A Climate Change
+   Adaptation Strategy in Uzbekistan
+SO SOCIETY & NATURAL RESOURCES
+LA English
+DT Article
+DE pastoral user group; climate change adaptation; seed isle; collective
+   rangeland governance; social learning process
+ID MANAGEMENT; TRAGEDY
+AB Rangeland degradation endangers livelihoods of many rural communities in Uzbekistan. Despite the threat of land deterioration from climate change, there are many reasons that land users do not take action to prevent or reduce land degradation. The described project uses a low-cost approach to mobilize stakeholders and initiate collective action. Based on a social learning process focusing on development of local climate-change scenarios, villagers from Qiziltepa district identified adaptation options and agreed on a common purpose to restore rangelands through collective governance systems. They formed pastoral user groups, established seed isles to ensure seeding of forage shrubs, and agreed on seasonal grazing. This case study shows the critical importance of scenarios in social learning processes for building awareness concerning climate change adaptation; they led to changes in perceptions and agreement on collective action and governance. We compare the potential of this integrated approach with large-scale seeding.
+C1 [Christmann, Stefanie] ICARDA, Environm Governance, Tashkent 100000, Uzbekistan.
+   [Aw-Hassan, Aden] Int Ctr Agr Res Dry Areas Headquarters, Social Econ & Policy Res Program, Amman, Jordan.
+   [Rajabov, Toshpulot] Samarkand State Univ, Environm Res Lab, Samarkand, Uzbekistan.
+   [Rabbimov, Abdullo] Uzbek Res Inst Karakul Sheep Breeding & Desert Ec, Samarkand, Uzbekistan.
+RP Christmann, S (reprint author), ICARDA, Environm Governance, POB 4375, Tashkent 100000, Uzbekistan.
+EM s.christmann@cgiar.org
+RI Raimundo, Sabrina/D-1463-2016
+OI Raimundo, Sabrina/0000-0003-0750-7253
+FU German Federal Ministry for the Environment, Nature Protection and
+   Nuclear Safety within the International Climate Change Initiative
+FX Funded by the German Federal Ministry for the Environment, Nature
+   Protection and Nuclear Safety within the International Climate Change
+   Initiative for October 2011-September 2013).
+CR Agarwal B, 2000, CAMBRIDGE J ECON, V24, P283, DOI 10.1093/cje/24.3.283
+   Akjigitova N. I., 1973, VEGETATION COVER UZB, P211
+   Amelin I. S., 1941, T ALL UNION SCI RES, V3, P109
+   Liu JG, 2007, SCIENCE, V317, P1513, DOI 10.1126/science.1144004
+   Schusler TM, 2003, SOC NATUR RESOUR, V16, P309, DOI 10.1080/08941920390178874
+   Simoes AF, 2010, ENVIRON SCI POLICY, V13, P801, DOI 10.1016/j.envsci.2010.08.005
+   [Anonymous], 2007, CLIMATE CHANGE 2007
+   Shaw A, 2009, GLOBAL ENVIRON CHANG, V19, P447, DOI 10.1016/j.gloenvcha.2009.04.002
+   HARDIN G, 1968, SCIENCE, V162, P1243
+   Bryan TA, 2004, SOC NATUR RESOUR, V17, P881, DOI 10.1080/08941920490505284
+   Bedunah D. J., 2006, P C TRANSF ISS FUT C
+   Buckles DJ, 2008, SAS GUIDE COLLABORAT
+   CAPRi (CGIAR Systemwide Program on Collective Action; and Property Rights), 2010, RES RIGHTS COOP SOUR
+   Centre of Hydrometeorological Service under the Cabinet of Ministers of the Republic of Uzbekistan, 2009, 2 NAT COMM REP UZB U
+   Chishakwe N, 2012, BUILDING CLIMATE CHA
+   Christmann S., 2012, P 10 INT C DRY LAND, P569
+   Dong S., 2011, ECOL SOC, V16
+   Eurasian Development Bank, 2009, IMP CLIM CHANG WAT R
+   Gintzburger G., 2003, RANGELANDS ARID SEMI
+   Hasanov O. H., 2000, UZBEK BIOL J, V2, P26
+   Johnson KA, 2012, ECOL SOC, V17, DOI 10.5751/ES-04780-170209
+   Korovin E. P., 1961, VEGETATION MIDDLE AS
+   Nechaeva N. T., 1985, ECOLOGY MANAGEMENT P, P7
+   Ostrom Elinor, 1999, VERFASSUNG ALLMENDE
+   Pachauri R. K, 2007, CLIMATE CHANGE 2007
+   Pahl-Wostl C, 2004, J COMMUNITY APPL SOC, V14, P193, DOI 10.1002/casp.774
+   Poteete AR, 2010, WORKING TOGETHER: COLLECTIVE ACTION, THE COMMONS, AND MULTIPLE METHODS IN PRACTICE, P1
+   Rajabov T. F., 2011, THESIS SAMARKAND DIV
+   Reed M.S., 2010, ECOL SOC, V15, P4
+   Sergeeva G. A., 1951, KARAKULEVODSTVO IZVE, V4, P77
+   Shamsutdinov Z. S., 1975, ESTABLISHMENT PERENN
+   Tajik Met Service, 2003, NAT ACT PLAN CLIM CH
+   Tompkins E. L., 2004, ECOL SOC, V9
+   Uzbekistan, 1998, UZBEKISTAN      0430
+   Uzbekistan and United Nations Development Programme, 2008, ENV PROF UZB BAS IND
+NR 35
+TC 2
+Z9 2
+U1 3
+U2 17
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0894-1920
+EI 1521-0723
+J9 SOC NATUR RESOUR
+JI Soc. Nat. Resour.
+PD MAR 4
+PY 2015
+VL 28
+IS 3
+BP 280
+EP 295
+DI 10.1080/08941920.2014.933927
+PG 16
+WC Environmental Studies; Planning & Development; Sociology
+SC Environmental Sciences & Ecology; Public Administration; Sociology
+GA CC4XQ
+UT WOS:000350359600004
+ER
+
+PT J
+AU Migliore, G
+   Forno, F
+   Guccione, GD
+   Schifani, G
+AF Migliore, Giuseppina
+   Forno, Francesca
+   Guccione, Giovanni Dara
+   Schifani, Giorgio
+TI Food Community Networks as Sustainable Self-Organized Collective Action:
+   a Case Study of a Solidarity Purchasing Group
+SO NEW MEDIT
+LA English
+DT Article
+DE natural resources; sustainability; cooperation; SNA
+ID EMBEDDEDNESS; QUALITY; PARTICIPATION; COOPERATION; MANAGEMENT;
+   GOVERNANCE; CONSUMERS; CHOICE
+AB The spread of Food Community Networks (FCNs) is mainly due to new and confirmed policies for consumption, testing new social paradigms aimed at promoting sustainable development in rural areas through the active reorganization of the agricultural and food industry. As a result, there is a set of rules deriving from complex relational structures competing to define self-organized collective action for sustainability. This paper analyses the structure of relations within FCNs. With this end in view, research on the experience of FCNs has been done, in particular of Solidarity Purchasing Groups (henceforth SPGs) in Sicily (Southern Italy). By applying Social Network Analysis, the article identifies what role each participant in the network plays; that is, who can influence long-term collective action.
+C1 [Migliore, Giuseppina; Schifani, Giorgio] Univ Palermo, Dept Agr & Forest Sci, I-90133 Palermo, Italy.
+   [Forno, Francesca] Univ Palermo, Dept Human & Social Sci, I-90133 Palermo, Italy.
+   [Guccione, Giovanni Dara] Italian Inst Agricul Econ INEA, Rome, Italy.
+RP Migliore, G (reprint author), Univ Palermo, Dept Agr & Forest Sci, I-90133 Palermo, Italy.
+EM giuseppina.migliore@unipa.it; francesca.forno@unibg.it;
+   daraguccione@inea.it; giorgio.schifani@unipa.it
+OI Schifani, Giorgio/0000-0003-1055-929X; Dara Guccione,
+   Giovanni/0000-0003-1883-0574
+CR Sonnino R, 2007, AGR HUM VALUES, V24, P61, DOI 10.1007/s10460-006-9036-y
+   Cicia G, 2011, J FOOD PROD MARK, V17, P79, DOI 10.1080/10454446.2011.532403
+   [Anonymous], 1994, SOCIAL NETWORK ANAL
+   Migliore G, 2012, NEW MEDIT, V11, P46
+   Migliore G, 2014, J AGR ENVIRON ETHIC, V27, P549, DOI 10.1007/s10806-013-9476-5
+   Ostrom E, 2008, GLOBAL ENVIRON CHANG, V18, P249, DOI 10.1016/j.gloenvcha.2008.01.001
+   Caniglia E, 2008, NEW MEDIT, V7, P32
+   Gachter S, 1999, J ECON BEHAV ORGAN, V39, P341, DOI 10.1016/S0167-2681(99)00045-1
+   Graziano PR, 2012, ANN AM ACAD POLIT SS, V644, P121, DOI 10.1177/0002716212454839
+   Ostrom E, 2010, J ECON BEHAV ORGAN, V73, P68, DOI 10.1016/j.jebo.2008.11.008
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   Bougherara D, 2009, ECOL ECON, V68, P1488, DOI 10.1016/j.ecolecon.2008.10.009
+   Migliore G, 2015, FOOD QUAL PREFER, V39, P141, DOI 10.1016/j.foodqual.2014.07.006
+   Ostrom E, 2010, AM ECON REV, V100, P641, DOI 10.1257/aer.100.3.641
+   KERR NL, 1994, J PERS SOC PSYCHOL, V66, P513, DOI 10.1037//0022-3514.66.3.513
+   Leahy JE, 2010, SOC NATUR RESOUR, V23, P224, DOI 10.1080/08941920802378897
+   Ostrom E, 1998, AM POLIT SCI REV, V92, P1, DOI 10.2307/2585925
+   Adger WN, 2003, ECON GEOGR, V79, P387
+   Ostrom E, 2010, AGR ECON-BLACKWELL, V41, P155, DOI 10.1111/j.1574-0862.2010.00497.x
+   Cembalo L, 2013, J AGR ENVIRON ETHIC, V26, P281, DOI 10.1007/s10806-011-9360-0
+   Cembalo L, 2012, NEW MEDIT, V11, P41
+   Poteete AR, 2004, AGR SYST, V82, P215, DOI 10.1016/j.agsy.2004.07.002
+   Murdoch J, 2000, ECON GEOGR, V76, P107, DOI 10.2307/144549
+   Costanigro M, 2011, AGRIBUSINESS, V27, P465, DOI 10.1002/agr.20281
+   Burt R. S, 2002, NEW EC SOCIOLOGY DEV
+   Dawes R. M., 1973, ORI RES B, V13, P1
+   Feenstra G., 2002, AGR HUM VALUES, V19, P99, DOI 10.1023/A:1016095421310
+   Forno F., 2014, J CONSUMER CULTURE, V14, P139
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Grasseni C., 2013, ALTERNATIVE FOOD NET
+   Hanneman R.A., 2005, INTRO SOCIAL NETWORK
+   Hardin G., 1978, WILDLIFE AND AM
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   Ostrom E, 2000, J ECON PERSPECT, V14, P137, DOI 10.1257/jep.14.3.137
+   Ostrom E., 2005, RUSSELL SAGE FDN SER, V6
+   Ostrom Elinor, 1991, GOVERNING COMMONS EV
+   Pascucci S, 2013, ITAL J FOOD SCI, V25, P98
+   Schifani G., 2011, NEW MEDIT, V11, P26
+   Soron D, 2011, SUSTAIN DEV, V18, P172
+   Trobia A., 2011, SOCIAL NETWORK ANAL
+NR 40
+TC 1
+Z9 1
+U1 4
+U2 6
+PU EDIZIONI DEDALO S R L
+PI BARI
+PA V LE LUIGI JACOBINI, 5, ZONA INDUSTRIALE - BARI, CASELLA POSTALE BA-19,
+   BARI, 70123 BA, ITALY
+SN 1594-5685
+J9 NEW MEDIT
+JI New Medit
+PD DEC
+PY 2014
+VL 13
+IS 4
+BP 54
+EP 62
+PG 9
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA CD5HN
+UT WOS:000351118700007
+ER
+
+PT J
+AU Bisung, E
+   Elliott, SJ
+   Schuster-Wallace, CJ
+   Karanja, DM
+   Bernard, A
+AF Bisung, Elijah
+   Elliott, Susan J.
+   Schuster-Wallace, Corinne J.
+   Karanja, Diana M.
+   Bernard, Abudho
+TI Social capital, collective action and access to water in rural Kenya
+SO SOCIAL SCIENCE & MEDICINE
+LA English
+DT Article
+DE Kenya; Water; Sanitation; Social capital; Collective action; Health
+ID DEVELOPING-COUNTRIES; POLITICAL-ECONOMY; HEALTH BEHAVIORS;
+   PUBLIC-HEALTH; NEIGHBORHOOD; ASSOCIATION
+AB Globally, an estimated 748 million people remain without access to improved sources of drinking water and close to 1 billion people practice open defecation (WHO/UNICEF, 2014). The lack of access to safe water and adequate sanitation presents significant health and development challenges to individuals and communities, especially in low and middle income countries. Recent research indicates that aside from financial challenges, the lack of social capital is a barrier to collective action for community based water and sanitation initiatives (Levison et al., 2011; Bisung and Elliott, 2014). This paper reports results of a case study on the relationships between elements of social capital and participation in collective action in the context of addressing water and sanitation issues in the lakeshore village of Usoma, Western Kenya. The paper uses household data (N = 485, 91% response rate) collected using a modified version of the social capital assessment tool (Krishna and Shrader, 2000). Findings suggest that investment in building social capital may have some contextual benefits for collective action to address common environmental challenges. These findings can inform policy interventions and practice in water and sanitation delivery in low and middle income countries, environmental health promotion and community development. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Bisung, Elijah; Elliott, Susan J.] Univ Waterloo, Dept Geog & Environm Management, Waterloo, ON N2L 3G1, Canada.
+   [Schuster-Wallace, Corinne J.] United Nations Univ, Inst Water Environm & Hlth, Hamilton, ON, Canada.
+   [Karanja, Diana M.; Bernard, Abudho] Kenya Med Res Inst KEMRI, Ctr Global Hlth Res, Kisumu, Kenya.
+RP Bisung, E (reprint author), Univ Waterloo, Dept Geog & Environm Management, 200 Univ Ave West, Waterloo, ON N2L 3G1, Canada.
+EM ebisung@uwaterloo.ca
+FU Kenya Medical Research Institute, Kisumu
+FX We thank Dr Solomon Mpoke., Director of Kenya Medical Research
+   Institute, Kisumu for his support to the KAPE project in Usoma.
+CR Watt S, 2011, CURR OPIN ENV SUST, V3, P491, DOI 10.1016/j.cosust.2011.10.008
+   Lober DJ, 1995, POLICY STUD J, V23, P499, DOI 10.1111/j.1541-0072.1995.tb00526.x
+   Harpham T, 2004, SOC SCI MED, V58, P2267, DOI 10.1016/j.socscimed.2003.08.013
+   Szreter S, 2004, INT J EPIDEMIOL, V33, P650, DOI 10.1093/ije/dyh013
+   Hurtado D, 2011, SOC SCI MED, V72, P584, DOI 10.1016/j.socscimed.2010.11.023
+   Wakefield SEL, 2007, CAN GEOGR-GEOGR CAN, V51, P428, DOI 10.1111/j.1541-0064.2007.00190.x
+   Wood S, 2012, SOC SCI MED, V75, P634, DOI 10.1016/j.socscimed.2011.09.018
+   FINGER M, 1994, J SOC ISSUES, V50, P141
+   De Silva MJ, 2006, SOC SCI MED, V62, P941, DOI 10.1016/j.socscimed.2005.06.050
+   Briscoe C, 2012, SOC SCI MED, V75, P612, DOI 10.1016/j.socscimed.2012.03.016
+   Wakefield SEL, 2001, HEALTH PLACE, V7, P163, DOI 10.1016/S1353-8292(01)00006-5
+   Bisung E, 2014, SOC SCI MED, V108, P194, DOI 10.1016/j.socscimed.2014.01.042
+   HARDIN G, 1968, SCIENCE, V162, P1243
+   Veenstra G, 2005, SOC SCI MED, V60, P2799, DOI 10.1016/j.socscimed.2004.11.013
+   Kim D, 2006, J URBAN HEALTH, V83, P813, DOI 10.1007/s11524-006-9082-1
+   Pretty J, 2004, CONSERV BIOL, V18, P631, DOI 10.1111/j.1523-1739.2004.00126.x
+   Aboud FE, 2012, SOC SCI MED, V75, P589, DOI 10.1016/j.socscimed.2012.04.009
+   Mitchell AD, 2007, SOC SCI MED, V64, P50, DOI 10.1016/j.socscimed.2006.08.021
+   Bourdieu P., 1986, HDB THEORY RES SOCIO, P241, DOI DOI 10.1177/0265532207083743
+   Cheng J.J., 2012, ENV HLTH, V11, P1
+   COLEMAN JS, 1988, AM J SOCIOL, V94, pS95, DOI 10.1086/228943
+   Isham J., 2002, ROLE SOCIAL CAPITAL, P155, DOI 10.1017/CBO9780511492600.007
+   Kawachi I, 2004, INT J EPIDEMIOL, V33, P682, DOI 10.1093/ije/dyh177
+   Khan F. F., 2008, WHAT MAKES TRADITION
+   Krishna A., 2002, ROLE SOCIAL CAPITAL, P85, DOI 10.1017/CBO9780511492600.005
+   Krishna A, 2000, 21 WORLD BANK
+   Levison M M, 2011, East Afr J Public Health, V8, P103
+   Mailu A. M., 2001, ACIAR P, V102, P130
+   Maoulidi M., 2010, MCI SOCIAL SECTOR WO
+   Oshima K., 2008, WHAT MAKES TRADITION
+   Ostrom E., 2007, HDB SOCIAL CAPTIAL
+   Putnam R., 1993, AM PROSPECT, V13, P35
+   Robbins P., 2010, ENV SOC CRITICAL INT
+   Swyngedouw E., 2009, J CONT WATER RES ED, V142, P56, DOI DOI 10.1111/J.1936-704X.2009.00054.X
+   Thomas E., 2003, SOCIAL CAPITAL WOMEN
+   Wessels J., 2008, WHAT MAKES TRADITION
+   World Health Organization and United Nations Children's Fund, 2014, PROGR DRINK WAT SAN
+NR 37
+TC 4
+Z9 4
+U1 3
+U2 30
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-9536
+J9 SOC SCI MED
+JI Soc. Sci. Med.
+PD OCT
+PY 2014
+VL 119
+BP 147
+EP 154
+DI 10.1016/j.socscimed.2014.07.060
+PG 8
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+GA AU2YI
+UT WOS:000345480000018
+PM 25181474
+ER
+
+PT J
+AU Crespo, J
+   Requier-Desjardins, D
+   Vicente, J
+AF Crespo, Joan
+   Requier-Desjardins, Denis
+   Vicente, Jerome
+TI Why can collective action fail in Local Agri-food Systems? A social
+   network analysis of cheese producers in Aculco, Mexico
+SO FOOD POLICY
+LA English
+DT Review
+DE Collective action; Social capital; Social networks; Developing
+   countries; Agri-food industry
+ID RURAL-DEVELOPMENT; MULTIPLEXITY; COOPERATION; COUNTRIES; EXCHANGE;
+   POLICY
+AB Collective trademark and regional product qualification in food-processing industries have become a growing challenge for farmers in developing countries. This challenge is the target of collective action-based programs aiming at framing the cooperation context that would enable a local community to turn inherited resources and know-how into new market opportunities. Literature acknowledges that social capital is a crucial local resource for successful collective actions since it is a source of trust and collective commitment within a community. This paper deals with testing the role of this resource in the collective action case of the cheese producers in Aculco (Mexico). Focusing on the connectedness dimension of social capital, we propose an original methodology that relies on the multiplex and structural properties of social networks. This allows us to disentangle the opposite and ambivalent effects of social capital on the ability of a community to reach the goals assigned by the collective action program. Our empirical study shows that these critical properties can work in favor of adherence to collective action but can also create elite capture, clannish behaviors and entry barriers, thus showing a failure of collective action. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Crespo, Joan; Requier-Desjardins, Denis; Vicente, Jerome] Univ Toulouse, LEREPS, Polit Sci Inst, F-31000 Toulouse, France.
+   [Vicente, Jerome] Toulouse Business Sch, F-31068 Toulouse 7, France.
+RP Vicente, J (reprint author), Univ Toulouse, LEREPS, Polit Sci Inst, 21 Allee Brienne, F-31000 Toulouse, France.
+EM juan.crespo-cepas@univ-tlse1.fr; denis.requier-desjardins@univ-tlse1.fr;
+   vicente@univ-tlse1.fr
+RI Vicente, Jerome/H-5784-2011; 
+OI Vicente, Jerome/0000-0003-2556-2061; crespo, joan/0000-0002-3059-5776
+FU ECOS SUD programs - French Ministries of Foreign affairs and Research
+FX This research has been supported by ECOS SUD programs, funded by the
+   French Ministries of Foreign affairs and Research.
+CR Ahuja G., 2012, ORG SCI IN PRESS, DOI [10.1287/orsc.1050.0150, DOI 10.1287/ORSC.1050.0150]
+   Annen K, 2001, J INST THEOR ECON, V157, P319, DOI 10.1628/0932456013623150
+   Spielman DJ, 2011, AGR HUM VALUES, V28, P195, DOI 10.1007/s10460-010-9273-y
+   Barham J, 2009, FOOD POLICY, V34, P53, DOI 10.1016/j.foodpol.2008.10.002
+   Klerkx L, 2009, TECHNOL FORECAST SOC, V76, P849, DOI 10.1016/j.techfore.2008.10.001
+   Thompson J, 2009, ENVIRON SCI POLICY, V12, P386, DOI 10.1016/j.envsci.2009.03.001
+   Crespo J, 2014, J ECON GEOGR, V14, P199, DOI 10.1093/jeg/lbt006
+   Pretty J, 2001, WORLD DEV, V29, P209, DOI 10.1016/S0305-750X(00)00098-X
+   Henson S, 2005, FOOD POLICY, V30, P241, DOI 10.1016/j.foodpol.2005.05.002
+   Markelova H, 2009, FOOD POLICY, V34, P1, DOI 10.1016/j.foodpol.2008.10.001
+   Hellin J, 2009, FOOD POLICY, V34, P16, DOI 10.1016/j.foodpol.2008.10.003
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   Meinzen-Dick R, 2004, AGR SYST, V82, P197, DOI 10.1016/j.agsy.2004.07.006
+   Platteau JP, 2004, DEV CHANGE, V35, P223, DOI 10.1111/j.1467-7660.2004.00350.x
+   Tregear A, 2007, J RURAL STUD, V23, P12, DOI 10.1016/j.jrurstud.2006.09.010
+   Dentoni D, 2012, FOOD POLICY, V37, P207, DOI 10.1016/j.foodpol.2012.02.003
+   Skvoretz J, 2007, QUAL QUANT, V41, P341, DOI 10.1007/s11135-006-9005-y
+   Classen L, 2008, WORLD DEV, V36, P2402, DOI 10.1016/j.worlddev.2008.04.007
+   Altenburg T, 1999, WORLD DEV, V27, P1693, DOI 10.1016/S0305-750X(99)00081-9
+   Moody J, 2003, AM SOCIOL REV, V68, P103, DOI 10.2307/3088904
+   Lazega E, 1999, SOC NETWORKS, V21, P67, DOI 10.1016/S0378-8733(99)00002-7
+   RABELLOTTI R, 1995, WORLD DEV, V23, P29, DOI 10.1016/0305-750X(94)00103-6
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+   Borgatti S. P., 2005, SOC NETWORKS, V27, P57
+   Boucher F, 2006, AGROALIMENTARIA, V22, P17
+   Boucher F, 2009, ESTUDIOS SOCIALES, V7, P73
+   Boucher F., 2004, THESIS AGR RES DEV P
+   Boucher F., 2000, PRODAR WORKING DOCUM, V10
+   Burt R.S., 1994, STRUCTURAL HOLES
+   Coleman J. S., 1988, AM J SOCIOL, V94, P95, DOI DOI 10.1086/228943
+   Dasgupta P., 2000, SOCIAL CAPITAL MULTI
+   Espinosa-Ayala E., 2010, 116 EAAE SEM PARM IT
+   Giuliani E., 2011, TECHNICAL NOTES
+   Gorgoni Sara, 2010, International Journal of Business Environment, V3, DOI 10.1504/IJBE.2010.032713
+   Granovetter M., 1992, NETWORKS ORG, P29
+   Klerkx L., 2012, AGR INNOVATION SYSTE, P221
+   Lin N., 1999, CONNECTIONS, V22, P28
+   Molina-Morales F. X., 2012, INT J T INNOV SYST, V2, P219
+   Nadvi K., 2004, IND CLUSTERS POVERTY
+   Pietrobelli C., 2011, IDBDP188
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Requier-Desjardins D, 2003, ENTREP REGION DEV, V15, P49, DOI 10.1080/08985620210144983
+   Scott J., 2000, SOCIAL NETWORK ANAL
+   Van Staveren I., 2007, REV SOC ECON, V55, P106
+NR 44
+TC 2
+Z9 2
+U1 4
+U2 39
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-9192
+EI 1873-5657
+J9 FOOD POLICY
+JI Food Policy
+PD JUN
+PY 2014
+VL 46
+BP 165
+EP 177
+DI 10.1016/j.foodpol.2014.03.011
+PG 13
+WC Agricultural Economics & Policy; Economics; Food Science & Technology;
+   Nutrition & Dietetics
+SC Agriculture; Business & Economics; Food Science & Technology; Nutrition
+   & Dietetics
+GA AI6AR
+UT WOS:000336952700017
+ER
+
+PT J
+AU Koutsou, S
+   Partalidou, M
+   Ragkos, A
+AF Koutsou, Stavriani
+   Partalidou, Maria
+   Ragkos, Athanasios
+TI Young farmers' social capital in Greece: Trust levels and collective
+   actions
+SO JOURNAL OF RURAL STUDIES
+LA English
+DT Article
+DE Social capital; Trust; Innovation; Collective actions; Young farmers;
+   Greece
+ID NETWORKS
+AB Rural space seeks a new development model, for which "flexibility" is the key-word, that is the ability to adapt rapidly to the new, constantly changing, conditions of globalized markets. It is argued that flexibility can be achieved by society itself by developing its social capital, which allows for cooperation among actors in order to meet mutual goals. In rural communities, particularly in Greece, although it is expected that the social capital is increased because of acquaintanceships and frequent interactions among members, cooperation among farmers is limited and less than frequent. The purpose of this study is to examine the social capital of a rural society, by focusing on young farmers, because they are expected to play an essential role in the formulation and implementation of a modern model of rural development. Linkages between social capital, trust and collective actions are examined through an empirical investigation of young farmers in an exemplary rural area of Greece in order to provide an explanation as to the processes through which social capital can it play a positive role in the development of a rural society. The empirical analysis yields two findings of crucial importance. First, contrary to a priori expectations, the social capital of young farmers in Greek rural society is limited, considering that both the participation in voluntary organizations (especially in producer groups) and the level of trust, as depicted within the empirical analysis, are low. This entails limited collective actions, which actually translates to limited access to innovation. Second, young farmers' increased trust to institutions (institutional trust) is linked to poor participation in collective actions. On the other hand, young farmers with reduced trust to institutions and enhanced trust to individuals (personal trust) are predominantly those who endeavor collective actions, which allow them to become flexible in order to better adapt to new conditions. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Koutsou, Stavriani; Ragkos, Athanasios] Alexander Technol Educ Inst Thessaloniki, Dep Rural Dev & Agribusiness Management, Thessaloniki, Greece.
+   [Partalidou, Maria] Aristotle Univ Thessaloniki, Sch Agr, Dep Agr Econ, Thessaloniki 54124, Greece.
+RP Partalidou, M (reprint author), Aristotle Univ Thessaloniki, Sch Agr, Dep Agr Econ, AUTh Campus,2nd Floor, Thessaloniki 54124, Greece.
+EM skoutsou@farm.theithe.gr; parmar@agro.auth.gr; ragkosagrecon@mail.com
+RI Partalidou, Maria/G-2447-2014
+OI Partalidou, Maria/0000-0001-6712-2094
+CR Alexandropoulos S., 2010, SOCIAL CAPITAL, P45
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+   Sobels J, 2001, J RURAL STUD, V17, P265, DOI 10.1016/S0743-0167(01)00003-1
+   [Anonymous], 2009, MULTIFUNCTIONAL RURA
+   Shortall S, 2008, J RURAL STUD, V24, P450, DOI 10.1016/j.jrurstud.2008.01.001
+   Neilson LA, 2010, SOC PROBL, V57, P5, DOI 10.1525/sp.2010.57.1.5
+   Bianchi T, 2001, ENTREP REGION DEV, V13, P117, DOI 10.1080/089856201750203581
+   GREIF A, 1994, J POLIT ECON, V102, P912, DOI 10.1086/261959
+   DeFilippis J, 2001, HOUS POLICY DEBATE, V12, P781
+   Finsveen E, 2008, ACTA SOCIOL, V51, P293, DOI 10.1177/0001699308097375
+   Slangen LHG, 2004, J RURAL STUD, V20, P245, DOI 10.1016/j.jrurstud.2003.08.005
+   GRANOVETTER M, 1985, AM J SOCIOL, V91, P481, DOI 10.1086/228311
+   Brunso K, 2004, J BUS RES, V57, P665, DOI 10.1016/S0148-2963(02)00310-7
+   Greene WH, 2003, J PROD ANAL, V19, P179, DOI 10.1023/A:1022853416499
+   Bourdaras D., 2008, GREEK AGR AGR POLICY
+   Caille A., 2006, CAPITAL SOCIAL, P7
+   Christoforou A., 2005, FONDAZIONE ENI E MAT
+   Coleman J., 1990, FDN SOCIAL THEORY
+   Coleman J. S., 1988, AM J SOCIOL, V94, P95, DOI DOI 10.1086/228943
+   Dahal G. R., 2008, 79 CAPRI
+   Demertzis N., 2006, SCI SOC, V16, P39
+   Dupuy Cl, 2004, EC PROXIMITES
+   Farid H., 2010, AM EURASIAN J AGR EN, V9, P282
+   Fukuyama F., 1995, TRUST
+   Gidarakou I., 2006, NEWS VISIONS RURAL A
+   Gidarakou I., 2002, SEARCHING TOMORROW G, P179
+   Hair J. F., 2010, MULTIVAR DATA ANAL, P800
+   Karametou P., 2010, INT J SOCIAL INQUIRY, V1, P29
+   Kazakos P., 2006, GREEK EXP SCI SOC, V16, P107
+   Klimi-Kaminari O., 2010, SOCIAL EC
+   Knack S, 1997, Q J ECON, V112, P1251, DOI 10.1162/003355300555475
+   Koniordos S., 2006, SCI SOC, V16, P1
+   Koutsou S., 2012, Journal of Agricultural Education and Extension, V18, P445, DOI 10.1080/1389224X.2012.704857
+   Koutsouris A., 1999, OPTIONS MEDITERR A, V38, P47
+   Labrianidis L, 2013, SOCIOL RURALIS, V53, P1, DOI 10.1111/soru.12000
+   Lazega E., 2006, CAPITAL SOCIAL PERFO, P213
+   Levi M., 2005, COOPERATION TRUST
+   Michailidis A., 2010, J AGR ED EXTENSION, V16, P249, DOI DOI 10.1080/1389224X.2010.489767
+   Nooteboom B., 2007, REV SOC ECON, VLXV, P29, DOI DOI 10.1080/00346760601132154
+   Onyx J., 2000, J APPL BEHAV SCI, V36, P23, DOI [10.1177/0021886300361002, DOI 10.1177/0021886300361002]
+   Panagiotopoulou P., 2006, ASPECTS SOCIAL CAPIT, P209
+   Paraskevopoulos C., 2006, SCI SOC, V16, P69
+   Paraskevopoulos C., 2010, SOCIAL CAPITAL, P163
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Putnam R., 1993, MAKING DEMOCRACY WOR
+   Rosenfeld S.A, 2001, NETWORKS CLUSTERS YI, P103
+   Sotiropoulos D.A., 1993, GREECE NEW EUROPE CH, P43
+   SPSS, 2002, SPSS CAT 11 5 SOFTW
+   Torre A., 2001, GERER COMPRENDRE, V65, P55
+   Trigilia C., 2001, EUR J SOC THEORY, V4, P427, DOI 10.1177/13684310122225244
+   Uphoff N, 2000, WORLD DEV, V28, P1875, DOI 10.1016/S0305-750X(00)00063-2
+NR 51
+TC 2
+Z9 2
+U1 4
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0743-0167
+J9 J RURAL STUD
+JI J. Rural Stud.
+PD APR
+PY 2014
+VL 34
+BP 204
+EP 211
+DI 10.1016/j.jrurstud.2014.02.002
+PG 8
+WC Planning & Development
+SC Public Administration
+GA AH9LS
+UT WOS:000336464500019
+ER
+
+PT J
+AU Desai, R
+   Joshi, S
+AF Desai, Rajm.
+   Joshi, Shareen
+TI Collective Action and Community Development: Evidence from Self-Help
+   Groups in Rural India
+SO WORLD BANK ECONOMIC REVIEW
+LA English
+DT Article
+ID MATCHING ESTIMATORS; PUBLIC-GOODS; BLACK-BOX; POOR
+AB In response to the problems of high coordination costs among the poor, efforts are underway in many countries to organize the poor through "self-help groups" (SHGs)-membership-based organizations that aim to promote social cohesion through a mixture of education, access to finance, and linkages to wider development programs. We randomly selected villages in one of the poorest districts in rural India in which to establish SHGs for women. Two years of exposure to these programs increased women's participation in group savings programs as well as the non-agricultural labor force. Compared to women in control villages, treated women were also more likely to participate in household decisions and engage in civic activities. We find no evidence however, that participation increased income or had a disproportionate impact on women's socio-economic status. These results are important in light of the recent effort to expand official support to SHGs under India's National Rural Livelihood Mission.
+C1 [Desai, Rajm.; Joshi, Shareen] Georgetown Univ, Sch Foreign Serv, Washington, DC 20057 USA.
+   [Desai, Rajm.] Georgetown Univ, Dept Govt, Washington, DC 20057 USA.
+   [Desai, Rajm.] Brookings Inst, Washington, DC 20036 USA.
+RP Joshi, S (reprint author), Georgetown Univ, Sch Foreign Serv, Washington, DC 20057 USA.
+EM desair@georgetown.edu; sj244@georgetown.edu
+RI Desai, Raj/A-2326-2008
+OI Desai, Raj/0000-0002-1202-1680
+FU Wolfensohn Center for Development and the Development and Governance
+   Initiative at the Brookings Institution; Georgetown University's
+   Engaging India Initiative
+FX The authors gratefully acknowledge the cooperation of the Self-Employed
+   Women's Association (SEWA). Research for this article was financed by
+   the Wolfensohn Center for Development and the Development and Governance
+   Initiative at the Brookings Institution, and Georgetown University's
+   Engaging India Initiative. Surveys were conducted by Social and Rural
+   Research Institute - IMRB, New Delhi. Previous versions of this paper
+   were delivered at the annual meeting of the American Political Science
+   Association and at seminars at Georgetown University, the World Bank,
+   the Indian Statistical Institute, the National Council for Applied
+   Economic Research, and Jindal University. The authors are grateful to
+   Lael Brainard, Kristin Bright, Marc Busch, Jishnu Das, Sonalde Desai,
+   Quy Toan Do, Antrara Dutta, Garance Genicot, Alain de Janvry, Homi
+   Kharas, Johannes Linn, Ghazala Mansuri, Hari Nagarajan, Reema Nanavaty,
+   Anders Olofsgard, Vijayendra Rao, Elisabeth Sadoulet, Arunav Sen, Amita
+   Shah, J. P. Singh, E. Somanathan, Rohini Somanathan, James Raymond
+   Vreeland, Dominique Van de Walle, and two anonymous reviewers for
+   comments on earlier drafts, as well as to Carolina Fernandez and Joshua
+   Hermias for invaluable research assistance. All errors and omissions are
+   the authors' own. A supplemental appendix to this article is available
+   at http://wber.oxfordjournals.org/.
+CR AGNIHOTRI I, 1995, ECON POLIT WEEKLY, V30, P1869
+   Alatas Vivi, 2013, 18798 NBER
+   Ambagudia Jagannath, 2011, Asian Social Work and Policy Review, V5, P33
+   Chattopadhyay R, 2004, ECONOMETRICA, V72, P1409, DOI 10.1111/j.1468-0262.2004.00539.x
+   Caliendo M, 2008, J ECON SURV, V22, P31, DOI 10.1111/j.1467-6419.2007.00527.x
+   Bardhan P, 2006, J DEV ECON, V79, P303, DOI 10.1016/j.jdeveco.2006.01.004
+   Iacus SM, 2012, POLIT ANAL, V20, P1, DOI 10.1093/pan/mpr013
+   DiPrete TA, 2004, SOCIOL METHODOL, V34, P271, DOI 10.1111/j.0081-1750.2004.00154.x
+   Gugerty MK, 2008, AM J POLIT SCI, V52, P585, DOI 10.1111/j.1540-5907.2008.00331.x
+   Olken BA, 2010, AM POLIT SCI REV, V104, P243, DOI 10.1017/S0003055410000079
+   Green DP, 2010, ANN AM ACAD POLIT SS, V628, P200, DOI 10.1177/0002716209351526
+   Ostrom E, 2009, ELGAR ORIG REF, P17
+   Abadie A, 2006, ECONOMETRICA, V74, P235, DOI 10.1111/j.1468-0262.2006.00655.x
+   Bernard T, 2009, FOOD POLICY, V34, P60, DOI 10.1016/j.foodpol.2008.08.001
+   DYSON T, 1983, POPUL DEV REV, V9, P35, DOI 10.2307/1972894
+   Imai K, 2011, AM POLIT SCI REV, V105, P765, DOI 10.1017/S0003055411000414
+   Banerjee A, 2007, J DEV ECON, V82, P287, DOI 10.1016/j.jdeveco.2006.04.005
+   Arcand J. L., 2011, J DEV ECON, V98, P203
+   Baland J. M., 2008, INDIA POLICY FORUM, V4, P159
+   Baland J.-M., 2011, 1117 CRED U NAM
+   Bardhan P. K., 2005, SCARCITY CONFLICTS C
+   Basu P., 2006, IMPROVING ACCESS FIN
+   Berger M., 1984, BRIDGING GENDER GAP
+   Bhatt E., 2006, WE ARE POOR SO MANY
+   Caliendo M., 2007, 2542 IZA FORSCH ZUK
+   Chakrabarti R., 2011, MONEY FINANCE, P125
+   Chen M., 2007, MEMBERSHIP BASED ORG
+   Chen M. A., 1991, COPING SEASONALITY D
+   Chhibber Pradeep K., 2001, DEMOCRACY ASS TRANSF
+   Danida, 2002, EV IMP STUD 4 TRAIN
+   Datta R., 2000, Development (London), V43, P51, DOI 10.1057/palgrave.development.1110196
+   Deininger K., 2009, 4886 WORLD BANK
+   Deshmukh-Ranadive J, 2004, C SCAL POV RED SHANG
+   Feder G, 2001, NAT RES MAN, V19, P313
+   Field E., 2013, REV EC STUD IN PRESS
+   Galab S., 2003, Economic and Political Weekly, V38, P1274
+   International Institute for Population Sciences, 2008, DISTR LEV HOUS SURV
+   Jeffrey R., 1996, DONT MARRY ME PLOWMA
+   Joshi D., 2011, ECON POLIT WEEKLY, V46, P57
+   King Elizabeth M., 2001, ENGENDERING DEV GEND
+   Macklin M., 1992, 190 WORLD BANK
+   Munshi K., 2007, HDB DEV EC, V4
+   Narayan D, 2000, VOICES POOR CAN ANYO
+   Planning Commission Government of India, 2011, REP WORK GROUP NAT R
+   Raabe K., 2008, 00777 INT FOOD POL I
+   Rao V., 2012, LOCALIZING DEV DOES
+   Reddy CS, 2005, SELF HELP GROUPS KEY
+   Rosenbaum PR, 2002, DESIGN OBSERVATIONAL
+   Sen A., 2001, NEW REPUBLIC, P35
+   Sen Amartya, 2002, INDIA DEV PARTICIPAT
+   Vandewalle L., 2011, 1119 CRED U NAM
+NR 51
+TC 0
+Z9 0
+U1 1
+U2 7
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0258-6770
+EI 1564-698X
+J9 WORLD BANK ECON REV
+JI World Bank Econ. Rev.
+PY 2014
+VL 28
+IS 3
+BP 492
+EP 524
+DI 10.1093/wber/lht024
+PG 33
+WC Business, Finance; Economics; Planning & Development
+SC Business & Economics; Public Administration
+GA AQ8FN
+UT WOS:000343059800005
+ER
+
+PT J
+AU Kuang, XW
+   Gobel, C
+AF Kuang, Xianwen
+   Goebel, Christian
+TI Sustaining Collective Action in Urbanizing China
+SO CHINA QUARTERLY
+LA English
+DT Article
+DE collective action; protest; mobilizing structures; social capital;
+   protest leadership; urbanizing China
+ID RURAL CHINA; PROTEST; DEMOCRACY; POLITICS
+AB In recent years there has been a proliferation of scholarship on protests and other forms of collective action in China. Important insights have been gained into how conflicts between social groups and local governments begin, which strategies and instruments protesters apply, and under which circumstances protests are likely to succeed or fail. However, comparatively little is known about the mobilizing structures and how such collective action can be sustained over a long period of time, in some instances over several years. Such perseverance would be remarkable even in a democracy, but it is more so in an authoritarian system where the risks of participating in collective action are higher and the chances to succeed much smaller. This article compares the development of public protests in two research locations and identifies four factors instrumental to overcoming the formidable challenges of sustaining collective action in China: the continuing existence of substantial grievances; the re-activation of strong social ties; the presence of unifying frames; and an adaptive protest leadership. The comparison shows that the last factor is particularly crucial: while the two villages were similar in all other respects, leadership in village B was far more adaptive than in village A, which goes a long way towards explaining why collective action could be sustained twice as long in village B.
+C1 [Kuang, Xianwen] Univ Southern Denmark, Dept Polit Sci & Publ Management, Odense, Denmark.
+   [Goebel, Christian] Univ Vienna, A-1010 Vienna, Austria.
+RP Gobel, C (reprint author), Univ Vienna, A-1010 Vienna, Austria.
+EM xku@sam.sdu.dk; Christian.Goebel@univie.ac.at
+CR ESHERICK JW, 1990, J ASIAN STUD, V49, P835, DOI 10.2307/2058238
+   ZHOU XG, 1993, AM SOCIOL REV, V58, P54, DOI 10.2307/2096218
+   O'Brien KJ, 1999, ASIAN SURV, V39, P375, DOI 10.1525/as.1999.39.3.01p0002g
+   Shi FY, 2006, CHINA QUART, P314
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   Chung JH, 2006, CHINA J, V56, P1
+   Cai YS, 2003, CHINA QUART, P662
+   Adams PC, 1996, POLIT GEOGR, V15, P419, DOI 10.1016/0962-6298(95)00088-7
+   ZUO JP, 1995, SOCIOL QUART, V36, P131, DOI 10.1111/j.1533-8525.1995.tb02324.x
+   Lee CK, 2002, THEOR SOC, V31, P189, DOI 10.1023/A:1015083610306
+   [Anonymous], 2000, BOWLING ALONE COLLAP
+   Cai YS, 2008, BRIT J POLIT SCI, V38, P411, DOI 10.1017/S0007123408000215
+   Deng YH, 2013, CHINA QUART, P533, DOI 10.1017/S0305741013000714
+   O'Brien KJ, 2005, COMP POLIT STUD, V38, P235, DOI 10.1177/0010414004272528
+   Li LJ, 2008, CHINA QUART, P1, DOI 10.1017/S0305741008000015
+   Yang GB, 2005, CHINA QUART, V181, P46, DOI 10.1017/S0305741005000032
+   Zheng YN, 2005, COMP POLIT STUD, V38, P507, DOI 10.1177/0010414004273505
+   Hurst W, 2002, CHINA QUART, P345
+   Cai Yongshun, 2009, CHINA QUART, V193, P24
+   Chase Michael, 2002, YOUVE GOT DISSENT CH
+   Chen Feng, 2008, POPULAR PROTEST CHIN, P88
+   Diani M., 2003, SOCIAL MOVEMENTS NET
+   Gobel Christian, 2012, ANN M AM POL SCI ASS
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI DOI 10.2307/202051
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Hsing You-Tien, 2010, RECLAIMING CHINESE S, P17
+   Hsing You-Tien, 2010, GREAT URBAN TRANSFOR, P158
+   Johnston H., 2005, FRAMES PROTEST SOCIA
+   Kitts James, 2000, MOBILIZATION, V5, P241
+   Li Lianjiang, 2006, CHINA QUART, V210, P313
+   Li LJ, 2006, CURR HIST, V105, P250
+   Li T., 2008, INT J URBAN REGIONAL, V32, P282, DOI DOI 10.1111/J.1468-2427.2008.00787.X
+   Lichbach Mark, 1994, WORLD POLIT, V46, P388
+   OBrien KJ, 2006, CAMB STUD CONTENT, P1, DOI 10.2277/0521678528
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   Ostrom Elinor, 2001, EUR RES C SOC CAP IN
+   Papic Marco, 2012, STRATFOR SECURI 0203
+   Tsai LL, 2007, ACCOUNTABILITY DEMOC
+   Wasserstrom J. N, 1991, STUDENT PROTESTS 20
+   Whyte Lynn T., 2010, MYTH SOCIAL VOLCANO
+   Yang Guobin, 2008, POPULAR PROTEST CHIN, P126
+   Ying Xing, 2011, QI YU KANGZHENG ZHEN
+   Yu Jianrong, 2003, ZHANLUE YU GUANLI, V5, P1
+   Yu Jianrong, 2003, ZHANLUE YU GUANLI, V3, P1
+NR 44
+TC 4
+Z9 4
+U1 4
+U2 18
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0305-7410
+EI 1468-2648
+J9 CHINA QUART
+JI China Q.
+PD DEC
+PY 2013
+IS 216
+BP 850
+EP 871
+DI 10.1017/S0305741013001069
+PG 22
+WC Area Studies
+SC Area Studies
+GA 298XI
+UT WOS:000330357400003
+ER
+
+PT J
+AU Wangel, M
+   Blomkvist, H
+AF Wangel, Marcus
+   Blomkvist, Hans
+TI Rural Forest Management in Sierra Leone: The Role of Economic
+   (In)Equality in Facilitating Collective Action
+SO JOURNAL OF DEVELOPMENT STUDIES
+LA English
+DT Article
+ID RESOURCE CONSERVATION; COMMUNITY FORESTRY; HETEROGENEITY; INSTITUTIONS;
+   COMMONS; INEQUALITY; REGIMES; GENDER; IMPACT; INDIA
+AB While significant theoretical developments have been made in the research on common pool resources, heterogeneity remains a contested issue. Focusing on economic inequality, one particular aspect of heterogeneity, we examine its impact in facilitating cooperation in two rural forest communities in Sierra Leone. The findings reinforce prevalent ambiguities in the literature: in the context of economic inequality cooperation was thriving, while in the setting of uniform poverty cooperation was largely absent. Though further research is imperative, the key recommendation is that policies directed towards rural communities should take into account their ability to craft robust self-governing systems.
+C1 [Wangel, Marcus; Blomkvist, Hans] Uppsala Univ, Dept Govt, S-75120 Uppsala, Sweden.
+RP Wangel, M (reprint author), Uppsala Univ, Dept Govt, Box 514, S-75120 Uppsala, Sweden.
+EM marcus.wangel@statsvet.uu.se
+RI Mashamba-Thompson, Tivani /B-6087-2014
+CR Dietz T, 2003, SCIENCE, V302, P1907, DOI 10.1126/science.1091015
+   Agrawal A, 1999, WORLD DEV, V27, P629, DOI 10.1016/S0305-750X(98)00161-2
+   Campbell B, 2001, WORLD DEV, V29, P589, DOI 10.1016/S0305-750X(00)00114-5
+   Benin S, 2006, ENVIRON DEV ECON, V11, P127, DOI 10.1017/S1355770X05002688
+   Ruttan LM, 2008, WORLD DEV, V36, P969, DOI 10.1016/j.worlddev.2007.05.005
+   Adhikari B, 2006, J DEV STUD, V42, P426, DOI 10.1080/00220380600576201
+   Vedeld T, 2000, J DEV STUD, V36, P105, DOI 10.1080/00220380008422648
+   Agarwal B, 2001, WORLD DEV, V29, P1623, DOI 10.1016/S0305-750X(01)00066-3
+   Naidu SC, 2009, WORLD DEV, V37, P676, DOI 10.1016/j.worlddev.2008.07.001
+   Ruttan LM, 1999, CURR ANTHROPOL, V40, P621, DOI 10.1086/300086
+   Agrawal A, 2001, WORLD DEV, V29, P1649, DOI 10.1016/S0305-750X(01)00063-8
+   Baland JM, 1999, WORLD DEV, V27, P773, DOI 10.1016/S0305-750X(99)00026-1
+   Molinas JR, 1998, WORLD DEV, V26, P413, DOI 10.1016/S0305-750X(97)10066-3
+   Ostrom E, 2005, UNDERSTANDING INSTITUTIONAL DIVERSITY, P1
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   Varughese G, 2001, WORLD DEV, V29, P747, DOI 10.1016/S0305-750X(01)00012-2
+   Gibson CC, 2005, WORLD DEV, V33, P273, DOI 10.1016/j.worlddev.2004.07.013
+   HARDIN G, 1968, SCIENCE, V162, P1243
+   Freudenberger MS, 1997, SOC NATUR RESOUR, V10, P383, DOI 10.1080/08941929709381036
+   [Anonymous], 2005, CASE STUDIES THEORY
+   Barrett CB, 2005, WORLD DEV, V33, P193, DOI 10.1016/j.worlddev.2004.07.008
+   Baland JM, 1996, HALTING DEGRADATION
+   Bardhan P., 2002, DRAMA COMMONS, P87
+   Bennett A., 2010, RETHINKING SOCIAL IN, P207
+   Demsetz H, 1967, AM ECON REV, V57, P347
+   Gray J., 1987, ED TRAINING UK 1987, P33
+   Kanbur R., 1992, HETEROGENEITY DISTRI
+   Kant S, 2000, ECOL ECON, V32, P287, DOI 10.1016/S0921-8009(99)00100-7
+   Karaivanov A., 2001, HETEROGENEITY RETURN
+   King Gary, 1994, DESIGNING SOCIAL INQ
+   Kramer R. M., 2006, INT PUBLIC MANAG J, V9, P25, DOI 10.1080/10967490600625316
+   Kurian M, 2004, NAT RESOUR FORUM, V28, P34, DOI 10.1111/j.0165-0203.2004.00070.x
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   Ostrom E., 1998, POLITICAL SCIENCE, V92, P1
+   Poteete AR, 2004, DEV CHANGE, V35, P435, DOI 10.1111/j.1467-7660.2004.00360.x
+   Ray B, 2011, J DEV STUD, V47, P253, DOI 10.1080/00220381003706692
+   United Nations Development Programme (UNDP), 2011, HUM DEV REP 2011
+   Wade R, 1988, VILLAGE REPUBLICS EC
+   WADE R, 1987, CAMBRIDGE J ECON, V11, P95
+NR 39
+TC 0
+Z9 0
+U1 3
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0022-0388
+EI 1743-9140
+J9 J DEV STUD
+JI J. Dev. Stud.
+PD NOV 1
+PY 2013
+VL 49
+IS 11
+SI SI
+BP 1564
+EP 1578
+DI 10.1080/00220388.2013.800860
+PG 15
+WC Economics; Planning & Development
+SC Business & Economics; Public Administration
+GA 254SC
+UT WOS:000327186300008
+ER
+
+PT J
+AU Ratner, BD
+   Meinzen-Dick, R
+   May, C
+   Haglund, E
+AF Ratner, Blake D.
+   Meinzen-Dick, Ruth
+   May, Candace
+   Haglund, Eric
+TI Resource conflict, collective action, and resilience: an analytical
+   framework
+SO INTERNATIONAL JOURNAL OF THE COMMONS
+LA English
+DT Article
+DE Collective action; common pool resources; conflict; conflict management;
+   governance; institutional analysis and development; natural resource
+   management; policy; resource conflict; social-ecological resilience
+ID SOCIAL-ECOLOGICAL SYSTEMS; NATURAL-RESOURCES; POLITICAL ECOLOGY;
+   CIVIL-WAR; MANAGEMENT; GOVERNANCE; COMANAGEMENT; INSTITUTIONS;
+   COMMUNITIES; ENVIRONMENT
+AB Where access to renewable natural resources essential to rural livelihoods is highly contested, improving cooperation in resource management is an important element in strategies for peacebuilding and conflict prevention. While researchers have made advances in assessing the role of environmental resources as a causal factor in civil conflict, analysis of the positive potential of collective natural resource management efforts to reduce broader conflict is less developed. Addressing this need, we present a framework on collective action, conflict prevention, and social-ecological resilience, linking local stakeholder dynamics to the broader institutional and governance context. Accounting for both formal and informal relationships of power and influence, as well as values and stakeholder perceptions alongside material interests, the framework aims to provide insight into the problem of (re)building legitimacy of common-pool resource management institutions in conflict-sensitive environments. We outline its application in stakeholder-based problem assessment and planning, participatory monitoring and evaluation, and multi-case comparative analysis.
+C1 [Ratner, Blake D.] WorldFish Ctr, Washington, DC 20433 USA.
+   [Ratner, Blake D.; Meinzen-Dick, Ruth; Haglund, Eric] Int Food Policy Res Inst, Washington, DC USA.
+   [May, Candace] Colorado State Univ, Ft Collins, CO 80523 USA.
+RP Ratner, BD (reprint author), WorldFish Ctr, Washington, DC 20433 USA.
+EM b.ratner@cgiar.org; r.meinzen-dick@cgiar.org; ckmay@rams.colostate.edu;
+   e.haglund@cgiar.org
+OI Meinzen-Dick, Ruth/0000-0003-4782-3074
+CR Adhikari J. R., 2010, INT WORKSH COLL ACT
+   Akinnifesi F. K., 2012, 105 CAPRI INT FOOD P
+   Alcamo J, 2003, ECOSYSTEMS HUMAN WEL
+   Folke C, 2006, GLOBAL ENVIRON CHANG, V16, P253, DOI 10.1016/j.gloenvcha.2006.04.002
+   Gooch M, 2009, SOC NATUR RESOUR, V22, P158, DOI 10.1080/08941920801967880
+   Lujala P, 2005, J CONFLICT RESOLUT, V49, P538, DOI 10.1177/0022002705277548
+   Walker B, 2004, ECOL SOC, V9
+   Lebel L, 2006, ECOL SOC, V11
+   Conca K, 2009, GLOBAL GOV, V15, P485
+   Agrawal A, 2001, WORLD DEV, V29, P1649, DOI 10.1016/S0305-750X(01)00063-8
+   Fabricius C, 2007, ECOL SOC, V12
+   Robards MD, 2007, FISH FISH, V8, P14, DOI 10.1111/j.1467-2979.2007.00231.x
+   Lemos MC, 2006, ANNU REV ENV RESOUR, V31, P297, DOI 10.1146/annurev.energy.31.042605.135621
+   Garcia-Barrios LE, 2008, ECOL MODEL, V210, P115, DOI 10.1016/j.ecolmodel.2007.07.009
+   Adger WN, 2006, GLOBAL ENVIRON CHANG, V16, P268, DOI 10.1016/j.gloenvcha.2006.02.006
+   Ostrom E, 2005, UNDERSTANDING INSTITUTIONAL DIVERSITY, P1
+   Berkes F, 2009, J ENVIRON MANAGE, V90, P1692, DOI 10.1016/j.jenvman.2008.12.001
+   Barnett J, 2007, POLIT GEOGR, V26, P639, DOI 10.1016/j.polgeo.2007.03.003
+   Deligiannis T, 2012, GLOBAL ENVIRON POLIT, V12, P78
+   Collier P, 2005, J CONFLICT RESOLUT, V49, P625, DOI 10.1177/0022002705277551
+   Giordano MF, 2005, J PEACE RES, V42, P47, DOI 10.1177/0022343305049666
+   Edmunds D, 2001, DEV CHANGE, V32, P231, DOI 10.1111/1467-7660.00204
+   Jentoft S, 2007, HUM ORGAN, V66, P426
+   Adger WN, 2005, ECOL SOC, V10
+   Agrawal A, 1999, J DEV AREAS, V33, P473
+   Armitage DR, 2009, FRONT ECOL ENVIRON, V7, P95, DOI 10.1890/070089
+   [Anonymous], 1994, RULES GAMES COMMON P
+   Leach M, 1999, WORLD DEV, V27, P225, DOI 10.1016/S0305-750X(98)00141-7
+   Lubell M, 2002, AM J POLIT SCI, V46, P148, DOI 10.2307/3088419
+   Sanginga PC, 2007, ECOL SOC, V12
+   de Haan L, 2005, DEV CHANGE, V36, P27, DOI 10.1111/j.0012-155X.2005.00401.x
+   Welsch H, 2008, ECOL ECON, V67, P503, DOI 10.1016/j.ecolecon.2008.01.004
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   Rustad SCA, 2008, POLIT GEOGR, V27, P761, DOI 10.1016/j.polgeo.2008.09.004
+   Bodin O, 2009, GLOBAL ENVIRON CHANG, V19, P366, DOI 10.1016/j.gloenvcha.2009.05.002
+   Humphreys M, 2005, J CONFLICT RESOLUT, V49, P508, DOI 10.1177/0022002705277545
+   Anseeuw W., 2012, LAND RIGHTS RUSH LAN
+   Baland JM, 1996, HALTING DEGRADATION
+   Bohle HG, 2007, DEV CHANGE, V38, P665, DOI 10.1111/j.1467-7660.2007.00428.x
+   Bryant Raymond, 1997, 3 WORLD POLITICAL EC
+   Carius A., 1999, ENV CHANGE SECURITY
+   Collier P., 2008, SECURITY CHALLENGE C
+   Daniels S.E., 2001, WORKING ENV CONFLICT
+   DFID, 2007, PREV VIOL CONFL
+   di Gregorio M., 2008, 81 CAPRI INT FOOD PO
+   Ellis F, 2000, RURAL LIVELIHOODS DI
+   Feil M., 2009, REGIONAL COOPERATION
+   Fisher R., 1983, GETTING YES NEGOTIAT
+   Franke V, 2007, CONTROL NATURAL WEAL
+   Green A., 2010, INT WORKSH COLL ACT
+   Homer-Dixon T., 1999, ENV SCARCITY VIOLENC
+   Ironside J., 2010, INT WORKSH COLL ACT
+   Kapur D., 2012, 302 CGD
+   Keohane R. O., 1995, LOCAL COMMONS GLOBAL
+   Kok A., 2009, NATURAL RESOURCES EN
+   Le Billon P, 2001, POLIT GEOGR, V20, P561, DOI 10.1016/S0962-6298(01)00015-4
+   Le Billon P., 2007, EXTREME CONFLICT TRO
+   Le Billon P., 2005, FUELLING WARS NATURA
+   Long N., 1992, BATTLEFIELDS KNOWLED
+   Maas A., 2008, ENV CONFLICT PEACEBU
+   McCay B. J., 2002, DRAMA COMMONS, P361
+   McCay B. J., 2001, COMMUNITIES ENV ETHN, P180
+   Means K., 2002, COMMUNITY BASED FORE
+   Meinzen-Dick R., 2002, 22 CAPRI INT FOOD PO
+   Miyazawa N., 2010, LAND POSTCONFLICT PE
+   Ngaido T., 2001, COLLECTIVE ACTION PR
+   Oakerson R. J., 1992, MAKING COMMONS WORK
+   Ostrom Elinor, 1990, GOVERNING COMMONS
+   Ostrom Elinor, 1999, GOOD SOC, V9, P37
+   Ostrom E, 2009, SCIENCE, V325, P419, DOI 10.1126/science.1172133
+   Pandolfelli Lauren, 2007, 64 CAPRI IFPRI
+   Peet R., 1996, LIBERATION ECOLOGIES
+   Peluso N. L., 1992, RICH FORESTS POOR PE
+   Peluso N. L., 2001, VIOLENT ENV
+   Pinzon L, 2000, SYST RES BEHAV SCI, V17, P493, DOI 10.1002/1099-1743(200011/12)17:6<493::AID-SRES334>3.0.CO;2-5
+   Poteete AR, 2010, WORKING TOGETHER: COLLECTIVE ACTION, THE COMMONS, AND MULTIPLE METHODS IN PRACTICE, P1
+   Pradhan R., 2002, NEGOTIATING WATER RI, P200
+   Pretty J, 2003, SCIENCE, V302, P1912, DOI 10.1126/science.1090847
+   Ramirez R, 1999, CULTIVATING PEACE CO
+   Ratner B. D., 2013, LIVELIHOODS NATURAL
+   Rights and Resources Initiative (RRI), 2010, END HINT FOR CONFL C
+   Ruckstuhl S., 2009, RENEWABLE NATURAL RE
+   Rustad S. A., 2012, HIGH VALUE NATURAL R
+   Schmink M., 2008, 49 CIFOR
+   Scott J., 1985, WEAPONS WEAK
+   Stewart F, 2008, HORIZONTAL INEQUALITIES AND CONFLICT: UNDERSTANDING GROUP VIOLENCE IN MULTIETHNIC SOCIETIES, P1, DOI 10.1057/9780230582729
+   Sutawan N., 2000, NEGOTIATING WATER RI
+   Tyler S. R., 1999, CULTIVATING PEACE CO
+   UNDP, 2010, CAP DEV MAN LAND NAT
+   UNEP, 2009, CONFL PEAC ROL NAT R
+   Wade R, 1988, VILLAGE REPUBLICS EC
+   Watts R. P. M., 1996, LIBERATION ECOLOGIES
+   Woods K., 2010, INT WORKSH COLL ACT
+   World Bank, 2005, CONFL AN FARM CAF SO
+   Wyckoff-Baird B., 1998, POWER NATURE NEGOTIA
+   Young H., 2013, LIVELIHOODS NATURAL
+   Young O, 2006, ECOL SOC, V11
+NR 97
+TC 10
+Z9 10
+U1 3
+U2 31
+PU IGITUR, UTRECHT PUBLISHING & ARCHIVING SERVICES
+PI URTRECHT
+PA POSTBUS 80124, URTRECHT, 3508 TC, NETHERLANDS
+SN 1875-0281
+J9 INT J COMMONS
+JI Int. J. Commons
+PY 2013
+VL 7
+IS 1
+BP 183
+EP 208
+PG 26
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA AC4KK
+UT WOS:000332489700010
+ER
+
+PT J
+AU Coppock, DL
+   Desta, S
+AF Coppock, D. Layne
+   Desta, Solomon
+TI Collective Action, Innovation, and Wealth Generation Among Settled
+   Pastoral Women in Northern Kenya
+SO RANGELAND ECOLOGY & MANAGEMENT
+LA English
+DT Article
+DE drought management; Greater Horn of Africa; human organization; poverty
+   reduction; risk management; rural development
+ID ETHIOPIA; ISSUES; MARKET; INCOME
+AB Collective action occurs when people join together to tackle problems of common interest. Collective action can be an effective means of group problem solving, especially among poorer residents of densely populated urban areas or farming systems. Few examples have been documented, however, for the lightly populated rangelands, where pastoralists are better known for their social independence and opportunistic behavior. We were therefore surprised to encounter dynamic women's collective-action groups in small settlements throughout north-central Kenya, a pastoral region characterized by high rates of poverty, few public services, recurrent drought, and ethnic Conflict. We wanted to understand why groups were created and how they functioned. We used a semistructured questionnaire to interview representatives from 16 groups in February 2006. Results indicated that most groups had formed since the 1990s. They emerged either spontaneously or after encouragement from local development-agency staff. Founding members were exclusively women who were often illiterate and poor. Groups have elected leaders and are governed under constitutional frameworks with extensive bylaws. Groups form to improve living standards for members, and numerous success stories were noted. Groups undertake activities including microfinance, livelihood diversification, and mitigation of drought effects; they also spearhead and fund community education and health initiatives. A tally of 63 groups created over the previous 25 yr indicated that 2 had collapsed, 47 were thriving, and 14 were failing. Group failure was most attributed to poor leadership and negative interpersonal dynamics among members, but important external threats included drought, poverty, political incitement, illiteracy, and agitation by men. In a region beset by large challenges it is notable that such grassroots innovation can help fortify social, human, and financial capital and this, in turn, can improve risk management and human well-being. Collective action should be recognized as a vital development process in Kenya's rangelands that deserves more policy-level attention.
+C1 [Coppock, D. Layne] Utah State Univ, Dept Environm & Soc, Logan, UT 84322 USA.
+   [Desta, Solomon] MARIL PLC, Addis Ababa, Ethiopia.
+RP Coppock, DL (reprint author), Utah State Univ, Dept Environm & Soc, Logan, UT 84322 USA.
+EM Layne.Coppock@usu.edu
+FU Office of Agriculture, Bureau of Economic Growth, Agriculture and Trade,
+   US Agency for International Development (USAID) [PCE-G-00-98-00036-00]
+FX This publication was made possible through support provided to the
+   Pastoral Risk Management (PARIMA) project under the auspices of the
+   Global Livestock Collaborative Research Support Program (GL-CRSP) by the
+   Office of Agriculture, Bureau of Economic Growth, Agriculture and Trade,
+   US Agency for International Development (USAID) under the terms of Grant
+   No. PCE-G-00-98-00036-00 to the University of California, Davis. The
+   opinions expressed herein are those of the authors and do not
+   necessarily reflect the views of USAID.
+CR Coppock DL, 2011, RANGELAND ECOL MANAG, V64, P607, DOI 10.2111/REM-D-10-00113.1
+   Desta S, 2002, J RANGE MANAGE, V55, P439, DOI 10.2307/4003221
+   Yunus M, 1999, SCI AM, V281, P114
+   Coppock DL, 2011, SCIENCE, V334, P1394, DOI 10.1126/science.1211232
+   Fratkin E, 1997, ANNU REV ANTHROPOL, V26, P235, DOI 10.1146/annurev.anthro.26.1.235
+   Nduma I, 2001, HUM ORGAN, V60, P319
+   Mwangi E, 2009, DEV POLICY REV, V27, P307, DOI 10.1111/j.1467-7679.2009.00448.x
+   Place F, 2004, AGR SYST, V82, P257, DOI 10.1016/j.agsy.2004.07.001
+   Desta S, 2004, HUM ECOL, V32, P465, DOI 10.1023/B:HUEC.0000043516.56037.6b
+   Karlan D, 2011, SCIENCE, V332, P1278, DOI 10.1126/science.1200138
+   Narayan D, 1999, ECON DEV CULT CHANGE, V47, P871, DOI 10.1086/452436
+   Poteete AR, 2004, AGR SYST, V82, P215, DOI 10.1016/j.agsy.2004.07.002
+   ARMENDARIZ B., 2010, EC MICROFINANCE, P1
+   Blumberg Rae Lesser, 1995, ENGENDERING WEALTH W, P1
+   Coppock D. L., 1994, BORANA PLATEAU SO ET
+   COPPOCK D. L., 2010, ACTION RES KNOWLEDGE
+   COPPOCK D. L., 2012, ACHIEVING DEV IMPACT
+   Feldman S., 2011, P 9 INT RANG C DIV R
+   Forsyth D. R., 2006, GROUP DYNAMICS
+   FRATKIN E., 2005, NOMADS SETTLE SOCIAL
+   Grootaert C, 2001, 10 WORLD BANK LOC LE
+   HEYER J., 1976, AGR DEV KENYA EC ASS, P1
+   HOLDEN SJ, 1992, J ARID ENVIRON, V23, P321
+   HOLECHEK J., 2010, RANGE MANAGEMENT PRI, P337
+   Isangula K. G., 2012, Journal of Sustainable Development, V5, P76, DOI 10.5539/jsd.v5n5p76
+   Maxwell J. C., 2007, 21 IRREFUTABLE LAWS
+   MAYOUX L., 2009, GENDER AGR SOURCEBOO, P85
+   Meinzen-Dick R., 2004, COLLECTIVE ACTION PR
+   Scoones I, 1998, 72 IDS U SUSS
+   Sere CA, 2008, P INT IGC IRC 2008 C, VI, P19
+   Smith K, 1998, HUM ORGAN, V57, P459
+   UNRUH J. D., 2007, DISASTERS, V17, P305
+NR 32
+TC 0
+Z9 0
+U1 3
+U2 37
+PU SOC RANGE MANAGEMENT
+PI LAKEWOOD
+PA 445 UNION BLVD, STE 230, LAKEWOOD, CO 80228-1259 USA
+SN 1550-7424
+J9 RANGELAND ECOL MANAG
+JI Rangel. Ecol. Manag.
+PD JAN
+PY 2013
+VL 66
+IS 1
+BP 95
+EP 105
+DI 10.2111/REM-D-11-00211.1
+PG 11
+WC Ecology; Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 082YH
+UT WOS:000314429400013
+ER
+
+PT J
+AU Faysse, N
+   Errahj, M
+   Dumora, C
+   Kemmoun, H
+   Kuper, M
+AF Faysse, Nicolas
+   Errahj, Mostafa
+   Dumora, Catherine
+   Kemmoun, Hassan
+   Kuper, Marcel
+TI Linking research and public engagement: weaving an alternative narrative
+   of Moroccan family farmers' collective action
+SO AGRICULTURE AND HUMAN VALUES
+LA English
+DT Article
+DE Collective action; Farmers' organizations; Large-scale irrigation
+   scheme; Morocco; Narrative; Public engagement
+ID RURAL-DEVELOPMENT; CHALLENGES; MANAGEMENT; INDIA
+AB Rural development policies are often inspired by narratives that are difficult to challenge because they are based on an apparently obvious and coherent reading of reality. Research may confront such narratives and trigger debates outside the academic community, but this can have a feedback effect and lead to a simplistic or biased posture in research. This article analyzes a research-based initiative that questioned a commonly held narrative in large-scale irrigation schemes in Morocco concerning the structural weaknesses of farmer-led collective action. This initiative conceived an alternative narrative of farmer-led collective action, based on research and actions undertaken in collaboration with the farmers. The article assesses to what extent it was possible to design this narrative and to draw on it to orient research activities, actions with farmers and public engagement, without impairing the quality of the research process. The alternative narrative was designed and diffused based on three intertwined activities: (1) the identification and analysis of farmer-led collective actions, (2) the diffusion of information on successful farmer-led collective actions especially through the production of videos, and (3) exchanges with and between local farmers' organizations. The alternative narrative that resulted from these activities emphasizes the potentialities of farmer-led collective action, and more broadly, the willingness and capabilities of many family farmers to play an active role in the governance of rural areas. The message of the alternative narrative and the distinction made between the research articles and videos in both their content and role ensured that research did not fall into simplistic or biased analyses. The alternative narrative also became a key to renewed relations between farmers and researchers and helped design training for students that pay more attention to local dynamics. In a situation in which scheme-level organizations show limited interest in reflexive enquiry, this initiative proposes some stepping stones to make it possible for changing narratives to accompany changing relations between actors.
+C1 [Faysse, Nicolas] Ecole Natl Agr Meknes, CIRAD, G EAU Res Unit, Meknes, Morocco.
+   [Dumora, Catherine] Univ Cadi Ayyad, Marrakech, Morocco.
+   [Kemmoun, Hassan] Cap Rural, Meknes 50000, Morocco.
+   [Kuper, Marcel] CIRAD, G EAU Res Unit, Inst Agron & Vet Hassan 2, Rabat 10101, Morocco.
+RP Faysse, N (reprint author), Ecole Natl Agr Meknes, CIRAD, G EAU Res Unit, BP S-40,Km 10,Haj Kaddour Rd, Meknes, Morocco.
+EM faysse@cirad.fr
+FU European Union; French Ministry of Foreign and European Affairs
+FX The study was based on activities undertaken in the framework of the
+   Wademed project, financed by the European Union, and the SIRMA project,
+   financed by the French Ministry of Foreign and European Affairs. We are
+   grateful to J. Y. Jamin for helpful comments on an earlier version of
+   the paper.
+CR Akesbi N, 2011, QUESTIONS EC MAROCAI, P9
+   Speed S, 2006, AM ANTHROPOL, V108, P66, DOI 10.1525/aa.2006.108.1.66
+   HASTRUP K, 1990, CURR ANTHROPOL, V31, P301, DOI 10.1086/203842
+   Bourdieu P, 2003, J ROY ANTHROPOL INST, V9, P281, DOI 10.1111/1467-9655.00150
+   Theesfeld I, 2004, WORLD DEV, V32, P251, DOI 10.1016/j.worlddev.2003.11.001
+   Layadi A, 2011, CAH AGRIC, V20, P428, DOI 10.1684/agr.2011.0511
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   Faysse N, 2006, NAT RESOUR FORUM, V30, P219, DOI 10.1111/j.1477-8947.2006.00112.x
+   Poncet J, 2010, AGR SYST, V103, P171, DOI 10.1016/j.agsy.2009.12.004
+   Scoones I, 2009, J PEASANT STUD, V36, P171, DOI 10.1080/03066150902820503
+   Mollinga PP, 2010, J AGRAR CHANGE, V10, P414
+   Edmunds D, 2001, DEV CHANGE, V32, P231, DOI 10.1111/1467-7660.00204
+   Leeuwis C, 2000, DEV CHANGE, V31, P931, DOI 10.1111/1467-7660.00184
+   Edelman M, 2009, J PEASANT STUD, V36, P245, DOI 10.1080/03066150902820313
+   Upton C, 2008, HUM ECOL, V36, P175, DOI 10.1007/s10745-007-9158-x
+   Nederlof ES, 2007, AGR HUM VALUES, V24, P369, DOI 10.1007/s10460-007-9066-0
+   Goldberg A, 2009, CAN J SOCIOL, V34, P765
+   Burawoy M, 2005, AM SOCIOL REV, V70, P4
+   Mosse D, 1999, MOD ASIAN STUD, V33, P303, DOI 10.1017/S0026749X99003285
+   BERKES F, 1989, NATURE, V340, P91, DOI 10.1038/340091a0
+   Scoones I, 2005, IDS BULL-I DEV STUD, V36, P109
+   Arthur R., 2010, GLOBAL ENVIRON CHANG, V21, P219
+   Bekkar Y, 2009, IRRIG DRAIN, V58, P252
+   Bouzidi Z., 2009, P 4 REG WORKSH SIRMA
+   Bouzidi Z., 2011, CAHIERS AGR, V1-2, P34
+   Callon M, 1999, SOCIOL TRAV, V41, P65, DOI 10.1016/S0038-0296(99)80005-3
+   Dumora C., 2010, S INN SUST DEV AGR F
+   El Gueddari A, 2004, HOMMES TERRE EAU, V130, P4
+   Errahj M., 2009, IRRIG DRAIN, V58, P358
+   Ertsen M. W., 2006, LANDSCAPE RES, V31, p[147, 163]
+   Faysse N., 2010, Water Alternatives, V3, P48
+   Ferguson James, 1994, ANTIPOLITICS MACHINE
+   Fox J, 2006, DEV PRACTICE, V16, P27, DOI 10.1080/09614520500450776
+   Gaventa J., 2004, PARTICIPATION TYRANN, P25
+   Giddens A., 1993, NEW RULES SOCIOLOGIC
+   Giddens A., 1984, CONSTITUTION SOC OUT
+   Hale CR, 2008, GLOB AREA INT ARCH, V6, P1
+   Hammoudi Abdullah, 1997, MASTER DISCIPLE CULT
+   Hmimidi R, 2004, THESIS ECOLE NATL AG
+   Holt-Gimenez E., 2006, CAMPESINO CAMPESINO
+   Kadiri Z, 2009, IRRIG DRAIN, V58, P346
+   Kadiri Z, 2010, ELECTIONS MAROC ENTR, P199
+   Kuper M, 2009, ECOL SOC, V141, P19
+   Kuper M., 2009, Natures Sciences Sociétés, V17, P248, DOI 10.1051/nss/2009039
+   Kuper M, 2011, CAH AGRIC, V20, P16, DOI 10.1684/agr.2011.0467
+   Kuper M, 2009, IRRIG DRAIN, V58, P231
+   Latour B., 1994, SCI ACTION FOLLOW SC
+   Latour Bruno, 1999, PANDORAS HOPE ESSAYS
+   Leeuwis C., 2011, J AGR ED EXTENSION, V17, P21, DOI DOI 10.1080/1389224X.2011.536344
+   Li T.M., 2011, ADVENTURES AIDLAND A, P57
+   Melrose M. J., 2001, FIELD METHOD, V13, P160, DOI DOI 10.1177/1525822X0101300203
+   Mendez JB, 2008, GLOB AREA INT ARCH, V6, P136
+   Merrey D. J., 2007, WATER FOOD WATER LIF, P193
+   Molle F., 2008, Water Alternatives, V1, P131
+   Mollinga P P, 2008, WATER ALTERNATIVES, V1, P7
+   Moroccan Ministry of Agriculture and Sea Fishery, 2010, PLAN AGR REG REG GHR
+   Moroccan Ministry of Agriculture and Sea Fishery, 2008, PLAN MAR VERT
+   Nowotny H., 2001, RETHINKING SCI KNOWL
+   Olivier de Sardan J. P., 2005, ANTHR DEV UNDERSTAND
+   Perennes JJ, 1993, EAU HOMMES MAGHREB C
+   Pieroni P., 2003, Journal of Agricultural Education and Extension, V9, P21, DOI 10.1080/13892240385300051
+   Roe E., 1999, EXCEPT AFRICA REMAKI
+   Röling N., 1999, Agriculture and Human Values, V16, P295, DOI 10.1023/A:1007595530813
+   Sater J., 2010, MOROCCO CHALLENGES T
+   Scott J., 2009, DICT SOCIOLOGY
+   Scott M., 2008, PLANNING THEORY PRAC, V9, P9, DOI 10.1080/14649350701843689
+   Shah T., 1995, MAKING FARMERS COOPE
+   Srairi T., 2011, CAHIERS AGR, V20, P60
+   Tandia A., 2009, CONJONCTURE, V903, P25
+   Turner Jonathan H., 2005, AM SOCIOL, V36, P27, DOI 10.1007/s12108-005-1015-z
+NR 70
+TC 1
+Z9 1
+U1 2
+U2 13
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0889-048X
+J9 AGR HUM VALUES
+JI Agric. Human Values
+PD SEP
+PY 2012
+VL 29
+IS 3
+BP 413
+EP 426
+DI 10.1007/s10460-012-9361-2
+PG 14
+WC Agriculture, Multidisciplinary; History & Philosophy Of Science;
+   Sociology
+SC Agriculture; History & Philosophy of Science; Sociology
+GA 991AI
+UT WOS:000307672800011
+ER
+
+PT J
+AU Shami, M
+AF Shami, Mahvish
+TI Collective Action, Clientelism, and Connectivity
+SO AMERICAN POLITICAL SCIENCE REVIEW
+LA English
+DT Article
+ID POLITICS; POWER; SOCIETY; INDIA; COOPERATION; PATRONAGE; MARKETS;
+   SYSTEMS; HISTORY
+AB Backed by studies finding only limited propensity for free-riding when communities have an interest in self-provision, the last few decades have seen a surge of interest in community-based development. A major caveat to the "second wave" of collective action studies, however, is that collective action often breaks down under hierarchical social relationships. This is unfortunate news for developing countries' rural societies, which are often entrenched in patron-client networks. Using a natural experiment found in the construction of a motorway, the article finds that clientelist relationships do not, in and by themselves, block peasant collective action. Rather, it is the interaction between clientelism and isolation that empowers patrons to block community-based projects. Peasants in connected villages face no such constraints, but instead rely on their patrons' assistance in collective projects, making the hierarchical network an additional resource.
+C1 London Sch Econ & Polit Sci, Dept Int Dev, London WC2A 2AE, England.
+RP Shami, M (reprint author), London Sch Econ & Polit Sci, Dept Int Dev, Houghton St, London WC2A 2AE, England.
+EM m.shami@lse.ac.uk
+CR Ahmad S., 1977, CLASS POWER PUNJABI
+   Alavi H.H., 1972, CONTRIBUTIONS INDIAN, V6, P1, DOI 10.1177/006996677200600101
+   Ali I., 1988, PUNJAB IMPERIALISM
+   ANDERSON P., 1979, LINEAGES ABSOLUTIST
+   Banerjee A, 2005, AM ECON REV, V95, P1190, DOI 10.1257/0002828054825574
+   Auyero J, 2009, LAT AM POLIT SOC, V51, P1
+   Hadenius A, 1996, WORLD DEV, V24, P1621, DOI 10.1016/0305-750X(96)00062-9
+   Shami M, 2012, WORLD DEV, V40, P999, DOI 10.1016/j.worlddev.2011.11.019
+   Ostrom E, 2009, ELGAR ORIG REF, P17
+   SCOTT JC, 1972, AM POLIT SCI REV, V66, P91, DOI 10.2307/1959280
+   Abers R, 1998, POLIT SOC, V26, P511, DOI 10.1177/0032329298026004004
+   Meinzen-Dick R, 2002, WORLD DEV, V30, P649, DOI 10.1016/S0305-750X(01)00130-9
+   GREIF A, 1994, J POLIT ECON, V102, P745, DOI 10.1086/261953
+   BHADURI A, 1977, CAMBRIDGE J ECON, V1, P341
+   CRENSON MA, 1978, AM J POLIT SCI, V22, P578, DOI 10.2307/2110462
+   IBARRA H, 1993, ADMIN SCI QUART, V38, P277, DOI 10.2307/2393414
+   POWELL JD, 1970, AM POLIT SCI REV, V64, P411, DOI 10.2307/1953841
+   [Anonymous], 2000, BOWLING ALONE COLLAP
+   [Anonymous], 1992, SOCIOLOGY EC LIFE
+   Cardenas JC, 2004, AGR SYST, V82, P307, DOI 10.1016/j.agsy.2004.07.008
+   Mansuri G, 2004, WORLD BANK RES OBSER, V19, P1, DOI 10.1093/wbro/lkh012
+   Baker M., 2005, KUHLS KANGRA COMMUNI
+   Banerjee A., 2009, NATURAL EXPT HIST, P185
+   Bank World, 2000, ATT POV
+   Bardhan P., 1984, LAND LABOR RURAL POV
+   BARDHAN PK, 1980, OXFORD ECON PAP, V32, P82
+   BASU K, 1983, OXFORD ECON PAP, V35, P262
+   BASU K, 1986, OXFORD ECON PAP, V38, P259
+   Berlin Ira, 1998, MANY 1000S GONE 1 2
+   Blok A., 1974, MAFIA SICILIAN VILLA
+   Blomquist W., 1992, DIVIDING WATERS GOVE
+   Bratton M, 1994, CIVIL SOC STATE AFRI, P51
+   Bridenbaugh Carl, 1955, CITIES REVOLT URBAN
+   Camerer C. F., 2003, BEHAV GAME THEORY EX
+   Cheema A., 2007, HIST LAND SETTLEMENT
+   Dantas MLR, 2008, AM EARLY MOD ATL WOR, P1, DOI 10.1057/9780230611115
+   Deininger K., 1999, WORLD BANK RES OBSER, V14, P446
+   Dew Charles B, 1994, BOND IRON MASTER SLA
+   Dobb M., 1963, STUDIES DEV CAPITALI
+   Donaldson D., 2010, NBER WORKING PAPER S
+   Dongier P., 2002, POVERTY REDUCTION ST, P303
+   Eisenstadt S.N., 1984, PATRONS CLIENTS FRIE
+   Epstein T. S., 1962, EC DEV SOCIAL CHANGE
+   FOX J, 1994, WORLD POLIT, V46, P151, DOI 10.2307/2950671
+   Genovese Eugene D., 1976, ROLL JORDAN ROLL WOR
+   Gittell Ross, 1998, COMMUNITY ORG BUILDI
+   Granovetter M., 1974, GETTING JOB STUDY CO
+   Granovetter M., 1983, SOCIOLOGICAL THEORY, V1, P201, DOI DOI 10.2307/202051
+   Halpern D., 2005, SOCIAL CAPITAL
+   Hatcher J., 2002, MODELLING MIDDLE AGE
+   Hirschman Albert O., 1984, GETTING AHEAD COLLEC
+   Holzner Claudio, 2004, MOBILIZATION, V9, P223
+   Hussain A., 1989, S ASIA, P59
+   Janssen M., 2006, J ARTIFICIAL SOC SOC, V9
+   Krishna A., 2002, ACTIVE SOCIAL CAPITA
+   Lichbach M., 1994, WORLD POLIT, V46, P338
+   Luchaire A., 1929, SOCIAL FRANCE TIME P
+   Martin John E., 1983, FEUDALISM CAPITALISM
+   MICHIE BH, 1981, AM ETHNOL, V8, P21, DOI 10.1525/ae.1981.8.1.02a00020
+   Mitchell J. C., 1969, SOCIAL NETWORKS URBA
+   Morris Richard, 1946, GOVT LABOR EARLY AM
+   Nelson M.J., 2010, SHADOW SHARIAH ISLAM
+   Olson M., 1971, LOGIC COLLECTIVE ACT
+   Ostrom E, 2000, J ECON PERSPECT, V14, P137, DOI 10.1257/jep.14.3.137
+   Ostrom E., 2005, MORAL SENTIMENTS MAT, P253
+   Ostrom E., 2005, TRUST RECIPROCITY IN
+   Pitt-Rivers Julian Alfred, 1954, PEOPLE SIERRA
+   PLATTEAU JP, 1995, OXFORD ECON PAP, V47, P636
+   Popkin S. L., 1979, RATIONAL PEASANT POL
+   Putnam R., 1993, MAKING DEMOCRACY WOR
+   Raftis J.A., 1997, SOCIAL SCI
+   Republic Engineering Cooperation (PVT), 1988, LAH ISL MOT PROJ ROU
+   Roniger Luis, 1990, HIERARCHY TRUST MODE
+   Rouse S., 1988, THESIS U WISCONSIN M
+   Sarap K., 1991, INTERLINKED AGRARIAN
+   Scott J. C., 1972, Journal of Asian Studies, V32, P5, DOI 10.2307/2053176
+   Scott James C., 1977, FRIENDS FOLLOWERS FA
+   Scott James C., 1977, FRIENDS FOLLOWERS FA, P439
+   SCOTT JC, 1969, COMP STUD SOC HIST, V11, P315
+   Sellers L., 1970, CHARLESTON BUSINESS
+   Shami M., 2010, FOI WORKING PAPERS
+   Shue V., 1994, STATE POWER SOCIAL F, P65
+   Simpson B, 2004, SOC FORCES, V82, P1373, DOI 10.1353/sof.2004.0096
+   Suttles Gerald D., 1972, SOCIAL CONSTRUCTION
+   Svendsen G. L. H., 2004, CREATION DESTRUCTION
+   Sweezy Paul, 1978, TRANSITION FEUDALISM
+   Szreter S, 2002, THEOR SOC, V31, P573, DOI 10.1023/A:1021300217590
+   Wade R, 1988, VILLAGE REPUBLICS EC
+   Walker J., 1997, PERSPECTIVES PUBLIC, P35
+   WEINGROD A, 1971, COMP STUD SOC HIST, V13, P301
+   Wood Betty, 1995, WOMENS WORK MENS WOR
+   Wood Peter, 1996, BLACK MAJORITY NEGRO
+   Woolcock M., 2001, ISUMA CANADIAN J POL, V2, P1
+   World Bank, 1994, POV RED S AS PROM PA
+   World Bank, 2009, RESH EC GEOGR
+NR 95
+TC 3
+Z9 3
+U1 5
+U2 20
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0003-0554
+J9 AM POLIT SCI REV
+JI Am. Polit. Sci. Rev.
+PD AUG
+PY 2012
+VL 106
+IS 3
+BP 588
+EP 606
+DI 10.1017/S0003055412000251
+PG 19
+WC Political Science
+SC Government & Law
+GA 032XN
+UT WOS:000310753800007
+ER
+
+PT J
+AU Paumgarten, F
+   Kassa, H
+   Zida, M
+   Moeliono, M
+AF Paumgarten, Fiona
+   Kassa, Habtemariam
+   Zida, Mathurin
+   Moeliono, Moira
+TI Benefits, Challenges, and Enabling Conditions of Collective Action to
+   Promote Sustainable Production and Marketing of Products from Africa's
+   Dry Forests
+SO REVIEW OF POLICY RESEARCH
+LA English
+DT Article
+DE Burkina Faso; collective action; dry forests; Ethiopia; forest products;
+   markets; producer organizations; Zambia
+ID RURAL-DEVELOPMENT; VALUE CHAINS; ORGANIZATIONS; INSTITUTIONS;
+   MANAGEMENT; ACCESS; POOR
+AB Collective action has been identified, by governments and nongovernmental organizations, as a mechanism to improve smallholder farmers' bargaining power and access to input and output markets. In many developing countries, supporting collective action has and continues to be an important policy instrument. However, in the collection and marketing of forest products, recognition of and support for producer organizations, is limited. Data, from focus group discussions, key informant interviews, and an analysis of formal producer organizations' functioning and organizational aspects, were used to examine the motives, benefits, challenges, and enabling conditions of collective action in promoting the sustainable production and marketing of shea, frankincense, and honey from dry forests in Burkina Faso, Ethiopia, and Zambia, respectively. Lessons and key recommendations, including those related to policy, are presented on how collective action through formal producer organizations could be assisted to promote responsible forest products collection and marketing practices that benefit small-scale producers in Africa's dry forests.
+C1 [Paumgarten, Fiona] Univ Witwatersrand, ZA-2050 Wits, South Africa.
+RP Paumgarten, F (reprint author), Univ Witwatersrand, ZA-2050 Wits, South Africa.
+OI Paumgarten, Fiona/0000-0002-4400-9731
+CR Anderson A., 2004, CHANCE CHANGE CHOICE
+   Barham J, 2009, FOOD POLICY, V34, P53, DOI 10.1016/j.foodpol.2008.10.002
+   Poteete AR, 2008, WORLD DEV, V36, P176, DOI 10.1016/j.worlddev.2007.02.012
+   Scherr SJ, 2003, INT FOR REV, V5, P67, DOI 10.1505/IFOR.5.1.67.17423
+   Kaganzi E, 2009, FOOD POLICY, V34, P23, DOI 10.1016/j.foodpol.2008.10.004
+   Merry F, 2006, INT FOREST REV, V8, P211, DOI 10.1505/ifor.8.2.211
+   Shackleton S, 2011, INT FOREST REV, V13, P136, DOI 10.1505/146554811797406642
+   Agrawal A, 2001, WORLD DEV, V29, P1649, DOI 10.1016/S0305-750X(01)00063-8
+   Markelova H, 2009, FOOD POLICY, V34, P1, DOI 10.1016/j.foodpol.2008.10.001
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   Meinzen-Dick R, 2004, AGR SYST, V82, P197, DOI 10.1016/j.agsy.2004.07.006
+   Bernard T, 2009, FOOD POLICY, V34, P60, DOI 10.1016/j.foodpol.2008.08.001
+   Barrett CB, 2008, FOOD POLICY, V33, P299, DOI 10.1016/j.foodpol.2007.10.005
+   Gruere G, 2009, FOOD POLICY, V34, P39, DOI 10.1016/j.foodpol.2008.10.006
+   Bernard T, 2008, WORLD DEV, V36, P2188, DOI 10.1016/j.worlddev.2007.10.010
+   te Velde DW, 2006, FOREST POLICY ECON, V8, P725, DOI 10.1016/j.forpol.2005.06.010
+   Markelova H, 2010, REV POLICY RES, V27, P621, DOI 10.1111/j.1541-1338.2010.00462.x
+   Antinori C., 2004, WORLD DEV, V55, P1529
+   Bruns B., 2004, COLLECTIVE ACTION PR, V15/16, P31
+   Chauhan KVS, 2008, INT FOREST REV, V10, P201, DOI 10.1505/ifor.10.2.201
+   Dialla E, 2005, SERIE DOCUMENTS TRAV
+   Gibson C., 2000, PEOPLE FORESTS COMMU, P227
+   Johnson N., 2004, COLLECTIVE ACTION PR, V13/16, P27
+   Kassa H., 2011, OPPORTUNITIES CHALLE
+   KASSA H., 2011, PRELIMINARY VALUE CH
+   Kazoora C., 2006, IIED SMALL MEDIUM FO, V15
+   Komarudin H., 2007, RES WORKSH COLL ACT
+   Macqueen D, 2008, IIED SMALL MEDIUM FO, V23
+   Macqueen D., 2006, IIED GATEKEEPER SERI, V125
+   Markelova H., 2006, RES WORKSH COL UNPUB
+   Marshall G, 1988, DICT SOCIOLOGY
+   McCarthy N, 2004, COLLECTIVE ACTION PR, V4/16, P9
+   Ostrom E, 2004, COLLECTIVE ACTION PR, V2/16, P5
+   Penrose-Buckley C., 2007, PRODUCER ORG GUIDE D
+   Poteete AR, 2004, DEV CHANGE, V35, P435, DOI 10.1111/j.1467-7660.2004.00360.x
+   Thomas R., 2003, IIED SMALL MEDIUM FO
+   TORDOFF W, 1994, J S AFR STUD, V20, P285, DOI 10.1080/03057079408708400
+   Vermeulen S., 2008, CHAIN WIDE LEARNING
+   White A, 2002, WHO OWNS WORLDS FORE
+NR 39
+TC 0
+Z9 0
+U1 2
+U2 18
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1541-132X
+J9 REV POLICY RES
+JI Rev. Policy Res.
+PD MAR
+PY 2012
+VL 29
+IS 2
+BP 229
+EP 250
+DI 10.1111/j.1541-1338.2011.00549.x
+PG 22
+WC Political Science; Public Administration
+SC Government & Law; Public Administration
+GA 901CC
+UT WOS:000300938300005
+ER
+
+PT J
+AU Brunner, N
+   Starkl, M
+AF Brunner, Norbert
+   Starkl, Markus
+TI Financial and economic determinants of collective action: The case of
+   wastewater management
+SO ENVIRONMENTAL IMPACT ASSESSMENT REVIEW
+LA English
+DT Article
+DE Case study; Cost allocation; Fairness; Economic assessment;
+   Self-organization
+ID SUSTAINABILITY; POLICIES; AID
+AB Where public environmental funds support development of wastewater infrastructure, funding institutions ensure the economic use of funds, while the beneficiaries minimize their own costs. In rural areas, there is often a choice between decentralized or centralized (multi-village) systems: if the centralized system is most economic, then only this system is eligible for public funding. However, its implementation requires a voluntary cooperation of the concerned communities, who need to organize themselves to develop and run the infrastructure. The paper analyzes the social determinants of collaboration in a generic case study, using the following variables: method of (economic) assessment, modeled by the social discount rate, funding policy, modeled by the funding rate, and users' self-organization, modeled by cost sharing. In a borderline situation, where the centralized system turns out to be most economic, but this assessment is contingent on the assessment method, collective action may fail: the advantages of collective action from funding are too small to outweigh organizational deficiencies. Considering in this situation sanitation as a human right, authors recommend using innovative forms of organization and, if these fail, reassessing either the amount of funding or the eligibility for funding of more acceptable alternatives. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Starkl, Markus] Univ Nat Resources & Life Sci DIB, Competence Ctr Decis Aid Environm Management, A-1180 Vienna, Austria.
+   [Brunner, Norbert] Ctr Environm Management & Decis Support, A-1180 Vienna, Austria.
+RP Starkl, M (reprint author), Univ Nat Resources & Life Sci DIB, Competence Ctr Decis Aid Environm Management, Gregor Mendel Str 33, A-1180 Vienna, Austria.
+EM norbert.brunner@cemds.org; markus.starkl@boku.ac.at
+CR Aadland D, 2004, J ECON BEHAV ORGAN, V53, P495, DOI 10.1016/S0167-2681(03)00099-4
+   Albuquerque C, 2009, Al HRC/12/24
+   Brunner N, 2004, ENVIRON IMPACT ASSES, V24, P441, DOI 10.1016/j.eiar.2003.12.001
+   Brunner N, 2010, J POLICY MODEL, V32, P544, DOI 10.1016/j.jpolmod.2010.04.001
+   O'Faircheallaigh C, 2010, ENVIRON IMPACT ASSES, V30, P19, DOI 10.1016/j.eiar.2009.05.001
+   Torres M, 2006, J URBAN ECON, V59, P104, DOI 10.1016/j.jue.2005.09.003
+   Tsagarakis KP, 2005, WA SCI TECHNOL, V5, P1
+   Jouini E, 2010, J ECON THEORY, V145, P830, DOI 10.1016/j.jet.2010.01.002
+   Hermes N, 2001, J DEV STUD, V37, P1, DOI 10.1080/713601080
+   [Anonymous], 1956, P AM MATH SOC, DOI DOI 10.1090/S0002-9939-1956-0078686-7
+   Ramsey FP, 1928, ECON J, V38, P543, DOI 10.2307/2224098
+   Faber MH, 2003, RELIAB ENG SYST SAFE, V80, P173, DOI 10.1016/S0951-8320(03)00027-9
+   Walker G, 2010, ENVIRON IMPACT ASSES, V30, P312, DOI 10.1016/j.eiar.2010.04.005
+   Buchholz W, 2010, EUR J POLIT ECON, V26, P372, DOI 10.1016/j.ejpoleco.2009.11.011
+   Barraque B, 2003, NAT RESOUR FORUM, V27, P200, DOI 10.1111/1477-8947.00055
+   Weitzman ML, 2001, AM ECON REV, V91, P260, DOI 10.1257/aer.91.1.260
+   Gollier C, 2010, J ECON THEORY, V145, P812, DOI 10.1016/j.jet.2009.10.001
+   Dinar A, 2004, NAT RESOUR FORUM, V28, P112, DOI 10.1111/j.1477-8947.2004.00078.x
+   Antonioli B., 2001, UTIL POLICY, V10, P181, DOI 10.1016/S0957-1787(02)00065-6
+   ASCE, 2005, US INFR REP CARD
+   Bank World, 2002, Private sector development strategy
+   Black PE, 2007, Conservation of water and related land resources
+   Brown S. J., 1986, THEORY PUBLIC UTILIT
+   Bruce C, 2006, ECOL ECON, V59, P275, DOI 10.1016/j.ecolecon.2005.10.015
+   EPA, 2002, EPA-821-R-02-002, Appendix E2
+   EPA, 2000, Draft guidelines for management of onsite/decentralized wastewater systems
+   EPA, 2008, CLEAN WAT NEEDS SURV
+   Hamid H, 2009, Centralized and decentralized wastewater management in Malaysia
+   JMP, 2008, WHO and UNICEF joint monitoring program for water supply and sanitation report
+   LAWA, 2005, Guidelines for cost comparisons (KVR-Leitlinien)
+   Moulin H., 2002, HDB SOCIAL CHOICE WE, P289
+   Mueller D.C., 2003, PUBLIC CHOICE, VIII
+   OECD, 2004, Global forum on sustainable development: financing water and environmental infrastructure for all
+   Savedoff W, 1999, SPILLED WATER I COMM
+   Spulger N, 1994, Economics of water resources: from regulation to privatization
+   Starkl M, 2009, J ENVIRON MANAGE, V90, P1030, DOI 10.1016/j.jenvman.2008.03.012
+   Water Science and Technology Board, 2002, PRIV WAT SERV US ASS
+   Whittington D., 2003, Water Policy, V5, P61
+   Willetts J, 2007, V206, P1
+   Zhuang J, 2007, THEORY PRACTICE CHOI
+NR 40
+TC 8
+Z9 8
+U1 0
+U2 9
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0195-9255
+J9 ENVIRON IMPACT ASSES
+JI Environ. Impact Assess. Rev.
+PD JAN
+PY 2012
+VL 32
+IS 1
+BP 140
+EP 150
+DI 10.1016/j.eiar.2011.07.001
+PG 11
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 859JZ
+UT WOS:000297874000016
+ER
+
+PT J
+AU Shiferaw, B
+   Hellin, J
+   Muricho, G
+AF Shiferaw, Bekele
+   Hellin, Jon
+   Muricho, Geoffrey
+TI Improving market access and agricultural productivity growth in Africa:
+   what role for producer organizations and collective action institutions?
+SO FOOD SECURITY
+LA English
+DT Article
+DE Producer organizations; Collective action; Market access; Technology
+   adoption; Smallholder agriculture; Sub-Saharan Africa
+ID RURAL-DEVELOPMENT; SOUTHERN AFRICA; CONTRACT; SMALLHOLDERS;
+   COOPERATIVES; INNOVATION; ADOPTION; LESSONS; FARMERS; POOR
+AB The history of producer organizations in sub-Saharan Africa (SSA) is a mixed one. In the past, producer organizations often failed to provide desired services due to dependence on government support, which led to heavy political interference as well as internal leadership and managerial problems. However, the hasty retreat of the state following adjustment and market liberalization reforms left an institutional void that the private sector has failed to fill. This study reviews the role that producer organizations can play, and the challenges they face in improving access to markets and technologies for enhancing productivity of smallholder agriculture in SSA in the post-adjustment era. The paper critically examines the evidence for improving access to markets, information and technologies, and the conditions that facilitate the success of producer organizations in providing such services. Emphasis is on the characteristics of user groups, institutional arrangements, governance mechanisms, types of products (staples, perishables and other commodities), and the role of the public and private sector service providers. We conclude that while recent experiences are mixed, good governance, more homogeneous and optimal group size, transparency and market orientation can enhance the role of producer organizations in improving access to markets. However, ideally these organizations need to prioritise agribusiness opportunities over social welfare objectives even though this may mean that some households are unable to take advantage of them. Donors and governments have important roles to play in stimulating the emergence and development of economically viable and self-sustaining producer organizations. The private sector is also critical in terms of providing producer organizations with financial and business development services.
+C1 [Shiferaw, Bekele; Muricho, Geoffrey] Int Maize & Wheat Improvement Ctr CIMMYT, Nairobi, Kenya.
+   [Hellin, Jon] Int Maize & Wheat Improvement Ctr CIMMYT, El Batan, Mexico.
+RP Shiferaw, B (reprint author), Int Maize & Wheat Improvement Ctr CIMMYT, Nairobi, Kenya.
+EM b.shiferaw@cgiar.org; j.hellin@cgiar.org; g.muricho@cgiar.org
+OI Shiferaw, Bekele/0000-0002-3645-320X
+CR Ajayi A. O., 2006, J AGR ED EXTENSION, V12, P97, DOI [10.1080/13892240600861567, DOI 10.1080/13892240600861567]
+   Key N, 1999, WORLD DEV, V27, P381, DOI 10.1016/S0305-750X(98)00144-2
+   Kaganzi E, 2009, FOOD POLICY, V34, P23, DOI 10.1016/j.foodpol.2008.10.004
+   Simmons P, 2005, AGR ECON, V33, P513, DOI 10.1111/j.1574-0864.2005.00096.x
+   Poulton C, 2006, DEV POLICY REV, V24, P243, DOI 10.1111/j.1467-7679.2006.00324.x
+   Klerkx Laurens, 2009, International Journal of Agricultural Resources Governance and Ecology, V8, P409
+   Robertson B, 2010, FOOD SECUR, V2, P271, DOI 10.1007/s12571-010-0068-1
+   Kassie M, 2011, WORLD DEV, V39, P1784, DOI 10.1016/j.worlddev.2011.04.023
+   Wollni M, 2007, AGR ECON-BLACKWELL, V37, P243, DOI 10.1111/j.1574-0862.2007.00270.x
+   Narrod C, 2009, FOOD POLICY, V34, P8, DOI 10.1016/j.foodpol.2008.10.005
+   Masakure O, 2005, WORLD DEV, V33, P1721, DOI 10.1016/j.worlddev.2005.04.016
+   Devaux A, 2009, FOOD POLICY, V34, P31, DOI 10.1016/j.foodpol.2008.10.007
+   Markelova H, 2009, FOOD POLICY, V34, P1, DOI 10.1016/j.foodpol.2008.10.001
+   Matuschke I, 2009, AGR ECON-BLACKWELL, V40, P493, DOI 10.1111/j.1574-0862.2009.00393.x
+   Poulton C, 2010, WORLD DEV, V38, P1413, DOI 10.1016/j.worlddev.2009.06.009
+   DEJANVRY A, 1991, ECON J, V101, P1400, DOI 10.2307/2234892
+   Hellin J, 2009, FOOD POLICY, V34, P16, DOI 10.1016/j.foodpol.2008.10.003
+   Bernard T, 2008, AGR ECON-BLACKWELL, V39, P147, DOI 10.1111/j.1574-0862.2008.00324.x
+   Bernard T, 2009, FOOD POLICY, V34, P60, DOI 10.1016/j.foodpol.2008.08.001
+   Echanove F, 2005, GEOGR J, V171, P166, DOI 10.1111/j.1475-4959.2005.00157.x
+   Kristjanson P, 2005, AGR ECON-BLACKWELL, V32, P195, DOI 10.1111/j.0169-5150.2005.00338.x
+   Hulme D, 2003, WORLD DEV, V31, P403, DOI 10.1016/S0305-750X(02)00222-X
+   Barrett CB, 2008, FOOD POLICY, V33, P299, DOI 10.1016/j.foodpol.2007.10.005
+   Gruere G, 2009, FOOD POLICY, V34, P39, DOI 10.1016/j.foodpol.2008.10.006
+   Staal S, 1997, WORLD DEV, V25, P779, DOI 10.1016/S0305-750X(96)00138-6
+   Shiferaw B, 2008, NAT RESOUR FORUM, V32, P25, DOI 10.1111/j.1477-8947.2008.00167.x
+   Kranton RE, 1996, AM ECON REV, V86, P830
+   Dorward A, 2004, J MOD AFR STUD, V42, P343, DOI 10.1017/S0022278X04000229
+   Kelly V, 2003, FOOD POLICY, V28, P379, DOI 10.1016/j.foodpol.2003.08.006
+   Schipmann C, 2010, AGR ECON-BLACKWELL, V41, P361, DOI 10.1111/j.1574-0862.2010.00438.x
+   Jayne TS, 2002, WORLD DEV, V30, P1967, DOI 10.1016/S0305-750X(02)00115-8
+   WHITE TA, 1995, WORLD DEV, V23, P1683
+   Berdegue J., 2001, THESIS WAGENINGEN U
+   Berdegue J., 2002, WHEELBARROWS FULL FR, P333
+   Best R., 2006, ACTA HORTIC, V703, P39
+   BUCKLEY CP, 2007, PRODUCER ORG GUIDE D
+   Chirwa E., 2005, NATURAL RESOURCE PER, V99
+   COULTER J, 1999, NATURAL RESOURCE PER, V48
+   Davis K., 2004, Journal of Agricultural Education and Extension, V10, P53, DOI 10.1080/13892240485300101
+   DIGREGORIO M, 2011, COLLECTIVE ACTION PR
+   DORWARD A, 2005, DEV CHANGE, V361, P1
+   Gabre-Madhin E., 2001, 124 IFPRI, P12
+   Gehlar M., 2005, USDA AGR INFORM B, P5
+   HITCHENS R, 2004, MAKING BUSINESS SERV
+   HOLLOWAY G, 2002, 48 ILRI SOC POL RES
+   Hussi P., 1993, 199 WORLD BANK
+   JERA J, 2008, AGREKON, V47, P379
+   Johnson N., 2001, WATER POLICY, V3, P507
+   KHERELLAH M, 2000, ROAD HALF TRAVELLED
+   Kruijssen F., 2007, LEISA Magazine, V23, P6
+   KYDD J, 2002, 121 AGREN OV DEV I
+   Kydd J., 2004, Journal of International Development, V16, P951, DOI 10.1002/jid.1157
+   LELE U, 1989, 2 MADIA WORLD BANK
+   LUNDY M, 2002, GLOB AGR RES C 25 27
+   MEINZENDICK R, 2004, 2020 VISION FOOD AGR
+   Miehlbradt A. O., 2003, DEV COMMERCIAL MARKE
+   Muyanga M., 2008, J AGR ED EXTENSION, V14, P111, DOI 10.1080/13892240802019063
+   Ozor N., 2007, J AGR ED EXTENSION, V13, P23, DOI 10.1080/13892240601162072
+   Paalhaar J, 2011, VEGETABLE PRODUCTION AND MARKETING IN AFRICA: SOCIO-ECONOMIC RESEARCH, P97, DOI 10.1079/9781845936495.0097
+   Pingali P., 2005, 0508 ESA FAO AGR DEV
+   Poulton C., 2005, FUT SMALL FARMS WORK
+   Ramirez R., 2005, Journal of Agricultural Education and Extension, V11, P1, DOI 10.1080/13892240585300031
+   Reardon T., 2005, USDA AGR INFORM B, V794, P47
+   Rehber E, 2004, OUTLOOK AGR, V33, P85
+   RUNGE CF, 1981, AM J AGR ECON, V63, P595, DOI 10.2307/1241202
+   Shepherd A.W., 2007, 13 UN FAO
+   Shiferaw B., 2009, African Journal of Agricultural and Resource Economics, V3, P1
+   Sievers M, 2007, WORLD DEV, V35, P1341, DOI 10.1016/j.worlddev.2007.04.002
+   STOCKBRIDGE M, 2003, PRODUCER ORG MARKET
+   Stringfellow R., 1997, ODI NATURAL RESOURCE, P20
+   Swanson B E., 2006, J AGR ED EXTENSION, V12, P285, DOI 10.1080/13892240601062488
+   Thompson J, 2009, CHALLENGES OPPORTUNI
+   Vorley B, 2007, REGOVERNING MARKETS
+   WOLF T, 1986, IDS BULL-I DEV STUD, V17, P47
+   WOLLNI M, 2010, AGR EC, V4, P373
+   World Bank, 2008, WORLD DEV REP 2008 A
+   World Bank, 2002, WORLD DEV REP 2002 B
+NR 77
+TC 9
+Z9 10
+U1 4
+U2 28
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1876-4517
+J9 FOOD SECUR
+JI Food Secur.
+PD DEC
+PY 2011
+VL 3
+IS 4
+BP 475
+EP 489
+DI 10.1007/s12571-011-0153-0
+PG 15
+WC Food Science & Technology
+SC Food Science & Technology
+GA 858XP
+UT WOS:000297836900008
+ER
+
+PT J
+AU Montero, MDJ
+   Juarez, JR
+AF Jimenez Montero, Manuel de Jesus
+   Ramirez Juarez, Javier
+TI COLLECTIVE ACTION AND FARMERS' SOCIAL MOVEMENTS IN LATIN AMERICA
+SO INTERCIENCIA
+LA Spanish
+DT Article
+AB This work attempts a theoretical approximation to collective action and social movements, so as to approach the farmers' movements for the defense of their territories and rural development. In a brief review of the concepts of collective action and social movements, the central postulates of the theory of the New Social Movements (NSM) are revised, underscoring its origin, definitions of form and contents about such movements. Criticism is centered on the questioning of the predominance of aspects of cultural order in this theory, and on the differentiation of social movements in Europe and Latin America regarding claims, organic forms and repertoire of collective actions. Concerning farmer' social movements it is pointed out that the fight for land continues to be in their center transformed in the concept of territory under their occupation and defense, without impairing other claims of cultural order This takes place fundamentally as a response to a new wave of privatizations in Latin America, which is oriented in particular to natural and strategic resources. In this sense, current farmer's social movements is a response to changes of structural nature, but their specific actions and their possible social effect are inscribed in political dynamics, where, intuitively or explicitly, they express and demand a new development modality for the countryside.
+C1 [Jimenez Montero, Manuel de Jesus; Ramirez Juarez, Javier] Colegio Postgrad, Puebla 72760, Mexico.
+   [Jimenez Montero, Manuel de Jesus] Inst Super Ciencias Agropecuarias La Habana, Havana, Cuba.
+RP Montero, MDJ (reprint author), Colegio Postgrad, Campus Puebla,Km 125-5,Carretera Fed Mexico Puebl, Puebla 72760, Mexico.
+EM mjimenezm@colpos.mx
+CR Meinzen-Dick R, 2004, AGR SYST, V82, P197, DOI 10.1016/j.agsy.2004.07.006
+   BADA RS, 2008, APROXIMACIONES NEUVO
+   CISNEROS SA, 2001, CRITICA MOVIMIENTOS
+   DELGADO SR, 2005, ANALISIS MARCOS ACCI
+   DESOUSA SB, 2001, OSAL, V5, P177
+   FUNES RMJ, 2003, MOVIMIENTOS SOCIALES, P1
+   GARCES DM, 2003, MOVIMIENTOS SOCIALES, P1
+   GONZALEZ GA, 2006, CIRCUNSTANCIA, V10, P1
+   JIMENEZ SC, 2006, MEM 7 C LAT AM SOC A
+   MELUCCI A, 1995, SOCIOLOGICA, V10, P1
+   MELUCCI A., 1999, ACCION COLECTIVA VID
+   MELUCCI A, 1986, ESTUDIOS POLITICOS N, V5, P67
+   MILLER MLM, 2004, ESTUDIOS FRONTERIZOS, V5, P107
+   MUNERA RL, 1993, HIST CRITICA, V7, P55
+   OSLENDER U, 2002, SCRIPTA NOVA, V4
+   PINEIRO D, 2004, BUSCA IDENTIDAD ACCI
+   RED P, 2008, OSAL, V9, P228
+   REVILLA BM, 1996, ULTIMA DECADA, P1
+   ROBLES MJM, 2007, REV INT SOCIOL, V65, P185
+   RUBIO B, 2006, COMERCIO EXTERIOR, V56, P1047
+   SCHETTINI P, 1997, ULTIMA DECADA, P1
+   Seoane J., 2006, Sociedade e Estado, V21, P85, DOI 10.1590/S0102-69922006000100006
+   TAMAYO FS, 1995, SOCIOLOGICA, V10, P1
+   Touraine Alain, 1984, RETOUR ACTEUR
+   Zibechi R., 2003, OSAL, V9, P185
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 2
+PU INTERCIENCIA
+PI CARACAS
+PA APARTADO 51842, CARACAS 1050A, VENEZUELA
+SN 0378-1844
+J9 INTERCIENCIA
+JI Interciencia
+PD SEP
+PY 2010
+VL 35
+IS 9
+BP 704
+EP 708
+PG 5
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 651GL
+UT WOS:000281915400015
+ER
+
+PT J
+AU Planas, J
+AF Planas, Jordi
+TI Identities, Corporatism and Empowerment of Peasantry in Agrarian
+   Collective Action. Catalonia, 1890-1920
+SO HISTORIA AGRARIA
+LA Spanish
+DT Article
+DE Identities; Collective Action; Peasantry; Agrarian Organizations;
+   Agricultural Chambers; Catalonia
+AB The aim of this article is to analyze social identities through the study of agricultural associations. At the beginning of the twentieth century some landowners promoted a new agricultural associationism that tried to integrate peasants by offering co-operative services. It was a different kind of associations compared to those that were set up by landlords during the nineteenth century.
+   By focusing on the analysis of agricultural chambers-a kind of associations that was more dynamic in Catalonia than in other Spanish regions-the present article tries to answer the following questions: Why did landowners promote these new associations at the beginning of the twentieth century? What was the contribution of this new associationism to the development of social identities in rural society, and also to the prevention of social conflicts? What was the influence of corporatist identities among peasantry?
+C1 Univ Barcelona, Dept Hist & Inst Econ, Barcelona 08034, Spain.
+RP Planas, J (reprint author), Univ Barcelona, Dept Hist & Inst Econ, Av Diagonal 696, Barcelona 08034, Spain.
+EM j.planas@ub.edu
+CR ALDENHOFF-HUBINGER R, 2006, HIST EUROPE RURALE C, P163
+   BADHURI A, 1991, POWER EC I REINTERPR, P53
+   BADHURI A., 1998, HIST AGRARIA, V15, P15
+   BERGER S, 1975, PAYSANS POLITIQUE OR
+   BOSCH P, 2007, COOPERATIVA AGRICOLA, P41
+   BRELOT C. I., 1996, CAH HIST, V41, P199
+   CABO M, 2000, TORNO 98 ESPANA TRAN, V1, P537
+   CABO M, 1999, THESIS U SANTIAGO CO
+   CABO M, 1998, AGRARISMO
+   Cabo Miguel, 2006, HIST EUROPE RURALE C, P222
+   CAMPLLONCH I, 1919, PENEDES          ENE
+   CASTILLO J. J., 1979, PROPIETARIOS MUY POB
+   Cleary M. C., 1989, PEASANTS POLITICIANS
+   CREUS T, 1906, MANUAL SINDICATS AGR
+   DEBOLADERAS G, 1897, TERRUNO         0825
+   DERIQUER B, 1987, AVENC, V100, P78
+   DURAN Jose Antonio, 1977, AGRARISMO MOVILIZACI
+   ESTUDILLO AL, 1986, FEDERACION TRA UNPUB
+   FERRER L, 1991, HIST CIUTAT MANRESA, V2, P192
+   GALLEGO D., 2007, MAS EC MERCADO CONDI
+   GARRABOU R., 2001, CAPITALISME IMPOSSIB
+   GARRABOU R, 1991, MISCEL LANIA HOMENAT, P81
+   Garrido S., 2007, RURAL HIST, V18, P183
+   Garrido Samuel, 1996, TREBALLAR COMU COOPE
+   Gavalda Antoni, 1989, ASS AGRARI CATALUNYA
+   HIRSCHMAN A, 1996, TENDENCIAS AUTOSUBVE, P15
+   HIRSCHMAN A, 1997, SALIDA VOZ LEALTAD R
+   HUBSCHER R, 1998, POLITISATION CAMPAGN, P135
+   Hubscher R., 1997, RURALIA, V1, P65
+   HUBSCHER R, 1993, ANN ECON SOC CIVIL, V48, P109, DOI 10.3406/ahess.1993.279121
+   Johnston H, 1994, NEW SOCIAL MOVEMENTS, P3
+   KONING N, 1996, FAILURE AGRARIAN CAP
+   LOPEZ Alberte MARTINEZ, 1989, COOPERATIVISMO CATOL
+   MALATESTA M., 1999, ARISTOCRAZIE TERRIER
+   MALATESTA M, 1997, HIST EC SOC, V2, P203
+   MARTINEZCARNER P, 1999, ELS INICIS CATALANIS
+   MASPONS J, 1906, AGREMIACIO AGRICOLA
+   MASULLO G, 1990, STORIA AGRICOLTURA I, V2, P5
+   MAYAUD JL, 1994, ANN I ALCIDE CERVI, V14, P119
+   MAYAUD JL, 1998, SOLIDARITATS PAGESES, P731
+   MAYAYO A, 1995, PAGESOS CIUTADANS CE
+   MUNIZ L, 1924, ACCION SOCIAL AGRARI
+   Olson M., 1971, LOGIC COLLECTIVE ACT
+   PANMONTOJO J, 2006, HIST EUROPE RURALE C, P138
+   PANMONTOJO J, 1997, HIST EC SOC, V2, P167
+   Pan-Montojo J., 1994, BODEGA MUNDO VID VIN
+   PECOUT G, 1997, HIST SOCIAL, V29, P89
+   PLANAS J, 2004, RECERQUES, V49, P73
+   PLANAS J, 1994, CATALANISME AGRARISM
+   PLANAS J, 1991, PROPIETARIS ORGANITZ
+   PLANAS J, 2003, AIGUARDENT CAVA PROC, P239
+   PLANAS J, 2008, REV ESPANOLA ESTUDIO, V127, P13
+   Planas J., 2003, HIST AGRAR, V30, P87
+   PLANAS J, 1998, ESTUDIS HIST AGRARIA, V12, P109
+   Planas Jordi, 2006, PROPIETARIS ASS AGRA
+   POMES J, 2002, ASS POPULAR CATALUNY
+   Pomes Jordi, 2000, UNIO RABASSAIRES
+   PONCE S, 1999, TRANSFORMACIONS AGRI
+   PRIETO LF, 1998, AGR SOC, V86, P133
+   RAMON JM, 1999, SINDICALISME AGRARI
+   RAVENTOS J, 1922, CALENDARI PAGES, P78
+   RAVENTOS M, 1896, RESUMEN AGR      FEB
+   ROVIRA P, 1909, PROCESO AGRICOL 0331
+   SAGUER E, 1998, REV HIST EC, V16, P677
+   Santesmases Josep, 1996, COOPERATIVISME AGRAR
+   SANZ G, 2005, CAMPO CONSERVADOR OR
+   SANZ G, 2006, HIST EUROPE RURALE C, P117
+   SAUMELL A, 1998, THESIS U POMPEU FABR
+   Saumell Antoni, 2002, VITICULTURA ASS CATA
+   Sen A. K., 2006, IDENTITY VIOLENCE
+   SEN Amartya, 2000, DESARROLLO LIBERTAD
+   TARDA J, 1991, REPUBLICANS CATALANI
+   Tarrow Sidney, 1997, PODER MOVIMIENTO MOV
+   TELLO E., 2005, HIST CUENTA CRECIMIE
+   VILLARES R, 1992, RECERQUES, V26, P89
+NR 75
+TC 2
+Z9 2
+U1 0
+U2 2
+PU SOC ESPANOLA HIST AGRARIA
+PI GIRONA
+PA UNIV GIRONA, FAC LLETRES, PLACA FERRATER MORA, GIRONA, 1-17071, SPAIN
+SN 1139-1472
+J9 HIST AGRAR
+JI Hist. Agrar.
+PD APR
+PY 2010
+IS 50
+BP 65
+EP +
+PG 27
+WC History
+SC History
+GA 572SW
+UT WOS:000275854400003
+ER
+
+PT J
+AU Classen, L
+   Humphries, S
+   Fitzsimons, J
+   Kaaria, S
+   Jimenez, J
+   Sierra, F
+   Gallardo, O
+AF Classen, Lauren
+   Humphries, Sally
+   Fitzsimons, John
+   Kaaria, Susan
+   Jimenez, Jose
+   Sierra, Fredy
+   Gallardo, Omar
+TI Opening Participatory Spaces for the Most Marginal: Learning from
+   Collective Action in the Honduran Hillsides
+SO WORLD DEVELOPMENT
+LA English
+DT Article
+DE elite capture; community-driven development; participation; Honduras;
+   Central America
+ID COMMUNITY-DRIVEN DEVELOPMENT; CHRONIC POVERTY; ELITE CAPTURE;
+   EMPOWERMENT; INDONESIA; RESOURCE; LESSONS; GENDER; RISK
+AB Community-driven development faces considerable criticism for excluding the poor. A series of participatory, qualitative, and quantitative assessments of a participatory agricultural initiative in rural Honduras shows that the project, once susceptible to elite capture, over time shifted to include the "most marginal." Participating farmers-both men and women-demonstrated significant improvements in well-being and new-found capabilities relative to non-participants. Opening a space for the most marginal was achieved through long-term commitment by it local NGO to the principle of inclusiveness, and to research and capability development beyond the guiding methodology for establishing local agricultural research committees (CIALs). (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Classen, Lauren] Univ Toronto, Toronto, ON M5S 1A1, Canada.
+   [Humphries, Sally; Fitzsimons, John] Univ Guelph, Guelph, ON N1G 2W1, Canada.
+   [Kaaria, Susan] Ford Fdn, Nairobi, Kenya.
+RP Classen, L (reprint author), Univ Toronto, Toronto, ON M5S 1A1, Canada.
+CR Agarvval A., 1999, WORLD DEV, V27, P629
+   Platteau JP, 2003, WORLD DEV, V31, P1687, DOI 10.1016/S0305-750X(03)00138-4
+   Ruben R, 2001, WORLD DEV, V29, P549, DOI 10.1016/S0305-750X(00)00107-8
+   Bebbington A, 1997, GEOGR J, V163, P189, DOI 10.2307/3060182
+   Agarwal B, 2001, WORLD DEV, V29, P1623, DOI 10.1016/S0305-750X(01)00066-3
+   CHAMBERS R, 1994, WORLD DEV, V22, P1253, DOI 10.1016/0305-750X(94)90003-5
+   Pretty J, 2001, WORLD DEV, V29, P209, DOI 10.1016/S0305-750X(00)00098-X
+   Kesby M, 2005, SIGNS, V30, P2037, DOI 10.1086/428422
+   Platteau JP, 2002, J DEV STUD, V39, P104, DOI 10.1080/00220380412331322771
+   Sanginga PC, 2006, AGR HUM VALUES, V23, P501, DOI 10.1007/s10460-006-9018-0
+   Fritzen SA, 2007, WORLD DEV, V35, P1359, DOI 10.1016/j.worlddev.2007.05.001
+   Platteau JP, 2004, DEV CHANGE, V35, P223, DOI 10.1111/j.1467-7660.2004.00350.x
+   Hulme D, 2003, WORLD DEV, V31, P403, DOI 10.1016/S0305-750X(02)00222-X
+   Conning J, 2002, WORLD DEV, V30, P375, DOI 10.1016/S0305-750X(01)00119-X
+   Thorp R, 2005, WORLD DEV, V33, P907, DOI 10.1016/j.worlddev.2004.09.016
+   [Anonymous], 2001, PARTICIPATION NEW TY
+   Bird K, 2003, WORLD DEV, V31, P591, DOI 10.1016/S0305-750X(02)00220-6
+   Cleaver F, 2005, WORLD DEV, V33, P893, DOI 10.1016/j.worlddev.2004.09.015
+   Kumar S, 2002, J DEV STUD, V39, P73, DOI 10.1080/00220380412331322761
+   Botchway K, 2001, WORLD DEV, V29, P135, DOI 10.1016/S0305-750X(00)00084-X
+   Fox J, 1996, WORLD DEV, V24, P1089, DOI 10.1016/0305-750X(96)00025-3
+   Bebbington A, 2004, J DEV STUD, V40, P33, DOI 10.1080/0022038042000218134
+   Molyneux M, 2002, DEV CHANGE, V33, P167, DOI 10.1111/1467-7660.00246
+   Dasgupta A, 2007, DEV CHANGE, V38, P229, DOI 10.1111/j.1467-7660.2007.00410.x
+   Mansuri G, 2004, WORLD BANK RES OBSER, V19, P1, DOI 10.1093/wbro/lkh012
+   Appadurai Arjun, 2004, CULTURE PUBLIC ACTIO
+   Ashby J., 2000, INVESTING FARMERS RE
+   *ASOCIAL, 2008, PART RES CONS RUR LI
+   BEAUDETTE A, 1999, THESIS U GUELPH ONTA
+   Bebbington A, 1999, ECON GEOGR, V75, P395, DOI 10.2307/144478
+   Braun A. R., 2000, 105 AGREN ODI
+   Campbell C., 1999, SOCIAL CAPITAL HLTH
+   CHAMBERS R, 1983, RURAL DEV PUTTING LA
+   Classen L., 2003, THESIS U GUELPH ONTA
+   Cleaver F., 1999, Journal of International Development, V11, P597, DOI 10.1002/(SICI)1099-1328(199906)11:4<597::AID-JID610>3.0.CO;2-Q
+   Cleaver F., 2001, Participation: the new tyranny?, P36
+   Coelho V. S., 2007, SPACES CHANGE POLITI
+   Cornwall A., 2004, PARTICIPATION TYRANN, P75
+   CUESTA J, 2007, J LAT AM STUD, V39, P239
+   Ferguson James, 1994, ANTIPOLITICS MACHINE
+   Gaventa J, 2004, PARTICIPATION TYRANN
+   GOLDBIS M, 2005, COUNTRIES CROSSROADS
+   Guijt I, 1998, MYTH COMMUNITY
+   Hickey Samuel, 2004, PARTICIPATION TYRANN
+   Holdcroft L., 1984, AGR DEV 3 WORLD
+   HUMPHREYS M, 2006, WORLD POLIT, V58, P586
+   HUMPHRIES S, 1999, SEARCHING SUSTAINABL, P1
+   Humphries S., 2008, PARTICIPATORY RES CO
+   HUMPHRIES S, 1996, MIGRANTS DAIRY FARME
+   HUMPHRIES S, 2005, LINKING SMALL FARMER, P1
+   HUMPHRIES S, 2000, SEARCHING SUSTAINABL, P1
+   HUMPHRIES S, 2006, BRINGING FARMERS BAC
+   JANSEN H, 2005, C POV IN POL LAT AM
+   Jansen K, 1998, POLITICAL ECOLOGY MO
+   MAYOUX Linda, 2005, J INT DEV, V17, P271, DOI DOI 10.1002/JID.1214
+   MORRIS S, 1999, WILL RURAL DEV ENHAN
+   Mosse D, 1997, DEV CHANGE, V28, P467, DOI 10.1111/1467-7660.00051
+   MOSSE D, 2006, EC DEV CULTURAL CHAN, V59, P695
+   Narayan D., 1999, 2167 WORLD BANK POV
+   Nelson N., 1995, POWER PARTICIPATORY
+   ORTEGA H, 2005, MASCULINIDAD FACTORE
+   PENDER J, 2002, INNOVATION NATURAL R
+   PROBST K, 2002, THESIS HOHENHEIM U G
+   RAHNEMA M, 1997, DEV DICT GUIDE KNOWL
+   Roling N.G., 1998, FACILITATING SUSTAIN
+   Sen A., 1995, PUBLIC SPENDING POOR, P11
+   Sen A., 1999, DEV FREEDOM
+   Sen A., 1984, RESOURCES VALUES DEV
+   Simons P. R. J., 1997, ACTIVE LEARNING STUD
+   Stalheim-Smith A., 1998, FOCUSING ACTIVE MEAN
+   *UN WORLD FOOD PRO, 2005, HOND MARK PROF EM FO
+   *UN WORLD FOOD PRO, 2003, AN CART VULN INS AL
+   Uphoff N. T., 1984, LOCAL ORG INTERMEDIA
+   Wiggins S., 2001, Development Policy Review, V19, P427, DOI 10.1111/1467-7679.00142
+   WILLIAMS G, 2004, PARTICIPATION TYRANN
+   WOODHILL J, 1998, FACILIATING SUSTAINA
+   WOOLCOCK M, 2001, CANADIAN J POLICY RE, V0002
+   World Bank, 2004, 31192HN WORLD BANK, VI
+   ZAKARAKIS J, 2005, ADULT ED Q, V55, P288
+NR 79
+TC 16
+Z9 16
+U1 1
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0305-750X
+J9 WORLD DEV
+JI World Dev.
+PD NOV
+PY 2008
+VL 36
+IS 11
+BP 2402
+EP 2420
+DI 10.1016/j.worlddev.2008.04.007
+PG 19
+WC Economics; Planning & Development
+SC Business & Economics; Public Administration
+GA 375MD
+UT WOS:000261117100018
+ER
+
+PT J
+AU Beard, VA
+   Dasgupta, A
+AF Beard, Victoria A.
+   Dasgupta, Aniruddha
+TI Collective action and community-driven development in rural and urban
+   Indonesia
+SO URBAN STUDIES
+LA English
+DT Article
+ID COMMON PROPERTY; NEIGHBORHOOD CHANGE; SOCIAL COHESION; GROUP-SIZE;
+   POLICY; INSTITUTIONS; GOVERNMENT; FRAMEWORK; POLITICS; SYSTEMS
+AB The article analyses differences in collective action in rural and urban communities that participated in a poverty alleviation project in Indonesia. It was found that the main determinants of collective action are relationships among multiscalar social, political and historical factors, internal and external to communities. Two distinct forms of collective action are also identified. The first form is based on community cohesion, stable social relationships and adherence to social hierarchy. The second form is based on a community's perception of an interdependent future and a shared desire for structural change. Both forms of collective action are effective in delivering project resources to beneficiaries; however, only the second form demonstrates potential for social transformation.
+C1 Univ Calif Irvine, Dept Planning Policy & Design, Irvine, CA 92697 USA.
+   World Bank, Infrastruct Dept, E Asia & Pacific Urban Dev Unit, Washington, DC 20433 USA.
+RP Beard, VA (reprint author), Univ Calif Irvine, Dept Planning Policy & Design, Social Ecol 1, Irvine, CA 92697 USA.
+EM vbeard@uci.edu; adasgupta@worldbank.org
+CR ABERS R., 2000, INVENTING LOCAL DEMO
+   Agrawal A., 2000, PEOPLE FORESTS COMMU, P57
+   Alvarez S., 1990, ENGENDERING DEMOCRAC
+   Anderson Benedict R. O'Gorman, 2001, VIOLENCE STATE SUHAR
+   Sidel JT, 1997, J ASIAN STUD, V56, P947, DOI 10.2307/2658295
+   Agrawal A, 1999, WORLD DEV, V27, P629, DOI 10.1016/S0305-750X(98)00161-2
+   Woolcock M, 1998, THEOR SOC, V27, P151, DOI 10.1023/A:1006884930135
+   Beard VA, 2002, J PLAN EDUC RES, V22, P15, DOI 10.1177/0739456X0202200102
+   Campbell B, 2001, WORLD DEV, V29, P589, DOI 10.1016/S0305-750X(00)00114-5
+   Meyer DS, 2004, ANNU REV SOCIOL, V30, P125, DOI 10.1146/annurev.soc.30.012703.110545
+   Temkin K, 1996, J PLAN EDUC RES, V15, P159, DOI 10.1177/0739456X9601500301
+   Agrawal A, 2001, WORLD DEV, V29, P1649, DOI 10.1016/S0305-750X(01)00063-8
+   Friedkin NE, 2004, ANNU REV SOCIOL, V30, P409, DOI 10.1146/annurev.soc.30.012703.110625
+   Shirlow P, 2004, URBAN STUD, V41, P57, DOI 10.1080/0042098032000155687
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   [Anonymous], 1998, SEEING LIKE STATE CE
+   Beard DA, 2005, PHYSIOL GENOMICS, V23, P1, DOI 10.1152/physiolgenomics.00117.2005
+   Bunnell T, 2002, URBAN STUD, V39, P1685, DOI 10.1080/00420980220151727
+   Antlov H, 2003, B INDONES ECON STUD, V39, P193, DOI 10.1080/00074910302013
+   Forrest R, 2001, URBAN STUD, V38, P2125, DOI 10.1080/00420980120087081
+   Platteau JP, 2004, DEV CHANGE, V35, P223, DOI 10.1111/j.1467-7660.2004.00350.x
+   Daniere A, 2002, GROWTH CHANGE, V33, P453, DOI 10.1111/1468-2257.00206
+   Woolcock M, 2000, WORLD BANK RES OBSER, V15, P225
+   Paldam M, 2000, J ECON SURV, V14, P629, DOI 10.1111/1467-6419.00127
+   SCHWIRIAN KP, 1983, ANNU REV SOCIOL, V9, P83, DOI 10.1146/annurev.so.09.080183.000503
+   Thompson EC, 2004, URBAN STUD, V41, P2357, DOI 10.1080/00420980412331297573
+   Das Gupta M, 2004, J DEV STUD, V40, P27, DOI 10.1080/0022038042000213193
+   [Anonymous], 1989, MODERNIST CITY ANTHR
+   Carpenter JP, 2004, URBAN STUD, V41, P853, DOI 10.1080/0042098042000194142
+   Webster C, 2003, URBAN STUD, V40, P2591, DOI 10.1080/0042098032000146803
+   Galster G, 2001, URBAN STUD, V38, P2111, DOI 10.1080/00420980120087072
+   Narayan D, 1999, ECON DEV CULT CHANGE, V47, P871, DOI 10.1086/452436
+   [Anonymous], 1990, LOGIC PRACTICE
+   Shatkin G, 2000, URBAN STUD, V37, P2357, DOI 10.1080/00420980020002841
+   Mayer M, 2003, INT J URBAN REGIONAL, V27, P110, DOI 10.1111/1468-2427.00435
+   Mansuri G, 2004, WORLD BANK RES OBSER, V19, P1, DOI 10.1093/wbro/lkh012
+   Baland JM, 1996, HALTING DEGRADATION
+   Barker J., 2001, VIOLENCE STATE SUHAR, P20
+   Beard V. A., 2003, PLANNING THEORY, V2, P13, DOI 10.1177/1473095203002001004
+   Boudreau Vincent, 2002, SOCIAL MOVEMENTS IDE, P28
+   Bourdieu P., 1986, DISTINCTION SOCIAL C, DOI Routledge
+   BOWEN JR, 1986, J ASIAN STUD, V45, P545, DOI 10.2307/2056530
+   Bromley Daniel W., 1992, MAKING COMMONS WORK
+   CHAMBERL.J, 1974, AM POLIT SCI REV, V68, P707, DOI 10.2307/1959515
+   Coleman J., 1990, FDN SOCIAL THEORY
+   Coleman J. S., 1988, AM J SOCIOL, V94, P95, DOI DOI 10.1086/228943
+   Dasgupta P., 2000, SOCIAL CAPITAL MULTI
+   Diani M., 2003, SOCIAL MOVEMENTS NET
+   Durkheim E., 1893, DIVISION LABOR SOC
+   ESCOBAR A, 1992, MAKING SOCIA MOVEMEN
+   Escobar Arturo, 1995, ENCOUNTERING DEV MAK
+   FIEN B, 2001, SOCIAL CAPITAL VERSU
+   FLANAGAN WG, 1993, CONT URBAN SOCIOLGOY
+   Friedmann J., 1987, PLANNING PUBLIC DOMA
+   FRIEDMANN J, 1989, INT J URBAN REGIONAL, V13, P501
+   Friend T., 2003, INDONESIAN DESTINIES
+   Gans H., 1962, URBAN VILLAGERS
+   GEERTZ C, 1962, ECON DEV CULT CHANGE, V10, P241, DOI 10.1086/449960
+   Gibson C. C., 2000, PEOPLE FORESTS COMMU
+   GISNBURG N, 1991, EXTENDED METROPOLIS
+   Goodwin J., 2004, RETHINKING SOCIAL MO
+   Grootaert C., 2002, ROLE SOCIAL CAPITAL
+   GUINNES SP, 1986, HARMONY HIERARCHY JA
+   Hallman H. W., 1984, NEIGHBOURHOODS THEIR
+   Hardin Garrett, 1968, SCIENCE, V162, p[1243, 1248]
+   Harriss J., 2001, DEPOLITICIZING DEV W
+   HUNTER A, 1979, URBAN AFF REV, V14, P267, DOI 10.1177/107808747901400301
+   Hunter Albert J., 1972, SOCIAL CONSTRUCTION, P44
+   Jellinek L., 1991, WHEEL FORTUNE HIST P
+   Jones G, 1997, ASIA PACIFIC VIEWPOI, V38, P237, DOI 10.1111/1467-8373.00045
+   Kabeer N, 1999, REVERSED REALITIES G
+   KOENTJARANINGRA, 1961, SOME SOCIAL ANTHR OB
+   Kollock P, 1998, ANNU REV SOCIOL, V24, P183, DOI 10.1146/annurev.soc.24.1.183
+   Lin N., 2001, SOCIAL CAPITAL THEOR, P3
+   Loury Glenn, 1977, WOMEN MINORITIES EMP, P153
+   McAdam D., 2001, DYNAMICS CONTENTION
+   MCGEE TG, 1991, EXTENDED METROPOLIS, P3
+   MEAGAN R, 2001, URBAN STUD, V38, P2167
+   Meyer D., 2002, SOCIAL MOVEMENTS IDE
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   Peattie Lisa Redfield, 1968, VIEW BARRIO
+   Portes A, 1998, ANNU REV SOCIOL, V24, P1, DOI 10.1146/annurev.soc.24.1.1
+   Poteete AR, 2004, DEV CHANGE, V35, P435, DOI 10.1111/j.1467-7660.2004.00360.x
+   Putnam R., 1993, MAKING DEMOCRACY WOR
+   QUIGGIN J, 1993, WORLD DEV, V21, P1123, DOI 10.1016/0305-750X(93)90003-R
+   Redfield R., 1941, FOLD CULTURE YUCATAN
+   Rigg J., 1997, SE ASIA HUMAN LANDSC
+   SNADLER T, 1992, COLLECTIVE ACTION TH
+   Snow D., 2004, BLACKWELL COMPANION
+   Sullivan J., 1992, LOCAL GOVT COMMUNITY
+   SUTTLE GD, 1968, SOCIAL ORDER SLUM ET
+   Suttles Gerald D., 1972, SOCIAL CONSTRUCTION
+   Tarrow Sidney, 1998, POWER MOVEMENT
+   Timothy MITCHELL, 2002, RULE EXPERTS EGYPT T
+   Tonnies Ferdinand, 1955, COMMUNITY ASS
+   VLEDED T, 2000, J DEV STUD, V36, P105
+   Whyte W. F., 1943, STREET CORNER SOC
+   *WORLD BANK, 1999, PROJ APPR DOC IND UR
+   WRITH L, 1927, GHETTO
+NR 99
+TC 13
+Z9 13
+U1 3
+U2 12
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0042-0980
+J9 URBAN STUD
+JI Urban Stud.
+PD AUG
+PY 2006
+VL 43
+IS 9
+BP 1451
+EP 1468
+DI 10.1080/00420980600749944
+PG 18
+WC Environmental Studies; Urban Studies
+SC Environmental Sciences & Ecology; Urban Studies
+GA 070PB
+UT WOS:000239534000002
+ER
+
+PT J
+AU Adhikari, H
+AF Adhikari, H
+TI Poverty, property rights and collective action: understanding the
+   distributive aspects of common property resource management
+SO ENVIRONMENT AND DEVELOPMENT ECONOMICS
+LA English
+DT Article
+ID RURAL-DEVELOPMENT; POOR; FORESTS; DETERMINANTS; INEQUALITY; IMPACT;
+   INDIA; NEPAL
+AB This study examines, in a developing-country context, the contribution of community forestry to household income with particular emphasis on group heterogeneity and equity in benefit distribution. The economic analysis of household-level benefits reveals that poorer households are currently benefiting less in absolute terms from community forestry than less poor households. In terms of the contribution of forests to total household income, the study results suggest that the poor are actually less dependent on forests than the rich, a finding that is somewhat contradictory to results from other similar studies. The average 'poor' household obtains Nepalese rupees (Nrs) 7,756 gross income from community forest annually, while the more 'rich' households obtain on average Nrs 24,466 per year. In terms of the contribution of forests to net household incorne, the study results seem to suggest an inverted U-shaped relationship as income increases dependency on forest resources may decline. Econometric analysis suggests that income from the community forests is related to socio-economic attributes and private endowments of households. Households with land and livestock assets and upper caste households gain more from the commons, while better-educated households depend less on forest resources. Female-headed households benefit less from community forests, further aggravating the inequity in distribution of benefits. The study makes a number of recommendations to improve community forestry in Nepal.
+C1 Univ York, Dept Environm, York YO10 5DD, N Yorkshire, England.
+RP Adhikari, H (reprint author), Univ York, Dept Environm, York YO10 5DD, N Yorkshire, England.
+EM bpa100@york.ac.uk
+CR Bhim Adhikari, 2001, Journal of Forest and Livelihood, V1, P22
+   Adhikari B., 2002, Journal of Forest and Livelihood, V2, P3
+   ADHIKARI B, 2002, T COSTS COMMON PROPE
+   AMACHER GS, 1993, J DEV STUD, V30, P206, DOI 10.1080/00220389308422311
+   Adger WN, 2000, ECOL ECON, V35, P75, DOI 10.1016/S0921-8009(00)00169-5
+   Beck T, 2000, ECON POLIT WEEKLY, V35, P147
+   Baland JM, 1997, OXFORD ECON PAP, V49, P451
+   Campbell B, 2001, WORLD DEV, V29, P589, DOI 10.1016/S0305-750X(00)00114-5
+   Godoy R, 1998, LAND ECON, V74, P162, DOI 10.2307/3147048
+   GODOY R, 1993, ECON BOT, V47, P220, DOI 10.1007/BF02862288
+   Molinas JR, 1998, WORLD DEV, V26, P413, DOI 10.1016/S0305-750X(97)10066-3
+   Varughese G, 2001, WORLD DEV, V29, P747, DOI 10.1016/S0305-750X(01)00012-2
+   Dayton-Johnson J, 2000, J DEV ECON, V62, P181, DOI 10.1016/S0304-3878(00)00080-8
+   BERNARD HR, 1984, ANNU REV ANTHROPOL, V13, P495
+   Kumar S, 2002, WORLD DEV, V30, P763, DOI 10.1016/S0305-750X(02)00004-9
+   Beck T, 2001, WORLD DEV, V29, P119, DOI 10.1016/S0305-750X(00)00089-9
+   Gunatilake HM, 1998, J ENVIRON MANAGE, V53, P273, DOI 10.1006/jema.1998.0201
+   Heltberg R, 2001, ENVIRON DEV ECON, V6, P183, DOI 10.1017/S1355770X01000110
+   Baland JM, 1996, HALTING DEGRADATION
+   BARDHAN P, 2000, HETEROGENEITY COMMON
+   Beck T., 1994, EXPERIENCE POVERTY F
+   BECK T, 1998, C INT ASS STUD COMM
+   Beteille A., 1983, EQUALITY INEQUALITY
+   Bokil MS, 1996, ECON POLIT WEEKLY, V31, P2254
+   BRANNEY P, 1994, MID TERM REV NEPALS
+   Cavendish W, 1999, POVERTY INEQUALITY E
+   CAVENDISH W, 1998, COMPLEXITIES COMMONS
+   CHOPRA K, 1990, STUDIES EC DEV PLANN
+   Dasgupta P., 1993, INQUIRY WELL BEING D
+   FOX JM, 1983, THESIS U WISCONSIN M
+   GASPERT F, 1999, PARTICIPATION CONSTR
+   Grossman L., 1996, ANN ASSOC AM GEOGR, V71, P220
+   Hanna S., 1995, PROPERTY RIGHTS ENV, P3
+   HECHT SB, 1988, HUM ORGAN, V47, P25
+   HILL I., 1998, 394 WORLD BANK
+   *HMGN MPFS, 1988, MASTER PLAN FORESTRY
+   Holden S. T., 1998, Environment and Development Economics, V3, P105, DOI 10.1017/S1355770X98000060
+   Iyengar S., 1989, EC POLITICAL WE 0624, pA67
+   IYENGER S, 1999, COMMON PROPERTY LAND
+   JODHA NS, 1995, ECON POLIT WEEKLY, V30, P556
+   JODHA NS, 1986, ECON POLIT WEEKLY, V21, P169
+   Kant S, 2000, ECOL ECON, V32, P287, DOI 10.1016/S0921-8009(99)00100-7
+   Knight J., 1992, I SOCIAL CONFLICTS
+   MAJONE G, 1993, 9312 EUI SPS
+   Malla Y. B., 2000, Unasylva (English ed.), V51, P37
+   MCKEAN M, 1992, P C COMM PROP RES MA, P533
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   PASA S, 1992, ECON POLIT WEEKLY, V28, P2499
+   Richards M, 1999, PARTICIPATORY EC ANA
+   Karam Singh, 1996, Indian Journal of Agricultural Economics, V51, P249
+   SPRINGATEBAGINS.O, 2000, SCH ENV DEV SERIES, V3
+   THAPA S, 1998, BNUKCEP55
+   Tsur Y., 1995, 1460 WORLD BANK
+   Velded T., 2000, J DEV STUD, V36, P105, DOI [10.1080/00220380008422648, DOI 10.1080/00220380008422648]
+   Wade R., 1994, VILLAGE REPUBLICS EC
+   WOLLENBERG E, 1999, INCOMES FOREST METHO, P157
+NR 56
+TC 14
+Z9 14
+U1 4
+U2 15
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH ST, NEW YORK, NY 10011-4211 USA
+SN 1355-770X
+J9 ENVIRON DEV ECON
+JI Environ. Dev. Econ.
+PD FEB
+PY 2005
+VL 10
+BP 7
+EP 31
+DI 10.1017/S1355770X04001755
+PN 1
+PG 25
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 905QD
+UT WOS:000227583400001
+ER
+
+PT J
+AU Meinzen-Dick, R
+   DiGregorio, M
+   McCarthy, N
+AF Meinzen-Dick, R
+   DiGregorio, M
+   McCarthy, N
+TI Methods for studying collective action in rural development
+SO AGRICULTURAL SYSTEMS
+LA English
+DT Editorial Material
+DE research methods; collective action; institutions; social capital
+ID COOPERATION; IRRIGATION; INSTITUTIONS; MANAGEMENT; EMERGENCE; INDIA
+AB With renewed recognition of the importance of collective action in many aspects of agriculture, natural resource management, and rural development programmes in developing countries, there is a need for research on the factors that affect its emergence, as well as its performance. Yet because of its dynamic nature, collective action is difficult to measure and study. This article discusses ways of conceptualising collective action to provide researchers from various disciplines with a basic framework for understanding and studying collective action. It highlights specific features of collective action that are relevant to identify best practice methodological approaches and research techniques. The main part of the paper then describes how collective action can be operationalised, highlighting the strengths and weaknesses of different methods, as well as discussing complementarities among methods. This discussion provides an overview for subsequent studies in this special issue, which present applications of qualitative, quantitative, experimental, and action research methods for studying collective action. (C) 2004 Elsevier Ltd. All rights reserved.
+C1 Int Food Policy Res Inst, Washington, DC 20006 USA.
+RP Meinzen-Dick, R (reprint author), Int Food Policy Res Inst, 2033 K St NW, Washington, DC 20006 USA.
+EM r.meinzen-dick@cgiar.org; m.digregorio@cgiar.org; n.mccarthy@cgiar.org
+OI Meinzen-Dick, Ruth/0000-0003-4782-3074
+CR Agrawal A., 2002, DRAMA COMMONS
+   BARDHAN P, 1993, WORLD DEV, V21, P633, DOI 10.1016/0305-750X(93)90115-P
+   Agrawal A, 2001, WORLD DEV, V29, P1649, DOI 10.1016/S0305-750X(01)00063-8
+   Pretty J, 2001, WORLD DEV, V29, P209, DOI 10.1016/S0305-750X(00)00098-X
+   Bardhan P, 2000, ECON DEV CULT CHANGE, V48, P847, DOI 10.1086/452480
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   Meinzen-Dick R, 2002, WORLD DEV, V30, P649, DOI 10.1016/S0305-750X(01)00130-9
+   Gladwin CH, 2002, WORLD DEV, V30, P523, DOI 10.1016/S0305-750X(02)00002-5
+   [Anonymous], 1994, RULES GAMES COMMON P
+   AXELROD R, 1981, AM POLIT SCI REV, V75, P306, DOI 10.2307/1961366
+   WHITE TA, 1995, WORLD DEV, V23, P1683
+   UPHOFF N, 1990, HUM ORGAN, V49, P26
+   BADSTUE LB, 2002, 2020 CIMMYT
+   Bain J., 1959, IND ORG
+   Baland JM, 1996, HALTING DEGRADATION
+   BECKER GS, 1976, J ECON LIT, V14, P817
+   Bromley Daniel W., 1992, MAKING COMMONS WORK
+   Coleman J. S., 1988, AM J SOCIOL, V94, P95, DOI DOI 10.1086/228943
+   Dasgupta P., 2000, SOCIAL CAPITAL MULTI
+   Eggertsson Thrainn, 1990, EC BEHAV I
+   Gordon Marshall, 1998, DICT SOCIOLOGY
+   Kanbur R., 2003, Q SQUARED COMBINING
+   KNOX A, 2001, COLLECTIVE ACTION PR
+   Marwell G., 1993, CRITICAL MASS COLLEC
+   Oakerson R. J., 1992, MAKING COMMONS WORK
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   Ostrom E, 1992, MAKING COMMONS WORK
+   OSTROM E, 1994, J THEOR POLIT, V6, P527, DOI 10.1177/0951692894006004006
+   Ostrom E., 1999, SOCIAL CAPITAL MULTI
+   Ostrom Elinor, 1991, GOVERNING COMMONS EV
+   PLACE F, 2002, INNOVATION NATURAL R
+   Pritchett L., 1997, 1796 WORLD BANK
+   Putnam R., 1993, MAKING DEMOCRACY WOR
+   Robins R, 2002, PHYTOCHEMISTRY, V60, P1
+   Runge C. F., 1992, Making the commons work: theory, practice, and policy., P17
+   Sandler T., 1992, COLLECTIVE ACTION TH
+   Schmid A. A., 2000, J SOCIOECONOMICS, V29, P159, DOI 10.1016/S1053-5357(00)00059-7
+   Seabright Paul, 1997, ENV EMERGING DEV ISS
+   Swallow B., 2002, WATER POLICY, V3, P457, DOI DOI 10.1016/S1366-7017(02)00011-9
+   Tang S., 1992, I COLLECTIVE ACTION
+   TUBIN D, 1912, ADAPTATION ADOPTION
+   Uphoff N., 2000, SOCIAL CAPITAL MULTI
+   Uphoff N., 1986, LOCAL I DEV ANAL SOU
+   Wilson J., 2002, DRAMA COMMONS
+NR 44
+TC 43
+Z9 44
+U1 2
+U2 18
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0308-521X
+J9 AGR SYST
+JI Agric. Syst.
+PD DEC
+PY 2004
+VL 82
+IS 3
+BP 197
+EP 214
+DI 10.1016/j.agsy.2004.07.006
+PG 18
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA 871OK
+UT WOS:000225142800001
+ER
+
+PT J
+AU Brunori, G
+   Rossi, A
+AF Brunori, G
+   Rossi, A
+TI Synergy and coherence through collective action: Some insights from wine
+   routes in Tuscany
+SO SOCIOLOGIA RURALIS
+LA English
+DT Article
+AB A wine route can be seen as a network established around the theme of wine. The impressive economic impact that the establishment of the Costa degli Etruschi wine route has had on the farms involved is traced back in this article to the collective action that produces synergies and coherence. Synergies can be defined as linkages between two or more entities, whose joint effort produces quantitatively and qualitatively higher effects than those produced by the efforts of the same entities alone. Coherence is a duality belonging to the elements that constitute the context of action in successful rural development practices: natural and man-made environment, social networks, and symbolic systems. The process of creating coherence is not without conflict, and the article contends that the establishment of coherence needs a hegemonic strategy that involves all sources of empowerment and particularly cultural codes.
+C1 Univ Pisa, Dipartimento Econ Agr, Pisa, Italy.
+RP Brunori, G (reprint author), Univ Pisa, Dipartimento Econ Agr, Pisa, Italy.
+RI brunori, Gianluca/E-1687-2014
+OI brunori, Gianluca/0000-0003-2905-9738
+CR Amin A., 1994, GLOBALIZATION I REGI
+   Ray C, 1999, SOCIOL RURALIS, V39, P521
+   van der Ploeg JD, 2000, SOCIOL RURALIS, V40, P391, DOI 10.1111/1467-9523.00156
+   Kinsella J, 2000, SOCIOL RURALIS, V40, P481, DOI 10.1111/1467-9523.00162
+   Ray C, 1998, SOCIOL RURALIS, V38, P3, DOI 10.1111/1467-9523.00060
+   BENVENUTI B, 1975, SOCIOL RURALIS, V15, P47
+   BOURDIEU P, 1987, HDB THEORY RES SOCIO
+   BRUNORI G, 1990, AGR COMPRENSORIO IND
+   CAPELLO R, 1995, TECHNOLOGICAL CHANGE
+   CASTELLS M, 1998, RISE NETWORK SOC, V2
+   Costanza R, 1997, FRONTIERS ECOLOGICAL
+   Featherstone M., 1999, SPACES CULTURE CITY
+   GATTI S, 1997, TYPICAL TRADITIONAL
+   Gramsci Antonio, 1977, QUADERNI CARCERE, V4
+   Harrison B., 1994, LEAN MEAN CHANGING L
+   HENDERSON DR, 1998, FUTURE FOOD
+   IACOPONI L, 1997, QUADERNI, V7
+   KRUGMAN P, 1994, FOREIGN AFFAIRS  MAR
+   Latour B., 1986, POWER ACTION BELIEF
+   Latour B., 1987, SCI ACTION FOLLOW SC
+   Morroni M., 1992, PRODUCTION PROCESS T
+   PASTORE R, 1997, CHE STRADA SIAMO
+   Peters T., 1992, LIBERATION MANAGEMEN
+   PUTNAM R, 1993, TRADIZIONE CIVICE RE
+   RULLANI E, 1998, RASSEGNA EC
+   Saxenian A., 1994, REGIONAL ADVANTAGE C
+   Throsby D., 1999, Journal of Cultural Economics, V23, P3, DOI 10.1023/A:1007543313370
+   WHATMORE S, 1998, GLOBALISING FOOD AGR
+   WILLIAMS B, 1988, STRATEGIC FIDUCIA
+NR 29
+TC 80
+Z9 87
+U1 1
+U2 18
+PU BLACKWELL PUBL LTD
+PI OXFORD
+PA 108 COWLEY RD, OXFORD OX4 1JF, OXON, ENGLAND
+SN 0038-0199
+J9 SOCIOL RURALIS
+JI Sociol. Rural.
+PD OCT
+PY 2000
+VL 40
+IS 4
+BP 409
+EP +
+DI 10.1111/1467-9523.00157
+PG 16
+WC Sociology
+SC Sociology
+GA 371YY
+UT WOS:000165207900002
+ER
+
+PT J
+AU Mearns, R
+AF Mearns, R
+TI Community, collective action and common grazing: The case of
+   post-socialist Mongolia
+SO JOURNAL OF DEVELOPMENT STUDIES
+LA English
+DT Review
+ID RURAL-DEVELOPMENT; LOCAL COMMONS; STATE; PROPERTY; INSTITUTIONS;
+   RESOURCES; ORGANIZATIONS; MANAGEMENT; POLICY
+AB This article applies collective-action and transaction-cost theory to the theoretical debate around the management of common property regimes (CPRs), with supporting evidence from recent empirical research in Mongolian pastoralism. Rather than treating CPR management as an activity in isolation, as much of the existing literature tends to do, this study examines the use of common grazing in the context of other aspects of pastoral livelihoods The more a given group of herders find reason to co-operate with each other across a range of activities, it is argued, the more likely it is that they will also overcome the transaction costs invoked in controlling the use of the commons. The empirical analysis finds that incentives for cooperation were weakened under agricultural collectivisation (1950s-1980s), with possible adverse consequences for the commons. Decollectivisation from the early 1990s has seen the re-emergence of autonomous co-operation among herders, accompanied by changes in intra-community dynamics, which together suggest contradictory trends for the future management of common grazing.
+RP Mearns, R (reprint author), UNIV SUSSEX,INST DEV STUDIES,BRIGHTON BN1 9RH,E SUSSEX,ENGLAND.
+CR *ADB, 1992, MONG CTR PLANN EC TR
+   SEABRIGHT P, 1993, J ECON PERSPECT, V7, P113
+   BARDHAN P, 1993, WORLD DEV, V21, P633, DOI 10.1016/0305-750X(93)90115-P
+   HUMPHREY C, 1978, DEV CHANGE, V9, P133, DOI 10.1111/j.1467-7660.1978.tb00802.x
+   NUGENT JB, 1993, WORLD DEV, V21, P623, DOI 10.1016/0305-750X(93)90114-O
+   SCOONES I, 1991, AMBIO, V20, P366
+   GOLDSTEIN MC, 1989, ASIAN SURV, V29, P619, DOI 10.1525/as.1989.29.6.01p02834
+   [Anonymous], 1990, I I CHANGE EC PERFOR
+   CIRIACYWANTRUP SV, 1975, NAT RESOUR J, V15, P713
+   RUNGE CF, 1986, WORLD DEV, V14, P623, DOI 10.1016/0305-750X(86)90128-2
+   MCCABE JT, 1990, HUM ECOL, V18, P81, DOI 10.1007/BF00889073
+   HARDIN G, 1968, SCIENCE, V162, P1243
+   SCHELLING TC, 1973, J CONFLICT RESOLUT, V17, P381, DOI 10.1177/002200277301700302
+   Aubin Francoise, 1993, CAHIERS ETUDES MEDIT, Vxvi, P137
+   BARDHAN P, 1993, J ECON PERSPECT, V7, P87
+   Barfield T.J., 1993, NOMADIC ALTERNATIVE
+   Bawden Charles R., 1989, MODERN HIST MONGOLIA
+   Baxter P., 1990, PROPERTY POVERTY PEO
+   BAZARGUR D, 1992, 1 PALD U SUSS
+   Behnke R., 1994, Development Policy Review, V12, P5, DOI 10.1111/j.1467-7679.1994.tb00053.x
+   BERKES F, 1992, MAR POLICY, V10, P215
+   BOONE P, 1994, J COMP ECON, V18, P329, DOI 10.1006/jcec.1994.1051
+   BRAUTIGAM D, 1991, 815 WORLD BANK
+   Bromley Daniel W., 1992, MAKING COMMONS WORK
+   BROMLEY DW, 1984, AM J AGR ECON, V66, P868, DOI 10.2307/1241017
+   Brown William A., 1976, HIST MONGOLIAN PEOPL
+   CAMPBELL BMS, 1992, MAKING COMMONS WORK
+   Cernea M. M., 1993, Sustainable Development (Bradford), V1, P18, DOI 10.1002/sd.3460010207
+   CHONG D, 1992, INT POLIT SCI REV, V13, P171, DOI 10.1177/019251219201300203
+   Cincotta R. P., 1992, NOMADIC PEOPLES, V30, P3
+   Coleman J. S., 1987, EC IMPERIALISM EC AP
+   COLLINS P, 1993, PUBLIC ADMIN DEVELOP, V13, P389, DOI 10.1002/pad.4230130407
+   COOPER L, 1993, 8 PALD IDS U SUSS
+   Cooper L., 1993, NOMADIC PEOPLES, V33, P153
+   COUSINS B, 1993, 34B ODI PAST DEV NET
+   Dasgupta Partha, 1988, TRUST
+   DEJANVRY A, 1993, WORLD DEV, V21, P565, DOI 10.1016/0305-750X(93)90110-U
+   Eggertsson Thrainn, 1990, EC BEHAV I
+   EISTER J, 1989, CEMENT SOC STUDY SOC
+   *FAO, 1990, P INT WORKSH PAST SO
+   Fernandez-Gimenez M, 1993, NOMADIC PEOPLES, V33, P31
+   FLETCHER J, 1986, HARVARD J ASIAT STUD, V46, P11, DOI 10.2307/2719074
+   Fortmann L., 1988, WHOSE TREES PROPRIET
+   FRATKIN E, 1992, HUM ECOL, V18, P385
+   Friedman Edward, 1991, CHINESE VILLAGE SOCI
+   Goldstein MC, 1991, NOMADIC PEOPLES, V28, P105
+   HAHM H, 1994, 223 WOLRD BANK
+   HARDIN R., 1982, COLLECTIVE ACTION
+   HEALEY J, 1992, DEMOCRACY GOVT EC PO
+   HUANG PCC, 1993, MOD CHINA, V19, P216, DOI 10.1177/009770049301900207
+   *IBRD, 1994, MONG COUNTR EC MEM P
+   *IBRD, 1992, WORLD BANK COUNTR ST
+   *IRBD, 1991, MONG COUNT EC MEM MA
+   KORSUN G, 1994, 103 U MARY IRIS CTR
+   LANE C, 1989, 8 INT I ENV DEV
+   LATTIMORE O, 1980, MARXIST PERSPECTIVES, V3, P116
+   Leach M., 1991, POVERTY ENV DEV COUN
+   LEE E, 1993, INT LABOUR REV, V132, P623
+   LEONARD D, 1992, 302 IDS U SUSS
+   LING Z, 1993, CAMBRIDGE J ECON, V17, P441
+   LING Z, 1993, B CONCERN ASIA SCHOL, V25, P3
+   Longworth John W., 1993, CHINAS PASTORAL REGI
+   MCNICOLL G, 1990, POPULATION DEV REV S, V15
+   MEARNS R, 1991, IDS BULL-I DEV STUD, V22, P25
+   MEARNS R, 1996, IN PRESS CAHIERS SCI, V32
+   Mearns R., 1995, PEOPLE ENV AFRICA
+   MEARNS R, 1991, 2 PALD IDS U SUSS
+   Mearns R, 1993, NOMADIC PEOPLES, V33, P73
+   MEARNS R, 1993, 3 PALD IDS U SUSS
+   MEARNS R, 1992, RRA NOTES, V15, P29
+   MESERVE R, 1990, ALTAIC RELIGIOUS BEL
+   MOOREHEAD RM, 1991, THESIS U SUSSEX
+   MURRELL P, 1992, 32 U MAR IRIS CTR
+   NEALE WC, 1993, ECON DEV CULT CHANGE, V41, P422, DOI 10.1086/452020
+   Oakerson R. J., 1992, MAKING COMMONS WORK
+   Olson M., 1965, LOGIC COLLECTIVE ACT
+   Ostrom E, 1992, J THEORETICAL POLITI, V4, P343, DOI 10.1177/0951692892004003006
+   OSTROM E, 1992, J THEORETICAL POLITI, V4
+   Ostrom Elinor, 1990, GOVT COMMONS EVOLUTI
+   OSTRUM E, 1992, CRAFTING I SELF GOVT
+   *PALD, 1993, IMPR LIV FEED PROD M
+   PETERS P, 1987, QUESTION COMMONS CUL
+   Potkanski T., 1993, 4 PALD IDS U SUSS
+   Potkanski T., 1993, NOMADIC PEOPLES, V33, P123
+   Pryor F.L., 1992, RED GREEN RISE FALL
+   PUREV B, 1990, P INT WORKSH PAST SO
+   ROE E, 1993, AGR HUMAN VALUES, V11, P29
+   ROSENBERG D, 1981, NOMADIC PEOPLES, V9, P23
+   Rosenberg Daniel, 1981, MONGOLIAN STUDIES, V7, P17
+   Rosenberg Daniel Mark, 1977, THESIS U MINNESOTA
+   Ruddle K. E., 1992, MARINE RESOURCE EC, V7, P249
+   RUNGE CF, 1984, J POLIT, V46, P154, DOI 10.2307/2130438
+   Scoones I., 1994, LIVING UNCERTAINTY N
+   Selden Mark, 1993, POLITICAL EC CHINESE
+   SEN AK, 1967, Q J ECON, V81, P1122
+   Sheehy D.P., 1993, NOMADIC PEOPLES, V33, P17
+   SHIIRENDEV B, 1966, HIST MONGOLIAN PEOPL
+   SIMUKOV AD, 1933, CONT MONGOLIA, V3
+   SIMUKOV AD, 1934, CONT MONGOLIA, V6
+   Singleton Sara, 1992, J THEORETICAL POLITI, V4, P309, DOI [10.1177/0951692892004003004, DOI 10.1177/0951692892004003004]
+   SNEATH D, 1991, THESIS U CAMBRIDGE
+   SWIFT J, 1989, IUCN SAHEL STUDIES
+   SWIFT J, 1993, NOMADIC PEOPLES, V33
+   SZIRNEN G, 1987, AGR GEOGRAPHY MONGOL
+   SZULJENKO IF, 1954, ANIMAL HUSBANDRY MON
+   SZYNKIEWICZ S, 1977, ETHNOLOGIA POLONA, V3, P31
+   SZYNKIEWICZ S, 1982, E ASIAN CIVILIZATION, V1, P10
+   Taylor M, 1987, POSSIBILITY COOPERAT
+   TAYLOR M, 1993, POLIT SOC, V21, P195, DOI 10.1177/0032329293021002004
+   Templer G., 1993, NOMADIC PEOPLES, V33, P105
+   THIEL E, 1958, MONGOLEI LAND VOLK W
+   THOMSON JT, 1987, LAND TREES TENURE
+   Vreeland Herbert H., 1962, MONGOL COMMUNITY KIN
+   Wade R, 1988, VILLAGE REPUBLICS EC
+   WADE R, 1987, CAMBRIDGE J ECON, V11, P95
+   WHYTOCK CA, 1992, 7 U MAR IRIS CTR
+   WILSON PN, 1993, ECON DEV CULT CHANGE, V41, P299, DOI 10.1086/452012
+NR 117
+TC 45
+Z9 47
+U1 1
+U2 8
+PU FRANK CASS CO LTD
+PI LONDON
+PA 11 GAINSBOROUGH ROAD, LONDON, ENGLAND E11 1RS
+SN 0022-0388
+J9 J DEV STUD
+JI J. Dev. Stud.
+PD FEB
+PY 1996
+VL 32
+IS 3
+BP 297
+EP 339
+DI 10.1080/00220389608422418
+PG 43
+WC Economics; Planning & Development
+SC Business & Economics; Public Administration
+GA TY483
+UT WOS:A1996TY48300001
+ER
+
+PT J
+AU WHITE, TA
+   RUNGE, CF
+AF WHITE, TA
+   RUNGE, CF
+TI THE EMERGENCE AND EVOLUTION OF COLLECTIVE ACTION - LESSONS FROM
+   WATERSHED MANAGEMENT IN HAITI
+SO WORLD DEVELOPMENT
+LA English
+DT Article
+ID COMMON PROPERTY; ECONOMIC-DEVELOPMENT; RURAL-DEVELOPMENT; PUBLIC-GOODS;
+   ORGANIZATIONS; ASSURANCE; LAND
+AB The practice and theory of collective action is constrained by a dearth of rigorous empirical tests of why and how such institutions emerge and evolve, and under what conditions they can be successful. Empirical analyses of cooperative watershed management in Haiti reveal that, given a conducive environment and political leadership, groups will emerge and survive where a ''critical mass'' of individuals have practical knowledge of the potential gains from action. Emergence can be constrained in the short run by: (a) landscape factors that affect the potential net economic gain, and (b) sociocultural factors that affect the cost of constructing the new institution.
+C1 UNIV MINNESOTA,ST PAUL,MN 55108.
+RP WHITE, TA (reprint author), INTER AMER FDN,WASHINGTON,DC, USA.
+CR Acheson J. M., 1987, QUESTION COMMONS CUL
+   SUGDEN R, 1989, J ECON PERSPECT, V3, P85
+   NORTH DC, 1994, AM ECON REV, V84, P359
+   OTSUKA K, 1992, J ECON LIT, V30, P1965
+   BROMLEY DW, 1989, WORLD DEV, V17, P867, DOI 10.1016/0305-750X(89)90008-9
+   DAHLMAN CJ, 1979, J LAW ECON, V22, P141, DOI 10.1086/466936
+   FAFCHAMPS M, 1992, ECON DEV CULT CHANGE, V41, P147, DOI 10.1086/452001
+   UPHOFF N, 1993, WORLD DEV, V21, P607, DOI 10.1016/0305-750X(93)90113-N
+   WHITE TA, 1994, ECON DEV CULT CHANGE, V43, P1, DOI 10.1086/452134
+   [Anonymous], 1990, GOVERNING COMMONS EV
+   [Anonymous], 1990, I I CHANGE EC PERFOR
+   CIRIACYWANTRUP SV, 1975, NAT RESOUR J, V15, P713
+   MARWELL G, 1981, J PUBLIC ECON, V15, P295, DOI 10.1016/0047-2727(81)90013-X
+   RUNGE CF, 1986, WORLD DEV, V14, P623, DOI 10.1016/0305-750X(86)90128-2
+   HARDIN G, 1968, SCIENCE, V162, P1243
+   SUGDEN R, 1984, ECON J, V94, P772, DOI 10.2307/2232294
+   SCHLAGER E, 1994, LAND ECON, V70, P294, DOI 10.2307/3146531
+   Bardhan P. K., 1989, EC THEORY AGRARIAN I
+   Blomquist W., 1992, DIVIDING WATERS GOVE
+   BROMLEY D, 1984, AM J AGR ECON, V64, P868
+   Bromley Daniel W., 1992, MAKING COMMONS WORK
+   Brookfield H., 1987, LAND DEGRADATION SOC
+   DAWES RM, 1988, J ECON PERSPECT, V2, P187
+   DEJANVRY A, 1993, WORLD DEV, V21, P565, DOI 10.1016/0305-750X(93)90110-U
+   DION G, 1986, THESIS U MINNESOTA S
+   DRAGUN AK, 1983, J ECON ISSUES, V17, P667
+   FOSTER GM, 1965, AM ANTHROPOL, V67, P293, DOI 10.1525/aa.1965.67.2.02a00010
+   Frolich N., 1971, POLITICAL LEADERSHIP
+   GADDIS R, 1988, PEASANT GROUPS CONSE
+   Geertz C., 1963, AGR INVOLUTION PROCE
+   Gleick P. H., 1993, WATER CRISIS GUIDE W
+   GUTTMAN JM, 1982, J ECON BEHAV ORGAN, V3, P357, DOI 10.1016/0167-2681(82)90010-5
+   Hayek F A., 1960, CONSTITUTION LIBERTY
+   Herskovits Melville, 1971, LIFE HAITIAN VALLEY
+   Hirschman Albert O., 1984, GETTING AHEAD COLLEC
+   JODHA N, 1992, 169 WORLD BANK DISC
+   KORTEN D, 1990, GETTING 21 CENTURY
+   Maass A., 1986, DESERT SHALL REJOICE
+   MAGUIRE R, 1991, CARIBBEAN AFFAIRS, V2, P1
+   MCLAIN R, 1988, 95 U WISC MAD LAND T
+   Metraux A., 1972, VOODOO HAITI
+   MURRAY G, 1980, MYTHS CULTURE ESSAYS
+   MURRAY G, 1977, THESIS COLUMBIA U NE, V1
+   Murray G.F., 1979, TERRACES TREES HAITI
+   OAKERSON R, 1986, P C COMMON PROPERTY
+   OSTROM E, 1994, RULES GAINES COMMON
+   Ostrom E, 1992, J THEORETICAL POLITI, V4, P343, DOI 10.1177/0951692892004003006
+   PETERS PE, 1993, WORLD DEV, V21, P1063, DOI 10.1016/0305-750X(93)90062-E
+   Quine W. V. O., 1970, WEB BELIEF
+   RUNGE CF, 1984, J POLIT, V46, P154, DOI 10.2307/2130438
+   RUNGE CF, 1981, AM J AGR ECON, V63, P595, DOI 10.2307/1241202
+   Ruttan V., 1985, AGR DEV INT PERSPECT
+   *SAV CHILDR FED, 1990, RAPP COUVR PER AOUT
+   SCHAEDEL RP, 1962, ESSAY HUMAN RESOURCE
+   Schotter A, 1981, EC THEORY SOCIAL I
+   Singleton Sara, 1992, J THEORETICAL POLITI, V4, P309, DOI [10.1177/0951692892004003004, DOI 10.1177/0951692892004003004]
+   SMUCKER G, 1983, THESIS NEW SCH SOCIA
+   Stevenson G. G., 1991, COMMON PROPERTY EC
+   Steward J., 1955, THEORY CULTURE CHANG
+   Sugden R, 1986, EC RIGHTS COOPERATIO
+   Tang S., 1992, I COLLECTIVE ACTION
+   TAYLOR M, 1991, POLIT SOC, V21, P195
+   TROUILLOT Michel Rolph, 1990, HAITI STATE NATION O
+   UPHOFF N, 1992, LEARNING G OYA POSSI
+   Wade R, 1988, VILLAGE REPUBLICS EC
+   WHITE T, 1992, 199233 WORLD BANK EN
+   WHITE TA, 1994, THESIS U MINNESOTA M
+   Wittfogel K., 1957, ORIENTAL DESPOTISM
+   YOUNG O, 1993, BEIJER DISCUSSION PA, V43
+   Zuvekas C., 1978, WORKING DOCUMENT SER
+NR 70
+TC 41
+Z9 42
+U1 1
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0305-750X
+J9 WORLD DEV
+JI World Dev.
+PD OCT
+PY 1995
+VL 23
+IS 10
+BP 1683
+EP 1698
+PG 16
+WC Economics; Planning & Development
+SC Business & Economics; Public Administration
+GA TC693
+UT WOS:A1995TC69300004
+ER
+
+EF

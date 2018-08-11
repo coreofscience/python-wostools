@@ -1,0 +1,172 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Sen, S
+   Acharya, R
+AF Sen, S.
+   Acharya, R.
+TI A new report of Cymbidium spp. pseudobulb rot orchestrated by Erwinia
+   carotovora, Fusarium oxysporum, and Mucor hiemalis f. sp hiemalis
+SO PLANT DISEASE
+LA English
+DT News Item
+C1 Univ Calcutta, Dept Bot, Mol & Appl Mycol & Plant Pathol Lab, Kolkata, W Bengal, India.
+   Univ N Bengal, Dept Bot, Darjeeling, W Bengal, India.
+RP Sen, S (reprint author), Univ Calcutta, Dept Bot, Mol & Appl Mycol & Plant Pathol Lab, Kolkata, W Bengal, India.
+CR GILMAN JC, 1945, MANUAL SOIL FUNGI, P37
+   HOLT JG, 1984, BERGEYS MANUAL SYSTE, V1, P469
+   SUBRAMANIAM CV, 1971, HYPHOMYCETES, P657
+NR 3
+TC 2
+Z9 2
+U1 0
+U2 2
+PU AMER PHYTOPATHOLOGICAL SOC
+PI ST PAUL
+PA 3340 PILOT KNOB ROAD, ST PAUL, MN 55121 USA
+SN 0191-2917
+EI 1943-7692
+J9 PLANT DIS
+JI PLANT DIS.
+PD NOV
+PY 2006
+VL 90
+IS 11
+BP 1460
+EP 1460
+DI 10.1094/PD-90-1460C
+PG 1
+WC Plant Sciences
+SC Plant Sciences
+GA 098OW
+UT WOS:000241533700025
+ER
+
+PT J
+AU Prithiviraj, B
+   Vikram, A
+   Kushalappa, AC
+   Yaylayan, V
+AF Prithiviraj, B
+   Vikram, A
+   Kushalappa, AC
+   Yaylayan, V
+TI Volatile metabolite profiling for the discrimination of onion bulbs
+   infected by Erwinia carotovora ssp carotovora, Fusarium oxysporum and
+   Botrytis allii
+SO EUROPEAN JOURNAL OF PLANT PATHOLOGY
+LA English
+DT Article
+DE disease detection; GC/MS; post-harvest diseases; metabolomics
+ID CHROMATOGRAPHY-MASS-SPECTROMETRY; POTATO-TUBERS; ELECTRONIC NOSE;
+   DIFFERENTIATION; PCR
+AB The volatile metabolites of the headspace gas of onion bulbs inoculated with three different pathogens, Erwinia carotovora ssp. carotovora, Fusarium oxysporum and Botrytis allii, were profiled using gas chromatography/mass spectrometry. Differences in the number and amount of volatile metabolites were observed. Two hundred and fifty three volatile metabolites were detected in bulbs inoculated with three pathogens or sterile distilled water. On day three, 202 volatile metabolites were observed, compared to 166 on day six. Of the 253 compounds, however, only 59 occurred relatively consistently over replications, of which 25 compounds were specific to one or more pathogens, including 10 that were unique to a pathogen. Metabolites such as 1-Oxa-4,6-diazacyclooctane-5-thione and 4-mercapto-3-(methylthio)-zeta-(thio-lactone)-crotonic acid were exclusive to onions inoculated with F. oxysporum. Acetone, acetic acid-hydrazide, propylcarbamate, 1-bromo-1-propene, thiirane, 1-(methylthio)-E-1-propene and 1-ethenyl-4-ethyl-benzene were specific to B. allii. 3-bromo-furan was specific to E. carotovora ssp. carotovora. Sterile water-inoculated bulbs produced 3,3'-dioxy-1,2-propanediol-tetranitrate. Highest amount of sulfurs was found in pathogen-inoculated, while highest amounts of terpenes, aromatics and aliphatics were found in sterile distilled water-inoculated bulbs. The possible use of these differences in the volatile metabolites for detecting and discriminating diseases of onion in storage is discussed.
+C1 McGill Univ, Dept Plant Sci, Ste Anne De Bellevue, PQ H9X 3V9, Canada.
+RP Kushalappa, AC (reprint author), McGill Univ, Dept Plant Sci, Mcdonald Campus,21111 Lakeshore Rd, Ste Anne De Bellevue, PQ H9X 3V9, Canada.
+EM ajjamada.kushalappa@mcgill.ca
+RI Bueno, Ligia/P-1359-2014
+CR Abbey L, 2001, ANN APPL BIOL, V139, P337, DOI 10.1111/j.1744-7348.2001.tb00147.x
+   Schaad NW, 2002, CAN J PLANT PATHOL, V24, P250
+   Fiehn O, 2000, NAT BIOTECHNOL, V18, P1157, DOI 10.1038/81137
+   Kushalappa AC, 2002, PLANT DIS, V86, P131, DOI 10.1094/PDIS.2002.86.2.131
+   Magan N, 2000, J STORED PROD RES, V36, P319, DOI 10.1016/S0022-474X(99)00057-0
+   Keshri G, 2000, J APPL MICROBIOL, V89, P825, DOI 10.1046/j.1365-2672.2000.01185.x
+   Costello BPJD, 2001, PLANT PATHOL, V50, P489
+   BOELENS M, 1971, J AGR FOOD CHEM, V19, P984, DOI 10.1021/jf60177a031
+   Costello BPJD, 1999, PLANT PATHOL, V48, P345
+   HITE RE, 1973, PLANT DIS REP, V57, P760
+   Jeong Jae-Hun, 2003, Journal of Plant Biotechnology, V5, P83
+   KALLIO H, 1990, J AGR FOOD CHEM, V38, P1560, DOI 10.1021/jf00097a029
+   KALLIO H, 1994, DEV FOOD SCI, V35, P463
+   LEACH CHARLES M., 1962, CANADIAN JOUR BOT, V40, P1577
+   MAZZA G, 1980, J FOOD TECHNOL, V15, P35
+   OUELLETTE E, 1990, CAN AGR ENG, V32, P255
+   PARK ER, 2001, HANGUK SIKPUM YONGYA, V30, P1011
+   Somai BM, 2002, PLANT DIS, V86, P710, DOI 10.1094/PDIS.2002.86.7.710
+NR 18
+TC 32
+Z9 32
+U1 1
+U2 15
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0929-1873
+J9 EUR J PLANT PATHOL
+JI Eur. J. Plant Pathol.
+PD APR
+PY 2004
+VL 110
+IS 4
+BP 371
+EP 377
+DI 10.1023/B:EJPP.0000021058.81491.f8
+PG 7
+WC Agronomy; Plant Sciences; Horticulture
+SC Agriculture; Plant Sciences
+GA 805WQ
+UT WOS:000220396800004
+ER
+
+PT J
+AU Sicilia, C
+   Copeland, RB
+   Cooke, LR
+AF Sicilia, C
+   Copeland, RB
+   Cooke, LR
+TI Comparison of the interactions of Erwinia carotovora ssp atroseptica
+   with Phytophthora infestans, Phoma foveata and Fusarium coeruleum in
+   rotting potato tubers
+SO POTATO RESEARCH
+LA English
+DT Article
+DE pectic enzymes; gangrene; dry rot; tuber blight; Solanum tuberosum L
+ID PECTATE LYASE; BLACKLEG; PATHOGENESIS; ENZYMES
+AB An interaction between P. infestans and E. carotovora subsp. atroseptica (Eca) in rotting tubers was confirmed and the biochemical basis for its occurrence investigated. The pH of tissue infected with P. foveata became alkaline whereas tissue infected with P. infestans or F. coeruleum did not rise above neutrality, which could promote pathogenicity of Eca by maintaining pH closer to the optimum for polygalacturonase activity. Polygalacturonase, pectate lyase and galactanase were detected in cultures of all three fungi grown on media containing cell wall material or pectin from tubers. As P. infestans produced more polygalacturonase than the other two fungal tuber rot pathogens the possibility was investigated that oligogalacturonide products of enzymatic degradation of pectin by P. infestans stimulates pathogenicity of Eca. However, while tubers soft-rotted after infiltration with supernatant from fungal cultures grown on tuber cell wall material, controls showed that rotting resulted from infiltration rather than the products contained in the infiltrated water.
+C1 Queens Univ Belfast, Dept Appl Plant Sci, Agr & Food Sci Ctr, Belfast BT9 5PX, Antrim, North Ireland.
+   Dept Agr & Rural Dev, Appl Plant Sci Div, Belfast BT9 5PX, Antrim, North Ireland.
+RP Sicilia, C (reprint author), Queens Univ Belfast, Dept Appl Plant Sci, Agr & Food Sci Ctr, Belfast BT9 5PX, Antrim, North Ireland.
+CR PEROMBELON MCM, 1980, ANNU REV PHYTOPATHOL, V18, P361, DOI 10.1146/annurev.py.18.090180.002045
+   COLLMER A, 1986, ANNU REV PHYTOPATHOL, V24, P383, DOI 10.1146/annurev.py.24.090186.002123
+   BAIN RA, 1990, PLANT PATHOL, V39, P125, DOI 10.1111/j.1365-3059.1990.tb02483.x
+   Blodgett Earle C., 1947, PLANT DIS REPORTER, V31, P10
+   COLLMER A, 1988, METHOD ENZYMOL, V161, P329
+   Collmer A, 1982, PHYTOPATHOGENIC PROK, P395
+   COLLMER A, 1982, PHYSIOL PLANT PATHOL, V21, P127, DOI 10.1016/0048-4059(82)90032-7
+   DAVIS JR, 1983, AM POTATO J, V60, P409, DOI 10.1007/BF02877247
+   Henniger H., 1963, Z ALLG MIKROBIOL, V3, P126, DOI 10.1002/jobm.3630030204
+   HOSSAIN M, 1983, ANN APPL BIOL, V103, P63, DOI 10.1111/j.1744-7348.1983.tb02741.x
+   JARVIS MC, 1981, J EXP BOT, V32, P1309, DOI 10.1093/jxb/32.6.1309
+   LOGAN C, 1979, ANN APPL BIOL, V93, P133, DOI 10.1111/j.1744-7348.1979.tb06523.x
+   OLSSON K, 1989, J PHYTOPATHOL, V124, P225
+   PAGEL W, 1990, PHYSIOL MOL PLANT P, V37, P9, DOI 10.1016/0885-5765(90)90082-9
+   PROTSENKO M A, 1991, Prikladnaya Biokhimiya i Mikrobiologiya, V27, P411
+   STANGHELLINI ME, 1971, PHYTOPATHOLOGY, V61, P1324
+   VONMUNZERT M, 1977, NACHRICHTENBANDES DT, V29, P69
+   ZINK RT, 1982, PLANT DIS, V66, P1053
+NR 18
+TC 1
+Z9 1
+U1 2
+U2 3
+PU EUROPEAN ASSN POTATO RES
+PI WAGENINGEN
+PA POSTBUS 20, 6700 WAGENINGEN, NETHERLANDS
+SN 0014-3065
+J9 POTATO RES
+JI Potato Res.
+PY 2002
+VL 45
+IS 2-3
+BP 237
+EP 246
+DI 10.1007/BF02736118
+PG 10
+WC Agronomy
+SC Agriculture
+GA 923PQ
+UT WOS:000228922200012
+ER
+
+EF

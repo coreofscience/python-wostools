@@ -1,0 +1,1286 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Gorenak, M
+AF Gorenak, Mitja
+TI CORPORATE SOCIAL RESPONSABILITY
+SO TOURISM
+LA English
+DT Book Review
+CR MATESIC M, CORPORATE SOCIAL RES
+NR 1
+TC 0
+Z9 0
+U1 8
+U2 8
+PU INST TOURISM
+PI ZAGREB
+PA VRHOVEC 5, ZAGREB, 10000, CROATIA
+SN 1332-7461
+EI 1849-1545
+J9 TOURISM
+JI Tourism
+PD JUN
+PY 2016
+VL 64
+IS 2
+BP 239
+EP 240
+PG 2
+WC Hospitality, Leisure, Sport & Tourism
+SC Social Sciences - Other Topics
+GA DQ3UK
+UT WOS:000379128800011
+ER
+
+PT J
+AU Ramos, JMG
+   Maldonado, CD
+   Martinez, MCV
+   Alija, TD
+AF Garcia Ramos, Jose Manuel
+   de la Calle Maldonado, Carmen
+   Valbuena Martinez, Maria Consuelo
+   de Dios Alija, Teresa
+TI Toward construct validation of Social Responsability of University
+   Student (RSEU)
+SO BORDON-REVISTA DE PEDAGOGIA
+LA Spanish
+DT Article
+DE Construct Validity; Multivariate analysis; Higher education; Social
+   responsibility; Student behavior
+ID EDUCATIONAL-RESEARCH; VALIDITY
+AB INTRODUCTION. The Corporate Social Responsability (CSR) is concerned with the set of obligations and legal and ethical, national and international commitments in a particular organization with its "stakeholders". In a socially responsible company, the members and the persons related with it are able to answer for their actions, decisions and consequences. Higher Education should take part in the training of socially responsible people, through their comprehensive development. The module "Social Responsibility of the student of the Francisco de Vitoria University" (from now UFV) allows the students to find their personal responsibility and their commitment to building a better world. The purpose of this study is to analyze the internal consistency and construct validity of the Social Responsibility of the University Student, SRUS (which differs from Corporate Social Responsability (CSR), considering that the interaction of knowledge, abilities, beliefs, attitudes which are involved in real contexts to the commitment with the others and to become aware that their own actions have an effect on social improvement. METHOD. It measures the "construct", using a large sample of University Students (404). The processing of data is performed with reliability indicators, making use of different tools, such as Cronbach's alpha statistics, a correlational analysis, exploratory factor analysis (EFA) and confirmatory factor analysis (CFA). RESULTS. The outcomes show rates of internal consistency more than acceptable or satisfactory. The correlations between dimensions are significant and high. The EFA suggests the presence of a single construct with the three correlated dimensions. The results of CFA, in spite of them not being conclusive, point to the same direction. DISCUSSION. These results seem to show suitable measurement of the construct to be evaluated.
+C1 [Garcia Ramos, Jose Manuel] Univ Complutense Madrid, Fac Educ, Dept Metodos Invest & Diagnost Educ, E-28040 Madrid, Spain.
+   [de la Calle Maldonado, Carmen; Valbuena Martinez, Maria Consuelo; de Dios Alija, Teresa] Univ Francisco Vitoria, Madrid, Spain.
+RP Ramos, JMG (reprint author), C Rector Royo Villanova S-N, Madrid 28040, Spain.
+EM jmgramos@edu.ucm.es; m.calle@ufv.es; c.valbuena.prof@ufv.es;
+   t.dedios.prof@ufv.es
+CR Astin AW, 1999, REV HIGH EDUC, V22, P187
+   Boyd K. D., 2012, NEW DIRECTIONS STUDE, V139, P39
+   Cuesta M., 2013, ACCION PSICOLOGICA, V10, P29
+   De Dios-Alija T., 2012, MEMORIA RESPONSABILI
+   Hernandez De Hahn L., 2014, INT STUDIES SOCIOLOG, V24, P415, DOI DOI 10.1080/09620214.2014.979595
+   Montellano Ortiz De, 2000, EVALUACION RESPONSAB
+   Costa ED, 2015, RIE-REV INVESTIG EDU, V33, P47, DOI 10.6018/rie.33.1.193521
+   Fan XT, 1999, STRUCT EQU MODELING, V6, P56, DOI 10.1080/10705519909540119
+   Galan J. I., 2012, REFLEXIOENS RESPONSA
+   Glass C. R., 2012, J GEN EDUC, V61, P406
+   Sanchez Gonzalez C. L., 2007, RESPONSABILIDAD SOCI
+   Henson RK, 2006, EDUC PSYCHOL MEAS, V66, P393, DOI 10.1177/0013164405282485
+   Honeyman CA, 2010, INT J EDUC DEV, V30, P599, DOI 10.1016/j.ijedudev.2010.02.004
+   Kline R. B., 2005, PRINCIPLES PRACTICE
+   Lappalainen Pia, 2011, European Journal of Engineering Education, V36, DOI 10.1080/03043797.2011.619648
+   Law B, 2015, RES SOCIAL WORK PRAC, V25, P139, DOI 10.1177/1049731513517556
+   Levine T. R., 2005, COMMUNICATION RES RE, V22, P335, DOI DOI 10.1080/00036810500317730
+   Levy-Mangin J. P., 2006, MODELIZACION CON EST
+   Livesey A, 2012, J APPL RES INTELLECT, V25, P553, DOI 10.1111/j.1468-3148.2012.00701.x
+   De la Calle Maldonado C., 2011, REV COMUNICACION HOM, V7, P236
+   De la Calle Maldonado C., 2008, REV COMPLUTENSE ED, V19, P385
+   De la Calle Maldonado C., 2007, REV COMPLUTENSE ED, V18, P47
+   Olcese A., 2013, INFORM RESPONSABILID
+   O'Neill N., 2011, J COLL CHARACTER, V12
+   Quinn A, 2011, J SOC WORK EDUC, V47, P321, DOI 10.5175/JSWE.2011.200900123
+   Reason R. D., 2013, NEW DIRECTIONS HIGHE, V2013, P13, DOI DOI 10.1002/HE.20072
+   Tabachnick B. G., 2007, USING MULTIVARIATE S
+   Thompson B, 2004, EXPLORATORY CONFIRMA
+   Tziner A., 2011, REV PSICOLOGIA TRABA, V27, P44
+   Tziner Aharon, 2011, Rev. psicol. trab. organ., V27, P67
+   Universidad Construye Pais, 2003, ED RESP SOC U FUNC D
+   Uriel E., 2005, ANALISIS MULTIVARIAN
+   Vallaeys F, 2011, ETICA RSU BREVE MARC
+   Vallaeys F., 2011, ENTREVISTA RESPONSAB
+   Vallaeys F., 2011, THESIS
+   Vallaeys F., 2011, ETICA RSU MANUAL PRI
+NR 36
+TC 0
+Z9 0
+U1 4
+U2 4
+PU CENTRO CIENCIAS HUMANAS & SOCIALES-CSIC
+PI MADRID
+PA ALBASANZ 26-28, MADRID, 28037, SPAIN
+SN 0210-5934
+EI 2340-6577
+J9 BORDON
+JI Bordon
+PY 2016
+VL 68
+IS 3
+BP 41
+EP 58
+DI 10.13042/Bordon.2016.68303
+PG 18
+WC Education & Educational Research
+SC Education & Educational Research
+GA DV3JZ
+UT WOS:000382819200003
+ER
+
+PT J
+AU Leal, AW
+   Rivera, ES
+   Alvarez, MAP
+   Ramirez, JAN
+AF Wojtarowski Leal, Astrid
+   Silva Rivera, Evodia
+   Pinar Alvarez, Maria Angeles
+   Negrete Ramirez, Jorge Alejandro
+TI Corporate Social Responsability as a key in the transition to
+   Sustainable Development in the tourism sector
+SO PASOS-REVISTA DE TURISMO Y PATRIMONIO CULTURAL
+LA Spanish
+DT Article
+DE Corporate Social Responsability; Sustainable Development; ethical
+   enterprise; Environmental Education; Tourism Sector in Latin America
+AB Using the theoretical framework of Corporate Social Responsibility (CSR), this text shows how the transformation of the paradigms of corporate action has led to a new understanding of the role of corporations in society: one that goes beyond the economic interest to meet social and environmental concerns. A review of the literature and an analysis of the tourism industry is made.
+C1 [Wojtarowski Leal, Astrid] Univ Veracruzana, Inst Invest Educ, Invest Educ Educ Ambiental, Xalapa 91000, Veracruz, Mexico.
+   [Silva Rivera, Evodia] Univ Veracruzana, Ctr Invest Trop, Xalapa 91000, Veracruz, Mexico.
+   [Pinar Alvarez, Maria Angeles; Negrete Ramirez, Jorge Alejandro] El Colegio Veracruz, Xalapa, Veracruz, Mexico.
+RP Alvarez, MAP (reprint author), El Colegio Veracruz, Xalapa, Veracruz, Mexico.
+EM angelespinaralvarez@gmail.com
+CR Aguilar-Platas A., 2010, REV CIENCIAS ADM SOC, V20, P21
+   Pou L., 2006, SEC20020512 U ILL BA
+   Altes C., 2006, TURISMO AM LATINA CA
+   Bayon P., 2006, REV INTERFACE BRASIL, V3, P89
+   Berry A., 1997, LATIN AM RES REV, V32
+   Londono J., 1997, AM EC REV, V5
+   Bossevain J., 1996, COPING TOURIST EUROP
+   Buades J., 2010, ALBASUD REV ELECT IN
+   Buades J., 2007, CUADERNOS DEBATE INT, P65
+   Bull B., 2004, REV VENEZ GERENC, V9, P565
+   Conservation International, 2005, CAM HAC SUST HOT
+   Amit A, 2004, RESPONSABILIDAD SOCI
+   [Anonymous], 1994, ETICA DE LA EMPRESA
+   Elias N., 2003, REIS, P219, DOI 10.2307/40184576
+   Europea C. E., 2001, LIBRO VERDE FOMENTAR
+   Gadotti M., 2002, PEDAGOGIA TIERRA
+   Negrete R., 2011, FUTURO DESARROLLO RE
+   Garcia-Marza D., 2004, ETICA EMPRESARIAL DI
+   Ortega y Gasset J., 1986, REBELION MASAS
+   Guidi M., 2007, IBEROFORUM REV CIENC, V2, P1
+   IADB, 2004, CORP SOC RESP UNPUB
+   IFC, 2002, ANN REPORT
+   Klein B., 1999, NEEDS MEET RIGHTS EC
+   Kliksberg B., 1999, REV CEPAL, V69, P85
+   Kliksberg B., 2006, ETICA EMPRESARIAL MO
+   Kliksberg Bernardo, 2005, Revista de Ciencias Sociales, V11, P411
+   Ferreira P. S, 2008, PERSPECTIVAS, P1
+   Mendez M. T., 2005, ETICA Y EC
+   Novo M., 1996, REV IBEROAMERICANA E, V11, P75
+   OECD, 2011, REV OECD GUID MULT E
+   OMT, 2009, BAROMETRO OMT TURISM, V7, P3
+   ONU, 2007, UN GLOB COMP
+   ONU, 2014, UN GLOB COMP
+   Patten C., 2004, DECLARACIONES SEDE C
+   Pinar A. M. A, 2012, TURISMO DESARROLOO, V5, P85
+   Tania Garcia L., 2014, TEMAS SELECTOS POLIE, P35
+   PNUD, 2013, INF DES HUM
+   Porter M.E., 2006, HARVARD BUSINESS REV
+   Rendon J., 2005, REV EQUIDAD DESARROL, P47
+   Sauve L., 2008, EDUCACION MEDIO AMBI, P25
+   Izquierdo RJS, 2007, INTERCIENCIA, V32, P377
+   Silva-Rivera E., 2004, THESIS
+   Simpson M. C., 2008, CLIMATE CHANGE ADAPT
+   Stiglitz J. E., 2003, REV CEPAL, V80, P7
+   Tezanos S., 2011, MAS 2015 OBJETIVOS D
+   UNEP, 2005, MAK TOUR MOR SUST GU
+   Vargas J., 2005, RESPONSABILIDADE SOC
+   Carrascal E., 2000, INVESTIGACIONES GEOG, P145
+NR 48
+TC 0
+Z9 0
+U1 9
+U2 9
+PU GOBIERNO CANARIAS, CONSEJERIA EDUCACION CULTURA & DEPORTES
+PI CANARIAS
+PA AVE DE ANAGUA, SANTA CRUZ TENERIFE, CANARIAS, 38001, SPAIN
+SN 1695-7121
+J9 PASOS
+JI Pasos
+PD JAN
+PY 2016
+VL 14
+IS 1
+BP 127
+EP 139
+PG 13
+WC Hospitality, Leisure, Sport & Tourism
+SC Social Sciences - Other Topics
+GA DO6LJ
+UT WOS:000377894600009
+ER
+
+PT J
+AU Fernandez, LV
+   Jara-Bertin, M
+   Pineaur, FV
+AF Valenzuela Fernandez, Leslier
+   Jara-Bertin, Mauricio
+   Villegas Pineaur, Francisco
+TI Social responsability practices, corporate reputation and financial
+   performance
+SO RAE-REVISTA DE ADMINISTRACAO DE EMPRESAS
+LA Spanish
+DT Article
+DE Corporate social responsibility; corporate reputation; financial
+   performance; ethical dimension; partners dimension
+ID FIRM PERFORMANCE; RESPONSIBILITY; OWNERSHIP; STRATEGY; MARKET
+AB We analyze whether the adoption of voluntary disclosures practices on Corporate Social Responsibility (CSR) by several communicational channels has influence over financial performance and corporate reputation. Once we identify four CSR dimensions (social, ethical, environmental, partners) using a sample of 55 Chilean traded firms for the period 2007-2012. Our results show that the adoption of the four CSR dimension at the same time, and the social and ethical dimension improves financial performance, while a strength relationship with partners improve Corporate Reputation. Thus, we provide new evidence for an emerging market economy about the importance of CSR strategies adoption.
+C1 [Valenzuela Fernandez, Leslier; Jara-Bertin, Mauricio] Univ Chile, Fac Econ & Negocios, Santiago, Chile.
+   [Villegas Pineaur, Francisco] Univ Chile, Fac Econ & Negocios, Mkt, Santiago, Chile.
+RP Fernandez, LV (reprint author), Univ Chile, Fac Econ & Negocios, Santiago, Chile.
+EM lvalenzuela@unegocios.cl; mjara@unegocios.cl; fvillegas@fen.uchile.cl
+CR Adam T., 2008, J FINANC RES, V31, P41, DOI 10.1111/j.1475-6803.2008.00231.x
+   Aguilera A., 2012, PENSAMIENTO GESTION, V32, P1
+   Allouche J., 2005, REV GESTION RESSOURC, V57, P18
+   Anderson RC, 2003, J FINANC, V58, P1301, DOI 10.1111/1540-6261.00567
+   Aragon-Correa JA, 2008, J ENVIRON MANAGE, V86, P88, DOI 10.1016/j.jenvman.2006.11.022
+   Arellano M., 1990, INVEST ECON-SPAIN, V14, P3
+   Arellano M., 2003, PANEL DATA ECONOMETR
+   Banco Central de Chile, 2014, FICH IND MACR IND CO
+   Barroso Tanoira Francisco Gerardo, 2008, Contad. Adm, P73
+   Becker-Olsen KL, 2006, J BUS RES, V59, P46, DOI 10.1016/j.jbusres.2005.01.001
+   BERGER PG, 1995, J FINANC ECON, V37, P39, DOI 10.1016/0304-405X(94)00798-6
+   Bird R, 2007, J BUS ETHICS, V76, P189, DOI 10.1007/s10551-006-9268-1
+   Boatright R., 2000, ETHICS CONDUCT BUSIN, V3rd
+   Boyd C., 2001, OECD OBSERVER, V1, P35
+   Callan SJ, 2009, CORP SOC RESP ENV MA, V16, P61, DOI 10.1002/csr.182
+   Campa JM, 2002, J FINANC, V57, P1731, DOI 10.1111/1540-6261.00476
+   Carroll A., 1991, BUS HORIZONS, V34, P39, DOI [10.1016/0007-6813(91)90005-G, DOI 10.1016/0007-6813(91)90005-G]
+   Carroll AB, 2010, INT J MANAG REV, V12, P85, DOI 10.1111/j.1468-2370.2009.00275.x
+   Chakravorti B, 2010, J PUBLIC POLICY MARK, V29, P97
+   Commission of the European Communities, 2001, GREEN PAP PROM EUR F
+   DAVIS K, 1960, CALIF MANAGE REV, V2, P70
+   DECHOW PM, 1994, J ACCOUNT ECON, V18, P3, DOI 10.1016/0165-4101(94)90016-7
+   Demirguc-Kunt A, 2002, J FINANC ECON, V65, P337, DOI 10.1016/S0304-405X(02)00145-9
+   Du SL, 2012, J BUS ETHICS, V110, P413, DOI 10.1007/s10551-012-1490-4
+   Fisher-Vanden K, 2011, J ENVIRON ECON MANAG, V62, P430, DOI 10.1016/j.jeem.2011.04.003
+   FOMBRUN C, 1990, ACAD MANAGE J, V33, P233, DOI 10.2307/256324
+   Gismera L., 2000, PAPELES EC DIRECCION, V5, P1
+   Gomez F., 2008, PRINCIPIOS ESTUDIOS, V11, P5
+   Homburg C, 2013, J MARKETING, V77, P54
+   Jara-Bertin M, 2008, CORP GOV, V16, P146, DOI 10.1111/j.1467-8683.2008.00677.x
+   Jara-Bertin M., 2011, TRIMEST ECON, V78, P643
+   Johnson RA, 1999, ACAD MANAGE J, V42, P564, DOI 10.2307/256977
+   Joyner BE, 2002, J BUS ETHICS, V41, P297, DOI 10.1023/A:1021237420663
+   Kemper J, 2013, J BUS RES, V66, P1954, DOI 10.1016/j.jbusres.2013.02.018
+   Kim M, 2014, INT J HOSP MANAG, V40, P120, DOI 10.1016/j.ijhm.2014.03.006
+   Kotler P., 2004, STANFORD SOCIAL INNO, V1, P14
+   La Porta R, 1999, J FINANC, V54, P471, DOI 10.1111/0022-1082.00115
+   Lefort F., 2000, REV ABANTE, V3, P3
+   Lefort F., 2008, REV ABANTE, V11, P17
+   Lichtenstein DR, 2004, J MARKETING, V68, P16, DOI 10.1509/jmkg.68.4.16.42726
+   Madinaveitia E., 2010, TELOS CUADERNOS COMU, V82, P43
+   Marin L., 2008, CUAD ECON DIR EMPRES, V11, P91
+   Nelling E., 2009, REV QUANTITATIVE FIN, V32, P197, DOI DOI 10.1007/S11156-008-0090-Y
+   Orlitzky M, 2003, ORGAN STUD, V24, P403, DOI 10.1177/0170840603024003910
+   Peloza J., 2006, CALIFORNIA MANAGEMEN, V48, P51
+   Porter ME, 2006, HARVARD BUS REV, V84, P78
+   Rochlin S., 2005, HARVARD BUS REV, V83, P31
+   Rodriguez F. J., 2007, REV EUROPEA DIRECCIO, V16, P47
+   Salgado R, 2007, ESTUDIOS GERENCIALES, V23, P119
+   Schwartz MS, 2003, BUS ETHICS Q, V13, P503
+   Sierra-Garcia L, 2014, RAE-REV ADMIN EMPRES, V54, P28, DOI 10.1590/S0034-759020140104
+   Simpson WG, 2002, J BUS ETHICS, V35, P97, DOI 10.1023/A:1013082525900
+   Sullivan R, 2012, J CLEAN PROD, V36, P60, DOI 10.1016/j.jclepro.2012.02.020
+   Verduzco A., 2006, ANAHUAC J, V6, P100
+   Villafane J., 2009, TELOS CUADERNOS COMU, V79, P75
+   Wu M, 2006, J AM ACAD BUSINESS, V8, P163
+   Zamagni S., 2005, U REV SOC CULTURA PO, V1, P2
+NR 57
+TC 0
+Z9 0
+U1 30
+U2 90
+PU FUNDACAO GETULIO VARGAS
+PI SAO PAULO SP
+PA ESCOLA ADMIN EMPRESAS SAO PAULO, AV 9 DE JULHO, 2-029, BELA VISTA, SAO
+   PAULO SP, 01313-902, BRAZIL
+SN 0034-7590
+J9 RAE-REV ADMIN EMPRES
+JI RAE-Rev. Adm. Empres.
+PD MAY-JUN
+PY 2015
+VL 55
+IS 3
+BP 329
+EP 344
+DI 10.1590/S0034-759020150308
+PG 16
+WC Management
+SC Business & Economics
+GA CI2RO
+UT WOS:000354594900008
+ER
+
+PT J
+AU Frigant, V
+AF Frigant, Vincent
+TI Beyond The Business Case and Sustainable chain management: Why Do We
+   Need to Build a Theory of Interfirm Social Responsability?
+SO MANAGEMENT
+LA English
+DT Article
+ID GLOBAL PRODUCTION NETWORKS; SUPPLY CHAIN; AUTOMOTIVE INDUSTRY;
+   CORPORATE-RESPONSIBILITY; PERFORMANCE; GOVERNANCE; PERSPECTIVE; LABOR;
+   CONTRACT; EUROPE
+AB The purpose of the present article is to demonstrate the necessity of focusing on interfirm interactions when analysing the rise of socially responsible practices. The first section highlights problems with the standard business case's explanations for the connection between economic and socio-environmental performance, highlighting the limitations of this approach's firm-centric reasoning. A similar critique is offered as regards studies that focus on green/sustainable supply chains - simply bringing suppliers into the analysis adds to the range of actors being covered but does little to identify existing gaps in the literature. Section 3 uses the example of the automotive industry to show how the inconsistency between corporate social responsibility (CSR) discourse and practice becomes clear when interfirm interactions are taken into account. The conclusion suggests that achieving real progress in the development of socially responsible practices requires the construction of a theory of interfirm social responsibility based on an institutionalist framework.
+C1 [Frigant, Vincent] Univ Bordeaux, GREThA, CNRS, UMR 5113, Bordeaux, France.
+RP Frigant, V (reprint author), Univ Bordeaux, GREThA, CNRS, UMR 5113, Bordeaux, France.
+EM vincent.frigant@u-bordeaux.fr
+CR Acquier A., 2008, REV FRANCAISE GESTIO, V180, P131
+   Acquier A., 2011, REV FRANCAISE GESTIO, V215, P169
+   ALCHIAN AA, 1972, AM ECON REV, V62, P777
+   Andersen M, 2009, SUPPLY CHAIN MANAG, V14, P75, DOI 10.1108/13598540910941948
+   Asanuma Banri, 1989, J JAPANESE INT EC, V3, P1, DOI DOI 10.1016/0889-1583(89)90029-4
+   Bair J., 2005, COMPETITION CHANGE, V9, P153, DOI DOI 10.1179/102452905X45382
+   Banerjee S. B., 2008, CRITICAL SOCIOLOGY, V34, P51, DOI DOI 10.1177/0896920507084623
+   Barrientos S, 2008, DEV CHANGE, V39, P977, DOI 10.1111/j.1467-7660.2008.00524.x
+   Baudry B., 2012, REV EC IND, V137, P43
+   Beske P., 2006, CORPORATE SOCIAL RES, V15, P63, DOI DOI 10.1002/CSR.136
+   Brammer S, 2012, SOCIO-ECON REV, V10, P3, DOI 10.1093/ser/mwr030
+   Cabigiosu A., 2013, AUTOMOTIVE TRANSITIO, P57
+   Calabrese G., 2012, GREENING AUTOMOTIVE
+   Caroll A., 2010, INT J MANAG REV, V12, P85
+   CEC (Commission of The European Communities), 2001, COM2001366 CEC
+   Chatterji AK, 2009, J ECON MANAGE STRAT, V18, P125, DOI 10.1111/j.1530-9134.2009.00210.x
+   Christmann P, 2004, ACAD MANAGE J, V47, P747
+   Coe NM, 2008, J ECON GEOGR, V8, P271, DOI 10.1093/jeg/lbn002
+   Coffey Dan, 2013, International Journal of Automotive Technology and Management, V13
+   Cornu G., 2007, RAPPORT INFORM DEFIS
+   Cramer JM, 2008, J CLEAN PROD, V16, P395, DOI 10.1016/j.jclepro.2007.01.007
+   Demoli Y., 2015, INT J AUTOMOTIVE TEC, V15, P311
+   Domanski B, 2009, EUR URBAN REG STUD, V16, P5, DOI 10.1177/0969776408098928
+   DONALDSON T, 1995, ACAD MANAGE REV, V20, P65, DOI 10.5465/AMR.1995.9503271992
+   Dupuis J.-C., 2008, REV EC IND, V124, P67
+   Freeman R.E, 1984, STRATEGIC MANAGEMENT
+   Frenken S., 2002, CALIFORNIA MANAGEMEN, V45, P22
+   Freyssenet M., 2011, EUROPEAN REV IND EC
+   Friedman M., 1970, NY TIMES MAGAZI 0913, P32
+   Frigant V., 2014, REV EC IND, V145, P19
+   Frigant V., 2009, 2 AUTOMOBILE REVOLUT, P419
+   Frigant V, 2009, EUR URBAN REG STUD, V16, P11, DOI 10.1177/0969776408098930
+   Fulconis F, 2007, MANAGE DECIS, V45, P104, DOI 10.1108/00251740710718999
+   Gallear D, 2012, INT J PROD ECON, V140, P83, DOI 10.1016/j.ijpe.2012.01.016
+   Garriga E, 2004, J BUS ETHICS, V53, P51, DOI 10.1023/B:BUSI.0000039399.90587.34
+   Greening D. W., 2000, BUS SOC, V39, P254, DOI DOI 10.1177/000765030003900302
+   Greenpeace, 2008, DRIV CLIM CHANG CAR
+   Herrigel Gary, 2010, MANUFACTURING POSSIB
+   Hsueh CF, 2014, INT J PROD ECON, V151, P214, DOI 10.1016/j.ijpe.2013.10.017
+   Hughes A, 2008, J ECON GEOGR, V8, P345, DOI 10.1093/jeg/lbn004
+   Husted BW, 2006, J MANAGE STUD, V43, P75, DOI 10.1111/j.1467-6486.2006.00583.x
+   ILO (International Labor Organization), 2005, TRIP M EMPL SOC DIAL
+   Jacobides M., 2012, IND STUD ASS C PITTS
+   Jullien B., 2011, EUROPEAN REV IND EC, V3
+   Jullien B., 2007, INT J AUTOMOTIVE IND, V1, P1
+   Jurgens Ulrich, 2008, International Journal of Automotive Technology and Management, V8, DOI 10.1504/IJATM.2008.018891
+   Klier T., 2008, WHO REALLY MADE YOUR
+   Krikke H, 2008, INT J PROD ECON, V111, P209, DOI 10.1016/j.ijpe.2006.10.015
+   Krzywdzinski M., 2008, P 16 GERPISA INT C C
+   Langlois R.N., 2003, IND CORP CHANGE, V12, P651
+   Larsson A, 2002, INT J URBAN REGIONAL, V26, P767, DOI 10.1111/1468-2427.00417
+   Levy DL, 2008, ACAD MANAGE REV, V33, P943
+   Linton JD, 2007, J OPER MANAG, V25, P1075, DOI 10.1016/j.jom.2007.01.012
+   Macduffie JP, 2013, GLOB STRATEG J, V3, P8, DOI 10.1111/j.2042-5805.2012.01048.x
+   Marais M., 2014, MANAGEMENT, V17, P237
+   Mattingly JE, 2006, BUS SOC, V45, P20, DOI DOI 10.1177/0007650305281939
+   McWilliams A, 2001, ACAD MANAGE REV, V26, P117, DOI 10.5465/AMR.2001.4011987
+   Milberg W, 2013, OUTSOURCING ECONOMICS: GLOBAL VALUE CHAINS IN CAPITALIST DEVELOPMENT, P1, DOI 10.1017/CBO9781139208772
+   Morris D., 2006, International Journal of Automotive Technology and Management, V6, DOI 10.1504/IJATM.2006.012120
+   Ni DB, 2012, INT J PROD ECON, V138, P303, DOI 10.1016/j.ijpe.2012.04.002
+   Orlitzky M, 2003, ORGAN STUD, V24, P403, DOI 10.1177/0170840603024003910
+   Palpacuer F, 2008, ECON SOC, V37, P393, DOI 10.1080/03085140802172698
+   Patrucco PP, 2014, IND INNOV, V21, P243, DOI 10.1080/13662716.2014.910892
+   Perez-Aleman P, 2008, CALIF MANAGE REV, V51, P24
+   Porter ME, 2011, HARVARD BUS REV, V89, P62
+   Quariguasi FNJ, 2008, INT J PROD ECON, V111, P195, DOI DOI 10.1016/J.IJPE.2006.10.014
+   Raj-Reichert G, 2011, COMPETITION CHANGE, V15, P221
+   Sako M, 2003, BUSINESS OF SYSTEMS INTEGRATION, P229
+   Salzmann O., 2005, European Management Journal, V23, P27, DOI 10.1016/j.emj.2004.12.007
+   Wagner M., 2006, MANAGING BUSINESS CA
+   Seidman G, 2008, DEV CHANGE, V39, P991, DOI 10.1111/j.1467-7660.2008.00525.x
+   Seuring S, 2004, J CLEAN PROD, V12, P1059, DOI 10.1016/j.jclepro.2004.02.006
+   Seuring S, 2008, J CLEAN PROD, V16, P1699, DOI 10.1016/j.jclepro.2008.04.020
+   Shinkle GA, 2012, J WORLD BUS, V47, P123, DOI 10.1016/j.jwb.2011.02.003
+   Song M, 2008, J OPER MANAG, V26, P1, DOI 10.1016/j.jom.2007.06.001
+   Spirig K., 2006, MANAGING BUSINESS CA, P82
+   Sturgeon T, 2008, J ECON GEOGR, V8, P297, DOI 10.1093/jeg/lbn007
+   Vachon S, 2008, INT J PROD ECON, V111, P299, DOI 10.1016/j.ijpe.2006.11.030
+   Valeo, 2007, REFERENCES DOCUMENTS
+   Voegtlin C, 2014, J BUS ETHICS, V122, P179, DOI 10.1007/s10551-014-2214-8
+   Vogel D, 2005, MARKET FOR VIRTUE: THE POTENTIAL AND LIMITS OF CORPORATE SOCIAL RESPONSIBILITY, P1
+   Waddock S, 2008, ACAD MANAGE PERSPECT, V22, P87
+   Williams OF, 2014, J BUS ETHICS, V122, P241, DOI 10.1007/s10551-014-2219-3
+   Witt MA, 2012, SOCIO-ECON REV, V10, P109, DOI 10.1093/ser/mwr026
+   Womack J. P., 1990, MACHINE CHANGED WORL
+   Wood DJ, 2010, INT J MANAG REV, V12, P50, DOI 10.1111/j.1468-2370.2009.00274.x
+   Zhu QH, 2007, J CLEAN PROD, V15, P1041, DOI 10.1016/j.jclepro.2006.05.021
+   Zhu QH, 2008, INT J PROD ECON, V111, P261, DOI 10.1016/j.ijpe.2006.11.029
+NR 88
+TC 0
+Z9 0
+U1 13
+U2 18
+PU ASSOC INT MANAGEMENT STRATEGIQUE-AIMS
+PI NANTES CEDEX 3
+PA AUDENCIA NANTES-ECOLE DE MANAGEMENT, 8 RTE DE LA JONELIERE, BP 31222,
+   NANTES CEDEX 3, 44312, FRANCE
+SN 1286-4692
+J9 MANAGEMENT
+JI Management
+PY 2015
+VL 18
+IS 3
+BP 234
+EP 253
+PG 20
+WC Management
+SC Business & Economics
+GA CY7DC
+UT WOS:000366567400003
+ER
+
+PT J
+AU Santos, PMF
+   Porto, RB
+AF Finazzi Santos, Patrick Michel
+   Porto, Rafael Barreiros
+TI Environmental responsability and customers loyalty in retail bank
+SO RAE-REVISTA DE ADMINISTRACAO DE EMPRESAS
+LA Portuguese
+DT Article
+DE Bank; perceived environmental responsibility; satisfaction; trust;
+   loyalty
+ID CORPORATE SOCIAL-RESPONSIBILITY; CONSUMER-TRUST; SATISFACTION; VALUES;
+   FRAMEWORK; BEHAVIOR; GREEN
+AB Researchers have suggested the validity of introduction of environmental management to marketing strategies. However, no attention has been given to the prediction of consumers loyalty to banking organizations as a result of their banks' environmental positioning. The objective of this research is to measure if the perception that a retail bank is environmentally responsible explains the satisfaction, the trust and the attitudinal and behavioral loyalty of costumers. An empirical study of a descriptive nature was developed. Its data was collected by means of a survey sample of 914 checking account holders from a retail bank in Brazil and analyzed by Structural Equation Modelling technique. The customer's perception of an environmentally responsible retail bank can explain satisfaction and trust. On the other hand, satisfaction was more relevant in estimating attitudinal loyalty than trust. However, neither satisfaction nor trust explained behavioral loyalty.
+C1 [Finazzi Santos, Patrick Michel] Univ Brasilia, Dept Adm, Brasilia, DF, Brazil.
+   [Porto, Rafael Barreiros] Univ Brasilia, Programa Pos Grad Adm, Brasilia, DF, Brazil.
+RP Santos, PMF (reprint author), Univ Brasilia, Dept Adm, Brasilia, DF, Brazil.
+EM patrickmichel@hotmail.com; rafaelporto@unb.br
+CR BAGOZZI RP, 1982, ADMIN SCI QUART, V27, P459, DOI 10.2307/2392322
+   Baumann C., 2011, INT J BANK MARKETING, V29, P247
+   Bennett R., 2002, J BRAND MANAGEMENT, V9, P193, DOI DOI 10.1057/PALGRAVE.BM.2540069
+   Brei Vinícius Andrade, 2005, Rev. adm. contemp., V9, P145, DOI 10.1590/S1415-65552005000200008
+   Chan RYK, 2000, J CONSUM MARK, V17, P338, DOI 10.1108/07363760010335358
+   Chen YS, 2010, J BUS ETHICS, V93, P307, DOI 10.1007/s10551-009-0223-9
+   Chiou JS, 2006, J ACAD MARKET SCI, V34, P613, DOI 10.1177/0092070306286934
+   CHURCHILL GA, 1979, J MARKETING RES, V16, P64, DOI 10.2307/3150876
+   Cone J. D, 1977, ADV THEORY RES, V2, P129
+   Corraliza JA, 2000, ENVIRON BEHAV, V32, P832, DOI 10.1177/00139160021972829
+   COYNE KP, 1986, BUS HORIZONS, V29, P54, DOI 10.1016/0007-6813(86)90087-X
+   Delgado-Ballester E., 2001, EUR J MARKETING, V35, P1238, DOI DOI 10.1108/EUM0000000006475
+   Augusto de Matos C., 2009, INT J BANK MARKETING, V27, P506, DOI DOI 10.1108/02652320911002331
+   Paiva A. C. R. de., 2010, REV ADMIN-SAO PAULO, V45, P297
+   Fornell C, 1996, J MARKETING, V60, P7, DOI 10.2307/1251898
+   Fraj E, 2006, J CONSUM MARK, V23, P133, DOI 10.1108/07363760610663295
+   Gordon R, 2011, MARKETING THEOR, V11, P143, DOI 10.1177/1470593111403218
+   Grayson K, 1999, J MARKETING RES, V36, P132, DOI 10.2307/3151921
+   Gremler DD, 1996, QUIS 5 ADV SERVICE Q, P171
+   Grove S. J., 1996, EUR J MARKETING, V30, P56, DOI 10.1108/03090569610118777
+   Hair J. F., 2005, ANALISE MULTIVARIADA
+   Han H, 2011, INT J HOSP MANAG, V30, P345, DOI 10.1016/j.ijhm.2010.07.008
+   Jones T., 2007, J SERV MARK, V21, P36, DOI DOI 10.1108/08876040710726284
+   Kantsperger R, 2010, MANAG SERV QUAL, V20, P4, DOI 10.1108/09604521011011603
+   Kline R.B., 2011, PRINCIPLES PRACTICE
+   Lewis B. R., 2006, J CONSUM BEHAV, V5, P15, DOI DOI 10.1002/CB.46
+   Licata J. W, 2009, INT J BANK MARKETING, V27, P252
+   Luo XM, 2006, J MARKETING, V70, P1, DOI 10.1509/jmkg.70.4.1
+   Mandhachitara R, 2011, J SERV MARK, V25, P122, DOI 10.1108/08876041111119840
+   Matute-Vallejo J, 2011, CORP SOC RESP ENV MA, V18, P317, DOI 10.1002/csr.247
+   McDonald Lynette M., 2008, INT J BANK MARKETING, V26, P170, DOI DOI 10.1108/02652320810864643
+   MOORMAN C, 1992, J MARKETING RES, V29, P314, DOI 10.2307/3172742
+   Oliver R. L., 2010, SATISFACTION BEHAV P
+   Pasquali L, 2010, INSTRUMENTACAO PSICO
+   Prado R H. M., 2004, THESIS ESCOLA ADM EM
+   ROMEIRO M. D. C., 2006, THESIS U SAO PAULO S
+   Schlegelmilch B. B., 1996, EUR J MARKETING, V30, P35, DOI DOI 10.1108/03090569610118740
+   SCHWARTZ SH, 1992, ADV EXP SOC PSYCHOL, V25, P1, DOI 10.1016/S0065-2601(08)60281-6
+   Sirdeshmukh D, 2002, J MARKETING, V66, P15, DOI 10.1509/jmkg.66.1.15.18449
+   SWEENEY J., 2008, J RETAILING CONSUMER, V15, P179, DOI DOI 10.1016/J.JRETCONSER.2007.04.001
+   Tabachnick B. G., 2007, USING MULTIVARIATE S
+   Thompson P., 1998, INT J BANK MARKETING, V16, P243, DOI DOI 10.1108/02652329810241384
+   Uncles MD, 2003, J CONSUM MARK, V20, P294, DOI 10.1108/07363760310483676
+   Weber O, 2005, CORPORATE SOCIAL RES, V12, P73, DOI DOI 10.1002/CSR.77
+NR 44
+TC 2
+Z9 2
+U1 7
+U2 61
+PU FUNDACAO GETULIO VARGAS
+PI SAO PAULO SP
+PA ESCOLA ADMIN EMPRESAS SAO PAULO, AV 9 DE JULHO, 2-029, BELA VISTA, SAO
+   PAULO SP, 01313-902, BRAZIL
+SN 0034-7590
+J9 RAE-REV ADMIN EMPRES
+JI RAE-Rev. Adm. Empres.
+PD NOV-DEC
+PY 2014
+VL 54
+IS 6
+BP 606
+EP 618
+DI 10.1590/S0034-759020140602
+PG 13
+WC Management
+SC Business & Economics
+GA AT3FU
+UT WOS:000344822200002
+ER
+
+PT J
+AU Achim, MV
+   Borlea, SN
+AF Achim, Monica-Violeta
+   Borlea, Sorin Nicolae
+TI ENVIRONMENTAL PERFORMANCES - WAY TO BOOST UP FINANCIAL PERFORMANCES OF
+   COMPANIES
+SO ENVIRONMENTAL ENGINEERING AND MANAGEMENT JOURNAL
+LA English
+DT Article
+DE corporate governance; corporate social responsability (CSR); economic
+   and financial performance; environmental perfomance
+ID CORPORATE SOCIAL-RESPONSIBILITY; FIRM PERFORMANCE; SUSTAINABILITY;
+   MANAGEMENT; MARKET; EUROPE; INDEX
+AB The aim of this paper is to evaluate the link between environmental and financial performance. In this study, we use a sample of 76 Romanian companies that are listed at Bucharest Stock Exchange, in 2011. The results reflect a negative correlation for the internal performance of the company represented by ROA and a positive correlation for the external performance represented by Tobin's Q. Our study reflects the fact that environmental investments are not immediately reflected in an increase in the companies' internal performance but rather in an increase in investment costs and a decrease in assets' efficiency. For investors, these investments in environmental activities are appreciated as "good news", as a factor that will ensure long-term sustainability of the company; this aspect being correlated with Tobin's Q rate's growth, yet not with other market indicators, namely Market capitalization or Price to book ratio.
+C1 [Achim, Monica-Violeta] Univ Babes Bolyai, Fac Econ & Business Adm, R-3400 Cluj Napoca, Romania.
+   [Borlea, Sorin Nicolae] West Vasile Goldis Univ, Fac Econ, Arad, Romania.
+RP Achim, MV (reprint author), Univ Babes Bolyai, Fac Econ & Business Adm, R-3400 Cluj Napoca, Romania.
+EM monica.achim@econ.ubbcluj.ro
+CR Achim M.V., 2012, FINANCIAL ANAL EC EN
+   Achim M.V., 2011, OVIDIUS U ANN EC SCI, V11, P7
+   Achim M.V., 2013, CORPORATE GOVERNANCE
+   Al-Tuwaijri SA, 2004, ACCOUNT ORG SOC, V29, P447, DOI 10.1016/S0361-3682(03)00032-1
+   Austin D., 1999, NBER SUMM I PUBL I
+   Baret P., 2005, EVALUATION GLOBAL BU
+   Brown L. D., 2006, J ACCOUNTING PUBLIC, V25, P409, DOI DOI 10.1016/J.JACCPUBPOL.2006.05.005
+   Calabrese A., 2013, KNOWLEDGE PROCESS MA, V20, P50, DOI DOI 10.1002/KPM.1401.AVAILABLE
+   Capece Guendalina, 2013, International Journal of Energy Sector Management, V7, DOI 10.1108/IJESM-01-2013-0002
+   Chen CM, 2011, PROD OPER MANAG, V20, P789, DOI 10.1111/J.1937-5956.2010.01202.x
+   Dabija DC, 2013, ENVIRON ENG MANAG J, V12, P393
+   Dasgupta S., 1998, PATCHWORK SHAWL CHRO, P1
+   Dasgupta S, 2006, ECOL ECON, V58, P759, DOI 10.1016/j.ecolecon.2005.09.003
+   Dumitrascu V, 2013, ENVIRON ENG MANAG J, V12, P789
+   Earnhart D., 2007, 856 W DAV I, P1
+   Filbeck G, 2004, ENVIRON RESOUR ECON, V29, P137, DOI 10.1023/B:EARE.0000044602.86367.ff
+   Freedman M., 2004, ACCOUNTING FORUM, V28, P27, DOI 10.1016/j.accfor.2004.04.006
+   Goll I, 2004, J BUS ETHICS, V49, P41, DOI 10.1023/B:BUSI.0000013862.14941.4e
+   Griffith A., 2009, MANAGEMENT ENV QUALI, V20, P566, DOI DOI 10.1108/14777830910981230
+   Hart S. L., 1996, ENVIRON, V5, P30, DOI DOI 10.1002/(ISSN)1099-0836
+   Sadorsky Perry, 2006, COMP EC STUDIES, V48, P641, DOI 10.1057/palgrave.ces.8100185
+   Ienciu A., 2009, IMPLICATIONS ENV ISS
+   King A, 2002, MANAGE SCI, V48, P289, DOI 10.1287/mnsc.48.2.289.258
+   Klapper LF, 2004, J CORP FINANC, V10, P703, DOI 10.1016/S0929-1199(03)00046-4
+   Klassen RD, 1996, MANAGE SCI, V42, P1199, DOI 10.1287/mnsc.42.8.1199
+   Kolk A, 2009, CORPORATE SOCIAL RES, V17, P15, DOI DOI 10.1002/CSR.196
+   Konar S, 2001, REV ECON STAT, V83, P281, DOI 10.1162/00346530151143815
+   Lev B, 1996, J ACCOUNT ECON, V21, P107, DOI 10.1016/0165-4101(95)00410-6
+   Lupu ML, 2012, ENVIRON ENG MANAG J, V11, P393
+   McDaniel J.S., 2000, CORPORATE ENV STRATE, V7, P125, DOI 10.1016/S1066-7938(00)00044-0
+   McNicols M., 2014, REV ACCOUNT STUD, DOI [10.1007/s11142-013-9275-2, DOI 10.1007/S11142-013-9275-2]
+   Mironiuc M., 2009, THEORETICAL APPL E S, P151
+   Moneva Jose M, 2008, International Journal of Sustainable Economy, V1, DOI 10.1504/IJSE.2008.020013
+   Moneva J.M., 2009, IND MANAGEMENT DATA, V110, P193
+   Mroz-Gorgon B., 2013, P MAN KNOW LEARN INT, P703
+   Nakamura E, 2011, EURASIAN BUSINESS RE, V1, P91
+   Nikolaou IE, 2013, ENVIRON ENG MANAG J, V12, P2157
+   Obrad C, 2011, AMFITEATRU ECON, V13, P43
+   Perez-Calderon E, 2012, INT J ENVIRON RES, V6, P1007
+   Perez-Calderon E, 2011, ENVIRON ENG MANAG J, V10, P1801
+   Pintea M.O., 2011, CO PERFORMANCES CONT
+   Porter ME, 2006, HARVARD BUS REV, V84, P78
+   Robu V., 2004, EC SERIA MANAGEMENT, V28, P381
+   Siegel DS, 2007, J ECON MANAGE STRAT, V16, P773, DOI 10.1111/j.1530-9134.2007.00157.x
+   Trunk A, 2013, EXPERT SYST APPL, V40, P7562, DOI 10.1016/j.eswa.2013.07.055
+   van Beurden P, 2008, J BUS ETHICS, V82, P407, DOI 10.1007/s10551-008-9894-x
+   Vogel DJ, 2005, CALIF MANAGE REV, V47, P19
+   Watson K., 2004, MANAGEMENT ENV QUALI, V15, P622, DOI 10.1108/14777830410560700
+NR 48
+TC 5
+Z9 5
+U1 11
+U2 36
+PU GH ASACHI TECHNICAL UNIV IASI
+PI IASI
+PA 71 MANGERON BLVD, IASI, 700050, ROMANIA
+SN 1582-9596
+EI 1843-3707
+J9 ENVIRON ENG MANAG J
+JI Environ. Eng. Manag. J.
+PD APR
+PY 2014
+VL 13
+IS 4
+BP 991
+EP 1004
+PG 14
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA AN3JH
+UT WOS:000340483100016
+ER
+
+PT J
+AU Luna-Gonzalez, JP
+   Rodriguez-Hurtado, ME
+AF Pedro Luna-Gonzalez, Juan
+   Encarnacion Rodriguez-Hurtado, Ma
+TI INTRODUCTION OF SUSTAINABILITY CRITERIA IN THE SELECTION OF INDUSTRIAL
+   LOCATIONS THROUGH MULTICRITERIA MODELS
+SO DYNA
+LA Spanish
+DT Article
+DE Industrial Establishment; indicators; sustainable development;
+   localization; multicriteria
+AB The choice of locations for the implementation of industrial activities is a complex problem where the cost and efficiency criteria have been adding new ones relating to the environment impact and the company's corporate image reflected in Corporate Social Responsability. The environmental criteria have been getting big importance in the final decision, to become key elements in the final decision, due to the duty of submit of environmental assessment projects. Therefore, promoters, quite often, ask previously to the Administration about the viability of their projects before starting a lengthy administrative procedure.
+   This paper proposes the use of sustainability indicators and their application through a multi-criteria decision model for managing the establishment options initially considered, so that they become an help instrument of estimation in order to making these decisions. To show its usefulness we propose the use of the support tool for decision making based on the PROMETHEE methodology and its application in the management of 5 alternative sites for the installation of a cement factory in the Community of Madrid under sustainability criteria.
+C1 [Pedro Luna-Gonzalez, Juan] Comunidad Madrid, Direcc Gen Ind Energia & Minas, Madrid 28016, Spain.
+   [Encarnacion Rodriguez-Hurtado, Ma] Univ Politecn Madrid, Dept Quim Ind & Medio Ambiente, E-28006 Madrid, Spain.
+RP Luna-Gonzalez, JP (reprint author), Comunidad Madrid, Direcc Gen Ind Energia & Minas, Calle Cardenal Marcelo Spinola 14, Madrid 28016, Spain.
+EM juan.luna@madrid.org; erodriguez@etsii.upm.es
+CR Barberis G. M. F., 2002, METODOS PROMETHEE ME
+   Benayoun R, 1966, 49 SEMA DIR SCI
+   Brans J.P., 1982, AIDE DECISION NATURE, P183
+   Comunidad de Madrid, 2007, ATL MED AMB COM MADR
+   Conesa V, 2009, GUIA METODOLOGICA EV
+   Elguero-Merino JM, 2007, DYNA-BILBAO, V82, P26
+   Espana, 2010, TRANSP INFR SERV POS
+   Espana, 2013, B OFICIAL ESTADO, P98151
+   Espana, 2002, B OFICIAL ESTADO, P23910
+   Gaviria-Rios MA, 2010, APUNTES EC REGIONAL
+   GRI, 2006, GUIA EL MEM SOST
+   Grupo Cementos Portland Valderrivas, MEM SOST 2011
+   Grupo Cementos Portland Valderrivas, 2013, DECL MED 2011 FABR A
+   Luna-Gonzalez JP, 2012, DYNA-BILBAO, V87, P558, DOI 10.6036/4586
+   Romero C., 1996, ANALISIS DECISIONES
+   Saaty TL, 1980, ANAL HIERARCHY PROCE
+   Segrelles-Serrano JA, 2002, GEOGRAFIA HUMANA FUN
+   Sepulveda S., 2008, GESTION DESARROLLO S
+NR 18
+TC 0
+Z9 0
+U1 4
+U2 23
+PU FEDERACION ASOCIACIONES INGENIEROS INDUSTRIALES ESPANA
+PI BILBAO
+PA ALAMEDA DE MAZARREDO, BILBAO, 69-48009, SPAIN
+SN 0012-7361
+EI 1989-1490
+J9 DYNA-BILBAO
+JI Dyna
+PD MAR-APR
+PY 2014
+VL 89
+IS 2
+BP 192
+EP 201
+DI 10.6036/5853
+PG 10
+WC Engineering, Multidisciplinary
+SC Engineering
+GA AD2TZ
+UT WOS:000333089600019
+ER
+
+PT J
+AU Luna-Gonzalez, JP
+   Rodriguez-Hurtado, ME
+AF Pedro Luna-Gonzalez, Juan
+   Encarnacion Rodriguez-Hurtado, Ma
+TI EXTENSION OF THE POSSIBILITY OF USE OF CORPORATE SOCIAL RESPONSABILITY
+   INDICATORS
+SO DYNA
+LA Spanish
+DT Article
+DE Corporate Social Responsibility; Company; indicators; sustainable
+   development; location
+AB The perception of a company's responsibility towards its environment has varied over time, from a neoclassical design, purely mercantilist, up to the current concept, which is reflected in the so-called Corporate Social Responsibility (CSR), where economic interests have been combined with other environmental and/or socio-economic aspects, as port of the business contribution to sustainable development.
+   Today, various prestigious international organizations (ISO, OECD, EU, etc.) provide tools to companies enabling them to evaluate and show their compromise to the development sustainably.
+   To overcome the complexity that may involve the evaluation of sustainable development, generally, resorts to the use of indicators to obtain, in a way more or less accurate, assessment of behavior and its track over time and even comparison with other activities. However, in spite of the usefulness of these indicators, their use has been limited to enhancing business reputation, regardless other interesting possibilities that include also appropriate indicators that could be useful in decision-making, as the activity location.
+C1 [Pedro Luna-Gonzalez, Juan] COMUNIDAD MADRID, Direcc Gen Ind Energia & Minas, Madrid 28016, Spain.
+   [Encarnacion Rodriguez-Hurtado, Ma] Univ Politecn Madrid, Dpto Quim Ind & Medio Ambiente 1, E-28006 Madrid, Spain.
+RP Luna-Gonzalez, JP (reprint author), COMUNIDAD MADRID, Direcc Gen Ind Energia & Minas, C Cardenal Marcelo Spinola 14, Madrid 28016, Spain.
+EM juan.luna@madrid.org; erodriguez@etsii.upm.es
+CR Accion Empresarial, 2001, IND ACC EMPR RESP SO
+   AcountAbility, 2003, NORM AS AA 1000
+   AENOR, 2009, 165010 AENOR UNE
+   AENOR, 2008, GEST AMB
+   AENOR, 2008, 22470 AENOR UNE
+   AENOR, 2008, 22480 AENOR UNE
+   AENOR, 2007, 1620022 AENOR UNE
+   AENOR, 2007, 1620021 AENOR UNE
+   Antonio Gomez-Sal, 2009, AMBIENTA         SEP, P28
+   Comunidad de Madrid, 2010, INF AN CAL AIR COM M
+   Fernando Gonzalez-Laxe, 2007, EKONOMIAZ REV VASCA, P300
+   Foretica, 2008, 212008 SGE FOR
+   Gilberto Gallopin, 2003, SOSTENIBILIDAD DESAR
+   GRI, 2006, PROT IND G3 MED AMB
+   GRI, 2006, GUIA EL MEM SOST
+   GRI, 2010, 26000 GRI ISO
+   Grupo Cementos Portland Valderrivas, 2011, MEM SOST 2010
+   Grupo Cementos Portland Valderrivas, DECL MED 2010 FABR A
+   Harlem Brundtland Gro, 1988, OUR COMMON FUTURE
+   Instituto Ethos de Empresas e Responsabilidad Social, 2006, IND ETH RESP SOC EMP
+   ISO, 2009, ENV MAN ISO 14000 FA
+   John Elkington, 1997, CANNIBALS FORKS TRIP
+   Junta de Andalucia, 2010, RED VIG CONTR CAL AI
+   Lena Strandberg, 2010, MED COM RSE IND NORM
+   Rayen Quiroga, 2001, INDICADORES SOSTENIB
+   Roberto Bermejo, 2005, GRAN TRANSICION HACI
+   Roberts Hewitt, 1999, 14001 ISO
+   SAI, 2001, RESP SOC 8000 NORM S
+   Union Europea, 2011, COM20110681 UN EUR
+   Union Europea, 2009, DIARIO OFICIAL L, VL 342, P1
+   Vicente Conesa, 2009, GUIA MET EV IMP AMB
+NR 31
+TC 3
+Z9 3
+U1 10
+U2 102
+PU FEDERACION ASOCIACIONES INGENIEROS INDUSTRIALES ESPANA
+PI BILBAO
+PA ALAMEDA DE MAZARREDO, BILBAO, 69-48009, SPAIN
+SN 0012-7361
+J9 DYNA-BILBAO
+JI Dyna
+PD SEP-OCT
+PY 2012
+VL 87
+IS 5
+BP 558
+EP 565
+DI 10.6036/4586
+PG 8
+WC Engineering, Multidisciplinary
+SC Engineering
+GA 011VM
+UT WOS:000309194400014
+ER
+
+PT J
+AU Zaharia, RM
+   Stancu, A
+   Stoian, C
+   Diaconu, M
+AF Zaharia, Rodica Milena
+   Stancu, Alin
+   Stoian, Carmen
+   Diaconu, Mihaela
+TI COMMERCIAL ACTIVITY'S CONTRIBUTION TO SUSTAINABLE DEVELOPMENT BY SOCIAL
+   RESPONSABILITY ACTIONS: A VISION OF SMEs
+SO AMFITEATRU ECONOMIC
+LA English
+DT Article
+DE sustainable development; small and middle-sized companies with
+   commercial activity; social responsibility; commercial activity
+ID CORPORATE GOVERNANCE; RESPONSIBILITY; PERSPECTIVE
+AB This paper reports on a small study concerning the development of the social responsibility concept, in order to reveal how this concept became an important element of the sustainable development. According to this relationship, there are presented the results of a qualitative research among small and middle-sized companies involved in commercial activity in Bucharest, to show the way in which their activities of social responsibility meet the national strategy of sustainable development. The conclusions of this paper support the literature in the field, that underlines the fact that small and middle companies involved in commercial activity are concerned mostly with the way they succeed in achieving the economic objectives, and social responsibility is understood more at a minimal level, that are connected with legal obligations. The way in which the activity of the company meets the demands of a sustainable development represents a diffuse preoccupation, totally subordinated to the objectives of economic performance.
+C1 [Zaharia, Rodica Milena; Stancu, Alin] Bucharest Acad Econ Studies, Bucharest, Romania.
+   [Stoian, Carmen] Univ Kent, Kent Business Sch, Canterbury, Kent, England.
+   [Diaconu, Mihaela] Univ Pitesti, Pitesti, Romania.
+RP Zaharia, RM (reprint author), Bucharest Acad Econ Studies, Bucharest, Romania.
+EM milena_zaharia@yahoo.com
+RI Stancu, Alin/C-5729-2012
+CR Adam W., 1990, GREEN DEV ENV SUSTAI
+   Aguilera RV, 2006, CORP GOV, V14, P147, DOI 10.1111/j.1467-8683.2006.00495.x
+   Barnard C, 1938, FUNCTION EXECUTIVE
+   Bowen H. A., 1953, SOCIAL RESPONSIBILIT
+   Campbell JL, 2007, ACAD MANAGE REV, V32, P946
+   CARROLL A, 1979, ACAD MANAGE REV, V4, P499
+   Carroll A. B., 1999, BUS SOC, V38, P268, DOI DOI 10.1177/000765039903800303
+   *COM EUR, 2007, CART VERD PROM UN CA
+   Crane A., 2008, OXFORD HDB CORPORATE
+   *CTR RET RES, 2007, RET ETH GREEN RET 20
+   DAVIS K, 1960, CALIF MANAGE REV, V2, P70
+   DRUCKER PF, 1984, CALIF MANAGE REV, V26, P53
+   EBERHARDHARRIBE.L, 2006, CORP SOC RES NEW PAR
+   EPSTEIN EM, 1987, CALIF MANAGE REV, V29, P99
+   *ESDN OFF TEAM, 2008, P ESDN C HOST FRENCH
+   FREDERICK WC, 1954, CALIFORNIA MANAGEMEN, V2, P54
+   FREEMAN RE, 1983, CALIF MANAGE REV, V25, P88
+   Friedman M., 1970, NY TIMES MAGAZI 0913
+   Friedman M, 1962, CAPITALISM FREEDOM
+   HANCOCK J, 2005, BUSINESS PLANNING UK, P25
+   Holliday C. O., 2002, WALKING TALK
+   Jenkins H. M., 2004, CORPORATE SOCIAL RES
+   Moon J, 2007, SUSTAIN DEV, V15, P296, DOI 10.1002/sd.346
+   Perrini F, 2006, J BUS ETHICS, V67, P305, DOI 10.1007/s10551-006-9186-2
+   STANCU A, 2009, THESIS ACAD EC STUDI
+   Stoian Carmen, 2009, International Journal of Economics and Business Research, V1, DOI 10.1504/IJEBR.2009.024685
+   Visser W., 2007, A Z CORPORATE SOCIAL
+   Williams CA, 2005, CORNELL INT LAW J, V38, P493
+   2007, SUSTAINABLE DEV CORP
+NR 29
+TC 14
+Z9 14
+U1 16
+U2 51
+PU EDITURA ASE
+PI BUCURESTI
+PA PIATA ROMANA, NR 6, SECTOR 1, BUCURESTI, 701731, ROMANIA
+SN 1582-9146
+J9 AMFITEATRU ECON
+JI Amfiteatru Econ.
+PD FEB
+PY 2010
+VL 12
+IS 27
+BP 155
+EP 167
+PG 13
+WC Economics
+SC Business & Economics
+GA 558MP
+UT WOS:000274747700011
+ER
+
+PT J
+AU Lorenzo, JMP
+   Sanchez, IMG
+   Gallego-Alvarez, I
+AF Prado Lorenzo, Jose Manuel
+   Garcia Sanchez, Isabel Maria
+   Gallego-Alvarez, Isabel
+TI Characteristics of the board of directors and information in matters of
+   corporate social responsability
+SO REVISTA ESPANOLA DE FINANCIACION Y CONTABILIDAD-SPANISH JOURNAL OF
+   FINANCE AND ACCOUNTING
+LA Spanish
+DT Article
+DE Corporate Social Responsibility; Corporate Governance; Global Reporting
+   Initiative; Explanatory factors; Statistical analysis
+ID RESPONSIBILITY DISCLOSURE; ENVIRONMENTAL DISCLOSURES;
+   EMPIRICAL-ANALYSIS; LEGITIMACY; ASSOCIATION; MANAGEMENT; GOVERNANCE;
+   COMPANIES; VOLUNTARY; BEHAVIOR
+AB Certain environmental and social behaviours have caused an increase in the social pressure felt by corporations when doing business. To palliate this pressure, companies have generated a means of legitimising their behaviour: the reporting or corporate social responsibility. The objective of this article is to test for the existence of relations between certain characteristics of the board of directors and the reporting of corporate social information. The results obtained show an important effect of the independence and diversity of the board in reporting practices, the independent members being the main promoters of such initiatives. On the contrary, board activity and the reputation of its chairman have no effect, whereas the diversity of the organization signifies a move backward in different stages of the process.
+C1 [Prado Lorenzo, Jose Manuel] Univ Salamanca, Fac Econ & Empresa, Salamanca 37007, Spain.
+RP Lorenzo, JMP (reprint author), Univ Salamanca, Fac Econ & Empresa, Campus Miguel Unamuno, Salamanca 37007, Spain.
+EM jmprado@usal.es; lajefa@usal.es; igallego@usal.es
+RI Garcia-Sanchez, Isabel-Maria/F-4271-2016
+OI Garcia-Sanchez, Isabel-Maria/0000-0003-4711-8631
+CR Abdelsalam O, 2007, Int. J. Account. Res., V6, P1
+   Adams C., 1995, 41 ACCA
+   Adams C. A., 1998, BRIT ACCOUNTING REV, V30, P1, DOI DOI 10.1006/BARE.1997.0060
+   Adams C, 2002, ACCOUNTING AUDITING, V15, P223, DOI DOI 10.1108/09513570210418905
+   Adams CA, 1998, ACCOUNT ORG SOC, V23, P781, DOI 10.1016/S0361-3682(98)00028-2
+   Adams CA, 2000, EUROPEAN ACCOUNTING, V9, P53, DOI DOI 10.1080/096381800407941
+   Andres P., 2005, CORPORATE GOVERNANCE, V13, P197
+   Andrew B. H., 1989, BRIT ACCOUNTING REV, V21, P371, DOI 10.1016/0890-8389(89)90034-6
+   Archel P., 2003, REV ESPANOLA FINANCI, VXXXII, P571
+   Lizarraga F., 2001, REV CONTABILIDAD, V4, P129
+   AYUSO MG, 2003, REV ESPANOLA FINANCI, V32, P184
+   Beasley MS, 1996, ACCOUNT REV, V71, P443
+   Belkaoui A., 1989, ACCOUNTING AUDITING, V2, P36, DOI [10.1108/09513578910132240, DOI 10.1108/09513578910132240]
+   Bernardi R. A., 2006, BUSINESS SOC, V45, P235, DOI 10.1177/0007650305283332
+   BETZ M, 1989, J BUS ETHICS, V8, P321, DOI 10.1007/BF00381722
+   Campbell D. J., 2000, ACCOUNTING FORUM, V24, P80, DOI [10.1111/1467-6303.00030, DOI 10.1111/1467-6303.00030]
+   CARQUES FJH, 2007, REV ESPANOLA FINANCI, V36, P97
+   Carter DA, 2003, FINANCIAL REV, V38, P33, DOI DOI 10.1111/1540-6288.00034
+   Chen J, 2000, J INFRARED MILLIM W, V19, P285
+   Courtenay S. M., 2006, INT J ACCOUNTING, V41, P262, DOI 10.1016/j.intacc.2006.07.001
+   COWEN SS, 1987, ACCOUNT ORG SOC, V12, P111, DOI 10.1016/0361-3682(87)90001-8
+   Debreceny R., 2002, J ACCOUNTING PUBLIC, V21, P371, DOI 10.1016/S0278-4254(02)00067-4
+   Deegan C., 1996, ACCOUNTING BUSINESS, V26, P187
+   Deegan C., 1996, ACCOUNTING AUDITING, V9, P50, DOI DOI 10.1108/09513579610116358
+   Freedman M., 1988, ACCOUNTING AUDITING, V1, P43, DOI DOI 10.1108/EUM0000000004623
+   GALES LM, 1994, J BUS RES, V30, P271, DOI 10.1016/0148-2963(94)90057-4
+   Alvarez IG, 2008, ONLINE INFORM REV, V32, P596, DOI 10.1108/14684520810913990
+   Garcia-Sanchez IM, 2008, SUSTAIN DEV, V16, P17, DOI 10.1002/sd.334
+   Gray R, 1987, CORPORATE SOCIAL REP
+   Gray R., 1995, ACCOUNTING AUDITING, V8, P78, DOI DOI 10.1108/09513579510086812
+   Gray R., 2001, J BUSINESS FINANCE A, V28, P327, DOI [10.1111/1468-5957.00376, DOI 10.1111/1468-5957.00376]
+   Guthrie J., 1989, ACCOUNTING BUSINESS, V19, P343
+   Guthrie J., 1990, ADV PUBLIC INTEREST, V3, P159
+   Hackston D., 1996, ACCOUNTING AUDITING, V9, P77, DOI DOI 10.1108/09513579610109987
+   Hang H, 2007, CORPORATE GOVERNANCE, V15, P194
+   Cooke T. E., 2005, J ACCOUNTING PUBLIC, V24, P391, DOI [10.1016/j.jaccpubpol.2005.06.001, DOI 10.1016/J.JACCPUBPOL.2005.06.001]
+   Harris J., 1989, J ED BUSINESS, V64, P234
+   Hillman AJ, 1999, STRATEGIC MANAGE J, V20, P67, DOI 10.1002/(SICI)1097-0266(199901)20:1<67::AID-SMJ22>3.3.CO;2-K
+   Ibrahim N., 1991, P NE DEC SCI I, P208
+   IBRAHIM NA, 1995, J BUS ETHICS, V14, P405, DOI 10.1007/BF00872102
+   Jensen M. C., 1986, AM ECON REV, V76, P326
+   JENSEN MC, 1976, J FINANC ECON, V3, P305, DOI 10.1016/0304-405X(76)90026-X
+   Kanagaretnam K., 2007, J ACCOUNTING PUBLIC, V26, P497, DOI 10.1016/j.jaccpubpol.2007.05.003
+   Karamanou I, 2005, J ACCOUNT RES, V43, P453, DOI 10.1111/j.1475-679X.2005.00177.x
+   LANE JC, 1995, J BUS ETHICS, V14, P571, DOI 10.1007/BF00871985
+   Larran M., 2002, INT J DIGITAL ACCOUN, V2, P53
+   Larran M., 2004, RVEH, V12, P127
+   Lim S, 2007, EUR ACCOUNT REV, V16, P555, DOI 10.1080/09638180701507155
+   Lindblom C., 1994, CRIT PERSP ACC C NEW
+   LIPTON M, 1992, BUS LAWYER, V48, P59
+   Moneva JM, 2000, EUROPEAN ACCOUNTING, V9, P7, DOI DOI 10.1080/096381800407923
+   MONEVA JM, 1996, REV ESPANOLA FINANCI, V26, P361
+   Neu D, 1998, ACCOUNT ORG SOC, V23, P265, DOI 10.1016/S0361-3682(97)00008-1
+   NISKALA M, 1995, ACCOUNT ORG SOC, V20, P457, DOI 10.1016/0361-3682(94)00032-Q
+   O'Neill H., 1989, ACAD MANAGEMENT BEST, P32
+   PATTEN DM, 1992, ACCOUNT ORG SOC, V17, P471, DOI 10.1016/0361-3682(92)90042-Q
+   PATTEN DM, 1991, J ACCOUNT PUBLIC POL, V10, P297, DOI 10.1016/0278-4254(91)90003-3
+   Pfeffer J., 1978, EXTERNAL CONTROL ORG
+   Prado-Lorenzo JM, 2008, MANAGE DECIS, V46, P1247, DOI 10.1108/00251740810901417
+   ROBERTS RW, 1992, ACCOUNT ORG SOC, V17, P595, DOI 10.1016/0361-3682(92)90015-K
+   Robinson G., 1997, ACAD MANAGEMENT EXEC, V11, P21, DOI DOI 10.5465/AME.1997.9709231661
+   Mahoney LS, 2006, J BUS ETHICS, V69, P149, DOI 10.1007/s10551-006-9073-x
+   SONNENFELD J, 1981, ACAD MANAGE J, V24, P192, DOI 10.2307/255834
+   SUCHMAN MC, 1995, ACAD MANAGE REV, V20, P571, DOI 10.2307/258788
+   TROTMAN KT, 1981, ACCOUNT ORG SOC, V6, P355, DOI 10.1016/0361-3682(81)90014-3
+   TSALIKIS J, 1990, J BUS ETHICS, V9, P509, DOI 10.1007/BF00382844
+   Williams RJ, 2003, J BUS ETHICS, V42, P1, DOI 10.1023/A:1021626024014
+   Wilmshurst T. D., 2000, ACCOUNTING AUDITING, V13, P10, DOI 10.1108/09513570010316126
+   Xie B, 2003, J CORP FINANC, V9, P295, DOI 10.1016/S0929-1199(02)00006-8
+   Zahra S. A., 1988, INT J MANAGEMENT, V5, P229
+   Zyglidopoulos S.C, 2003, CORPORATE REPUTATION, V6, P70, DOI 10.1057/palgrave.crr.1540191
+NR 71
+TC 2
+Z9 2
+U1 7
+U2 43
+PU ASOCIACION ESPANOLA CONTABILIDAD ADMIN EMPRESAS
+PI MADRID
+PA RAFAEL BERGAMIN 16B, MADRID, 28043, SPAIN
+SN 0210-2412
+J9 REV ESP FINANC CONTA
+JI Rev. Esp. Financ. Contab.
+PD JAN-MAR
+PY 2009
+VL 38
+IS 141
+BP 107
+EP 135
+PG 29
+WC Business, Finance
+SC Business & Economics
+GA 432JE
+UT WOS:000265128500007
+ER
+
+PT J
+AU Molica, DG
+   Neto, AMD
+   Gonccalves, B
+AF Gomes Molica, Daniela
+   Moreira de Carvalho Neto, Antonio
+   Goncalves, Barros
+TI Corporate Social Responsability: lost opportunities for workers and
+   employers
+SO RBGN-REVISTA BRASILEIRA DE GESTAO DE NEGOCIOS
+LA Portuguese
+DT Article
+DE Corporate social responsibility; Collective bargaining; Workers
+   unionism; Employers organizations
+AB The purpose of this article is to discuss how collective bargaining between employees and employers reflects Corporate Social Responsibility (CSR) discourse. regarding to employees. The theoretical framework discusses the changes in industrial relations, especially those related to workers unions and also to the employers organizations. We also analyze the employers' organizations which is a rarely explored theme in literature. The qualitative research,encompassed three collective negotiations among, on one hand three unions of workers and on the other hand two. companies and one employer organization among the most actives in the metropolitan region Of southeastern Brazil. The CSR indicators issued by Instituto. Ethos were used as variables of analysis. The results show that neither the companies nor. the unions related the themes claimed, bargained and/or agreed with the CSR Ethos indicators. Many clauses were constituted as indicators of CSR as a matter of fact. but were not understood as such by both sides.
+C1 [Gomes Molica, Daniela; Moreira de Carvalho Neto, Antonio] Pontificia Univ Catolica Minas Gerais, Programa Posgrad Adm, Belo Horizonte, MG, Brazil.
+   [Moreira de Carvalho Neto, Antonio] Univ Fed Minas Gerais, Belo Horizonte, MG, Brazil.
+RP Molica, DG (reprint author), Pontificia Univ Catolica Minas Gerais, Programa Posgrad Adm, Belo Horizonte, MG, Brazil.
+EM daniela.molica@fead.br; carvalhoneto@pucminas.br; pedropbg@yahoo.com.br
+CR ANTUNES R, 1995, ADEUS TRABALHO
+   [Anonymous], 1999, SENTIDOS TRABALHO EN
+   ARGYRIS C, 1992, ENFIRENTARIDO DEFESA
+   ARRUDA MC, 2001, FUNDAMENTOS ETICA EM
+   Behrens M., 2004, IND BEZIEHUNGEN, V11, P77
+   BESSI VG, 2003, ENANPAD ENCONTRO ASS, V27
+   BORGES A, 1993, CADERNO CRH, V6, P22
+   CALDAS MP, 2000, DEMISSAO CAUSAS EFEI
+   CARVALHO, 2001, RELACOES TRABALHO NE
+   CARVALHO, 2007, ENCONTRO GESTAO PESS, V1
+   CARVALHO, 2003, ENCONTRO NACL ESTUDO, V8
+   CARVALHO, 2004, C ETICA INCLUSAO, P85
+   COELHO H, 2005, REV E G EC GESTAO, V5, P96
+   DINIZ E, 2004, ERNPRESARIOS INTERES
+   DINIZ E, 1991, CORPOIRATIVISMO DESI, P81
+   Fernandes Maria Elizabeth Rezende, 2005, Rev. adm. empres., V45, P48, DOI 10.1590/S0034-75902005000500004
+   FLEURY P, 1997, ENANPAD ENCONTRO NAC, V21
+   Fombrun C. J., 1998, CORPORATE REPUTATION, V1, P205, DOI 10.1057/palgrave.crr.1540044
+   Fombrun C.J., 2004, FAME FORTUNE
+   GOMEZ P, 2005, EC GESTAO, V1, P57
+   GUIMARAES S, 2006, CADERNO CRH, V19, P277
+   HARVEY D., 2000, CONDICAO POS MODERNA
+   Heblich S., 2007, Business Horizons, V50, DOI 10.1016/j.bushor.2006.12.002
+   Hill RP, 2007, J BUS ETHICS, V70, P165, DOI 10.1007/s10551-006-9103-8
+   KOCHAN T, 2004, IND BEZIEHUNGEN MERI, V11, P6
+   LEITE M, 2000, SOCIOLOGIAS, V2, P66
+   LEITE M, 1997, TRABALHO MOVIMENTO
+   LOCKE R, 1999, FUTURO IND BRASIL MU, V20, P205
+   Locke Richard M, 1995, EMPLOYMENT RELATIONS
+   Mattoso J, 1995, DESORDEM TRABALHO
+   Munilla L., 2005, BUSINESS SOC REV, V110, P371, DOI 10.1111/j.0045-3609.2005.00021.x
+   NAPOLEAO R, 2007, THESIS ADM PUC MINAS
+   *OIT, 1997, TRAB MUND REL LAB DE
+   PENA R, 2005, ENANPAD ENCONTRO NAC
+   PICCININI V, 2007, ENCONTRO GESTAO PESS
+   RAMALHO J, 1994, TERCEIRIZACAO
+   RAMOS LCA, 2005, THESIS PONTIFICA U C
+   RODRIGUES IJ, 1999, NOVO SINDICALISMO
+   SAILA DH, 2003, BUS SOC, V42, P168
+   SROUR R, 2000, ETICA EMPRESARIAL
+   TANURE B, 2007, EXECUTIVOS
+   TENORIO FG, 2004, ESPECTRO RONDA TERCL
+   TENORIO FG, 2004, RESPONSABILIDADE SOC
+   Traxler Franz, 2000, IND RELATIONS J, V31, P308, DOI 10.1111/1468-2338.00167
+   ULRICH D, 2002, CAMPEOES RECURSOS HU
+   VERGARA S. C., 2001, REV ADM EMPRESAS SAO, V41, P20
+   WERLANG PO, 2003, RESPONSABILIDADE SOC
+NR 47
+TC 0
+Z9 0
+U1 3
+U2 25
+PU FUND ESCOLA COMERCIO ALVARES PENTEADO-FECAP
+PI SAO PAULO SP
+PA AV DA LIBERDADE 532, SAO PAULO SP, CEP01502-001, BRAZIL
+SN 1806-4892
+J9 RBGN-REV BRAS GEST N
+JI RBGN-Rev. Bras. Gest. Negocios
+PD JUL-SEP
+PY 2008
+VL 10
+IS 28
+BP 215
+EP 233
+PG 19
+WC Business; Management
+SC Business & Economics
+GA 380YB
+UT WOS:000261500900003
+ER
+
+PT J
+AU Purcarea, TV
+   Purcarea, A
+AF Purcarea, Theodor Valentin
+   Purcarea, Anca
+TI Ethics, the actual stake of restructuring the trade relations
+SO AMFITEATRU ECONOMIC
+LA Rumanian
+DT Article
+DE ethical promises & expectations; ethical behaviour; effective ethical
+   engagement; managerial ethics; corporate social responsibility; moral
+   corporate performance; ethical marketing
+AB This article explores the ethical binom promise-expectation specific to the relationship firm-consumer, being built upon certain previous researches which discovered: significant changes in consumers' values and life styles influencing the process of collectinginformation about products; efforts carried out by companies in order to understand the present consumer' requirements, to prioritize their requirements, co-operate with them to suggest priorities and enhance satisfaction; the growing manifestation of certain ethical attitudes of both companies and consumers. Not only did we ask ourselves why these ethical attitudes don't transform more rapidly or always in ethical behaviours in both cases but also what is actually happening at the level of the relationship between the two behaviours in the permanent pilot station which is the shop. As there is no field or activity which can be independent from ethics, the more it is available in case of marketing, the marketing function being excessively aimed at by the ethical criticism. Managerial ethics is strongly connected with social responsability, not identical, the latter becoming a corporate marketing strategy adopted by management who may no longer choose ethical indifference. As the sole existance of a code of ethical behaviour does not yet solve the problem, measures taken to clarify both monitoring and implementation procedures are growing, as well as the development level of the code and the way of supporting and adhering to this standard. Which is valid also in case of shops, as a connection point between the citizen and the local community which is confronting with the challenge represented by the growing pressure with ethical connotations of customers' expectations. It is important to mention that for some time the International Association for the Distributive Trade, AIDA Brussels oferrs the Trophy, The Victory of Ethics". It is the industry and commerce responsability to properly communicate and ensure the comfort of consumers, building their trust. Consumers, to make decisions regarding their actions, go through perceptual and learning processes, and trying to harmonize their own desires with the moral behaviour which favours the well-being of the society gives them certain internal tensions. Despite the increase in ethical preocupations however ethical attitudes and preocupations of consumers are not always manifested in their actual behaviour. Our paper puts forward an understanding of the progress made in terms of effectiv ethical commitement at the organizational level and consumer level, trying to provide direction to further research of the common experience synthesized by the ethical binom promise-expectation, that will generate new knowledge.
+C1 [Purcarea, Theodor Valentin] Univ Romano Amer Bucuresti, Bucharest, Romania.
+   [Purcarea, Anca] Acad Studii Econ Bucuresti, Bucharest, Romania.
+RP Purcarea, TV (reprint author), Univ Romano Amer Bucuresti, Bucharest, Romania.
+EM theodor.purcarea@rau.ro; anca.purcarea@com.ase.ro
+CR BAGLEY EC, 2006, DEEP LINKS BUSINESS
+   BODKIN DC, 2006, J BUSINESS ETHICS
+   CHATZIDAKIS A, 2007, J BUSINESS ETHICS
+   CHRIS Y, 2006, ANTICIPATE PROBLEMS
+   COOKSON A, 2002, 28 INT AIDA C BRUSS
+   DELORME P, 1990, THEORIES PRATIQUES A, P135
+   DEVERA OG, 2002, 28 INT AIDA C BRUSS
+   DUNCAN WJ, 1983, MANAGEMENT RANDOM HO, P7
+   HINMAN ML, 2002, SAN DIEGO UNION 0331
+   HUNT DS, 1972, J MARKETING RES, V9, P346
+   *KEN I ETH DUK U, PUTT ETH WORK
+   KOTLER P, 2005, MARK MANAG, P26
+   LAGACE M, 2001, MACHIAVELLI MORALS Y
+   LEVINSON J, 2007, PRAISE THEM GUERRILL
+   MOREA, 2007, EUROMONITOR INT RES
+   PIRSCH J, 2006, FRAMEWORK UNDERSTAND
+   PURCAREA T, 2007, DISTRIBUTIE MERCHAND, P161
+   PURCAREA T, 2005, REV COMERT
+   RISTEA LA, 1996, DISTRIBUTIA MARFURIL, P26
+   SALLS M, 2005, CORPORATE RESPONSIBI
+   SHARP P, 2003, VALUE SHIFT COMPANIE
+   STEPHEN A, 2003, NEW STATESMAN    OCT
+   SYKES GM, 1957, AM SOCIOL REV, V22, P664, DOI 10.2307/2089195
+   TISHLER C, 2002, MORALS PROFITS MEET
+   2007, REGULI PENTRU CSR MO
+   2007, MARKETING COMUNICARE
+   2007, STRATEGIA CSR TINTA
+NR 27
+TC 0
+Z9 0
+U1 2
+U2 8
+PU EDITURA ASE
+PI BUCURESTI
+PA PIATA ROMANA, NR 6, SECTOR 1, BUCURESTI, 701731, ROMANIA
+SN 1582-9146
+J9 AMFITEATRU ECON
+JI Amfiteatru Econ.
+PD FEB
+PY 2008
+VL 10
+IS 23
+BP 20
+EP 29
+PG 10
+WC Economics
+SC Business & Economics
+GA 357DN
+UT WOS:000259826600003
+ER
+
+PT J
+AU Pantelica, C
+AF Pantelica, Cristina (Serbanica)
+TI Business ethics, a pillar of corporate reputation
+SO AMFITEATRU ECONOMIC
+LA Rumanian
+DT Article
+DE business ethics; corporate reputation; stakeholder theory; corporate
+   responsability; ethical brand
+AB The above study examines the relation between business ethics and corporate reputation and introduces the well-known and widely used methods and methodologies to asses corporate reputation, in order to put into light the contribution of business ethics. The main hypothesis is that an ethical behavior, supported by a sustainable corporate social responsability component, is a powerful antecedent of a strong reputation, while an unethical behavior can generate a very high reputational risk, which can be fatal for firm's survival.
+   The main conclusion is that an ethical behavior is a pillar of corporate reputation and it is supported by a range of arguments: the widely used methodolgies to asses corporate reputation include in their evaluation criteria the ethical component, even if we talk about the quality of products, the quality of management, the financial or social performance; 90% of the companies listed in Fortune rankings have codes of ethics; in the same time, some recent surveys indicate that managers consider unethical behavior a major reputational risk (the second after financial irregularities). Finally, the study introduces some new trends in assessing ethical behavior, like intra-industry cooperation, taking business with ethical partners or being "ethically" visible in the public space.
+C1 Univ Constantin Brancoveanu Din Pitesti, Pitesti, Romania.
+RP Pantelica, C (reprint author), Univ Constantin Brancoveanu Din Pitesti, Pitesti, Romania.
+EM cpantelica@yahoo.co.uk
+CR BRENDA J, 2002, J DEV ENTEPRENEURSHI, P129
+   CARTER M, 2007, COMPLETE GUIDE ETHIC
+   CHARLES F, 1997, REPUTATIONAL LANDSCA
+   CHARLES F, 1999, J BRAND MANAGEMENT, V7
+   Green Paper, 2001, PROMOTING EUROPEAN F
+   JAMES PE, 2002, REDEFINING CORPORATI
+   KAODI U, 2007, DOES BUSINESS ETHICS
+   Lu Yi, 2004, OECD PRINCIPLES CORP
+   SAMUEL C, 2001, MANAGEMENTUL MODERN
+   THOMAS R, 2005, BUSINESS ETHICS CORP
+   2007, FORTUNE WORLDS MOS
+   2007, ETHICAL REPUTATION I
+   2007 WORLDS MOST ETH
+   2001, DICTIONAR EC
+   2007, ETHICAL BRANDING REP
+   2007, SAFEGUARDING REPUTAT
+   2007, COVALENCE ETHICAL RA
+NR 17
+TC 0
+Z9 0
+U1 4
+U2 18
+PU EDITURA ASE
+PI BUCURESTI
+PA PIATA ROMANA, NR 6, SECTOR 1, BUCURESTI, 701731, ROMANIA
+SN 1582-9146
+J9 AMFITEATRU ECON
+JI Amfiteatru Econ.
+PD FEB
+PY 2008
+VL 10
+IS 23
+BP 119
+EP 124
+PG 6
+WC Economics
+SC Business & Economics
+GA 357DN
+UT WOS:000259826600020
+ER
+
+PT J
+AU Griesse, MA
+AF Griesse, Margaret Ann
+TI The geographic, political, and economic context for corporate social
+   responsibility in Brazil
+SO JOURNAL OF BUSINESS ETHICS
+LA English
+DT Article
+DE Brazilian history; corporate social responsability; inequalities
+AB This paper provides an overview of corporate social responsibility in Brazil, a country of vast regional and economic differences. Despite abundant natural resources and centers of advanced technology, large numbers of Brazilians live in poverty. Historical factors, which to some extent explain Brazil's social and economic inequalities - a long period of colonialism, followed by populist reform, repressive military measures, foreign debt, unfair trade agreements, and problems of corruption - have persisted into the current period of democratic reform, marked by economic and political trends toward democratization and corporate social responsibility. This paper considers the civic and business organizations that have been developing strategies to encourage social responsibility and government policies aimed at alleviating poverty. Despite progress, the complexity of the Brazilian context presents challenges for social and economic equality.
+C1 Univ Metodista Piracicaba, Martha Watts Cultural Ctr, BR-13400911 Piracicaba, SP, Brazil.
+RP Griesse, MA (reprint author), Univ Metodista Piracicaba, Martha Watts Cultural Ctr, Rua Boa Morte 1257, BR-13400911 Piracicaba, SP, Brazil.
+EM magriesse@unimep.br
+CR *ADCE, 1997, HIST ID ADCE BRAS 19
+   Alvarez Sonia E., 1990, ENGENDERING DEMOCRAC
+   AMMANN SB, 1980, IDEOLOGIA DESENVOLVI
+   *AMN INT, 2003, BRAZ REP
+   BARREIRO A, 1981, COMUNIDADES ECLESIAI
+   BARROS R, 1967, COMUNIDADE ECLESIAL
+   Boff C., 1981, COMUNIDADE ECLESIAL
+   BRESSAN S, 2001, ESTADO SAO PAUL 0429, pA8
+   *BSD, SA8000 INT CORP SOC
+   CAPPELLIN P, 2004, 14 UN RES I SOC DEV
+   CARDOSO FH, 1974, DEPENDENCIA DESARROL
+   CARDOSO FH, 1996, PROGRAMA NACL DIREIT
+   CARDOSO FH, 1995, DIREITOS HUMANOS NOV
+   CARDOSO FH, 2001, BALANCO CIDADANIA
+   Cardoso Ruth Correa Leite, 1987, REV BRASILEIRA CIENC, V3, P27
+   CASTRO-GOMEZ S., 1996, CRITICA RAZON LATINO
+   *CIA, 2005, CIA WORLD FACT BOOK
+   COMBLIN J, 1984, CHURCH NATL SECURITY
+   CORREA AJ, 2000, IMPULSO, V12, P127
+   Diniz Clelio Campolina, 1995, 375 IPEA
+   Dussel Enrique, 1996, UNDERSIDE MODERNITY
+   Evans Peter, 1979, DEPENDENT DEV ALLIAN
+   FALCONER AP, 1999, CTR STUD ADM 3 SECT
+   FAORO R, 1973, OS DONOS PODER FORMA
+   FARIA VE, 1983, SOC POLITICA BRASIL, V64
+   Fausto B., 1996, HIST BRASIL
+   Freire P, 1970, PEDAGOGY OPPRESSED
+   FREYRE G, 1980, INGLESES BRASIL
+   FURTADO C, 1991, FORMACAO EC BRASIL, P24
+   Gutierrez G., 1971, TEOLOGIA LIBERACION
+   HINKELAMMERT FJ, 1997, LIBERATION THEOLOGIE
+   HOLANDA SB, 1995, RAIZES BRASIL, P26
+   *HUM RIGHTS WATCH, 1999, REL AN SIT DIR HUM M
+   HUTCHINSON B, 1966, SOCIOL RURALIS, V6, P3, DOI 10.1111/j.1467-9523.1966.tb00525.x
+   *I ETH, 2006, SOBR I ETH
+   *I ETH, 2004, MONTHLY B        JUN
+   *I ETH EMPR RESP, 2001, SOC CID ED RESP SOC
+   IANNI O, 1996, ESTADO PLANEJAMENTO, P6
+   *IBGE, 2005, PROD INT BRUT MUN 19
+   *IBGE, 2005, CONT REG BRAS 2003
+   IBGE-Instituto Brasileiro de Geografia e Estatistica, 2000, CENS DEM
+   *IBGE, 2004, SINT IND SOC 2004
+   JACOBI PR, 1987, MOVIMENTOS SOCIAIS T
+   LOMBARDI R, 2001, ESTADO SAO PAUL 0520, pC6
+   LOMBARDI R, 2001, ESTADO SAO PAUL 0519, pC1
+   MENCONI D, 1997, VEJA            0409, P33
+   MIRANDA C, 2001, 829 IPEA
+   NOGUEIRA K, 1997, VEJA, V14, P22
+   *OIT, 2003, COMB TRAB ESCR EST
+   OLIVEN RG, 1984, URBANIAZCAO MUDANCA, P3
+   *OXF, 2004, WORLD TRAD WATCHD CO
+   Paiva Vanilda Pereira, 1980, P FREIRE NACL DESENV
+   PRADO C, 1980, EVOLUCAO POLITICA BR
+   Prahalad C. K., 2004, FORTUNE BOTTOM PYRAM
+   Ray D. E., 2003, BRAZILIAN ACREAGE PO
+   Rocha G. M., 2002, NEW LEFT REV, V16
+   ROETT R, 1992, BRAZIL POLITICS PATR, P4
+   Silva GC, 1967, GEOPOLITICA BRASIL
+   SKIDMORE Thomas, 1988, BRASIL CASTELO TANCR
+   *SOBEET, 2003, CART SOBEET V 24
+   SODRE NW, 1984, IDEOLOGIA COLONIALIS
+   TELES Maria Amelia de Almeida, 1993, BREVE HIST FEMINISMO
+   TOLLEFSON S, 1991, THESIS J HOPKINS U W
+   UNDP (United Nations Development Programme), 2002, HUM DEV REP
+   United Nations Development Programme UNDP, 2004, HUM DEV REP 2004
+   UNDP, 2001, HUM DEV REP
+   UNDP, 2003, HUM DEV REP
+   *US LIB C, 1997, BRAZ
+   Veiga P. d. M., 2004, FOREIGN DIRECT INVES
+   Viezzer M, 1989, PROBLEMA NAO ESTA MU
+   VIVEROS F, 1997, S VIRT MARC REG ORG
+   WOOD CH, 1994, DEMOGRAFIA DESIGUALD
+   World Bank, 2005, WORLD DEV IND DAT
+   2003, ESTADO SAO PAUL 0810
+   2003, CARTA CAPITAL    DEC, P8
+   2006, ESTADO SAO PAULO APR
+   1999, EPOCA           1025
+   2005, FOME ZERO       0916
+NR 78
+TC 16
+Z9 16
+U1 6
+U2 71
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0167-4544
+J9 J BUS ETHICS
+JI J. Bus. Ethics
+PD JUN
+PY 2007
+VL 73
+IS 1
+BP 21
+EP 37
+DI 10.1007/s10551-006-9194-2
+PG 17
+WC Business; Ethics
+SC Business & Economics; Social Sciences - Other Topics
+GA 163SN
+UT WOS:000246183600003
+ER
+
+EF

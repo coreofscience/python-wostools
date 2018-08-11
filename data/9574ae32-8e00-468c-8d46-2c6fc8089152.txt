@@ -1,0 +1,272 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Zhi, Yuyou
+   Li, Peng
+   Shi, Jiachun
+   Zeng, Lingzao
+   Wu, Laosheng
+TI Source identification and apportionment of soil cadmium in cropland of
+   Eastern China: a combined approach of models and geographic information
+   system
+SO JOURNAL OF SOILS AND SEDIMENTS
+VL 16
+IS 2
+BP 467
+EP 475
+DI 10.1007/s11368-015-1263-7
+PD FEB 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1439-0108
+EI 1614-7480
+UT WOS:000368686500014
+ER
+
+PT J
+AU Espanany, Arezoo
+   Fallah, Seyfollah
+   Tadayyon, Ali
+TI Seed priming improves seed germination and reduces oxidative stress in
+   black cumin (Nigella sativa) in presence of cadmium
+SO INDUSTRIAL CROPS AND PRODUCTS
+VL 79
+BP 195
+EP 204
+DI 10.1016/j.indcrop.2015.11.016
+PD JAN 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0926-6690
+EI 1872-633X
+UT WOS:000367857300024
+ER
+
+PT J
+AU Nouairi, Issam
+   Mrabet, Moncef
+   Rabhi, Mokded
+   Mhadhbi, Haythem
+   Zribi, Kais
+TI Cu-tolerant Sinorhizobium meliloti strain is beneficial for growth, Cu
+   accumulation, and mineral uptake of alfalfa plants grown in Cu excess
+SO ARCHIVES OF AGRONOMY AND SOIL SCIENCE
+VL 61
+IS 12
+BP 1707
+EP 1718
+DI 10.1080/03650340.2015.1036043
+PD DEC 2 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0365-0340
+EI 1476-3567
+UT WOS:000361115600001
+ER
+
+PT J
+AU Kumar, Pradeep
+   Rouphael, Youssef
+   Cardarelli, Mariateresa
+   Colla, Giuseppe
+TI Effect of nickel and grafting combination on yield, fruit quality,
+   antioxidative enzyme activities, lipid peroxidation, and mineral
+   composition of tomato
+SO JOURNAL OF PLANT NUTRITION AND SOIL SCIENCE
+VL 178
+IS 6
+BP 848
+EP 860
+DI 10.1002/jpln.201400651
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1436-8730
+EI 1522-2624
+UT WOS:000368436100005
+ER
+
+PT J
+AU Wang, Jianbing
+   Su, Liying
+   Yang, Junzhi
+   Yuan, Jiangang
+   Yin, Aiguo
+   Qiu, Qiu
+   Zhang, Kun
+   Yang, Zhongyi
+TI Comparisons of cadmium subcellular distribution and chemical forms
+   between low-Cd and high-Cd accumulation genotypes of watercress
+   (Nasturtium officinale L. R. Br.)
+SO PLANT AND SOIL
+VL 396
+IS 1-2
+BP 325
+EP 337
+DI 10.1007/s11104-015-2580-8
+PD NOV 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0032-079X
+EI 1573-5036
+UT WOS:000367344500023
+ER
+
+PT J
+AU Kumar, Pradeep
+   Edelstein, Menahem
+   Cardarelli, Mariateresa
+   Ferri, Emanuela
+   Culla, Giuseppe
+TI Grafting Affects Growth, Yield, Nutrient Uptake, and Partitioning Under
+   Cadmium Stress in Tomato
+SO HORTSCIENCE
+VL 50
+IS 11
+BP 1654
+EP 1661
+PD NOV 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0018-5345
+EI 2327-9834
+UT WOS:000365838800009
+ER
+
+PT J
+AU Mcgrath, S. P.
+   Zhao, F. J.
+TI Concentrations of metals and metalloids in soils that have the potential
+   to lead to exceedance of maximum limit concentrations of contaminants in
+   food and feed
+SO SOIL USE AND MANAGEMENT
+VL 31
+SI SI
+BP 34
+EP 45
+DI 10.1111/sum.12080
+SU 1
+PD OCT 2015
+PY 2015
+RI Zhao, Fang-Jie/A-8339-2008; McGrath, Steve/B-5127-2008
+OI Zhao, Fang-Jie/0000-0002-0164-169X; McGrath, Steve/0000-0003-0952-8947
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 1
+Z9 1
+SN 0266-0032
+EI 1475-2743
+UT WOS:000362897400003
+ER
+
+PT J
+AU Yang, Ching-Ming
+   Juang, Kai-Wei
+TI Alleviation effects of calcium and potassium on cadmium rhizotoxicity
+   and absorption by soybean and wheat roots
+SO JOURNAL OF PLANT NUTRITION AND SOIL SCIENCE
+VL 178
+IS 5
+BP 748
+EP 754
+DI 10.1002/jpln.201500002
+PD OCT 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1436-8730
+EI 1522-2624
+UT WOS:000362575900007
+ER
+
+PT J
+AU Sacristan, D.
+   Recatala, L.
+   Rossel, R. A. Viscarra
+TI Toxicity and bioaccumulation of Cu in an accumulator crop (Lactuca
+   sativa L.) in different Australian agricultural soils
+SO SCIENTIA HORTICULTURAE
+VL 193
+BP 346
+EP 352
+DI 10.1016/j.scienta.2015.06.051
+PD SEP 22 2015
+PY 2015
+RI viscarra rossel, raphael/B-4061-2011
+OI viscarra rossel, raphael/0000-0003-1540-4748
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0304-4238
+EI 1879-1018
+UT WOS:000362136300046
+ER
+
+PT J
+AU Zhang, Mu
+   Tang, Shuanhu
+   Yang, Shaohai
+   Huang, Xu
+   Huang, Qiaoyi
+TI Genotypic differences in the antioxidant and carbon-nitrogen metabolism
+   of acid-tolerant and acid-sensitive rice (Oryzasativa L.) cultivars
+   under acid stress
+SO SOIL SCIENCE AND PLANT NUTRITION
+VL 61
+IS 5
+BP 808
+EP 820
+DI 10.1080/00380768.2015.1051928
+PD SEP 3 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0038-0768
+EI 1747-0765
+UT WOS:000363531900007
+ER
+
+EF

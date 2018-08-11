@@ -1,0 +1,252 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Rabiee, Abdorreza
+   Sadeghi, Mohammad
+   Aghaeic, Jamshid
+   Heidari, Alireza
+TI Optimal operation of microgrids through simultaneous scheduling of
+   electrical vehicles and responsive loads considering wind and PV units
+   uncertainties
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+VL 57
+BP 721
+EP 739
+DI 10.1016/j.rser.2015.12.041
+PD MAY 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1364-0321
+UT WOS:000370456000054
+ER
+
+PT J
+AU Moradi, Mohammad H.
+   Abedini, Mohammad
+   Hosseinian, S. Mandi
+TI Optimal operation of autonomous microgrid using HS-GA
+SO INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+VL 77
+BP 210
+EP 220
+DI 10.1016/j.ijepes.2015.11.043
+PD MAY 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0142-0615
+EI 1879-3517
+UT WOS:000369192600025
+ER
+
+PT J
+AU Zhu, Yixin
+   Zhuo, Fang
+   Wang, Feng
+   Liu, Baoquan
+   Gou, Ruifeng
+   Zhao, Yangjie
+TI A Virtual Impedance Optimization Method for Reactive Power Sharing in
+   Networked Microgrid
+SO IEEE TRANSACTIONS ON POWER ELECTRONICS
+VL 31
+IS 4
+BP 2890
+EP 2904
+DI 10.1109/TPEL.2015.2450360
+PD APR 2016
+PY 2016
+RI Zhuo, Fang/G-6217-2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0885-8993
+EI 1941-0107
+UT WOS:000365953100019
+ER
+
+PT J
+AU Zhang, Di
+   Evangelisti, Sara
+   Lettieri, Paola
+   Papageorgiou, Lazaros G.
+TI Economic and environmental scheduling of smart homes with microgrid: DER
+   operation and electrical tasks
+SO ENERGY CONVERSION AND MANAGEMENT
+VL 110
+BP 113
+EP 124
+DI 10.1016/j.enconman.2015.11.056
+PD FEB 15 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0196-8904
+EI 1879-2227
+UT WOS:000369191400011
+ER
+
+PT J
+AU Lv, Tianguang
+   Ai, Qian
+   Zhao, Yuanyuan
+TI A bi-level multi-objective optimal operation of grid-connected
+   microgrids
+SO ELECTRIC POWER SYSTEMS RESEARCH
+VL 131
+BP 60
+EP 70
+DI 10.1016/j.epsr.2015.09.018
+PD FEB 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0378-7796
+EI 1873-2046
+UT WOS:000367126900007
+ER
+
+PT J
+AU Wu, Hongbin
+   Zhuang, Huaidong
+   Zhang, Wei
+   Ding, Ming
+TI Optimal allocation of microgrid considering economic dispatch based on
+   hybrid weighted bilevel planning method and algorithm improvement
+SO INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS
+VL 75
+BP 28
+EP 37
+DI 10.1016/j.ijepes.2015.08.011
+PD FEB 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0142-0615
+EI 1879-3517
+UT WOS:000364888300004
+ER
+
+PT J
+AU Mallol-Poyato, R.
+   Jimenez-Fernandez, S.
+   Diaz-Villar, P.
+   Salcedo-Sanz, S.
+TI Joint optimization of a Microgrid's structure design and its operation
+   using a two-steps evolutionary algorithm
+SO ENERGY
+VL 94
+BP 775
+EP 785
+DI 10.1016/j.energy.2015.11.030
+PD JAN 1 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0360-5442
+EI 1873-6785
+UT WOS:000370111300066
+ER
+
+PT J
+AU Kim, Seung Wan
+   Kim, Jip
+   Jin, Young Gyu
+   Yoon, Yong Tae
+TI Optimal Bidding Strategy for Renewable Microgrid with Active Network
+   Management
+SO ENERGIES
+VL 9
+IS 1
+DI 10.3390/en9010048
+PD JAN 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1996-1073
+UT WOS:000369501100034
+ER
+
+PT J
+AU Liu, Guodong
+   Xu, Yan
+   Tomsovic, Kevin
+TI Bidding Strategy for Microgrid in Day-Ahead Market Based on Hybrid
+   Stochastic/Robust Optimization
+SO IEEE TRANSACTIONS ON SMART GRID
+VL 7
+IS 1
+BP 227
+EP 237
+DI 10.1109/TSG.2015.2476669
+PD JAN 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1949-3053
+EI 1949-3061
+UT WOS:000367299800023
+ER
+
+PT J
+AU Wang, Zhaoyu
+   Chen, Bokan
+   Wang, Jianhui
+   Chen, Chen
+TI Networked Microgrids for Self-Healing Power Systems
+SO IEEE TRANSACTIONS ON SMART GRID
+VL 7
+IS 1
+BP 310
+EP 319
+DI 10.1109/TSG.2015.2427513
+PD JAN 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1949-3053
+EI 1949-3061
+UT WOS:000367299800031
+ER
+
+EF

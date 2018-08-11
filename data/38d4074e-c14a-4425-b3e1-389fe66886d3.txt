@@ -1,0 +1,5428 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Westaby, James D.
+   Woods, Naomi
+   Pfaff, Danielle L.
+TI Extending dynamic network theory to group and social interaction
+   analysis: Uncovering key behavioral elements, cycles, and emergent
+   states
+SO ORGANIZATIONAL PSYCHOLOGY REVIEW
+VL 6
+IS 1
+SI SI
+BP 34
+EP 62
+DI 10.1177/2041386614551319
+PN 2
+PD FEB 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 2041-3866
+EI 2041-3874
+UT WOS:000369671900002
+ER
+
+PT J
+AU Fliervoet, J. M.
+   Geerling, G. W.
+   Mostert, E.
+   Smits, A. J. M.
+TI Analyzing Collaborative Governance Through Social Network Analysis: A
+   Case Study of River Management Along the Waal River in The Netherlands
+SO ENVIRONMENTAL MANAGEMENT
+VL 57
+IS 2
+BP 355
+EP 367
+DI 10.1007/s00267-015-0606-x
+PD FEB 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0364-152X
+EI 1432-1009
+UT WOS:000368638500010
+PM 26324060
+ER
+
+PT J
+AU del Fresno Garcia, Miguel
+   Daly, Alan J.
+   Segado Sanchez-Cabezudo, Sagrario
+TI Identifying the new Influencers in the Internet Era: Social Media and
+   Social Network Analysis
+SO REVISTA ESPANOLA DE INVESTIGACIONES SOCIOLOGICAS
+IS 153
+BP 23
+EP 42
+DI 10.5477/cis/reis.153.23
+PD JAN-MAR 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0210-5233
+EI 1988-5903
+UT WOS:000367803200002
+ER
+
+PT J
+AU Yousefi-Nooraie, Reza
+   Dobbins, Maureen
+   Marin, Alexandra
+   Hanneman, Robert
+   Lohfeld, Lynne
+TI The evolution of social networks through the implementation of
+   evidence-informed decision-making interventions: a longitudinal analysis
+   of three public health units in Canada
+SO IMPLEMENTATION SCIENCE
+VL 10
+AR 166
+DI 10.1186/s13012-015-0355-5
+PD DEC 3 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1748-5908
+UT WOS:000365787100001
+PM 26634923
+ER
+
+PT J
+AU Hernandez-Encuentra, Eulalia
+   Gomez-Zuniga, Beni
+   Guillamon, Noemi
+   Boixados, Merce
+   Armayones, Manuel
+TI Analysis of patient organizations' needs and ICT use - The APTIC project
+   in Spain to develop an online collaborative social network
+SO HEALTH EXPECTATIONS
+VL 18
+IS 6
+BP 2129
+EP 2142
+DI 10.1111/hex.12181
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1369-6513
+EI 1369-7625
+UT WOS:000368250300025
+PM 24592990
+ER
+
+PT J
+AU Fazito, Dimitri
+   Soares, Weber
+TI The Industry of Illegal Migration: Social Network Analysis of the
+   Brazil-US Migration System
+SO INTERNATIONAL MIGRATION
+VL 53
+IS 6
+BP 183
+EP 204
+DI 10.1111/imig.12034
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0020-7985
+EI 1468-2435
+UT WOS:000367674400013
+ER
+
+PT J
+AU Muniz, N. M.
+   Ariza-Montes, J. A.
+   Molina, H.
+TI How Scientific Links Combine to Thrive Academic Research in
+   Universities: A Social Network Analysis Approach on the Generation of
+   Knowledge
+SO ASIA-PACIFIC EDUCATION RESEARCHER
+VL 24
+IS 4
+BP 613
+EP 623
+DI 10.1007/s40299-014-0207-0
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0119-5646
+EI 2243-7908
+UT WOS:000364026900007
+ER
+
+PT J
+AU Waesche, Hagen
+TI Interorganizational cooperation in sport tourism: A social network
+   analysis
+SO SPORT MANAGEMENT REVIEW
+VL 18
+IS 4
+BP 542
+EP 554
+DI 10.1016/j.smr.2015.01.003
+PD NOV 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1441-3523
+UT WOS:000365061100005
+ER
+
+PT J
+AU Rubenstein, Daniel I.
+   Sundaresan, Siva R.
+   Fischhoff, Ilya R.
+   Tantipathananandh, Chayant
+   Berger-Wolf, Tanya Y.
+TI Similar but Different: Dynamic Social Network Analysis Highlights
+   Fundamental Differences between the Fission-Fusion Societies of Two
+   Equid Species, the Onager and Grevy's Zebra
+SO PLOS ONE
+VL 10
+IS 10
+AR e0138645
+DI 10.1371/journal.pone.0138645
+PD OCT 21 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1932-6203
+UT WOS:000363248400009
+PM 26488598
+ER
+
+PT J
+AU Roca, Elisabet
+   Villares, Miriam
+   Oroval, Laia
+   Gabarro, Adrian
+TI Public perception and social network analysis for coastal risk
+   management in Maresme Sud (Barcelona, Catalonia)
+SO JOURNAL OF COASTAL CONSERVATION
+VL 19
+IS 5
+SI SI
+BP 693
+EP 706
+DI 10.1007/s11852-014-0341-0
+PD OCT 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1400-0350
+EI 1874-7841
+UT WOS:000362271900007
+ER
+
+PT J
+AU Bourbousson, Jerome
+   R'Kiouak, Mehdi
+   Eccles, David W.
+TI The dynamics of team coordination: A social network analysis as a window
+   to shared awareness
+SO EUROPEAN JOURNAL OF WORK AND ORGANIZATIONAL PSYCHOLOGY
+VL 24
+IS 5
+BP 742
+EP 760
+DI 10.1080/1359432X.2014.1001977
+PD SEP 3 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 1359-432X
+EI 1464-0643
+UT WOS:000359771400007
+ER
+
+PT J
+AU Silva, J. S.
+   Saraiva, A. M.
+TI A Methodology for Applying Social Network Analysis Metrics on
+   Biodiversity
+SO IEEE LATIN AMERICA TRANSACTIONS
+VL 13
+IS 9
+BP 3026
+EP 3037
+PD SEP 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1548-0992
+UT WOS:000366502700032
+ER
+
+PT J
+AU Dovbysh, Olga
+TI Media Markets in the Focus of Social Network Analysis
+SO JOURNAL OF ECONOMIC SOCIOLOGY-EKONOMICHESKAYA SOTSIOLOGIYA
+VL 16
+IS 4
+BP 85
+EP 107
+PD SEP 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1726-3247
+UT WOS:000366610400006
+ER
+
+PT J
+AU Farine, Damien R.
+   Whitehead, Hal
+TI Constructing, conducting and interpreting animal social network analysis
+SO JOURNAL OF ANIMAL ECOLOGY
+VL 84
+IS 5
+BP 1144
+EP 1163
+DI 10.1111/1365-2656.12418
+PD SEP 2015
+PY 2015
+Z8 0
+ZR 0
+ZS 0
+ZB 4
+TC 5
+Z9 5
+SN 0021-8790
+EI 1365-2656
+UT WOS:000360093400002
+PM 26172345
+ER
+
+PT J
+AU Petrescu-Prahova, Miruna
+   Belza, Basia
+   Leith, Katherine
+   Allen, Peg
+   Coe, Norma B.
+   Anderson, Lynda A.
+TI Using Social Network Analysis to Assess Mentorship and Collaboration in
+   a Public Health Network
+SO PREVENTING CHRONIC DISEASE
+VL 12
+AR E130
+DI 10.5888/pcd12.150103
+PD AUG 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1545-1151
+UT WOS:000368664600008
+PM 26292061
+ER
+
+PT J
+AU Hollenbeck, John R.
+   Jamieson, Bradley B.
+TI HUMAN CAPITAL, SOCIAL CAPITAL, AND SOCIAL NETWORK ANALYSIS: IMPLICATIONS
+   FOR STRATEGIC HUMAN RESOURCE MANAGEMENT
+SO ACADEMY OF MANAGEMENT PERSPECTIVES
+VL 29
+IS 3
+BP 370
+EP 385
+DI 10.5465/amp.2014.0140
+PD AUG 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1558-9080
+UT WOS:000361781000007
+ER
+
+PT J
+AU Chakraborty, Saptarshi
+   Ambooken, John George
+   Tripathy, B. K.
+   Purushotham, Swarnalatha
+TI Analysis and Performance Enhancement to Achieve Recursive (c, l)
+   Diversity Anonymization in Social Networks
+SO TRANSACTIONS ON DATA PRIVACY
+VL 8
+IS 2
+BP 173
+EP 215
+PD AUG 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1888-5063
+EI 2013-1631
+UT WOS:000361624400004
+ER
+
+PT J
+AU Franco, Zeno E.
+   Ahmed, Syed M.
+   Maurana, Cheryl A.
+   DeFino, Mia C.
+   Brewer, Devon D.
+TI A Social Network Analysis of 140 Community-Academic Partnerships for
+   Health: Examining the Healthier Wisconsin Partnership Program
+SO CTS-CLINICAL AND TRANSLATIONAL SCIENCE
+VL 8
+IS 4
+BP 311
+EP 319
+DI 10.1111/cts.12288
+PD AUG 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1752-8054
+EI 1752-8062
+UT WOS:000360585200012
+PM 25974413
+ER
+
+PT J
+AU Teixeira, Jose
+   Robles, Gregorio
+   Gonzalez-Barahona, Jesus M.
+TI Lessons learned from applying social network analysis on an industrial
+   Free/Libre/Open Source Software ecosystem
+SO JOURNAL OF INTERNET SERVICES AND APPLICATIONS
+VL 6
+AR 14
+DI 10.1186/s13174-015-0028-2
+PD JUL 24 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1867-4828
+EI 1869-0238
+UT WOS:000366797200001
+ER
+
+PT J
+AU Grady, Caitlin A.
+   He, Xiaozheng
+   Peeta, Srinivas
+TI Integrating social network analysis with analytic network process for
+   international development project selection
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 42
+IS 12
+BP 5128
+EP 5138
+DI 10.1016/j.eswa.2015.02.039
+PD JUL 15 2015
+PY 2015
+OI He, Xiaozheng/0000-0002-1633-4748
+ZB 0
+ZR 0
+ZS 0
+TC 0
+Z8 1
+Z9 1
+SN 0957-4174
+EI 1873-6793
+UT WOS:000353746900010
+ER
+
+PT J
+AU Fang, Ruolian
+   Landis, Blaine
+   Zhang, Zhen
+   Anderson, Marc H.
+   Shaw, Jason D.
+   Kilduff, Martin
+TI Integrating Personality and Social Networks: A Meta-Analysis of
+   Personality, Network Position, and Work Outcomes in Organizations
+SO ORGANIZATION SCIENCE
+VL 26
+IS 4
+BP 1243
+EP 1260
+DI 10.1287/orsc.2015.0972
+PD JUL-AUG 2015
+PY 2015
+RI Fang, Ruolian/B-4969-2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+SN 1047-7039
+UT WOS:000358880500017
+ER
+
+PT J
+AU Criado, J. Ignacio
+   Rojas-Martín, Francisco
+TI Estrategias y realidades en la difusión de las redes sociales en las
+   administraciones públicas. Análisis desde una perspectiva
+   institucionalista
+X1 Stratégies et réalités dans la diffusion des réseaux sociaux au sein des
+   administrations publiques. Analyse à partir d'un point de vue
+   institutionnaliste
+Y1 Strategies and Realities in the Diffusion of Social Networks in Public
+   Administrations: Analysis from an Institutional Perspective
+Z1 Estratégias e realidades na difusão das redes sociais nas administrações
+   públicas. Análise a partir de uma perspectiva institucionalista
+SO Innovar
+VL 25
+IS 57
+BP 45
+EP 62
+PD 2015-07
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0121-5051
+UT SCIELO:S0121-50512015000300004
+ER
+
+PT J
+AU Sajuria, Javier
+   vanHeerde-Hudson, Jennifer
+   Hudson, David
+   Dasandi, Niheer
+   Theocharis, Yannis
+TI Tweeting Alone? An Analysis of Bridging and Bonding Social Capital in
+   Online Networks
+SO AMERICAN POLITICS RESEARCH
+VL 43
+IS 4
+SI SI
+BP 708
+EP 738
+DI 10.1177/1532673X14557942
+PD JUL 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1532-673X
+EI 1552-3373
+UT WOS:000356394700007
+ER
+
+PT J
+AU Valente, Thomas W.
+   Palinkas, Lawrence A.
+   Czaja, Sara
+   Chu, Kar-Hai
+   Brown, C. Hendricks
+TI Social Network Analysis for Program Implementation
+SO PLOS ONE
+VL 10
+IS 6
+AR e0131712
+DI 10.1371/journal.pone.0131712
+PD JUN 25 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+TC 0
+ZS 1
+Z9 1
+SN 1932-6203
+UT WOS:000356933800172
+PM 26110842
+ER
+
+PT J
+AU Kawonga, Mary
+   Blaauw, Duane
+   Fonn, Sharon
+TI Exploring the use of social network analysis to measure communication
+   between disease programme and district managers at sub-national level in
+   South Africa
+SO SOCIAL SCIENCE & MEDICINE
+VL 135
+BP 1
+EP 14
+DI 10.1016/j.socscimed.2015.04.024
+PD JUN 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0277-9536
+UT WOS:000356114900001
+PM 25931377
+ER
+
+PT J
+AU Silk, Matthew J.
+   Jackson, Andrew L.
+   Croft, Darren P.
+   Colhoun, Kendrew
+   Bearhop, Stuart
+TI The consequences of unidentifiable individuals for the analysis of an
+   animal social network
+SO ANIMAL BEHAVIOUR
+VL 104
+BP 1
+EP 11
+DI 10.1016/j.anbehav.2015.03.005
+PD JUN 2015
+PY 2015
+RI Jackson, Andrew/D-3441-2009; Croft, Darren/B-5503-2009
+OI Jackson, Andrew/0000-0001-7334-0434; Croft, Darren/0000-0001-6869-5097
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 2
+Z9 2
+SN 0003-3472
+EI 1095-8282
+UT WOS:000354811800005
+ER
+
+PT J
+AU Farine, Damien R.
+TI Proximity as a proxy for interactions: issues of scale in social network
+   analysis
+SO ANIMAL BEHAVIOUR
+VL 104
+BP E1
+EP E5
+DI 10.1016/j.anbehav.2014.11.019
+PD JUN 2015
+PY 2015
+OI Farine, Damien/0000-0003-2208-7613
+Z8 0
+ZR 0
+ZS 0
+ZB 3
+TC 4
+Z9 4
+SN 0003-3472
+EI 1095-8282
+UT WOS:000354811800003
+ER
+
+PT J
+AU Einwiller, Sabine A.
+   Steilen, Sarah
+TI Handling complaints on social network sites - An analysis of complaints
+   and complaint responses on Facebook and Twitter pages of large US
+   companies
+SO PUBLIC RELATIONS REVIEW
+VL 41
+IS 2
+SI SI
+BP 195
+EP 204
+DI 10.1016/j.pubrev.2014.11.012
+PD JUN 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 0363-8111
+EI 1873-4537
+UT WOS:000354665400007
+ER
+
+PT J
+AU Marshall, David J.
+   Staeheli, Lynn
+TI Mapping civil society with social network analysis: Methodological
+   possibilities and limitations
+SO GEOFORUM
+VL 61
+BP 56
+EP 66
+DI 10.1016/j.geoforum.2015.02.015
+PD MAY 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0016-7185
+EI 1872-9398
+UT WOS:000354502900007
+ER
+
+PT J
+AU Weishaar, Heide
+   Amos, Amanda
+   Collin, Jeff
+TI Best of enemies: Using social network analysis to explore a policy
+   network in European smoke-free policy
+SO SOCIAL SCIENCE & MEDICINE
+VL 133
+SI SI
+BP 85
+EP 92
+DI 10.1016/j.socscimed.2015.03.045
+PD MAY 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 0277-9536
+UT WOS:000354579800012
+PM 25863723
+ER
+
+PT J
+AU Rose, P. E.
+   Croft, D. P.
+TI The potential of Social Network Analysis as a tool for the management of
+   zoo animals
+SO ANIMAL WELFARE
+VL 24
+IS 2
+BP 123
+EP 138
+DI 10.7120/09627286.24.2.123
+PD MAY 2015
+PY 2015
+RI Croft, Darren/B-5503-2009
+OI Croft, Darren/0000-0001-6869-5097
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0962-7286
+UT WOS:000354062300001
+ER
+
+PT J
+AU Buettner, Kathrin
+   Scheffler, Katharina
+   Czycholl, Irena
+   Krieter, Joachim
+TI Social network analysis - centrality parameters and individual network
+   positions of agonistic behavior in pigs over three different age levels
+SO SPRINGERPLUS
+VL 4
+AR 185
+DI 10.1186/s40064-015-0963-1
+PD APR 17 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 2193-1801
+UT WOS:000359200800002
+PM 25932371
+ER
+
+PT J
+AU Bader, Benjamin
+   Schuster, Tassilo
+TI Expatriate Social Networks in Terrorism-Endangered Countries: An
+   Empirical Analysis in Afghanistan, India, Pakistan, and Saudi Arabia
+SO JOURNAL OF INTERNATIONAL MANAGEMENT
+VL 21
+IS 1
+BP 63
+EP 77
+DI 10.1016/j.intman.2014.09.004
+PD MAR 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+SN 1075-4253
+EI 1873-0620
+UT WOS:000350812400005
+ER
+
+PT J
+AU Hollingsworth, John M.
+   Funk, Russell J.
+   Owen-Smith, Jason
+   Landon, Bruce E.
+   Hollenbeck, Brent K.
+   Birkmeyer, John D.
+TI Assessing the Reach of Health Reform to Outpatient Surgery With Social
+   Network Analysis
+SO ANNALS OF SURGERY
+VL 261
+IS 3
+BP 468
+EP 472
+DI 10.1097/SLA.0000000000000880
+PD MAR 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0003-4932
+EI 1528-1140
+UT WOS:000349559900042
+PM 25185474
+ER
+
+PT J
+AU Woelfer, Ralf
+   Faber, Nadira S.
+   Hewstone, Miles
+TI Social Network Analysis in the Science of Groups: Cross-Sectional and
+   Longitudinal Applications for Studying Intra- and Intergroup Behavior
+SO GROUP DYNAMICS-THEORY RESEARCH AND PRACTICE
+VL 19
+IS 1
+BP 45
+EP 61
+DI 10.1037/gdn0000021
+PD MAR 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 1089-2699
+EI 1930-7802
+UT WOS:000349712200004
+ER
+
+PT J
+AU Kim, Changlim
+   Yoon, Han-Seong
+TI Evaluation of Manpower Arrangement Propriety Using Social Network
+   Analysis : Focusing on Personal Trait and Job Satisfaction
+Z1 사회연결망분석을 활용한 인력배치의 적절성 평가 : 성격특성과 직무만족도를 중심으로
+SO The Journal of Internet Electronic Commerce Research
+S1 인터넷전자상거래연구
+VL 15
+IS 6
+BP 117
+EP 128
+PD 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1598-1983
+UT KJD:ART002060813
+ER
+
+PT J
+AU 하민호
+   신홍범
+TI Towards an Improving Sport Organizational Efficiency through the Social
+   Network Analysis:Focusing on the Korean Olympic Committee
+Z1 사회연결망분석(SNA)을 통한 스포츠조직 운영의효율성 제고 방안: 대한체육회를 중심으로
+SO The Korean Society of Sports Science
+S1 한국체육과학회지
+VL 24
+IS 2
+BP 649
+EP 661
+PD 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1226-0258
+UT KJD:ART001989168
+ER
+
+PT J
+AU Yuldashev, Farhod
+   Sahin, Bahadir
+TI EVALUATING YOUTH POLICY REFORM IN KYRGYZSTAN USING SOCIAL NETWORK
+   ANALYSIS
+SO TRAMES-JOURNAL OF THE HUMANITIES AND SOCIAL SCIENCES
+VL 19
+IS 3
+BP 273
+EP 287
+DI 10.3176/tr.2015.3.04
+PD 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1406-0922
+EI 1736-7514
+UT WOS:000360643100004
+ER
+
+PT J
+AU 박동욱
+   이상훈
+TI Diagnosis Model for Closed Organizations based on Social Network
+   Analysis
+Z1 소셜 네트워크 분석 기반 통제 조직 진단 모델
+SO KIISE Transactions on Computing Practices
+S1 정보과학회 컴퓨팅의 실제 논문지
+VL 21
+IS 6
+BP 393
+EP 402
+PD 2015
+PY 2015
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 2383-6318
+UT KJD:ART001997746
+ER
+
+PT J
+AU Lee, Mikyung
+   PARK, Han Woo
+   Smith, Marc
+AU 박지원
+TI Network Analysis of the International Conference Utilizing Social Media:
+   the Case of Internet Research Conference(IR15)
+Z1 소셜미디어를 활용한 국제회의 네트워크 분석- 세계인터넷전문가총회(IR15) 트위터 사례를 중심으로 -
+SO Korean Journal of Tourism Research
+S1 관광연구
+VL 30
+IS 3
+BP 223
+EP 246
+PD 2015
+PY 2015
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1226-2501
+UT KJD:ART002000582
+ER
+
+PT J
+AU 이재무
+   김행열
+TI A Social Network Analysis method - using analysis on Factors Deciding to
+   Colleague Trust pursuant to the in - Organization Behavioral features of
+   Public Servants in Special Services
+Z1 사회연결망분석방법을 이용한 특정직 공무원의 조직 내 행위 특성에 따른 동료신뢰 결정 요인 분석
+SO Korean Public Personnel Administration Review
+S1 한국인사행정학회보
+VL 14
+IS 2
+BP 185
+EP 210
+PD 2015
+PY 2015
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1976-3891
+UT KJD:ART002011709
+ER
+
+PT J
+AU Crijns, Hannelore
+   Hudders, Liselot
+   Cauberghe, Verolien
+   Claeys, An-Sofie
+TI Facebook as a corporate communication tool for companies? A content
+   analysis of the communication strategies of reputable Belgian companies
+   on the social network site
+SO TIJDSCHRIFT VOOR COMMUNICATIEWETENSCHAP
+VL 43
+IS 1
+BP 39
+EP +
+PD 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1384-6930
+UT WOS:000351967300004
+ER
+
+PT J
+AU Borg, Riikka
+   Toikka, Arho
+   Primmer, Eeva
+TI Social capital and governance: a social network analysis of forest
+   biodiversity collaboration in Central Finland
+SO FOREST POLICY AND ECONOMICS
+VL 50
+BP 90
+EP 97
+DI 10.1016/j.forpol.2014.06.008
+PD JAN 2015
+PY 2015
+ZB 0
+ZR 0
+ZS 0
+TC 0
+Z8 1
+Z9 1
+SN 1389-9341
+EI 1872-7050
+UT WOS:000347763100010
+ER
+
+PT J
+AU Malone, Elizabeth L.
+   Kinnear, Susan
+TI How and why: complementary analyses of social network structures and
+   cultural values: improving flood response networks in Queensland,
+   Australia
+SO QUALITY & QUANTITY
+VL 49
+IS 1
+BP 203
+EP 220
+DI 10.1007/s11135-013-9982-6
+PD JAN 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0033-5177
+EI 1573-7845
+UT WOS:000347533200013
+ER
+
+PT J
+AU Schoen, Martin W.
+   Moreland-Russell, Sarah
+   Prewitt, Kim
+   Carothers, Bobbi J.
+TI Social network analysis of public health programs to measure partnership
+SO SOCIAL SCIENCE & MEDICINE
+VL 123
+BP 90
+EP 95
+DI 10.1016/j.socscimed.2014.10.057
+PD DEC 2014
+PY 2014
+OI Schoen, Martin/0000-0001-6388-5553
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 0277-9536
+UT WOS:000347021800011
+PM 25462609
+ER
+
+PT J
+AU Kinsella, David
+TI Illicit arms transfers to Africa and the prominence of the former Soviet
+   bloc: a social network analysis
+SO CRIME LAW AND SOCIAL CHANGE
+VL 62
+IS 5
+BP 523
+EP 547
+DI 10.1007/s10611-014-9531-9
+PD DEC 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0925-4994
+EI 1573-0751
+UT WOS:000346244700001
+ER
+
+PT J
+AU Smythe, Tiffany C.
+   Thompson, Robert
+   Garcia-Quijano, Carlos
+TI The inner workings of collaboration in marine ecosystem-based
+   management: A social network analysis approach
+SO MARINE POLICY
+VL 50
+BP 117
+EP 125
+DI 10.1016/j.marpol.2014.05.002
+PN A
+PD DEC 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 3
+Z9 3
+SN 0308-597X
+EI 1872-9460
+UT WOS:000342528300014
+ER
+
+PT J
+AU Rolls, Kaye Denise
+   Hansen, Margaret
+   Jackson, Debra
+   Elliott, Doug
+TI Analysis of the Social Network Development of a Virtual Community for
+   Australian Intensive Care Professionals
+SO CIN-COMPUTERS INFORMATICS NURSING
+VL 32
+IS 11
+BP 536
+EP 544
+DI 10.1097/CIN.0000000000000104
+PD NOV 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1538-2931
+EI 1538-9774
+UT WOS:000348188100003
+PM 25310223
+ER
+
+PT J
+AU Esmailian, Pouya
+   Abtahi, Seyed Ebrahim
+   Jalili, Mahdi
+TI Mesoscopic analysis of online social networks: The role of negative ties
+SO PHYSICAL REVIEW E
+VL 90
+IS 4
+AR 042817
+DI 10.1103/PhysRevE.90.042817
+PD OCT 29 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 1539-3755
+EI 1550-2376
+UT WOS:000344030700004
+PM 25375559
+ER
+
+PT J
+AU Martinez-Nunez, Margarita
+   Saul Perez-Aguiar, Waldo
+TI Efficiency analysis of information technology and online social networks
+   management: An integrated DEA-model assessment
+SO INFORMATION & MANAGEMENT
+VL 51
+IS 6
+SI SI
+BP 712
+EP 725
+DI 10.1016/j.im.2014.05.009
+PD SEP 2014
+PY 2014
+RI Perez-Aguiar, Waldo Saul/E-7580-2013; Martinez-Nunez, Margarita/K-9799-2014
+OI Perez-Aguiar, Waldo Saul/0000-0001-9976-5553; Martinez-Nunez,
+   Margarita/0000-0002-4135-5735
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0378-7206
+EI 1872-7530
+UT WOS:000341473100010
+ER
+
+PT J
+AU Kim, Daejoong
+   Kim, Jang-Hyun
+   Nam, Yoonjae
+TI How does industry use social networking sites? An analysis of corporate
+   dialogic uses of Facebook, Twitter, YouTube, and LinkedIn by industry
+   type
+SO QUALITY & QUANTITY
+VL 48
+IS 5
+BP 2605
+EP 2614
+DI 10.1007/s11135-013-9910-9
+PD SEP 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 0033-5177
+EI 1573-7845
+UT WOS:000340084500014
+ER
+
+PT J
+AU Vittoria, M. Patrizia
+   Lavadera, Giuseppe Lubrano
+TI Knowledge networks and dynamic capabilities as the new regional policy
+   milieu. A social network analysis of the Campania biotechnology
+   community in southern Italy
+SO ENTREPRENEURSHIP AND REGIONAL DEVELOPMENT
+VL 26
+IS 7-8
+BP 594
+EP 618
+DI 10.1080/08985626.2014.964782
+PD AUG 8 2014
+PY 2014
+OI Vittoria, Maria Patrizia/0000-0003-3983-9834
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 0898-5626
+EI 1464-5114
+UT WOS:000343422700004
+ER
+
+PT J
+AU Diez-Vial, Isabel
+   Montoro-Sanchez, Angeles
+TI Social capital as a driver of local knowledge exchange: a social network
+   analysis
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+VL 12
+IS 3
+SI SI
+BP 276
+EP 288
+DI 10.1057/kmrp.2014.7
+PD AUG 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1477-8238
+EI 1477-8246
+UT WOS:000341061000004
+ER
+
+PT J
+AU Pailes, Matthew C.
+TI SOCIAL NETWORK ANALYSIS OF EARLY CLASSIC HOHOKAM CORPORATE GROUP
+   INEQUALITY
+SO AMERICAN ANTIQUITY
+VL 79
+IS 3
+BP 465
+EP 486
+PD JUL 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 0002-7316
+EI 2325-5064
+UT WOS:000339702200006
+ER
+
+PT J
+AU del Rocio Martinez-Torres, Maria
+TI Analysis of activity in open-source communities using social network
+   analysis techniques
+SO ASIAN JOURNAL OF TECHNOLOGY INNOVATION
+VL 22
+IS 1
+BP 114
+EP 130
+DI 10.1080/19761597.2014.912577
+PD JUN 2014
+PY 2014
+RI Martinez-Torres, Rocio/E-6611-2010
+OI Martinez-Torres, Rocio/0000-0002-1640-0020
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 1976-1597
+EI 2158-6721
+UT WOS:000337562400008
+ER
+
+PT J
+AU Bierbach, David
+   Oster, Sophie
+   Jourdan, Jonas
+   Arias-Rodriguez, Lenin
+   Krause, Jens
+   Wilson, Alexander D. M.
+   Plath, Martin
+TI Social network analysis resolves temporal dynamics of male dominance
+   relationships
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+VL 68
+IS 6
+BP 935
+EP 945
+DI 10.1007/s00265-014-1706-y
+PD JUN 2014
+PY 2014
+RI Wilson, Alexander/B-3329-2011
+OI Wilson, Alexander/0000-0002-7696-1671
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 2
+Z9 2
+SN 0340-5443
+EI 1432-0762
+UT WOS:000336022700006
+ER
+
+PT J
+AU Caniato, Marco
+   Vaccari, Mentore
+   Visvanathan, Chettiyappan
+   Zurbrugg, Christian
+TI Using social network and stakeholder analysis to help evaluate
+   infectious waste management: A step towards a holistic assessment
+SO WASTE MANAGEMENT
+VL 34
+IS 5
+BP 938
+EP 951
+DI 10.1016/j.wasman.2014.02.011
+PD MAY 2014
+PY 2014
+RI Vaccari, Mentore/L-1170-2015
+OI Vaccari, Mentore/0000-0003-1611-6772
+Z8 0
+ZR 0
+ZS 0
+ZB 4
+TC 4
+Z9 4
+SN 0956-053X
+UT WOS:000335290100012
+PM 24636007
+ER
+
+PT J
+AU Martinez-Torres, M. R.
+TI Analysis of open innovation communities from the perspective of social
+   network analysis
+SO TECHNOLOGY ANALYSIS & STRATEGIC MANAGEMENT
+VL 26
+IS 4
+BP 435
+EP 451
+DI 10.1080/09537325.2013.851378
+PD APR 21 2014
+PY 2014
+RI Martinez-Torres, Rocio/E-6611-2010
+OI Martinez-Torres, Rocio/0000-0002-1640-0020
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+SN 0953-7325
+EI 1465-3990
+UT WOS:000334038700005
+ER
+
+PT J
+AU Boivin, Remi
+TI Risks, prices, and positions: A social network analysis of illegal drug
+   trafficking in the world-economy
+SO INTERNATIONAL JOURNAL OF DRUG POLICY
+VL 25
+IS 2
+BP 235
+EP 243
+DI 10.1016/j.drugpo.2013.12.004
+PD MAR 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 0955-3959
+EI 1873-4758
+UT WOS:000334139200008
+PM 24418633
+ER
+
+PT J
+AU Dhand, Amar
+   Harp, Jordan
+   Borgatti, Stephen P.
+TI Leadership in neurology: A social network analysis
+SO ANNALS OF NEUROLOGY
+VL 75
+IS 3
+BP 342
+EP 350
+DI 10.1002/ana.24089
+PD MAR 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0364-5134
+EI 1531-8249
+UT WOS:000333547000005
+PM 24812696
+ER
+
+PT J
+AU Bowen, Kathryn J.
+   Alexander, Damon
+   Miller, Fiona
+   Dany, Va
+TI Using Social Network Analysis to Evaluate Health-Related Adaptation
+   Decision-Making in Cambodia
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+VL 11
+IS 2
+BP 1605
+EP 1625
+DI 10.3390/ijerph110201605
+PD FEB 2014
+PY 2014
+OI alexander, damon/0000-0003-0837-1677
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 1660-4601
+UT WOS:000334436600025
+PM 24487452
+ER
+
+PT J
+AU Medina, Richard M.
+TI Social Network Analysis: A case study of the Islamist terrorist network
+SO SECURITY JOURNAL
+VL 27
+IS 1
+BP 97
+EP 121
+DI 10.1057/sj.2012.21
+PD FEB 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0955-1662
+EI 1743-4645
+UT WOS:000330152900006
+ER
+
+PT J
+AU Park, Se Jung
+   Lim, Yon Soo
+TI Information networks and social media use in public diplomacy: a
+   comparative analysis of South Korea and Japan
+SO ASIAN JOURNAL OF COMMUNICATION
+VL 24
+IS 1
+SI SI
+BP 79
+EP 98
+DI 10.1080/01292986.2013.851724
+PD JAN 2 2014
+PY 2014
+RI Lim, Yon Soo/B-5655-2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 0129-2986
+EI 1742-0911
+UT WOS:000329776500006
+ER
+
+PT J
+AU JOUNGSOONHEE
+AU 임은정
+   권민애
+TI Policy Network of the Restructured Residential Electricity Pricing -
+   Including Consumers on Social Network Analysis(SNA) -
+Z1 주택용 전기요금 개편에 대한 정책네트워크- 소비자를 중심으로 한 사회연결망 분석 -
+SO Journal of Consumption Culture
+S1 소비문화연구
+VL 17
+IS 4
+BP 253
+EP 273
+PD 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1229-0386
+UT KJD:ART001940261
+ER
+
+PT J
+AU 홍종의
+TI Development of an assessment model for the CoP in Educational institutes
+   – towards social network analysis
+Z1 교육기관의 학습공동체 평가 모델 개발- 사회연결망분석을 중심으로
+SO Journal of Korea Academia-Industrial cooperation Society
+S1 한국산학기술학회논문지
+VL 15
+IS 11
+BP 6502
+EP 6508
+DI 10.5762/KAIS.2014.15.11.6502
+PD 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1975-4701
+UT KJD:ART001931866
+ER
+
+PT J
+AU Hwang, Hyunseok
+TI A Framework for Knowledge Propagation Analysis using Social Network
+Z1 사회연결망을 이용한 지식전파 분석의 프레임워크
+SO Journal of the Korea Society Industrial Information System
+S1 한국산업정보학회논문지
+VL 19
+IS 6
+BP 97
+EP 106
+PD 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1229-3741
+UT KJD:ART001943306
+ER
+
+PT J
+AU 박경하
+   이동영
+TI Interorganizational Network Characteristics on Social Participation
+   Service Organizations of Elderly People: The application of Network
+   Analysis Method
+Z1 노인사회참여 서비스 조직들의 조직간 관계의 특성 분석 : 연결망 분석(network analysis) 적용
+SO Korean Social Security Studies
+S1 사회보장연구
+VL 30
+IS 1
+BP 27
+EP 49
+PD 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1225-5866
+UT KJD:ART001853663
+ER
+
+PT J
+AU Woo-Young, Chang
+TI Social Network Campaign and Electoral Participation Effect: Empirical
+   Analysis of the 18th Presidential Election in Korea
+Z1 소셜네트워크 캠페인과 유권자 참여 효과: 18대 대선의 경험적 분석
+SO The Korean Journal of Area Studies
+S1 세계지역연구논총
+VL 32
+IS 3
+BP 37
+EP 55
+PD 2014
+PY 2014
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-5946
+UT KJD:ART001941142
+ER
+
+PT J
+AU Yi, Junhyoek
+   Lee, Juyeon
+AU 권기석
+   채성욱
+   한동성
+TI A Social Network Analysis on the Research Trend of Korean Medicine
+Z1 한의학 연구동향에 대한 사회연결망분석
+SO Journal of Korea Technology Innovation Society
+S1 기술혁신학회지
+VL 17
+IS 2
+BP 334
+EP 354
+PD 2014
+PY 2014
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-2912
+UT KJD:ART001893926
+ER
+
+PT J
+AU Behara, Ravi S.
+   Babbar, Sunil
+   Smart, Philip Andrew
+TI Leadership in OM research: a social network analysis of European
+   researchers
+SO INTERNATIONAL JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT
+VL 34
+IS 12
+BP 1537
+EP 1563
+DI 10.1108/IJOPM-08-2013-0390
+PD 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0144-3577
+EI 1758-6593
+UT WOS:000345032300004
+ER
+
+PT J
+AU 이현정
+TI Knowledge Structure Analysis on Marketing Research using Social Network
+   Analysis
+Z1 사회연결망분석을 이용한 마케팅연구의 지식구조 분석
+SO korean management review
+S1 경영학연구
+VL 43
+IS 3
+BP 965
+EP 992
+PD 2014
+PY 2014
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1226-1874
+UT KJD:ART001887806
+ER
+
+PT J
+AU Abbasi, Alireza
+   Wigand, Rolf T.
+   Hossain, Liaquat
+TI Measuring social capital through network analysis and its influence on
+   individual performance
+SO LIBRARY & INFORMATION SCIENCE RESEARCH
+VL 36
+IS 1
+BP 66
+EP 73
+DI 10.1016/j.lisr.2013.08.001
+PD JAN 2014
+PY 2014
+RI Abbasi, Alireza/F-9487-2015
+OI Abbasi, Alireza/0000-0001-9136-1837
+ZB 0
+Z8 0
+ZR 0
+TC 0
+ZS 1
+Z9 1
+SN 0740-8188
+EI 1873-1848
+UT WOS:000335287400008
+ER
+
+PT J
+AU Ma Feicheng
+   Li Yating
+TI Utilising social network analysis to study the characteristics and
+   functions of the co-occurrence network of online tags
+SO ONLINE INFORMATION REVIEW
+VL 38
+IS 2
+BP 232
+EP 247
+DI 10.1108/OIR-11-2012-0124
+PD 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1468-4527
+EI 1468-4535
+UT WOS:000333794700004
+ER
+
+PT J
+AU Conway, Steve
+TI A Cautionary Note on Data Inputs and Visual Outputs in Social Network
+   Analysis
+SO BRITISH JOURNAL OF MANAGEMENT
+VL 25
+IS 1
+BP 102
+EP 117
+DI 10.1111/j.1467-8551.2012.00835.x
+PD JAN 2014
+PY 2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 1045-3172
+EI 1467-8551
+UT WOS:000329140300008
+ER
+
+PT J
+AU Smith, Andre
+   Matthews, Ralph
+   Fiddler, Jay
+TI Recruitment and retention of blood donors in four Canadian cities: an
+   analysis of the role of community and social networks
+SO TRANSFUSION
+VL 53
+SI SI
+BP 180S
+EP 184S
+DI 10.1111/trf.12478
+SU 5
+PD DEC 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 2
+Z9 2
+SN 0041-1132
+EI 1537-2995
+UT WOS:000328300400005
+PM 24341431
+ER
+
+PT J
+AU Ghani, Sohaib
+   Kwon, Bum Chul
+   Lee, Seungyoon
+   Yi, Ji Soo
+   Elmqvist, Niklas
+TI Visual Analytics for Multimodal Social Network Analysis: A Design Study
+   with Social Scientists
+SO IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+VL 19
+IS 12
+BP 2032
+EP 2041
+PD DEC 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+TC 10
+ZB 2
+Z9 10
+SN 1077-2626
+EI 1941-0506
+UT WOS:000325991600009
+PM 24051769
+ER
+
+PT J
+AU Ho, Yvonne
+   Chiu, Hongjen
+TI A social network analysis of leading semiconductor companies' knowledge
+   flow network
+SO ASIA PACIFIC JOURNAL OF MANAGEMENT
+VL 30
+IS 4
+BP 1265
+EP 1283
+DI 10.1007/s10490-011-9268-2
+PD DEC 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0217-4561
+EI 1572-9958
+UT WOS:000326735000014
+ER
+
+PT J
+AU Sweeney, Patricia M.
+   Bjerke, Elizabeth F.
+   Guclu, Hasan
+   Keane, Christopher R.
+   Galvan, Jared
+   Gleason, Sherrianne M.
+   Potter, Margaret A.
+TI Social Network Analysis: A Novel Approach to Legal Research on Emergency
+   Public Health Systems
+SO JOURNAL OF PUBLIC HEALTH MANAGEMENT AND PRACTICE
+VL 19
+IS 6
+BP E38
+EP E40
+DI 10.1097/PHH.0b013e31829fc013
+PD NOV-DEC 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 3
+Z9 3
+SN 1078-4659
+EI 1550-5022
+UT WOS:000330446300005
+PM 24080820
+ER
+
+PT J
+AU Scott, John C.
+TI Social Processes in Lobbyist Agenda Development: A Longitudinal Network
+   Analysis of Interest Groups and Legislation
+SO POLICY STUDIES JOURNAL
+VL 41
+IS 4
+BP 609
+EP 636
+DI 10.1111/psj.12034
+PD NOV 2013
+PY 2013
+RI Yoon, DongJoon/E-9146-2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0190-292X
+EI 1541-0072
+UT WOS:000327430100003
+ER
+
+PT J
+AU Gonzalez Alvarez, Marta Isabel
+TI New Technologies and Social Networks in Communication for Solidarity:
+   analysis of an awareness campaign and petition on Twitter
+SO HISTORIA Y COMUNICACION SOCIAL
+VL 18
+SI SI
+DI 10.5209/rev_HICS.2013.v18.44274
+PD NOV 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1137-0734
+EI 1988-3056
+UT WOS:000342991700053
+ER
+
+PT J
+AU Mascia, Daniele
+   Cicchetti, Americo
+   Damiani, Gianfranco
+TI "Us and Them": a social network analysis of physicians' professional
+   networks and their attitudes towards EBM
+SO BMC HEALTH SERVICES RESEARCH
+VL 13
+AR 429
+DI 10.1186/1472-6963-13-429
+PD OCT 22 2013
+PY 2013
+OI Damiani, Gianfranco/0000-0003-3028-6188
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 5
+Z9 5
+SN 1472-6963
+UT WOS:000328134100003
+PM 24148207
+ER
+
+PT J
+AU Lamontagne, Marie-Eve
+TI Exploration of the integration of care for persons with a traumatic
+   brain injury using social network analysis methodology
+SO INTERNATIONAL JOURNAL OF INTEGRATED CARE
+VL 13
+AR UNSP 114746
+PD OCT-DEC 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1568-4156
+UT WOS:000327717800003
+ER
+
+PT J
+AU Rushmore, Julie
+   Caillaud, Damien
+   Matamba, Leopold
+   Stumpf, Rebecca M.
+   Borgatti, Stephen P.
+   Altizer, Sonia
+TI Social network analysis of wild chimpanzees provides insights for
+   predicting infectious disease risk
+SO JOURNAL OF ANIMAL ECOLOGY
+VL 82
+IS 5
+BP 976
+EP 986
+DI 10.1111/1365-2656.12088
+PD SEP 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+ZB 10
+TC 12
+Z9 12
+SN 0021-8790
+UT WOS:000323200600007
+PM 23734782
+ER
+
+PT J
+AU Ernoul, Lisa
+   Wardell-Johnson, Angela
+TI Governance in integrated coastal zone management: a social networks
+   analysis of cross-scale collaboration
+SO ENVIRONMENTAL CONSERVATION
+VL 40
+IS 3
+BP 231
+EP 240
+DI 10.1017/S0376892913000106
+PD SEP 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 5
+Z9 6
+SN 0376-8929
+UT WOS:000323039200005
+ER
+
+PT J
+AU Baum, J.
+   Vlok, P. J.
+TI MAPPING PRIMARY CONSTRAINTS IN PHYSICAL ASSET MANAGEMENT STRATEGY
+   EXECUTION, USING SOCIAL NETWORK ANALYSIS
+SO SOUTH AFRICAN JOURNAL OF INDUSTRIAL ENGINEERING
+VL 24
+IS 2
+BP 47
+EP 58
+PD AUG 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 2224-7890
+UT WOS:000326138600006
+ER
+
+PT J
+AU Hirai, Yuri
+   Watanabe, Toshiya
+   Inuzuka, Atsushi
+TI Empirical analysis of the effect of Japanese university spinoffs' social
+   networks on their performance
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+VL 80
+IS 6
+BP 1119
+EP 1128
+DI 10.1016/j.techfore.2012.10.027
+PD JUL 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 0040-1625
+EI 1873-5509
+UT WOS:000321089400008
+ER
+
+PT J
+AU Mascia, Daniele
+   Di Vincenzo, Fausto
+TI Dynamics of hospital competition: Social network analysis in the Italian
+   National Health Service
+SO HEALTH CARE MANAGEMENT REVIEW
+VL 38
+IS 3
+BP 234
+EP 247
+DI 10.1097/HMR.0b013e31824ccab8
+PD JUL-SEP 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 0361-6274
+EI 1550-5030
+UT WOS:000320698400006
+PM 22387971
+ER
+
+PT J
+AU Stroeele, Victor
+   Zimbrao, Geraldo
+   Souza, Jano M.
+TI Group and link analysis of multi-relational scientific social networks
+SO JOURNAL OF SYSTEMS AND SOFTWARE
+VL 86
+IS 7
+BP 1819
+EP 1830
+DI 10.1016/j.jss.2013.02.024
+PD JUL 2013
+PY 2013
+RI Inca, Inct/K-2204-2013; Zimbrao, Geraldo/J-4488-2014; Stroele, Victor/O-3156-2015
+OI Stroele, Victor/0000-0001-6296-8605
+ZB 0
+ZR 0
+Z8 1
+ZS 1
+TC 4
+Z9 5
+SN 0164-1212
+UT WOS:000319847600010
+ER
+
+PT J
+AU Worrell, James
+   Wasko, Molly
+   Johnston, Allen
+TI Social network analysis in accounting information systems research
+SO INTERNATIONAL JOURNAL OF ACCOUNTING INFORMATION SYSTEMS
+VL 14
+IS 2
+SI SI
+BP 127
+EP 137
+DI 10.1016/j.accinf.2011.06.002
+PD JUN 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 5
+Z9 5
+SN 1467-0895
+EI 1873-4723
+UT WOS:000318322200007
+ER
+
+PT J
+AU Marqués Sánchez, Pilar
+   González Pérez, Marta Eva
+   Agra Varela, Yolanda
+   Vega Núñez, Jorge
+   Pinto Carral, Arrate
+   Quiroga Sánchez, Enedina
+TI El análisis de las redes sociales: Un método para la mejora de la
+   seguridad en las organizaciones sanitarias
+X1 Social Network Analysis: A Method to Improve Safety in Healthcare
+   Organizations
+SO Revista Española de Salud Pública
+VL 87
+IS 3
+BP 209
+EP 219
+DI 10.4321/s1135-57272013000300001
+PD 2013-06
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1135-5727
+UT SCIELO:S1135-57272013000300001
+PM 23892673
+ER
+
+PT J
+AU Marques Sanchez, Pilar
+   Gonzalez Perez, Marta Eva
+   Agra Varela, Yolanda
+   Vega Nunez, Jorge
+   Pinto Carral, Arrate
+   Quiroga Sanchez, Enedina
+TI Social Network Analysis. A Method to Improve Safety in Healthcare
+   Organizations
+SO REVISTA ESPANOLA DE SALUD PUBLICA
+VL 87
+IS 3
+BP 209
+EP 219
+PD MAY-JUN 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1135-5727
+UT WOS:000322740400001
+ER
+
+PT J
+AU Kaonga, Nadi Nina
+   Labrique, Alain
+   Mechael, Patricia
+   Akosah, Eric
+   Ohemeng-Dapaah, Seth
+   Baah, Joseph Sakyi
+   Kodie, Richmond
+   Kanter, Andrew S.
+   Levine, Orin
+TI Using Social Networking to Understand Social Networks: Analysis of a
+   Mobile Phone Closed User Group Used by a Ghanaian Health Team
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 15
+IS 4
+AR UNSP e74
+DI 10.2196/jmir.2332
+PD APR 2013
+PY 2013
+OI Labrique, Alain/0000-0003-2502-7819
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 1438-8871
+UT WOS:000319443800011
+PM 23552721
+ER
+
+PT J
+AU Kleinberg, Jon
+TI Analysis of large-scale social and information networks
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL
+   AND ENGINEERING SCIENCES
+VL 371
+IS 1987
+AR 20120378
+DI 10.1098/rsta.2012.0378
+PD MAR 28 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+ZB 3
+TC 5
+Z9 5
+SN 1364-503X
+UT WOS:000315190200004
+PM 23419847
+ER
+
+PT J
+AU Eveland, William P., Jr.
+   Kleinman, Steven B.
+TI Comparing General and Political Discussion Networks Within Voluntary
+   Organizations Using Social Network Analysis
+SO POLITICAL BEHAVIOR
+VL 35
+IS 1
+BP 65
+EP 87
+DI 10.1007/s11109-011-9187-4
+PD MAR 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+SN 0190-9320
+UT WOS:000314847200004
+ER
+
+PT J
+AU Guerrero, Angela M.
+   Mcallister, Ryan R. J.
+   Corcoran, Jonathan
+   Wilson, Kerrie A.
+TI Scale Mismatches, Conservation Planning, and the Value of Social-Network
+   Analyses
+SO CONSERVATION BIOLOGY
+VL 27
+IS 1
+BP 35
+EP 44
+DI 10.1111/j.1523-1739.2012.01964.x
+PD FEB 2013
+PY 2013
+RI McAllister, Ryan/A-4866-2008; Wilson, Kerrie/C-8058-2009; Guerrero Gonzalez, Angela/L-2554-2014
+OI McAllister, Ryan/0000-0003-0080-7528; Wilson,
+   Kerrie/0000-0002-0092-935X; Guerrero Gonzalez,
+   Angela/0000-0002-1556-9860
+Z8 0
+ZR 0
+ZS 1
+ZB 16
+TC 24
+Z9 25
+SN 0888-8892
+UT WOS:000313781600005
+PM 23305381
+ER
+
+PT J
+AU Farine, Damien R.
+   Milburn, Peter J.
+TI Social organisation of thornbill-dominated mixed-species flocks using
+   social network analysis
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+VL 67
+IS 2
+BP 321
+EP 330
+DI 10.1007/s00265-012-1452-y
+PD FEB 2013
+PY 2013
+ZR 0
+ZS 0
+Z8 1
+ZB 14
+TC 16
+Z9 17
+SN 0340-5443
+EI 1432-0762
+UT WOS:000313650600016
+ER
+
+PT J
+AU 이수창
+TI A Study on Impact of Organizational Characteristics of Social
+   Enterprises on Performance : Based on Non-parametric Regression Analysis
+   through Neural Network
+Z1 사회적기업의 조직적 특성이 성과에 미치는 영향에 관한 연구:인공신경망을 이용한 비모수 회귀분석을 토대로
+SO Journal of Regional Studies and Development
+S1 지역발전연구
+VL 22
+IS 2
+BP 95
+EP 126
+PD 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1738-3846
+UT KJD:ART001835070
+ER
+
+PT J
+AU 장임숙
+TI Social Network Analysis on Cooperation Network among MultiCultural
+   Families Supporting Agencies
+Z1 지역의 다문화가족지원을 위한 협력네트워크에 관한 사회네트워크분석(Social Network Analysis)
+SO Korean Public Administration Quarterly
+S1 한국행정논집
+VL 25
+IS 3
+BP 1
+EP 25
+PD 2013
+PY 2013
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-4756
+UT KJD:ART001806279
+ER
+
+PT J
+AU Cho, NamWook
+   Kim, Woo-Je
+AU 김승희
+TI CTQ table extraction method using Social Network Analysis
+Z1 사회연결망분석을 활용한 CTQ(Critical-To-Quality) 테이블 추출 기법
+SO The Journal of Information Technology and Architecture
+S1 정보기술아키텍처 연구
+VL 10
+IS 3
+BP 347
+EP 359
+PD 2013
+PY 2013
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1738-382x
+UT KJD:ART001811553
+ER
+
+PT J
+AU Barbosa Ritzmann, Barbara Nascimento
+   Nunes Silva, Helena de Fatima
+   Tsunoda, Denise Fukumi
+   Schneider, Ariane Hinca
+TI USE OF SOCIAL NETWORK ON LINE AS A SOURCE OF INFORMATION FOR CREATION OF
+   MEANING: an analysis from the perspective of models of Brenda Dervin and
+   Karl Weick
+SO INFORMACAO & SOCIEDADE-ESTUDOS
+VL 23
+IS 2
+BP 125
+EP 137
+PD 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0104-0146
+EI 1809-4783
+UT WOS:000326958500011
+ER
+
+PT J
+AU Johnson, Joseph S.
+   Kropczynski, Jessica N.
+   Lacki, Michael J.
+TI Social network analysis and the study of sociality in bats
+SO ACTA CHIROPTEROLOGICA
+VL 15
+IS 1
+BP 1
+EP 17
+DI 10.3161/150811013X667821
+PD 2013
+PY 2013
+Z8 0
+ZR 0
+ZS 0
+ZB 3
+TC 3
+Z9 3
+SN 1508-1109
+EI 1733-5329
+UT WOS:000321533300001
+ER
+
+PT S
+AU Burt, Ronald S.
+   Kilduff, Martin
+   Tasselli, Stefano
+BE Fiske, ST
+TI Social Network Analysis: Foundations and Frontiers on Advantage
+SO ANNUAL REVIEW OF PSYCHOLOGY, VOL 64
+SE Annual Review of Psychology
+VL 64
+BP 527
+EP 547
+DI 10.1146/annurev-psych-113011-143828
+PD 2013
+PY 2013
+RI Kilduff, Martin/A-4980-2012
+OI Kilduff, Martin/0000-0003-4004-8749
+ZR 0
+ZB 3
+Z8 3
+ZS 3
+TC 43
+Z9 48
+SN 0066-4308
+BN 978-0-8243-0264-1
+UT WOS:000316383600021
+PM 23282056
+ER
+
+PT J
+AU Van den Bossche, Piet
+   Segers, Mien
+TI Transfer of training: Adding insight through social network analysis
+SO EDUCATIONAL RESEARCH REVIEW
+VL 8
+SI SI
+BP 37
+EP 47
+DI 10.1016/j.edurev.2012.08.002
+PD JAN 2013
+PY 2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 8
+Z9 8
+SN 1747-938X
+UT WOS:000316037800005
+ER
+
+PT J
+AU Eblen, Matthew
+   Fabsitz, Richard R.
+   Olson, Jean L.
+   Pearson, Katrina
+   Pool, Lindsay R.
+   Puggal, Mona
+   Wu, Charles
+   Wagner, Robin M.
+TI Social network analysis comparing researcher collaborations in two
+   cardiovascular cohort studies
+SO RESEARCH EVALUATION
+VL 21
+IS 5
+SI SI
+BP 392
+EP 405
+DI 10.1093/reseval/rvs030
+PD DEC 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 0958-2029
+UT WOS:000312241100007
+ER
+
+PT J
+AU Davis, Maryann
+   Koroloff, Nancy
+   Johnsen, Matthew
+TI Social Network Analysis of Child and Adult Interorganizational
+   Connections
+SO PSYCHIATRIC REHABILITATION JOURNAL
+VL 35
+IS 3
+SI SI
+BP 265
+EP 272
+DI 10.2975/35.3.2012.265.272
+PD WIN 2012
+PY 2012
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 4
+Z9 4
+SN 1095-158X
+UT WOS:000299721100013
+PM 22246126
+ER
+
+PT J
+AU Wambeke, Brad W.
+   Liu, Min
+   Hsiang, Simon M.
+TI Using Pajek and Centrality Analysis to Identify a Social Network of
+   Construction Trades
+SO JOURNAL OF CONSTRUCTION ENGINEERING AND MANAGEMENT
+VL 138
+IS 10
+BP 1192
+EP 1201
+DI 10.1061/(ASCE)CO.1943-7862.0000524
+PD OCT 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+SN 0733-9364
+UT WOS:000312672500009
+ER
+
+PT J
+AU Pow, Janette
+   Gayen, Kaberi
+   Elliott, Lawrie
+   Raeside, Robert
+TI Understanding complex interactions using social network analysis
+SO JOURNAL OF CLINICAL NURSING
+VL 21
+IS 19-20
+BP 2772
+EP 2779
+DI 10.1111/j.1365-2702.2011.04036.x
+PD OCT 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 4
+Z9 4
+SN 0962-1067
+UT WOS:000308935800009
+PM 22816791
+ER
+
+PT J
+AU Abbott, Katherine M.
+   Bettger, Janet Prvu
+   Hampton, Keith
+   Kohler, Hans-Peter
+TI Exploring the Use of Social Network Analysis to Measure Social
+   Integration Among Older Adults in Assisted Living
+SO FAMILY & COMMUNITY HEALTH
+VL 35
+IS 4
+BP 322
+EP 333
+DI 10.1097/FCH.0b013e318266669f
+PD OCT-DEC 2012
+PY 2012
+OI Abbott, Katherine/0000-0002-6815-2065
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 5
+Z9 5
+SN 0160-6379
+UT WOS:000308494900007
+PM 22929378
+ER
+
+PT J
+AU Acquaah, Moses
+TI Social networking relationships, firm-specific managerial experience and
+   firm performance in a transition economy: A comparative analysis of
+   family owned and nonfamily firms
+SO STRATEGIC MANAGEMENT JOURNAL
+VL 33
+IS 10
+BP 1215
+EP 1228
+DI 10.1002/smj.1973
+PD OCT 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+SN 0143-2095
+EI 1097-0266
+UT WOS:000307550600006
+ER
+
+PT J
+AU Iyengar, Deepak
+   Rao, Shashank
+   Goldsby, Thomas J.
+TI The Power and Centrality of the Transportation and Warehousing Sector
+   within the US Economy: A Longitudinal Exploration Using Social Network
+   Analysis
+SO TRANSPORTATION JOURNAL
+VL 51
+IS 4
+BP 373
+EP 398
+PD FAL 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0041-1612
+UT WOS:000310168500002
+ER
+
+PT J
+AU Sasidharan, Sharath
+   Santhanam, Radhika
+   Brass, Daniel J.
+   Sambamurthy, Vallabh
+TI The Effects of Social Network Structure on Enterprise Systems Success: A
+   Longitudinal Multilevel Analysis
+SO INFORMATION SYSTEMS RESEARCH
+VL 23
+IS 3
+BP 658
+EP 678
+DI 10.1287/isre.1110.0388
+PN 1
+PD SEP 2012
+PY 2012
+ZB 0
+ZR 0
+ZS 0
+Z8 1
+TC 9
+Z9 9
+SN 1047-7047
+UT WOS:000309091000004
+ER
+
+PT J
+AU Lin, Ching-Yung
+   Wu, Lynn
+   Wen, Zhen
+   Tong, Hanghang
+   Griffiths-Fisher, Vicky
+   Shi, Lei
+   Lubensky, David
+TI Social Network Analysis in Enterprise
+SO PROCEEDINGS OF THE IEEE
+VL 100
+IS 9
+SI SI
+BP 2759
+EP 2776
+DI 10.1109/JPROC.2012.2203090
+PD SEP 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 8
+Z9 8
+SN 0018-9219
+EI 1558-2256
+UT WOS:000307892900013
+ER
+
+PT J
+AU Chambers, Duncan
+   Wilson, Paul
+   Thompson, Carl
+   Harden, Melissa
+TI Social Network Analysis in Healthcare Settings: A Systematic Scoping
+   Review
+SO PLOS ONE
+VL 7
+IS 8
+AR e41911
+DI 10.1371/journal.pone.0041911
+PD AUG 3 2012
+PY 2012
+OI Chambers, Duncan/0000-0002-0154-0469
+Z8 0
+ZR 0
+ZB 1
+ZS 1
+TC 17
+Z9 18
+SN 1932-6203
+UT WOS:000307284100036
+PM 22870261
+ER
+
+PT J
+AU Mertens, Frederic
+   Saint-Charles, Johanne
+   Mergler, Donna
+TI Social communication network analysis of the role of participatory
+   research in the adoption of new fish consumption behaviors
+SO SOCIAL SCIENCE & MEDICINE
+VL 75
+IS 4
+BP 643
+EP 650
+DI 10.1016/j.socscimed.2011.10.016
+PD AUG 2012
+PY 2012
+OI Mertens, Frederic/0000-0002-1449-8140
+Z8 0
+ZR 0
+ZS 1
+ZB 4
+TC 8
+Z9 10
+SN 0277-9536
+UT WOS:000306890000007
+PM 22172976
+ER
+
+PT J
+AU Honeycutt, Todd C.
+   Strong, Debra A.
+TI Using Social Network Analysis to Predict Early Collaboration Within
+   Health Advocacy Coalitions
+SO AMERICAN JOURNAL OF EVALUATION
+VL 33
+IS 2
+BP 221
+EP 239
+DI 10.1177/1098214011424201
+PD JUN 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 4
+Z9 4
+SN 1098-2140
+UT WOS:000303937100005
+ER
+
+PT J
+AU Camacho, J.H.
+   Aguilar, I.
+   Cervantes, F.
+TI Confianza, normas y participación: Análisis de organizaciones de
+   productores lecheros en México
+X1 Trust, norms and participation in social networks: Analysis of two dairy
+   farmer organizations of Puebla, Mexico
+SO Archivos de Zootecnia
+VL 61
+IS 234
+BP 197
+EP 207
+DI 10.4321/s0004-05922012000200004
+PD 2012-06
+PY 2012
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 0004-0592
+UT SCIELO:S0004-05922012000200004
+ER
+
+PT J
+AU Yousefi-Nooraie, Reza
+   Dobbins, Maureen
+   Brouwers, Melissa
+   Wakefield, Patricia
+TI Information seeking for making evidence-informed decisions: a social
+   network analysis on the staff of a public health department in Canada
+SO BMC HEALTH SERVICES RESEARCH
+VL 12
+AR 118
+DI 10.1186/1472-6963-12-118
+PD MAY 16 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 10
+Z9 10
+SN 1472-6963
+UT WOS:000311074100001
+PM 22591757
+ER
+
+PT J
+AU van Mierlo, Trevor
+   Voci, Sabrina
+   Lee, Sharon
+   Fournier, Rachel
+   Selby, Peter
+TI Superusers in Social Networks for Smoking Cessation: Analysis of
+   Demographic Characteristics and Posting Behavior From the Canadian
+   Cancer Society's Smokers' Helpline Online and StopSmokingCenter.net
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+VL 14
+IS 3
+BP 45
+EP 59
+AR e66
+DI 10.2196/jmir.1854
+PD MAY-JUN 2012
+PY 2012
+OI van Mierlo, Trevor/0000-0002-5675-0084
+Z8 0
+ZR 0
+ZS 0
+TC 10
+ZB 2
+Z9 11
+SN 1438-8871
+UT WOS:000305797300004
+PM 22732103
+ER
+
+PT J
+AU Makagon, Maja M.
+   McCowan, Brenda
+   Mench, Joy A.
+TI How can social network analysis contribute to social behavior research
+   in applied ethology?
+SO APPLIED ANIMAL BEHAVIOUR SCIENCE
+VL 138
+IS 3-4
+SI SI
+BP 152
+EP 161
+DI 10.1016/j.applanim.2012.02.003
+PD MAY 2012
+PY 2012
+Z8 0
+ZR 0
+ZS 0
+ZB 6
+TC 8
+Z9 8
+SN 0168-1591
+EI 1872-9045
+UT WOS:000303969900003
+ER
+
+PT J
+AU Wonodi, C. B.
+   Privor-Dumm, L.
+   Aina, M.
+   Pate, A. M.
+   Reis, R.
+   Gadhoke, P.
+   Levine, O. S.
+TI Using social network analysis to examine the decision-making process on
+   new vaccine introduction in Nigeria
+SO HEALTH POLICY AND PLANNING
+VL 27
+BP II27
+EP II38
+DI 10.1093/heapol/czs037
+SU 2
+PD MAY 2012
+PY 2012
+RI Reis, Rodrigo/F-7447-2012
+OI Reis, Rodrigo/0000-0002-9872-9865
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0268-1080
+UT WOS:000303163600004
+PM 22513730
+ER
+
+PT J
+AU Socio, Mark D. E.
+TI Regime Network Restructuring in Akron, Ohio, 1975-2009: A Longitudinal
+   Social Network Analysis
+SO GROWTH AND CHANGE
+VL 43
+IS 1
+BP 27
+EP 55
+DI 10.1111/j.1468-2257.2011.00576.x
+PD MAR 2012
+PY 2012
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0017-4815
+UT WOS:000300688300002
+ER
+
+PT J
+AU Bright, David A.
+   Hughes, Caitlin E.
+   Chalmers, Jenny
+TI Illuminating dark networks: a social network analysis of an Australian
+   drug trafficking syndicate
+SO CRIME LAW AND SOCIAL CHANGE
+VL 57
+IS 2
+SI SI
+BP 151
+EP 176
+DI 10.1007/s10611-011-9336-z
+PD MAR 2012
+PY 2012
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 9
+Z9 9
+SN 0925-4994
+EI 1573-0751
+UT WOS:000300316400003
+ER
+
+PT J
+AU Zhao, Zhongying
+   Feng, Shengzhong
+   Wang, Qiang
+   Huang, Joshua Zhexue
+   Williams, Graham J.
+   Fan, Jianping
+TI Topic oriented community detection through social objects and link
+   analysis in social networks
+SO KNOWLEDGE-BASED SYSTEMS
+VL 26
+BP 164
+EP 173
+DI 10.1016/j.knosys.2011.07.017
+PD FEB 2012
+PY 2012
+ZR 0
+ZS 0
+ZB 2
+TC 23
+Z8 3
+Z9 26
+SN 0950-7051
+EI 1872-7409
+UT WOS:000299979400019
+ER
+
+PT J
+AU Stroeele, Victor
+   Zimbrao, Geraldo
+   Souza, Jano M.
+TI Modeling, Mining and Analysis of Multi-Relational Scientific Social
+   Network
+SO JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+VL 18
+IS 8
+BP 1048
+EP 1068
+PD 2012
+PY 2012
+RI zimbrao, geraldo/B-3533-2013; Zimbrao, Geraldo/J-4488-2014; Stroele, Victor/O-3156-2015
+OI Stroele, Victor/0000-0001-6296-8605
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0948-695X
+UT WOS:000305457500006
+ER
+
+PT J
+AU Choi, Yong-Seok
+AU 김종근
+   최순극
+TI Social Network Analysis and Its Applications for Authors and Keywords in
+   the JKSS
+SO Communications for Statistical Applications and Methods
+VL 19
+IS 4
+BP 547
+EP 558
+PD 2012
+PY 2012
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 2287-7843
+UT KJD:ART001683740
+ER
+
+PT J
+AU Kim, Amy Chan Hyung
+   Wells, Janelle E.
+   Kim, Yu Kyoum
+   Chelladurai, Pakianathan
+TI Social Network Analysis of the Model of Multi-stakeholder Network in
+   Mega-sport Events: an Issue-focused Stakeholder Management Approach
+SO INTERNATIONAL JOURNAL OF HUMAN MOVEMENT SCIENCE
+VL 6
+IS 2
+BP 97
+EP 117
+PD 2012
+PY 2012
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1976-4391
+UT KJD:ART001730686
+ER
+
+PT J
+AU Yim, Byung-Jin
+   Leem, Byung-Hak
+TI Analysis on Corporate Roles with Firm's Network of CJ Group : Social
+   Network Analysis Approach
+Z1 CJ 그룹의 지배구조를 통한 기업 네트워크의 역할자 분석에 관한 연구: 사회 네트워크 분석 접근법을 중심으로
+SO Journal of CEO and Management Studies
+S1 전문경영인연구
+VL 15
+IS 3
+BP 307
+EP 319
+PD 2012
+PY 2012
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1226-8380
+UT KJD:ART001734019
+ER
+
+PT J
+AU Yong-Suk, Hwang
+TI The Analysis of Content Regulation on Social Network Service(SNS): 
+   Focusing on the Problem of Legal and Administrative Regulation
+Z1 표현매체로서 SNS(Social Network Service)에 대한 내용규제의 문제점 분석: 법률적ㆍ행정적 규제를 중심으로
+SO Korean Journal of Communication & Information
+S1 한국언론정보학보
+VL 58
+IS 2
+BP 106
+EP 129
+PD 2012
+PY 2012
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-3757
+UT KJD:ART001661405
+ER
+
+PT J
+AU Kim, Sungjin
+   Suh, Euiho
+   Jun, Youngjoon
+TI Building a Knowledge Brokering System using social network analysis: A
+   case study of the Korean financial industry
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 38
+IS 12
+BP 14633
+EP 14649
+DI 10.1016/j.eswa.2011.05.019
+PD NOV-DEC 2011
+PY 2011
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+SN 0957-4174
+UT WOS:000295193400029
+ER
+
+PT J
+AU Sutanto, Juliana
+   Tan, Chuan-Hoo
+   Battistini, Boris
+   Phang, Chee Wei
+TI Emergent Leadership in Virtual Collaboration Settings: A Social Network
+   Analysis Approach
+SO LONG RANGE PLANNING
+VL 44
+IS 5-6
+SI SI
+BP 421
+EP 439
+DI 10.1016/j.lrp.2011.09.001
+PD OCT-DEC 2011
+PY 2011
+RI Tan, Chuan-Hoo/G-9681-2012; TAN, Chuan Hoo/
+OI TAN, Chuan Hoo/0000-0003-3870-4591
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 8
+Z9 8
+SN 0024-6301
+UT WOS:000298513300006
+ER
+
+PT J
+AU Abbasi, Alireza
+   Altmann, Joern
+   Hossain, Liaquat
+TI Identifying the effects of co-authorship networks on the performance of
+   scholars: A correlation and regression analysis of performance measures
+   and social network analysis measures
+SO JOURNAL OF INFORMETRICS
+VL 5
+IS 4
+BP 594
+EP 607
+DI 10.1016/j.joi.2011.05.007
+PD OCT 2011
+PY 2011
+RI Abbasi, Alireza/F-9487-2015
+OI Abbasi, Alireza/0000-0001-9136-1837
+Z8 0
+ZR 0
+ZS 1
+ZB 17
+TC 52
+Z9 53
+SN 1751-1577
+UT WOS:000296524200011
+ER
+
+PT J
+AU Sueur, C.
+   Petit, O.
+   De Marco, A.
+   Jacobs, A. T.
+   Watanabe, K.
+   Thierry, B.
+TI A comparative network analysis of social style in macaques
+SO ANIMAL BEHAVIOUR
+VL 82
+IS 4
+BP 845
+EP 852
+DI 10.1016/j.anbehav.2011.07.020
+PD OCT 2011
+PY 2011
+RI Sueur, Cedric/A-4020-2011; De Marco, Arianna/
+OI Sueur, Cedric/0000-0001-8206-2739; De Marco, Arianna/0000-0002-3681-0254
+Z8 0
+ZR 0
+ZS 0
+ZB 27
+TC 31
+Z9 31
+SN 0003-3472
+EI 1095-8282
+UT WOS:000295262800032
+ER
+
+PT J
+AU Kleinnijenhuis, Jan
+   van den Hooff, Bart
+   Utz, Sonja
+   Vermeulen, Ivar
+   Huysman, Marleen
+TI Social Influence in Networks of Practice: An Analysis of Organizational
+   Communication Content
+SO COMMUNICATION RESEARCH
+VL 38
+IS 5
+BP 587
+EP 612
+DI 10.1177/0093650210385225
+PD OCT 2011
+PY 2011
+RI Vermeulen, Ivar/I-9194-2012; Utz, Sonja/B-7256-2008; Kleinnijenhuis, Jan/A-2048-2013
+OI Utz, Sonja/0000-0002-7979-3554; Kleinnijenhuis, Jan/0000-0001-6231-8186
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+SN 0093-6502
+UT WOS:000294258800001
+ER
+
+PT J
+AU Taktak, Fatih
+   Demir, Hulya
+TI Estate appraisal as an example of social network analysis (SNA)
+SO AFRICAN JOURNAL OF BUSINESS MANAGEMENT
+VL 5
+IS 22
+BP 9466
+EP 9476
+PD SEP 30 2011
+PY 2011
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1993-8233
+UT WOS:000297654600071
+ER
+
+PT J
+AU Spivak, David I.
+   Giesa, Tristan
+   Wood, Elizabeth
+   Buehler, Markus J.
+TI Category Theoretic Analysis of Hierarchical Protein Materials and Social
+   Networks
+SO PLOS ONE
+VL 6
+IS 9
+AR e23911
+DI 10.1371/journal.pone.0023911
+PD SEP 8 2011
+PY 2011
+RI Buehler, Markus/C-4580-2008
+OI Buehler, Markus/0000-0002-4173-9659
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 9
+Z9 9
+SN 1932-6203
+UT WOS:000294802800014
+PM 21931622
+ER
+
+PT J
+AU Sueur, Cedric
+   Jacobs, Armand
+   Amblard, Frederic
+   Petit, Odile
+   King, Andrew J.
+TI How Can Social Network Analysis Improve the Study of Primate Behavior?
+SO AMERICAN JOURNAL OF PRIMATOLOGY
+VL 73
+IS 8
+SI SI
+BP 703
+EP 719
+DI 10.1002/ajp.20915
+PD AUG 2011
+PY 2011
+RI Sueur, Cedric/A-4020-2011
+OI Sueur, Cedric/0000-0001-8206-2739
+ZR 0
+ZS 0
+Z8 3
+ZB 35
+TC 46
+Z9 48
+SN 0275-2565
+EI 1098-2345
+UT WOS:000291950600001
+PM 21181869
+ER
+
+PT J
+AU Brent, Lauren J. N.
+   Lehmann, Julia
+   Ramos-Fernandez, Gabriel
+TI Social Network Analysis in the Study of Nonhuman Primates: A Historical
+   Perspective
+SO AMERICAN JOURNAL OF PRIMATOLOGY
+VL 73
+IS 8
+SI SI
+BP 720
+EP 730
+DI 10.1002/ajp.20949
+PD AUG 2011
+PY 2011
+RI Ramos-Fernandez, Gabriel/F-9798-2015
+OI Ramos-Fernandez, Gabriel/0000-0001-7175-3905
+Z8 0
+ZR 0
+ZS 0
+ZB 19
+TC 25
+Z9 25
+SN 0275-2565
+EI 1098-2345
+UT WOS:000291950600002
+PM 21433047
+ER
+
+PT J
+AU Tucker, J.
+   Peng, H.
+   Wang, K.
+   Chang, H.
+   Yang, L. G.
+   Zhang, S.
+   Yang, B.
+TI SEX WORKER COLLECTIVE ORGANIZATION IN THE ABSENCE OF NGOS: A QUALITATIVE
+   ANALYSIS OF FEMALE SEX WORKER HOMETOWN SOCIAL NETWORKS IN SOUTH CHINA
+SO SEXUALLY TRANSMITTED INFECTIONS
+VL 87
+BP A231
+EP A231
+DI 10.1136/sextrans-2011-050108.306
+SU 1
+PD JUL 2011
+PY 2011
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1368-4973
+UT WOS:000302874201202
+ER
+
+PT J
+AU van Beek, Adriana P. A.
+   Wagner, Cordula
+   Spreeuwenberg, Peter P. M.
+   Frijters, Dinnus H. M.
+   Ribbe, Miel W.
+   Groenewegen, Peter P.
+TI Communication, advice exchange and job satisfaction of nursing staff: a
+   social network analyses of 35 long-term care units
+SO BMC HEALTH SERVICES RESEARCH
+VL 11
+AR 140
+DI 10.1186/1472-6963-11-140
+PD JUN 1 2011
+PY 2011
+RI Groenewegen, Peter/I-1574-2013
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 5
+Z9 5
+SN 1472-6963
+UT WOS:000292611100001
+PM 21631936
+ER
+
+PT J
+AU Carlos, Euzeneia
+TI Contribuições da análise de redes sociais às teorias de movimentos
+   sociais
+X1 Les contributions de l'analyse des réseaux sociaux aux théories des
+   mouvements sociaux
+Y1 Social network analysis and its contribution to social movement theories
+SO Revista de Sociologia e Política
+VL 19
+IS 39
+BP 153
+EP 166
+DI 10.1590/S0104-44782011000200011
+PD 2011-06
+PY 2011
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1678-9873
+UT SCIELO:S0104-44782011000200011
+ER
+
+PT J
+AU Sarker, Saonee
+   Sarker, Suprateek
+   Kirkeby, Sarah
+   Chakraborty, Suranjan
+TI Path to "Stardom" in Globally Distributed Hybrid Teams: An Examination
+   of a Knowledge-Centered Perspective using Social Network Analysis
+SO DECISION SCIENCES
+VL 42
+IS 2
+BP 339
+EP 370
+DI 10.1111/j.1540-5915.2011.00314.x
+PD MAY 2011
+PY 2011
+ZB 0
+ZR 0
+ZS 0
+Z8 1
+TC 4
+Z9 5
+SN 0011-7315
+UT WOS:000289950100002
+ER
+
+PT J
+AU Choi, Sun-Ju
+   Kim, Sunhee
+AU 황원실
+   박창석
+TI Analysis of Social Networks in the Management Organization of Seoul
+   Forest Park
+Z1 서울숲 공원관리조직의 사회 연결망 분석
+SO Journal of the Korean Institute of Landscape Architecture
+S1 한국조경학회지
+VL 39
+IS 3
+BP 74
+EP 82
+PD 2011
+PY 2011
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1225-1755
+UT KJD:ART001571110
+ER
+
+PT J
+AU Leem, Byung-Hak
+TI Using Social Network Analysis to Measure Network Structureof Coauthored
+   People in istics Logistics: Focusing on Korean Logistics Review
+Z1 사회 네트워크 분석을 활용한 물류 공저자들의협력 네트워크 구조 분석: 한국물류학회지를 중심으로
+SO Korea Logistics Review
+S1 물류학회지
+VL 21
+IS 2
+BP 205
+EP 229
+PD 2011
+PY 2011
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1598-0111
+UT KJD:ART001570404
+ER
+
+PT J
+AU Song, Mi-Kyoung
+   Lee, Man-Hyung
+TI Structural and Spatial Characteristics of Daejeon Information and
+   Communication Industry Network Applying the Social Network Analysis
+   Techniques and Policy Implications Based on the Systems Thinking
+   Approaches
+Z1 사회네트워크분석을 활용한 대전 정보통신산업 네트워크의 구조적․공간적 특성과 시스템 사고를 통한 정책적 함의
+SO Korean System Dynamics Review
+S1 한국시스템다이내믹스연구
+VL 12
+IS 2
+BP 69
+EP 94
+PD 2011
+PY 2011
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1229-8085
+UT KJD:ART001575318
+ER
+
+PT J
+AU Yun, Sun Jin
+AU 한진이
+TI Policy Networks Among Actors concerning Introduction of Greenhouse Gas
+   Emission Trading Scheme in Korea: Based on Social Network Analysis
+Z1 온실가스 배출권 거래제도 도입을 둘러싼 행위자간 정책네트워크 - 사회연결망 분석을 중심으로 -
+SO The Korea Association for Policy Studies
+S1 한국정책학회보
+VL 20
+IS 2
+BP 81
+EP 108
+PD 2011
+PY 2011
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1226-5497
+UT KJD:ART001565261
+ER
+
+PT J
+AU LEEHEESU
+AU 위영은
+TI Exploration of the Possibility of Communicative Learning Paradigm Using
+   the Social Network Analysis  -Focus on Administrative Organization of A
+   Hospital
+Z1 사회 연결망 분석을 활용한 소통적 학습 패러다임의 가능성 탐색 - A병원 행정조직을 중심으로-
+SO The Korean Journal of Human Resource Development Quarterly
+S1 HRD연구
+VL 13
+IS 1
+BP 27
+EP 51
+PD 2011
+PY 2011
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-5086
+UT KJD:ART001529144
+ER
+
+PT J
+AU Lu, Yong
+   Polgar, Michael
+   Luo, Xin
+   Cao, Yuanyuan
+TI SOCIAL NETWORK ANALYSIS OF A CRIMINAL HACKER COMMUNITY
+SO JOURNAL OF COMPUTER INFORMATION SYSTEMS
+VL 51
+IS 2
+BP 31
+EP 41
+PD WIN 2010
+PY 2010
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 7
+Z9 7
+SN 0887-4417
+UT WOS:000287427800004
+ER
+
+PT J
+AU Orizio, Grazia
+   Schulz, Peter
+   Gasparotti, Cinzia
+   Caimi, Luigi
+   Gelatti, Umberto
+TI The World of e-Patients: A Content Analysis of Online Social Networks
+   Focusing on Diseases
+SO TELEMEDICINE JOURNAL AND E-HEALTH
+VL 16
+IS 10
+BP 1060
+EP 1066
+DI 10.1089/tmj.2010.0085
+PD DEC 2010
+PY 2010
+RI Gelatti, Umberto/H-7719-2012
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 11
+Z9 11
+SN 1530-5627
+UT WOS:000285646600014
+PM 21070131
+ER
+
+PT J
+AU Mould, Oli
+   Joel, Sian
+TI Knowledge networks of 'buzz' in London's advertising industry: a social
+   network analysis approach
+SO AREA
+VL 42
+IS 3
+BP 281
+EP 292
+DI 10.1111/j.1475-4762.2009.00924.x
+PD SEP 2010
+PY 2010
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 11
+Z9 11
+SN 0004-0894
+UT WOS:000280629200004
+ER
+
+PT J
+AU Chen, Rick C. S.
+   Yang, Stephen J. H.
+TI Applying DNA computation to intractable problems in social network
+   analysis
+SO BIOSYSTEMS
+VL 101
+IS 3
+BP 222
+EP 232
+DI 10.1016/j.biosystems.2010.05.006
+PD SEP 2010
+PY 2010
+ZR 0
+ZS 0
+Z8 1
+ZB 2
+TC 4
+Z9 5
+SN 0303-2647
+UT WOS:000282039000011
+PM 20566337
+ER
+
+PT J
+AU Burgess, Thomas F.
+   Shaw, Nicola E.
+TI Editorial Board Membership of Management and Business Journals: A Social
+   Network Analysis Study of the Financial Times 40
+SO BRITISH JOURNAL OF MANAGEMENT
+VL 21
+IS 3
+SI SI
+BP 627
+EP 648
+DI 10.1111/j.1467-8551.2010.00701.x
+PD SEP 2010
+PY 2010
+RI Burgess, Thomas/M-7144-2013
+OI Burgess, Thomas/0000-0003-2682-5812
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 12
+Z9 12
+SN 1045-3172
+UT WOS:000280989200003
+ER
+
+PT J
+AU Hoppe, Bruce
+   Reinelt, Claire
+TI Social network analysis and the evaluation of leadership networks
+SO LEADERSHIP QUARTERLY
+VL 21
+IS 4
+SI SI
+BP 600
+EP 619
+DI 10.1016/j.leaqua.2010.06.004
+PD AUG 2010
+PY 2010
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 35
+Z9 35
+SN 1048-9843
+UT WOS:000281928600004
+ER
+
+PT J
+AU Luque, John
+   Tyson, Dinorah Martinez
+   Lee, Ji-Hyun
+   Gwede, Clement
+   Vadaparampil, Susan
+   Noel-Thomas, Shalewa
+   Meade, Cathy
+TI USING SOCIAL NETWORK ANALYSIS TO EVALUATE COMMUNITY CAPACITY BUILDING OF
+   A REGIONAL COMMUNITY CANCER NETWORK
+SO JOURNAL OF COMMUNITY PSYCHOLOGY
+VL 38
+IS 5
+BP 656
+EP 668
+DI 10.1002/jcop.20386
+PD JUL 2010
+PY 2010
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 4
+Z9 4
+SN 0090-4392
+UT WOS:000278776400008
+ER
+
+PT J
+AU Brownson, Ross C.
+   Parra, Diana C.
+   Dauti, Marsela
+   Harris, Jenine K.
+   Hallal, Pedro C.
+   Hoehner, Christine
+   Malta, Deborah Carvalho
+   Reis, Rodrigo S.
+   Ramos, Luiz Roberto
+   Ribeiro, Isabela C.
+   Soares, Jesus
+   Pratt, Michael
+TI Assembling the Puzzle for Promoting Physical Activity in Brazil: A
+   Social Network Analysis
+SO JOURNAL OF PHYSICAL ACTIVITY & HEALTH
+VL 7
+BP S242
+EP S252
+SU 2
+PD JUL 2010
+PY 2010
+RI Ramos, Luiz/E-5343-2012; Epidemiologicas, Centro de pesquisas /D-4561-2013; Hallal, Pedro/A-3249-2011; Malta, Deborah/H-7880-2012; Parra, Diana/B-7761-2015; Reis, Rodrigo/F-7447-2012
+OI Hallal, Pedro/0000-0003-1470-6461; Parra, Diana/0000-0002-9797-6231;
+   Reis, Rodrigo/0000-0002-9872-9865
+Z8 0
+ZR 0
+ZS 1
+TC 11
+ZB 2
+Z9 11
+SN 1543-3080
+UT WOS:000280451800014
+PM 20702912
+ER
+
+PT J
+AU Begley, Thomas M.
+   Khatri, Naresh
+   Tsang, Eric W. K.
+TI Networks and cronyism: A social exchange analysis
+SO ASIA PACIFIC JOURNAL OF MANAGEMENT
+VL 27
+IS 2
+BP 281
+EP 297
+DI 10.1007/s10490-009-9137-4
+PD JUN 2010
+PY 2010
+OI Khatri, Naresh/0000-0003-2341-3003
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 8
+Z9 8
+SN 0217-4561
+EI 1572-9958
+UT WOS:000277319000007
+ER
+
+PT J
+AU Salvini, Andrea
+TI Symbolic Interactionism and Social Network Analysis: An Uncertain
+   Encounter
+SO SYMBOLIC INTERACTION
+VL 33
+IS 3
+BP 364
+EP 388
+DI 10.1525/si.2010.33.2.364
+PD SUM 2010
+PY 2010
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 6
+Z9 6
+SN 0195-6086
+UT WOS:000280505200002
+ER
+
+PT J
+AU Drozdova, Katya
+   Samoilov, Michael
+TI Predictive analysis of concealed social network activities based on
+   communication technology choices: early-warning detection of attack
+   signals from terrorist organizations
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+VL 16
+IS 1
+BP 61
+EP 88
+DI 10.1007/s10588-009-9058-2
+PD MAR 2010
+PY 2010
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 3
+Z9 3
+SN 1381-298X
+UT WOS:000280647000003
+ER
+
+PT J
+AU Zagenczyk, Thomas J.
+   Scott, Kristin D.
+   Gibney, Ray
+   Murrell, Audrey J.
+   Thatcher, Jason Bennett
+TI Social influence and perceived organizational support: A social networks
+   analysis
+SO ORGANIZATIONAL BEHAVIOR AND HUMAN DECISION PROCESSES
+VL 111
+IS 2
+BP 127
+EP 138
+DI 10.1016/j.obhdp.2009.11.004
+PD MAR 2010
+PY 2010
+RI Kerr, Alexa/A-8359-2012
+ZR 0
+ZB 1
+Z8 1
+ZS 1
+TC 27
+Z9 30
+SN 0749-5978
+UT WOS:000275609200005
+ER
+
+PT J
+AU Fritsch, Michael
+   Kauffeld-Monz, Martina
+TI The impact of network structure on knowledge transfer: an application of
+   social network analysis in the context of regional innovation networks
+SO ANNALS OF REGIONAL SCIENCE
+VL 44
+IS 1
+BP 21
+EP 38
+DI 10.1007/s00168-008-0245-8
+PD FEB 2010
+PY 2010
+OI Fritsch, Michael/0000-0003-0337-4182
+ZR 0
+ZS 0
+ZB 2
+TC 32
+Z8 4
+Z9 36
+SN 0570-1864
+EI 1432-0592
+UT WOS:000273086800002
+ER
+
+PT J
+AU Hancock, P. G.
+   Raeside, R.
+TI Analysing communication in a complex service process: an application of
+   social network analysis in the Scottish Prison Service
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+VL 61
+IS 2
+BP 265
+EP 274
+DI 10.1057/jors.2008.145
+PD FEB 2010
+PY 2010
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 4
+Z9 4
+SN 0160-5682
+UT WOS:000273247600009
+ER
+
+PT J
+AU Kwon, Yoohong
+   Shim, Won-Seop
+AU 우금주
+TI Collaborative Networks of Stakeholders in a Convention City: A Social
+   Network Analysis
+Z1 컨벤션도시의 이해관계집단간 협력네트워크 연구 - 사회연결망 분석을 중심으로 -
+SO Journal of Tourism Sciences
+S1 관광학연구
+VL 34
+IS 5
+BP 33
+EP 53
+PD 2010
+PY 2010
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1226-0533
+UT KJD:ART001474503
+ER
+
+PT J
+AU Hong, Seongmi
+   Lee, Man-Hyung
+AU 김경미
+   백운성
+TI Knowledge Networking Analysis of Chungnam Automobile Parts Industry
+   Based on Social Network Analysis (SNA) Methods
+Z1 사회 네트워크 분석 기법에 근거한 충남 자동차 부품산업의 지식 네트워킹 분석
+SO korea Planners Association
+S1 국토계획
+VL 45
+IS 4
+BP 183
+EP 196
+PD 2010
+PY 2010
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1226-7147
+UT KJD:ART001471114
+ER
+
+PT J
+AU Choi, Young-Chool
+   Choi, OeChool
+TI Analysis of the Operational Activities Within the Social Enterprises
+   Network
+Z1 사회적 기업간 네트워크 작동에 관한 연구
+SO Korean Comparative Government Review
+S1 한국비교정부학보
+VL 14
+IS 1
+BP 63
+EP 76
+PD 2010
+PY 2010
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1598-964X
+UT KJD:ART001467676
+ER
+
+PT J
+AU Kim, Woosung
+AU 김채희
+TI The analysis between sports participation of adolescent   and social
+   network of a classroom
+Z1 청소년의 스포츠참가와 학급사회연결망 분석
+SO Korean Society for the Sociology of Sport
+S1 한국스포츠사회학회지
+VL 23
+IS 1
+BP 45
+EP 67
+PD 2010
+PY 2010
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1226-1920
+UT KJD:ART001429660
+ER
+
+PT J
+AU Job, Ivone
+   de Freitas, Karen Rodrigues
+TI Collaboration in production of articles of teachers of the Graduate
+   Studies Program in Human Movement Science of the ESEF of the UFRGS
+   between 2007 and 2009: social network analysis
+SO MOVIMENTO
+VL 16
+SI SI
+BP 155
+EP +
+PD 2010
+PY 2010
+RI chen, juan/E-8441-2014
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0104-754X
+UT WOS:000297931100007
+ER
+
+PT J
+AU de Socio, Mark
+TI Marginalization of Sunset Firms in Regime Coalitions: A Social Network
+   Analysis
+SO REGIONAL STUDIES
+VL 44
+IS 2
+SI SI
+BP 167
+EP 182
+DI 10.1080/00343400903095246
+PD 2010
+PY 2010
+CT 103rd Annual Conference of the Association-of-American-Geographers
+CY APR 17-22, 2007
+CL San Francisco, CA
+SP Assoc Amer Geographers
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 2
+Z9 2
+SN 0034-3404
+UT WOS:000274606500004
+ER
+
+PT J
+AU 박기범
+TI Comprehension of Social Studies Curriculum through   Semantic-Network
+   Analysis
+Z1 의미연결망 분석을 통한 사회과 교육과정의 이해 - 초등 2007개정 교육과정을 중심으로 -
+SO sahoekwakyoyuk(social studies education)
+S1 사회과교육
+VL 49
+IS 1
+BP 57
+EP 69
+PD 2010
+PY 2010
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1225-0643
+UT KJD:ART001436515
+ER
+
+PT J
+AU Jaekyung, Koh
+AU 이미홍
+TI A Social Network Analysis of the Characteristics of Local Environmental
+   Governance
+Z1 사회연결망 분석을 이용한 지역 환경거버넌스 특성 연구
+SO The Korea Association for Policy Studies
+S1 한국정책학회보
+VL 19
+IS 1
+BP 151
+EP 180
+PD 2010
+PY 2010
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1226-5497
+UT KJD:ART001435631
+ER
+
+PT J
+AU Capece, Guendalina
+   Costa, Roberta
+TI Measuring knowledge creation in virtual teams through the social network
+   analysis
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+VL 7
+IS 4
+SI SI
+BP 329
+EP 338
+DI 10.1057/kmrp.2009.25
+PD DEC 2009
+PY 2009
+RI Wang, Charles/B-5565-2011; Costa, Roberta/L-2586-2015
+OI Wang, Charles/0000-0001-9331-8437; Costa, Roberta/0000-0003-2799-3295
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 13
+Z9 13
+SN 1477-8238
+UT WOS:000282845700005
+ER
+
+PT J
+AU Hamede, Rodrigo K.
+   Bashford, Jim
+   McCallum, Hamish
+   Jones, Menna
+TI Contact networks in a wild Tasmanian devil (Sarcophilus harrisii)
+   population: using social network analysis to reveal seasonal variability
+   in social behaviour and its implications for transmission of devil
+   facial tumour disease
+SO ECOLOGY LETTERS
+VL 12
+IS 11
+BP 1147
+EP 1157
+DI 10.1111/j.1461-0248.2009.01370.x
+PD NOV 2009
+PY 2009
+RI Jones, Menna/J-7975-2012; McCallum, Hamish/E-1638-2013
+OI McCallum, Hamish/0000-0002-3493-0412
+Z8 0
+ZR 0
+ZS 0
+ZB 80
+TC 89
+Z9 89
+SN 1461-023X
+UT WOS:000270828100004
+PM 19694783
+ER
+
+PT J
+AU Fattore, Giovanni
+   Frosini, Francesca
+   Salvatore, Domenico
+   Tozzi, Valeria
+TI Social network analysis in primary care: The impact of interactions on
+   prescribing behaviour
+SO HEALTH POLICY
+VL 92
+IS 2-3
+BP 141
+EP 148
+DI 10.1016/j.healthpol.2009.03.005
+PD OCT 2009
+PY 2009
+RI Salvatore, Domenico/A-2885-2010
+OI Salvatore, Domenico/0000-0002-6820-0880
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 33
+Z9 33
+SN 0168-8510
+UT WOS:000270108300005
+PM 19356822
+ER
+
+PT J
+AU Kasper, Claudia
+   Voelkl, Bernhard
+TI A social network analysis of primate groups
+SO PRIMATES
+VL 50
+IS 4
+BP 343
+EP 356
+DI 10.1007/s10329-009-0153-2
+PD OCT 2009
+PY 2009
+RI Voelkl, Bernhard/D-1390-2009
+ZR 0
+ZS 0
+Z8 3
+ZB 44
+TC 49
+Z9 52
+SN 0032-8332
+EI 1610-7365
+UT WOS:000269919600006
+PM 19533270
+ER
+
+PT J
+AU Caraballo Pérez, Yeter
+   Más Basnuevo, Anays
+TI El análisis de las redes sociales en la identificación de las relaciones
+   de colaboración: estudio de la Revista Cubana de Ciencia Agrícola
+X1 Social networks analysis related to characterization of collaborative
+   relations: study about Revista Cubana de Ciencia Agrícola
+SO ACIMED
+VL 20
+IS 2
+BP 0
+EP 0
+PD 2009-08
+PY 2009
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1024-9435
+UT SCIELO:S1024-94352009000800003
+ER
+
+PT J
+AU Richardson, Alan J.
+TI Regulatory networks for accounting and auditing standards: A social
+   network analysis of Canadian and international standard-setting
+SO ACCOUNTING ORGANIZATIONS AND SOCIETY
+VL 34
+IS 5
+BP 571
+EP 588
+DI 10.1016/j.aos.2008.11.005
+PD JUL 2009
+PY 2009
+OI Richardson, Alan/0000-0002-7500-3885
+ZB 0
+Z8 0
+ZR 0
+ZS 3
+TC 30
+Z9 30
+SN 0361-3682
+UT WOS:000267565200003
+ER
+
+PT J
+AU James, Richard
+   Croft, Darren P.
+   Krause, Jens
+TI Potential banana skins in animal social network analysis
+SO BEHAVIORAL ECOLOGY AND SOCIOBIOLOGY
+VL 63
+IS 7
+BP 989
+EP 997
+DI 10.1007/s00265-009-0742-5
+PD MAY 2009
+PY 2009
+RI Krause, Jens/C-2750-2011; James, Richard/E-5061-2013; Croft, Darren/B-5503-2009
+OI Croft, Darren/0000-0001-6869-5097
+Z8 0
+ZR 0
+ZS 0
+ZB 58
+TC 66
+Z9 66
+SN 0340-5443
+EI 1432-0762
+UT WOS:000265215700003
+ER
+
+PT J
+AU Papacharissi, Zizi
+TI The virtual geographies of social networks: a comparative analysis of
+   Facebook, LinkedIn and ASmallWorld
+SO NEW MEDIA & SOCIETY
+VL 11
+IS 1-2
+BP 199
+EP 220
+DI 10.1177/1461444808099577
+PD FEB-MAR 2009
+PY 2009
+Z8 0
+ZR 0
+ZB 1
+ZS 1
+TC 106
+Z9 106
+SN 1461-4448
+UT WOS:000264021600010
+ER
+
+PT J
+AU Caiani, Manuela
+   Wagemann, Claudius
+TI ONLINE NETWORKS OF THE ITALIAN AND GERMAN EXTREME RIGHT An explorative
+   study with social network analysis
+SO INFORMATION COMMUNICATION & SOCIETY
+VL 12
+IS 1
+BP 66
+EP 109
+DI 10.1080/13691180802158482
+PD 2009
+PY 2009
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 13
+Z9 13
+SN 1369-118X
+UT WOS:000207870700004
+ER
+
+PT J
+AU Hassan, Nik R.
+TI Using Social Network Analysis to Measure IT-Enabled Business Process
+   Performance
+SO INFORMATION SYSTEMS MANAGEMENT
+VL 26
+IS 1
+BP 61
+EP 76
+AR PII 907641393
+DI 10.1080/10580530802557762
+PD 2009
+PY 2009
+ZR 0
+ZS 0
+ZB 1
+TC 11
+Z8 2
+Z9 13
+SN 1058-0530
+EI 1934-8703
+UT WOS:000262354000007
+ER
+
+PT J
+AU Klenk, N. L.
+   Hickey, G. M.
+   Maclellan, J. I.
+   Gonzales, R.
+   Cardille, J.
+TI Social network analysis: A useful tool for visualizing and evaluating
+   forestry research
+SO INTERNATIONAL FORESTRY REVIEW
+VL 11
+IS 1
+BP 134
+EP 140
+PD 2009
+PY 2009
+RI Hickey, Gordon/I-2200-2013
+ZR 0
+ZS 0
+ZB 1
+Z8 1
+TC 4
+Z9 5
+SN 1465-5489
+UT WOS:000265957800013
+ER
+
+PT J
+AU Borgatti, Stephen P.
+   Li, Xun
+TI ON SOCIAL NETWORK ANALYSIS IN A SUPPLY CHAIN CONTEXT
+SO JOURNAL OF SUPPLY CHAIN MANAGEMENT
+VL 45
+IS 2
+BP 5
+EP 22
+DI 10.1111/j.1745-493X.2009.03166.x
+PD 2009
+PY 2009
+Z8 0
+ZR 0
+ZB 4
+ZS 4
+TC 94
+Z9 95
+SN 1523-2409
+EI 1745-493X
+UT WOS:000207982400001
+ER
+
+PT J
+AU Kyeong, Kim Jae
+   hee, kim nam
+AU 최일영
+   김혜경
+TI Social Network Analysis to Analyze the Purchase Behavior Of Churning
+   Customers and Loyal Customers
+Z1 사회 네트워크 분석을 이용한 충성고객과 이탈고객의 구매 특성 비교 연구
+SO Korean Management Science Review
+S1 경영과학
+VL 26
+IS 1
+BP 183
+EP 196
+PD 2009
+PY 2009
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1225-1100
+UT KJD:ART001331483
+ER
+
+PT J
+AU Park, Ju-Hye
+   Lee, Man-Hyung
+AU 이미라
+   홍성호
+TI Network Connecting Structure and Contextual Meanings of Chungbuk
+   Innovation Projects Based on the Amalgamation of Social Network Analysis
+   and System Dynamics Approaches
+Z1 SNA와 SD 방법론을 활용한 충북 지역혁신사업의 네트워크 연결구조와 함의
+SO Korean System Dynamics Review
+S1 한국시스템다이내믹스연구
+VL 10
+IS 2
+BP 103
+EP 120
+PD 2009
+PY 2009
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-8085
+UT KJD:ART001367258
+ER
+
+PT J
+AU Piciu, Gabriela-Cornelia
+TI SOCIAL NETWORK ANALYSIS OF WASTE MANAGEMENT IN THE REGION BUCHAREST
+SO METALURGIA INTERNATIONAL
+VL 14
+BP 60
+EP 63
+PD 2009
+PY 2009
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1582-2214
+UT WOS:000270922300012
+ER
+
+PT J
+AU ChoeChangSoo
+TI Regionalism as a notable feature of Neighborhood Organization A Social
+   Network Analysis
+Z1 풀뿌리 지역사회 주민조직의 지역성: 대도시 사례에 대한 연결망 분석
+SO Public Policy Review
+S1 국가정책연구
+VL 23
+IS 2
+BP 35
+EP 66
+PD 2009
+PY 2009
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1738-8848
+UT KJD:ART001359599
+ER
+
+PT J
+AU Mesquita, Rafael Barreto de
+   Landim, Fátima Luna Pinheiro
+   Collares, Patrícia Moreira
+   Luna, Cícera Gilvaní de
+TI Análise de redes sociais informais: aplicação na realidade da escola
+   inclusiva
+X1 Analysis of informal social networks: application to the reality of
+   inclusive school
+Y1 Análisis de redes sociales informales: aplicación en la realidad de la
+   escuela inclusiva
+SO Interface - Comunicação, Saúde, Educação
+VL 12
+IS 26
+BP 549
+EP 562
+DI 10.1590/S1414-32832008000300008
+PD 2008-09
+PY 2008
+ZB 0
+Z8 0
+ZR 0
+TC 0
+ZS 1
+Z9 1
+SN 1807-5762
+UT SCIELO:S1414-32832008000300008
+ER
+
+PT J
+AU El Louadi, Mohamed
+TI Knowledge heterogeneity and social network analysis - Towards conceptual
+   and measurement clarifications
+SO KNOWLEDGE MANAGEMENT RESEARCH & PRACTICE
+VL 6
+IS 3
+BP 199
+EP 213
+DI 10.1057/kmrp.2008.9
+PD SEP 2008
+PY 2008
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 4
+Z9 4
+SN 1477-8238
+UT WOS:000207670000004
+ER
+
+PT J
+AU Gold, Marsha
+   Doreian, Patrick
+   Taylor, Erin Fries
+TI Understanding a collaborative effort to reduce racial and ethnic
+   disparities in health care: Contributions from social network analysis
+SO SOCIAL SCIENCE & MEDICINE
+VL 67
+IS 6
+BP 1018
+EP 1027
+DI 10.1016/j.socscimed.2008.05.020
+PD SEP 2008
+PY 2008
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 11
+Z9 11
+SN 0277-9536
+UT WOS:000258897500014
+PM 18579272
+ER
+
+PT J
+AU Cho, Hichang
+   Lee, Jae-Shin
+TI Collaborative information seeking in intercultural computer-mediated
+   communication groups - Testing the influence of social context using
+   social network analysis
+SO COMMUNICATION RESEARCH
+VL 35
+IS 4
+BP 548
+EP 573
+DI 10.1177/0093650208315982
+PD AUG 2008
+PY 2008
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 18
+Z9 18
+SN 0093-6502
+UT WOS:000257582300006
+ER
+
+PT J
+AU Ynalvez, Marcus Antonius
+   Shrum, Wesley
+TI International graduate training, digital inequality and professional
+   network structure: An ego-centric social network analysis of knowledge
+   producers at the "Global South"
+SO SCIENTOMETRICS
+VL 76
+IS 2
+BP 343
+EP 368
+DI 10.1007/s11192-007-1936-0
+PD AUG 2008
+PY 2008
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 4
+Z9 4
+SN 0138-9130
+UT WOS:000257400200009
+ER
+
+PT J
+AU Hu, Clark
+   Racherla, Pradeep
+TI Visual representation of knowledge networks: A social network analysis
+   of hospitality research domain
+SO INTERNATIONAL JOURNAL OF HOSPITALITY MANAGEMENT
+VL 27
+IS 2
+BP 302
+EP 312
+DI 10.1016/j.ijhm.2007.01.002
+PD JUN 2008
+PY 2008
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 29
+Z9 29
+SN 0278-4319
+UT WOS:000256164100020
+ER
+
+PT J
+AU 구양미
+TI The Structural and Spatial Characteristics of the Actor Networks  of the
+   Industries for the Elderly:  Based on the Social Network Analysis
+Z1 고령친화산업 행위주체 네트워크의 구조적·공간적 특성: 사회 네트워크 분석을 중심으로
+SO Journal of the Korean Geographical Society
+S1 대한지리학회지
+VL 43
+IS 4
+BP 526
+EP 543
+PD 2008
+PY 2008
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1225-6633
+UT KJD:ART001282290
+ER
+
+PT J
+AU Wolf, Jochen B. W.
+   Mawdsley, David
+   Trillmich, Fritz
+   James, Richard
+TI Social structure in a colonial mammal: unravelling hidden structural
+   layers and their foundations by network analysis
+SO ANIMAL BEHAVIOUR
+VL 74
+BP 1293
+EP 1302
+DI 10.1016/j.anbehav.2007.02.024
+PN 5
+PD NOV 2007
+PY 2007
+RI James, Richard/E-5061-2013
+ZR 0
+ZS 0
+Z8 2
+ZB 73
+TC 77
+Z9 79
+SN 0003-3472
+EI 1095-8282
+UT WOS:000251466400022
+ER
+
+PT J
+AU Allen, James
+   James, Andrew D.
+   Gamlen, Phil
+TI Formal versus informal knowledge networks in R&D: a case study using
+   social network analysis
+SO R & D MANAGEMENT
+VL 37
+IS 3
+BP 179
+EP 196
+DI 10.1111/j.1467-9310.2007.00468.x
+PD JUN 2007
+PY 2007
+ZB 0
+ZR 0
+Z8 3
+ZS 3
+TC 60
+Z9 66
+SN 0033-6807
+UT WOS:000247473300001
+ER
+
+PT J
+AU Pereira, Carla Sofia
+   Soares, Antonia Lucas
+TI Improving the quality of collaboration requirements for information
+   management through social networks analysis
+SO INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT
+VL 27
+IS 2
+BP 86
+EP 103
+DI 10.1016/j.ijinfomgt.2006.10.003
+PD APR 2007
+PY 2007
+RI Pereira, Carla/; Soares, Antonio/A-8661-2015
+OI Pereira, Carla/0000-0001-8373-3602; Soares, Antonio/0000-0001-5853-5137
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 24
+Z9 24
+SN 0268-4012
+EI 1873-4707
+UT WOS:000245486000003
+ER
+
+PT J
+AU Omran, El. E.
+   van Etten, J.
+TI Spatial-Data Sharing: Applying social-network analysis to study
+   individual and collective behaviour
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 21
+IS 6
+BP 699
+EP 714
+DI 10.1080/13658810601135726
+PD 2007
+PY 2007
+ZR 0
+ZS 0
+ZB 1
+Z8 1
+TC 7
+Z9 8
+SN 1365-8816
+UT WOS:000247000600006
+ER
+
+PT J
+AU Penuel, William R.
+   Sussex, Willow
+   Korbak, Christine
+   Hoadley, Christopher
+TI Investigating the potential of using social network analysis in
+   educational evaluation
+SO AMERICAN JOURNAL OF EVALUATION
+VL 27
+IS 4
+BP 437
+EP 451
+DI 10.1177/1098214006294307
+PD DEC 2006
+PY 2006
+OI Hoadley, Christopher/0000-0003-4161-1820
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 11
+Z9 11
+SN 1098-2140
+UT WOS:000242285300003
+ER
+
+PT J
+AU Houghton, Robert J.
+   Baber, Chris
+   McMaster, Richard
+   Stanton, Neville A.
+   Salmon, Paul
+   Stewart, Rebecca
+   Walker, Guy
+TI Command and control in emergency services operations: a social network
+   analysis
+SO ERGONOMICS
+VL 49
+IS 12-13
+BP 1204
+EP 1225
+DI 10.1080/00140130600619528
+PD OCT 10 2006
+PY 2006
+RI Baber, Chris/A-7412-2014; Stanton, Neville/
+OI Stanton, Neville/0000-0002-8562-3279
+Z8 0
+ZR 0
+ZS 0
+TC 40
+ZB 7
+Z9 40
+SN 0014-0139
+UT WOS:000241704300005
+PM 17008253
+ER
+
+PT J
+AU Maoz, Zeev
+   Kuperman, Ranan D.
+   Terris, Lesley
+   Talmud, Ilan
+TI Structural equivalence and international conflict - A social networks
+   analysis
+SO JOURNAL OF CONFLICT RESOLUTION
+VL 50
+IS 5
+BP 664
+EP 689
+DI 10.1177/0022002706291053
+PD OCT 2006
+PY 2006
+RI Maoz, Zeev/A-9844-2008
+ZB 0
+ZR 0
+ZS 0
+Z8 2
+TC 37
+Z9 39
+SN 0022-0027
+UT WOS:000240771100003
+ER
+
+PT J
+AU Cross, Rob
+   Laseter, Tim
+   Parker, Andrew
+   Velasquez, Guillermo
+TI Using social network analysis to improve communities of practice
+SO CALIFORNIA MANAGEMENT REVIEW
+VL 49
+IS 1
+BP 32
+EP +
+PD FAL 2006
+PY 2006
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 45
+Z9 45
+SN 0008-1256
+UT WOS:000242183500003
+ER
+
+PT J
+AU Mika, Peter
+   Elfring, Tom
+   Groenewegen, Peter
+TI Application of semantic technology for social network analysis in the
+   sciences
+SO SCIENTOMETRICS
+VL 68
+IS 1
+BP 3
+EP 27
+DI 10.1007/s11192-006-0081-5
+PD JUL 2006
+PY 2006
+RI Groenewegen, Peter/B-1959-2012
+OI Groenewegen, Peter/0000-0003-4006-1601
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 8
+Z9 8
+SN 0138-9130
+UT WOS:000239601400001
+ER
+
+PT J
+AU Kim, Hyo
+   Park, Han Woo
+   Thelwall, Mike
+TI Comparing academic hyperlink structures with journal publishing in Korea
+   - A social network analysis
+SO SCIENCE COMMUNICATION
+VL 27
+IS 4
+BP 540
+EP 564
+DI 10.1177/1075547006288037
+PD JUN 2006
+PY 2006
+RI park, han woo/F-4051-2011; Thelwall, Mike/C-1449-2013
+OI Thelwall, Mike/0000-0001-6065-205X
+Z8 0
+ZR 0
+ZS 0
+ZB 2
+TC 5
+Z9 5
+SN 1075-5470
+UT WOS:000239563000004
+ER
+
+PT S
+AU Ohn, Jung Hun
+   Kim, Jihoon
+   Kim, Ju Han
+BE Wang, L
+   Jiao, L
+   Shi, G
+   Li, X
+   Liu, J
+TI On the society of genome: Social affiliation network analysis of
+   microarray data
+SO FUZZY SYSTEMS AND KNOWLEDGE DISCOVERY, PROCEEDINGS
+SE LECTURE NOTES IN COMPUTER SCIENCE
+VL 4223
+BP 1062
+EP 1071
+PD 2006
+PY 2006
+CT 3rd International Conference on Fuzzy Systems and Knowledge Discovery
+CY SEP 24-28, 2006
+CL Xian, PEOPLES R CHINA
+SP Xidian Univ; Natl Nat Sci Fdn China; Int Neural Network Soc;
+   Asia-Pacific Neural Network Assembly; IEEE Circuits & Syst Soc; IEEE
+   Computat Intelligence Soc; IEEE Computat Intelligence Soc, Singapore
+   Chapter; Chinese Assoc Artificial Intelligence Tech
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0302-9743
+BN 3-540-45916-2
+UT WOS:000241106000132
+ER
+
+PT J
+AU 김기태
+   신복기
+   이인숙
+   김수영
+TI A Study on the Analysis of Home Helper Service Network and Identifying
+   the Factors Affecting on the Networking with Social Resources
+Z1 가정봉사원파견센터의 연계구조 및 연계요인 분석-부산지역을 중심으로-
+SO Journal of the Korea Gerontological Society
+S1 한국노년학
+VL 26
+IS 1
+BP 211
+EP 232
+PD 2006
+PY 2006
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1225-1356
+UT KJD:ART001128583
+ER
+
+PT J
+AU 장하용
+TI A Study on the Korean Journalists’ External Networks as a Social
+   Capital: Analysis of Impact Factors and Structural Equivalence
+Z1 한국 언론인의 사회적 자본으로 외부 연결망의 형성에 관한 연구 : 영향요인과 구조적 등위성을 중심으로
+SO Korean Journal of Journalism & Communication Studies
+S1 한국언론학보
+VL 50
+IS 5
+BP 243
+EP 266
+PD 2006
+PY 2006
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1229-7526
+UT KJD:ART001102307
+ER
+
+PT J
+AU Choi, Chang-Hyeon
+TI A Study on the Informal Networks in Organizations: An Application of
+   Social Network Analysis
+Z1 조직의 비공식 연결망에 관한 연구: 사회연결망분석의 적용
+SO Korean Society and Public Administration
+S1 한국사회와 행정연구
+VL 17
+IS 1
+BP 1
+EP 23
+PD 2006
+PY 2006
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1225-8652
+UT KJD:ART001010963
+ER
+
+PT J
+AU Kim, Hyojeong
+TI Social Network Analysis of Spontaneous Teacher Network
+Z1 자생적 교사연구모임의 사회연결망 분석: 초등학급경영연구회를 중심으로
+SO The Journal of Educational Administration
+S1 교육행정학연구
+VL 24
+IS 2
+BP 171
+EP 198
+PD 2006
+PY 2006
+TC 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 1226-8755
+UT KJD:ART001126187
+ER
+
+PT J
+AU Kadushin, C
+TI Who benefits from network analysis: ethics of social network research
+SO SOCIAL NETWORKS
+VL 27
+IS 2
+BP 139
+EP 153
+DI 10.1016/j.socnet.2005.01.005
+PD MAY 2005
+PY 2005
+Z8 0
+ZR 0
+ZB 1
+ZS 1
+TC 24
+Z9 24
+SN 0378-8733
+UT WOS:000228888300005
+ER
+
+PT J
+AU Song, ML
+   Miskel, CG
+TI Who are the influentials? A cross-state social network analysis of the
+   reading policy domain
+SO EDUCATIONAL ADMINISTRATION QUARTERLY
+VL 41
+IS 1
+BP 7
+EP 48
+DI 10.1177/0013161X04269515
+PD FEB 2005
+PY 2005
+CT Annual Meeting of the American-Educational-Research-Association
+CY APR 21-25, 2003
+CL CHICAGO, IL
+SP Amer Educ Res Assoc
+ZB 0
+ZR 0
+ZS 0
+Z8 1
+TC 11
+Z9 11
+SN 0013-161X
+UT WOS:000226713200001
+ER
+
+PT J
+AU Lamertz, K
+   Aquino, K
+TI Social power, social status and perceptual similarity of workplace
+   victimization: A social network analysis of stratification
+SO HUMAN RELATIONS
+VL 57
+IS 7
+BP 795
+EP 822
+DI 10.1177/0018726704045766
+PD JUL 2004
+PY 2004
+CT Sunbelt Social Network Confernce
+CY APR 20-23, 2000
+CL Vancouver, CANADA
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 29
+Z9 29
+SN 0018-7267
+UT WOS:000225290600001
+ER
+
+PT J
+AU White, DR
+TI Network analysis and social dynamics
+SO CYBERNETICS AND SYSTEMS
+VL 35
+IS 2-3
+BP 173
+EP 192
+DI 10.1080/01969720490426858
+PD MAR-MAY 2004
+PY 2004
+CT 16th European Meeting on Cybernetics and Systems Research
+CY APR 02-05, 2002
+CL UNIV VIENNA, VIENNA, AUSTRIA
+HO UNIV VIENNA
+OI White, Douglas/0000-0002-0148-9392
+Z8 0
+ZR 0
+ZS 0
+ZB 1
+TC 7
+Z9 7
+SN 0196-9722
+UT WOS:000220519200007
+ER
+
+PT J
+AU Mueller-Prothmann, T
+   Finke, I
+TI SELaKT - Social network analysis as a method for expert localisation and
+   sustainable knowledge transfer
+SO JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+VL 10
+IS 6
+BP 691
+EP 701
+PD 2004
+PY 2004
+CT 4th International Conference on Knowledge Management
+CY JUN 30-JUL 02, 2004
+CL Graz, AUSTRIA
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 11
+Z9 11
+SN 0948-695X
+UT WOS:000231433000004
+ER
+
+PT J
+AU CHUNSOOKJA
+AU 박은아
+TI A study on the Integrated-Content Organization in the Middle School
+   Social Studies Textbook:By Using Social Network Analysis
+Z1 연결망 분석을 활용한 중학교『사회』교과서의 통합적 내용구성 연구
+SO Theory and Research in Citizenship Education
+S1 시민교육연구
+VL 36
+IS 1
+BP 101
+EP 122
+PD 2004
+PY 2004
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1225-1364
+UT KJD:ART000964227
+ER
+
+PT J
+AU Johnston, MF
+TI Bridging social capital in personal networks: An exploratory analysis of
+   data from urban China
+SO ISSUES & STUDIES
+VL 39
+IS 3
+BP 177
+EP 195
+PD SEP 2003
+PY 2003
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 1
+Z9 1
+SN 1013-2511
+UT WOS:000187026800006
+ER
+
+PT J
+AU Cross, R
+   Borgatti, SP
+   Parker, A
+TI Making invisible workvisible: Using social network analysis to support
+   strategic collaboration
+SO CALIFORNIA MANAGEMENT REVIEW
+VL 44
+IS 2
+BP 25
+EP +
+PD WIN 2002
+PY 2002
+ZR 0
+TC 167
+Z8 3
+ZB 4
+ZS 5
+Z9 174
+SN 0008-1256
+UT WOS:000174356400003
+ER
+
+PT J
+AU Anderson, JG
+TI Evaluation in health informatics: social network analysis
+SO COMPUTERS IN BIOLOGY AND MEDICINE
+VL 32
+IS 3
+BP 179
+EP 193
+AR PII S0010-4825(02)00014-8
+DI 10.1016/S0010-4825(02)00014-8
+PD MAY 2002
+PY 2002
+Z8 0
+ZR 0
+ZS 0
+TC 24
+ZB 7
+Z9 24
+SN 0010-4825
+UT WOS:000175178500007
+PM 11922934
+ER
+
+PT J
+AU Tindall, DB
+   Wellman, B
+TI Canada as social structure: Social network analysis and Canadian
+   sociology
+SO CANADIAN JOURNAL OF SOCIOLOGY-CAHIERS CANADIENS DE SOCIOLOGIE
+VL 26
+IS 3
+BP 265
+EP 308
+DI 10.2307/3341889
+PD SUM 2001
+PY 2001
+ZR 0
+Z8 1
+ZS 1
+ZB 2
+TC 32
+Z9 33
+SN 0318-6431
+UT WOS:000171621400002
+ER
+
+EF

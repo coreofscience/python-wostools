@@ -1,0 +1,995 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Orellana, M
+AF Orellana, Marcos
+TI Governance and the Sustainable Development Goals: The Increasing
+   Relevance of Access Rights in Principle 10 of the Rio Declaration
+SO REVIEW OF EUROPEAN COMPARATIVE & INTERNATIONAL ENVIRONMENTAL LAW
+LA English
+DT Article
+AB The United Nations General Assembly has adopted 17 Sustainable Development Goals (SDGs) for the 2030 sustainable development agenda. Governance underlies all of the SDGs, because effective, accountable and inclusive institutions and procedures are essential to their realization. This article identifies and describes the features and structures of governance necessary for the attainment of the SDGs. Drawing on Principle 10 of the Rio Declaration and other legal sources, the article deconstructs the procedural rights which are integral to governance for sustainable development and emphasizes the need for effective accountability mechanisms at various levels. The article concludes that procedural rights and effective accountability at all levels is the key to governance that will transform political commitments to the 2030 sustainable development agenda into actual realities for people on the ground.
+C1 [Orellana, Marcos] Ctr Int Environm Laws, Human Rights & Environm Program, Washington, DC 20036 USA.
+   [Orellana, Marcos] George Washington Univ, Sch Law, Washington, DC 20052 USA.
+   [Orellana, Marcos] Univ Cambridge, Lauterpacht Res Ctr Int Law, Cambridge CB2 1TN, England.
+   [Orellana, Marcos] Univ Talca, Int Law, Talca, Chile.
+RP Orellana, M (reprint author), Ctr Int Environm Laws, Human Rights & Environm Program, Washington, DC 20036 USA.; Orellana, M (reprint author), George Washington Univ, Sch Law, Washington, DC 20052 USA.
+EM morellana@ciel.org
+CR Andrusevych A., 2011, CASE LAW AARHUS CONV
+   [Anonymous], 2015, CHISINAU OUTCOME STA
+   [Anonymous], 2014, ENV JUST SUST DEV GL
+   [Anonymous], 2015, SELECTED ESSAYS ENV
+   [Anonymous], 2015, PREPARATIOSN SECREAT
+   [Anonymous], 2013, LIMA VISION REGIONAL, P1
+   [Anonymous], 2001, CONVENTION ACCESS IN
+   Excell C., 2012, PRINCIPLE 10 RIO DEC
+   Kravchenko Svitlana, 2007, COLORADO J INT ENV L, V18, P1
+   Orellana M., 2014, FARN INFORM AMBIENTA, P43
+   Persson A, 2016, REV EUR COMP INT ENV, V25, P59, DOI 10.1111/reel.12150
+   Roberts E., 2015, BUILDING PEACE PRINC
+   UN Economic Commission for Europe, GUID DOC AARH CONV C
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 2050-0386
+EI 2050-0394
+J9 REV EUR COMP INT ENV
+JI Rev. Eur. Comp. Int. Environ.
+PD APR
+PY 2016
+VL 25
+IS 1
+SI SI
+BP 50
+EP 58
+DI 10.1111/reel.12153
+PG 9
+WC Law
+SC Government & Law
+GA DK7VT
+UT WOS:000375135400006
+ER
+
+PT J
+AU Ioppolo, G
+   Cucurachi, S
+   Salomone, R
+   Saija, G
+   Shi, L
+AF Ioppolo, Giuseppe
+   Cucurachi, Stefano
+   Salomone, Roberta
+   Saija, Giuseppe
+   Shi, Lei
+TI Sustainable Local Development and Environmental Governance: A Strategic
+   Planning Experience
+SO SUSTAINABILITY
+LA English
+DT Article
+ID MANAGING STAKEHOLDER INVOLVEMENT; SOCIAL-ECOLOGICAL SYSTEMS;
+   DECISION-MAKING; PARTICIPATORY PROCESSES; ADAPTIVE GOVERNANCE; BALANCED
+   SCORECARD; NETWORK MANAGEMENT; FRAMEWORK; COMANAGEMENT; PERSPECTIVE
+C1 [Ioppolo, Giuseppe; Salomone, Roberta; Saija, Giuseppe] Univ Messina, Dept Econ, Piazza Pugliatti 1, I-98122 Messina, Italy.
+   [Cucurachi, Stefano] Univ Calif Santa Barbara, Bren Sch Environm Sci & Management, Bren Hall, Isla Vista, CA 93117 USA.
+   [Shi, Lei] Tsinghua Univ, Ctr Green Leap Res, State Environm Protect Key Lab Ecoind, Beijing 100084, Peoples R China.
+RP Ioppolo, G (reprint author), Univ Messina, Dept Econ, Piazza Pugliatti 1, I-98122 Messina, Italy.
+EM giuseppe.ioppolo@unime.it; scucurachi@bren.ucsb.edu;
+   roberta.salomone@unime.it; giuseppe.saija@unime.it;
+   slone@tsinghua.edu.cn
+FU Studio FC & RR Associati S.r.l.
+FX This research was made possible through the support of Studio FC & RR
+   Associati S.r.l., a company specialized in environment planning and
+   management tools for territory development. We are particularly grateful
+   to two anonymous referees for reading and for their comments.
+CR Agranoff R., 2003, COLLABORATIVE PUBLIC
+   Agranoff R., 2007, MANAGING NETWORKS AD
+   Benn S, 2009, J ENVIRON MANAGE, V90, P1567, DOI 10.1016/j.jenvman.2008.05.011
+   Benn S, 2009, J ENVIRON MANAGE, V90, P1593, DOI 10.1016/j.jenvman.2008.05.014
+   Luyet V, 2012, J ENVIRON MANAGE, V111, P213, DOI 10.1016/j.jenvman.2012.06.026
+   Lockwood M, 2010, J ENVIRON MANAGE, V91, P754, DOI 10.1016/j.jenvman.2009.10.005
+   Besley T, 2003, J PUBLIC ECON, V87, P2611, DOI 10.1016/S0047-2727(02)00141-X
+   Prakash A, 2006, AM J POLIT SCI, V50, P350, DOI 10.1111/j.1540-5907.2006.00188.x
+   Anderies JM, 2004, ECOL SOC, V9
+   Benoit-Norris C, 2012, SUSTAINABILITY-BASEL, V4, P1946, DOI 10.3390/su4091946
+   Stratigea A, 2012, FUTURES, V44, P847, DOI 10.1016/j.futures.2012.09.003
+   Fraser EDG, 2006, J ENVIRON MANAGE, V78, P114, DOI 10.1016/j.jenvman.2005.04.009
+   Hochtl F, 2006, ENVIRON SCI POLICY, V9, P322, DOI 10.1016/j.envsci.2006.01.003
+   Lemos MC, 2006, ANNU REV ENV RESOUR, V31, P297, DOI 10.1146/annurev.energy.31.042605.135621
+   Armitage D, 2005, ENVIRON MANAGE, V35, P703, DOI 10.1007/s00267-004-0076-z
+   Liu LX, 2012, ENVIRON SCI POLICY, V21, P106, DOI 10.1016/j.envsci.2012.05.001
+   Ioppolo G, 2013, LAND USE POLICY, V31, P460, DOI 10.1016/j.landusepol.2012.08.010
+   Wyborn C, 2013, J ENVIRON MANAGE, V123, P58, DOI 10.1016/j.jenvman.2013.03.014
+   Biddle JC, 2014, J ENVIRON MANAGE, V145, P268, DOI 10.1016/j.jenvman.2014.06.029
+   Carlsson L, 2005, J ENVIRON MANAGE, V75, P65, DOI 10.1016/j.jenvman.2004.11.008
+   Rijke J, 2012, ENVIRON SCI POLICY, V22, P73, DOI 10.1016/j.envsci.2012.06.010
+   Prior T, 2013, GEOFORUM, V44, P316, DOI 10.1016/j.geoforum.2012.07.009
+   Ioppolo G, 2012, LAND USE POLICY, V29, P629, DOI 10.1016/j.landusepol.2011.10.005
+   Healy S, 2009, J ENVIRON MANAGE, V90, P1644, DOI 10.1016/j.jenvman.2008.05.020
+   Traverso M, 2012, J IND ECOL, V16, P680, DOI 10.1111/j.1530-9290.2012.00497.x
+   Paavola J, 2007, ECOL ECON, V63, P93, DOI 10.1016/j.ecolecon.2006.09.026
+   Maccarrone V, 2014, MAR POLICY, V44, P321, DOI 10.1016/j.marpol.2013.09.024
+   Renn O, 2006, LAND USE POLICY, V23, P34, DOI 10.1016/j.landusepol.2004.08.005
+   Hughes TP, 2007, AMBIO, V36, P586, DOI 10.1579/0044-7447(2007)36[586:AMOTGB]2.0.CO;2
+   Agranoff R, 2001, J PUBL ADM RES THEOR, V11, P295
+   [Anonymous], 2001, 428 COM
+   HABERMAS J, 1970, INQUIRY, V13, P360, DOI 10.1080/00201747008601597
+   Armitage DR, 2009, FRONT ECOL ENVIRON, V7, P95, DOI 10.1890/070089
+   De Marchi B, 2000, ECOL ECON, V34, P267, DOI 10.1016/S0921-8009(00)00162-2
+   Clark JRA, 2011, LAND USE POLICY, V28, P314, DOI 10.1016/j.landusepol.2010.06.012
+   Bulkeley H, 2005, POLIT GEOGR, V24, P875, DOI 10.1016/j.polgeo.2005.07.002
+   Kumar P, 2013, ENVIRON IMPACT ASSES, V40, P75, DOI 10.1016/j.eiar.2013.01.002
+   PORTER ME, 1995, J ECON PERSPECT, V9, P97
+   Brugha R, 2000, HEALTH POLICY PLANN, V15, P239, DOI 10.1093/heapol/15.3.239
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   Thabrew L, 2009, J CLEAN PROD, V17, P67, DOI 10.1016/j.jclepro.2008.03.008
+   Klijn EH, 2010, PUBLIC ADMIN, V88, P1063, DOI 10.1111/j.1467-9299.2010.01826.x
+   Fennell D, 2008, J ENVIRON MANAGE, V88, P62, DOI 10.1016/j.jenvman.2007.01.020
+   Armitage D. R., 2007, ADAPTIVE COMANAGEMEN
+   Bekkers V., 2007, GOVERNANCE DEMOCRATI
+   Boguski T, 2007, ENVIRON PROG, V26, P251, DOI 10.1002/ep.10214
+   Buizer M, 2011, ECOL SOC, V16
+   Chess C., 1998, HUMAN ECOLOGY REV, V5, P60
+   Cohen Joshua, 1997, DELIBERATIVE DEMOCRA, P407
+   Crona BI, 2012, ECOL SOC, V17, DOI 10.5751/ES-04534-170132
+   Drottz-Sjoberg B. M., 1991, PERCEPTION RISK STUD
+   Edelenbos J, 2006, J PUBL ADM RES THEOR, V16, P417, DOI 10.1093/jopart/mui049
+   Falkner R., 2003, GLOBAL ENVIRON POLIT, V3, P72, DOI DOI 10.1162/152638003322068227
+   Finkbeiner Matthias, 2010, Sustainability, V2, DOI 10.3390/su2103309
+   Holling C.S., 1978, ADAPTIVE ENV ASSESSM
+   Huitema D, 2009, ECOL SOC, V14
+   Innes J. E., 2003, DELIBERATIVE POLICY
+   Ioppolo G., 2010, DOSS URBAN, V143, P24
+   ISO (International Organisation for Standardization), 2004, 140012004 ISO
+   Koppenjan J. F. M., 2004, MANAGING UNCERTAINTY, P69
+   Krajer A, 2004, GOVERNANCE
+   MacDonald JP, 2005, J CLEAN PROD, V13, P631, DOI 10.1016/j.jclepro.2003.06.001
+   Munda G., 1995, MULTICRITERIA EVALUA
+   Newig J., 2009, Environmental Policy and Governance, V19, P197, DOI 10.1002/eet.509
+   Pierre J, 2000, DEBATING GOVERNANCE
+   Rhodes RAW, 1996, POLIT STUD-LONDON, V44, P652, DOI 10.1111/j.1467-9248.1996.tb01747.x
+   Rijkens-Klomp N., 2002, GLOBAL ENVIRON CHANG, V12, P167, DOI DOI 10.1016/S0959-3780
+   Rogut A., 2011, Ecohydrology and Hydrobiology, V11, P261
+   Sampford C., 2002, ENVIRON SCI POLICY, V5, P79, DOI DOI 10.1016/S1462-9011(02)00027-8
+   SMITH G., 2003, DELIBERATIVE DEMOCRA
+   Somorin OA, 2014, ENVIRON SCI POLICY, V35, P87, DOI 10.1016/j.envsci.2013.02.004
+   Susskind L., 1987, BREAKING IMPASSE CON
+   Walters CJ, 1986, ADAPTIVE MANAGEMENT
+NR 73
+TC 2
+Z9 2
+U1 0
+U2 0
+PU MDPI AG
+PI BASEL
+PA POSTFACH, CH-4005 BASEL, SWITZERLAND
+SN 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD FEB
+PY 2016
+VL 8
+IS 2
+AR 180
+DI 10.3390/su8020180
+PG 16
+WC GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY; Environmental Sciences;
+   Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA DG1LR
+UT WOS:000371830100022
+ER
+
+PT J
+AU Stetson, G
+   Mumme, S
+AF Stetson, George
+   Mumme, Stephen
+TI Sustainable Development in the Bering Strait: Indigenous Values and the
+   Challenge of Collaborative Governance
+SO SOCIETY & NATURAL RESOURCES
+LA English
+DT Article
+DE Arctic maritime policy; collaborative governance; indigenous peoples;
+   sustainable development
+ID MANAGEMENT; AMBIGUITY
+AB Climate change heightens the vulnerability of Alaska's indigenous communities to shipping in the Bering Strait. Federal policy requiring meaningful consultation and collaboration with Alaska's native communities does not adequately ensure utilization of indigenous knowledge in policy practices, consideration of native governance, or the facilitation of relationships strengthening collaborative processes. The discrepancy between present practices and Alaska Native expectations is examined in a recent U.S. Coast Guard survey raising questions concerning the capacity of federal consultative practices to safeguard indigenous communities. Results support scholarly findings on the value of relational knowledge for strengthening collaborative procedures with indigenous communities. Strengthened relationships between Alaska Native communities and agencies like USCG should enhance sustainable maritime and resources practices in the Bering Strait.
+C1 [Stetson, George; Mumme, Stephen] Colorado State Univ, Dept Polit Sci, Ft Collins, CO 80523 USA.
+RP Stetson, G (reprint author), Colorado State Univ, Dept Polit Sci, Ft Collins, CO 80523 USA.
+EM george.stetson@gmail.com
+CR O'Leary R, 2006, PUBLIC ADMIN REV, V66, P6, DOI 10.1111/j.1540-6210.2006.00661.x
+   Krakoff S, 2012, WASH LAW REV, V87, P1041
+   Brugnach M, 2011, J ENVIRON MANAGE, V92, P78, DOI 10.1016/j.jenvman.2010.08.029
+   Smith LC, 2013, P NATL ACAD SCI USA, V110, pE1191, DOI 10.1073/pnas.1214212110
+   Feldman MS, 2006, PUBLIC ADMIN REV, V66, P89, DOI 10.1111/j.1540-6210.2006.00669.x
+   Huntington HP, 2015, MAR POLICY, V51, P119, DOI 10.1016/j.marpol.2014.07.027
+   Lubell M, 2004, J POLICY ANAL MANAG, V23, P549, DOI 10.1002/pam.20026
+   Van Buuren A, 2009, INT PUBLIC MANAG J, V12, P208, DOI 10.1080/10967490902868523
+   ARNSTEIN SR, 1969, J AM I PLANNERS, V35, P216, DOI 10.1080/01944366908977225
+   Jones N, 2009, ENVIRON POLIT, V18, P595, DOI 10.1080/09644010903007443
+   Brugnach M, 2012, ENVIRON SCI POLICY, V15, P60, DOI 10.1016/j.envsci.2011.10.005
+   Bouwen R, 2004, J COMMUNITY APPL SOC, V14, P137, DOI 10.1002/casp.777
+   Arctic Council, 2009, ARCT MAR SHIPP ASS
+   Babidge S., 2007, SOCIAL ANAL, V51, P148, DOI [10.3167/sa.2007.510307, DOI 10.3167/SA.2007.510307]
+   Berkes F., 1999, SACRED ECOLOGY TRADI
+   Brugnach M., 2014, CLIMATIC CHANGE, DOI [10.1007/S10584-014-1280-3, DOI 10.1007/S10584-014-1280-3]
+   Brugnach M, 2013, UG DUB WORKSH SCI PO
+   Chongthammakun R., 2012, HICSS 47 HAW INT C S
+   Cleaver F., 1999, Journal of International Development, V11, P597, DOI 10.1002/(SICI)1099-1328(199906)11:4<597::AID-JID610>3.0.CO;2-Q
+   Cleaver F., 2001, Participation: the new tyranny?, P36
+   Department of Interior, 2012, INT ANN CONS POL AL
+   Donoghue E. M., 2010, J ECOLOGICAL ANTHR, V14, P22, DOI DOI 10.5038/2162-4593.14.1.2
+   Eitner M, 2014, U COLO LAW REV, V85, P867
+   Lejano R, 2013, AM COMP ENVIRON POLI, P1
+   Metcalf V, 2014, US MAR MAMM COMM ANN
+   Miskwish M. C., 2006, EQUITY SUSTAINABLE D, V24, P215
+   Molenaar E. J., 2008, J TRANSNATIONAL LAW, V18, P289
+   Obama B., 2012, MEMORANDUM HEADS EXE
+   Paley Julia, 2001, POLITICAL LEGAL ANTH, V24, P1, DOI 10.1525/pol.2001.24.1.1
+   Pomeroy RS, 1997, MAR POLICY, V21, P465, DOI 10.1016/S0308-597X(97)00017-1
+   Sanders M, 2007, BUFFALO ENV LAW J, V15, P97
+   SCHMITTE.PC, 1974, REV POLIT, V36, P85
+   Seidler C., 2010, BOON GLOBAL SHIPPING
+   Selznick P., 1949, TVA GRASS ROOTS STUD, V3
+   Stetson G., 2014, MEANINGFUL COLLABORA
+NR 35
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0894-1920
+EI 1521-0723
+J9 SOC NATUR RESOUR
+JI Soc. Nat. Resour.
+PY 2016
+VL 29
+IS 7
+BP 791
+EP 806
+DI 10.1080/08941920.2015.1080340
+PG 16
+WC Environmental Studies; Planning & Development; Sociology
+SC Environmental Sciences & Ecology; Public Administration; Sociology
+GA DK5YP
+UT WOS:000374997500003
+ER
+
+PT J
+AU Frodin, O
+AF Frodin, Olle
+TI Researching Governance for Sustainable Development: Some Conceptual
+   Clarifications
+SO JOURNAL OF DEVELOPING SOCIETIES
+LA English
+DT Article
+DE governance; science-policy nexus; sustainability; environmental
+   sociology; policy studies; institutions; science and technology studies
+ID POLICY; INTEGRATION; CHALLENGES; SOCIOLOGY
+AB This article addresses two problems characterizing policy thinking on environmental change and sustainable development. First, the role of the social sciences in the wider processes of governance is sometimes misrepresented such that the likelihood of achieving consensual decision-making on environmental phenomena is overestimated. Second, the social science discourse on governance is plagued by conceptual confusion. This article seeks to address these problems by outlining an analytical framework for environmental governance research. In the view of this article, scientific knowledge claims are integral parts of governance processes. The article advocates a holistic understanding of governance that includes the production and diffusion of scientific knowledge, political interaction, and decision-making as well as the wider institutional context required for policy implementation and enforcement. The conclusion is that the entire governance process from the translation of scientific knowledge into policy proposals to the implementation will always be laden with politically charged opportunity costs.
+C1 [Frodin, Olle] Lund Univ, Dept Sociol, S-22100 Lund, Sweden.
+RP Frodin, O (reprint author), Lund Univ, Dept Sociol, S-22100 Lund, Sweden.
+EM olle.frodin@soc.lu.se
+CR Nunan F, 2012, PUBLIC ADMIN DEVELOP, V32, P262, DOI 10.1002/pad.1624
+   Heyvaert V, 2011, MOD LAW REV, V74, P817, DOI 10.1111/j.1468-2230.2011.00874.x
+   Bleich E, 2002, COMP POLIT STUD, V35, P1054, DOI 10.1177/001041402237506
+   Foladori G, 2005, CAN J DEV STUD, V26, P501
+   Powell M, 2006, HEALTH ECON POLICY L, V1, P427, DOI 10.1017/S1744133106004038
+   Jorgensen MB, 2011, BRIT J POLIT INT REL, V13, P93, DOI 10.1111/j.1467-856X.2010.00441.x
+   Joss S, 2010, ENVIRON POLICY GOV, V20, P408, DOI 10.1002/eet.559
+   Eyal G, 2010, ANNU REV SOCIOL, V36, P117, DOI 10.1146/annurev.soc.012809.102625
+   Statham P, 2006, WEST EUR POLIT, V29, P248, DOI 10.1080/01402380500512601
+   Lidskog R, 2002, EUR J INT RELAT, V8, P77, DOI 10.1177/1354066102008001003
+   Spicker P, 2011, J SOC POLICY, V40, P1, DOI 10.1017/S0047279410000334
+   York R, 2007, SOCIOL QUART, V48, P713, DOI 10.1111/j.1533-8525.2007.00098.x
+   MEYER JW, 1977, AM J SOCIOL, V83, P340, DOI 10.1086/226550
+   Reay MJ, 2012, AM J SOCIOL, V118, P45
+   Ratner BD, 2004, SOCIOL INQ, V74, P50, DOI 10.1111/j.1475-682X.2004.00079.x
+   NORGAARD RB, 1988, FUTURES, V20, P606, DOI 10.1016/0016-3287(88)90003-1
+   Gorski P, 2013, SOCIETY, V50, P543, DOI 10.1007/s12115-013-9709-2
+   Dillard J, 2009, ROUTL STUD DEV SOC, V17, P1
+   Frodin O., 2008, SYNERGIES STALEMATES
+   Frodin O., 2013, DISTINKTION SCANDINA, V14, P65
+   Hannigan J. A., 2006, ENV SOCIOLOGY
+   Heywood A., 1997, POLITICS
+   Hoppe R, 2005, POIESIS PRAXIS, V3, P199, DOI DOI 10.1007/S10202-005-0074-0
+   ISSC, 2013, WORLD SOC SCI REP CH
+   Jackson G., 2006, 062 MPIFG
+   Knorr Cetina K., 2010, J CONSUM CULT, V10, P172
+   Larsen GL, 2009, ROUTL STUD DEV SOC, V17, P45
+   Manski C. F., 2010, POLICY ANAL INCREDIB
+   Manzi T., 2010, SOCIAL SUSTAINABILIT, P1
+   Moser S., 2013, WORLD SOCIAL SCI REP, P46
+   Reiss J., 2011, HDB PHILOS SOCIAL SC, P551
+   Rogers P., 2008, INTRO SUSTAINABLE DE
+   Schofield J. W., 2000, CASE STUDY METHOD, P69
+   Searle J., 2005, J I EC, V1, P1, DOI DOI 10.1017/S1744137405000020
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INDIA  PVT LTD
+PI NEW DELHI
+PA B-1-I-1 MOHAN CO-OPERATIVE INDUSTRIAL AREA, MATHURA RD, POST BAG NO 7,
+   NEW DELHI 110 044, INDIA
+SN 0169-796X
+EI 1745-2546
+J9 J DEV SOC
+JI J. Dev. Soc.
+PD DEC
+PY 2015
+VL 31
+IS 4
+BP 447
+EP 466
+DI 10.1177/0169796X15603236
+PG 20
+WC Planning & Development
+SC Public Administration
+GA DM1FC
+UT WOS:000376089800002
+ER
+
+PT J
+AU Yuba, EI
+   Barata, NP
+AF Ingles Yuba, Eduard
+   Puig Barata, Nuria
+TI Sports management in coastal protected areas. A case study on
+   collaborative network governance towards sustainable development
+SO OCEAN & COASTAL MANAGEMENT
+LA English
+DT Article
+DE Governance; Collaborative network; Sustainable development; Sport;
+   Coastal protected area
+ID NATURAL-RESOURCE MANAGEMENT; INTERORGANIZATIONAL COLLABORATION;
+   NATIONAL-PARKS; CONSERVATION; PARTICIPATION; COMMUNITY
+AB The main objective of this paper is to determine if a collaborative network governance structure in the management of sport practice in coastal areas generates better effects on the degree of sustainability of its territorial development. This paper shows the results of the analysis of the existing governance in the managing processes of 4 conflict situations generated by sport practice in 2 coastal protected areas, and the effects on the dimensions of its development in each case. The information was collected through in-depth qualitative interviews with key stakeholders. Qualitative data was quantified by the definition of indexes of indicators to allow the comparison between cases. Results show that there exists a close relationship between the index of collaborative network and that of sustainability; that means that the greater is the degree of networking and the development of collaboration processes between stakeholders, the higher is the degree of sustainability of the development generated by the strategy of solution adopted in each of the coastal areas. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Ingles Yuba, Eduard; Puig Barata, Nuria] INEFC, GISEAFE, Barcelona 08038, Spain.
+RP Yuba, EI (reprint author), INEFC, GISEAFE, Ave Estadi 12-22, Barcelona 08038, Spain.
+EM eduard.ingles@gencat.cat
+FU Institut Nacional d'Educacio Fisica de Catalunya (INEFC), of the
+   Generalitat de Catalunya; Agency for Management of University and
+   Research Grants (AGAUR) in Catalunya [BE DGR - 2012]
+FX This study was supported by the Institut Nacional d'Educacio Fisica de
+   Catalunya (INEFC), of the Generalitat de Catalunya. Part of the research
+   was developed at the Institut de Hautes Etudes en Administration
+   Publique (IDHEAP - Lausanne, Switzerland), supported by the Agency for
+   Management of University and Research Grants (AGAUR) in Catalunya (BE
+   DGR - 2012). The authors would like to specially thank Professor Klaus
+   Heinemann for his support and assistance.
+CR Agranoff R., 2003, COLLABORATIVE PUBLIC
+   Alves S., 2009, PASOS: Revista de Turismo y Patrimonio Cultural, V7, P503
+   Geneletti D, 2008, LANDSCAPE URBAN PLAN, V85, P97, DOI 10.1016/j.landurbplan.2007.10.004
+   Jones PJS, 2005, J ENVIRON MANAGE, V77, P227, DOI 10.1016/j.jenvman.2005.04.004
+   Granek EF, 2008, CONSERV BIOL, V22, P1125, DOI 10.1111/j.1523-1739.2008.00977.x
+   Davidson-Hunt IJ, 2006, HUM ECOL, V34, P593, DOI 10.1007/s10745-006-9009-1
+   Schusler TM, 2003, SOC NATUR RESOUR, V16, P309, DOI 10.1080/08941920390178874
+   Ansell C, 2008, J PUBL ADM RES THEOR, V18, P543, DOI 10.1093/jopart/mum032
+   Salmi J, 2010, FISHERIES MANAG ECOL, V17, P192, DOI 10.1111/j.1365-2400.2010.00736.x
+   Stensland S, 2012, FISHERIES MANAG ECOL, V19, P273, DOI 10.1111/j.1365-2400.2011.00829.x
+   Prell C, 2009, SOC NATUR RESOUR, V22, P501, DOI 10.1080/08941920802199202
+   POWELL WW, 1990, RES ORGAN BEHAV, V12, P295
+   Gleason M, 2010, OCEAN COAST MANAGE, V53, P52, DOI 10.1016/j.ocecoaman.2009.12.001
+   Saarikoski H, 2010, FOREST POLICY ECON, V12, P349, DOI 10.1016/j.forpol.2010.02.006
+   Sharma A, 2011, J APPL BEHAV SCI, V47, P168, DOI 10.1177/0021886310381782
+   Dingle G, 2009, INT J SPORT MARK SPO, V11, P80
+   Hiwasaki L, 2005, ENVIRON MANAGE, V35, P753, DOI 10.1007/s00267-004-0134-6
+   Heylings P, 2007, OCEAN COAST MANAGE, V50, P174, DOI 10.1016/j.ocecoaman.2006.09.003
+   Mallen C, 2010, EUR SPORT MANAG Q, V10, P97, DOI 10.1080/16184740903460488
+   Arlinghaus R, 2002, FISH FISH, V3, P261, DOI 10.1046/j.1467-2979.2002.00102.x
+   Antunes P, 2006, LAND USE POLICY, V23, P44, DOI 10.1016/j.landusepol.2004.08.014
+   Baena A., 2008, THESIS
+   Barragan J. M., 1996, CONURBO BONAERENSE R, V45, P111
+   Bingham L.B., 2011, SAGE HDB GOVERNANCE, P386
+   Bourdieu P, 1991, CRAFT SOCIOLOGY EPIS
+   Brenner Ludger, 2010, Rev. Mex. Sociol, V72, P283
+   Chalip L., 2004, Journal of Sport Tourism, V9, P267, DOI 10.1080/1477508042000320241
+   Chernela J. M., 2002, PARKS, V12, P28
+   De Andres A., 1995, MANUAL MAJORA CALIDA
+   De la Cruz R., 2013, REV ANDAL ANTROPOL, V4, P10
+   Dienot J., 1999, NOUVEAUX LOISIRS SPO
+   Domenech J. L., 2010, GUIA IMPLEMENTACION
+   Duran CA, 2009, REV ESTUD SOC, P60
+   Fraguas A., 2008, GUIA MEDIO AMBIENTE
+   Fyall A., 2009, JOURNAL OF SPORT EA, V14, P77, DOI 10.1080/14775080902965017
+   Generalitat de Catalunya, 2014, SIMA SERV INT MAP AM
+   Georgehan T., 2002, PARKS, V12, P16
+   GRAY B, 1985, HUM RELAT, V38, P911, DOI 10.1177/001872678503801001
+   Guitart R., 2006, APUNT CIENC TECNOL, V21, P2
+   Heinen J. T., 1994, International Journal of Sustainable Development and World Ecology, V1, P22
+   Ingles E., 2013, THESIS
+   Kooiman J., 1993, MODERN GOVERNANCE NE
+   Luque Valle P., 2011, Interciencia, V36, P531
+   Martinez J. R., 1998, SOCIOLOGIA DEPORLE, P179
+   Martínez Rodríguez Zulma, 2004, Innovar, V14, P158
+   Martos P., 2002, NUEVAS TENDENCIAS PR, P3
+   Mayntz R., 1998, 50 EUR U R SCHUM CTR
+   McGuire M., 2011, SAGE HDB GOVERNANCE, P436
+   Meadowcroft J., 2005, INT J SUST DEV WORLD, V9, P3
+   Merinero R., 2009, CUADERNOS TURISMO, V23, P173
+   Moscoso D., 2008, THESIS
+   Pascual J.J., 2008, PATRIMONIALIZACION N, P199
+   Pezzoli K, 1997, J ENVIRON PLANN MAN, V40, P549, DOI 10.1080/09640569711949
+   Pulido J.I., 2010, REV ESTUD REG, V88, P147
+   Rech Y., 2011, DEV DURABLE TERRIT, V2, P1
+   REPETTO R., 1985, GLOBAL POSSIBLE RESO
+   Rhodes R. A., 1997, UNDERSTANDING GOVERN
+   Sepulveda S., 2008, GESTION DESARROLLO S
+   Spedding C. R. W., 1996, AGR CITIZEN
+   UN-DSD, 1996, IND SUST DEV FRAM ME
+   Villalvilla H., 2001, DEPORTE NATURALEZA I
+   WCED, 1987, OUR COMM FUT
+NR 62
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0964-5691
+EI 1873-524X
+J9 OCEAN COAST MANAGE
+JI Ocean Coastal Manage.
+PD DEC
+PY 2015
+VL 118
+BP 178
+EP 188
+DI 10.1016/j.ocecoaman.2015.07.018
+PN B
+PG 11
+WC Oceanography; Water Resources
+SC Oceanography; Water Resources
+GA DA4ND
+UT WOS:000367775700008
+ER
+
+PT J
+AU Clark, H
+AF Clark, Helen
+TI Governance for planetary health and sustainable development
+SO LANCET
+LA English
+DT Editorial Material
+C1 United Nations Dev Programme, New York, NY 10017 USA.
+RP Clark, H (reprint author), United Nations Dev Programme, New York, NY 10017 USA.
+EM helen.clark@undp.org
+CR Coady D, 2015, IMF WORKING PAPER LA
+   WHO, 2014, GLOBAL STATUS REPORT ON VIOLENCE PREVENTION 2014, P1
+   UNDP, 2013, GUID INT HIV GEND RE
+   UNDP, 2013, CHANG WORLD UNDP STR
+   UNDP, 2015, ENV FIN
+   UNDP, 2015, PAYM PROGR EB RESP W
+   UNDP Government of Sudan, 2013, REP MIDT EV SUD NAPA
+   Whitmee S, 2015, LANCET
+NR 8
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0140-6736
+EI 1474-547X
+J9 LANCET
+JI Lancet
+PD NOV 14
+PY 2015
+VL 386
+IS 10007
+BP E39
+EP E41
+DI 10.1016/S0140-6736(15)61205-3
+PG 4
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA CW1PI
+UT WOS:000364763200003
+PM 26188750
+ER
+
+PT J
+AU Orme, M
+   Cuthbert, Z
+   Sindico, F
+   Gibson, J
+   Bostic, R
+AF Orme, Mallory
+   Cuthbert, Zoe
+   Sindico, Francesco
+   Gibson, Julie
+   Bostic, Renice
+TI Good transboundary water governance in the 2015 Sustainable Development
+   Goals: a legal perspective
+SO WATER INTERNATIONAL
+LA English
+DT Article
+DE sustainable development goals; transboundary water governance; law;
+   international cooperation
+ID MANAGEMENT
+AB The goal of this article is to discuss whether the Sustainable Development Goals address the cooperation necessary to facilitate a system of transboundary water governance. For the purpose of this analysis, a Good Transboundary Water Governance Matrix has been developed. We find that transboundary water governance requires a holistic interpretation and implementation of the Sustainable Development Goals understood as a whole. In particular, good governance and, ultimately, sustainable development require stakeholders to focus not only on water (Goal 6) but also on Goal 16, which focuses on international cooperation.
+C1 [Orme, Mallory; Cuthbert, Zoe; Gibson, Julie; Bostic, Renice] Univ Strathclyde, Sch Law, Fac Humanities & Social Sci, Glasgow, Lanark, Scotland.
+   [Sindico, Francesco] Strathclyde Ctr Environm Law & Governance, Glasgow, Lanark, Scotland.
+   [Sindico, Francesco] Univ Strathclyde, Sch Law, Glasgow, Lanark, Scotland.
+RP Sindico, F (reprint author), Strathclyde Ctr Environm Law & Governance, Glasgow, Lanark, Scotland.
+EM Francesco.sindico@strath.ac.uk
+CR [Anonymous], 2013, NEW GLOB PARTN ER PO
+   Blatter J, 2000, NAT RESOUR J, V40, P439
+   Pahl-Wostl C, 2013, ECOL SOC, V18, DOI 10.5751/ES-05554-180233
+   Salman SMA, 2007, WATER INT, V32, P1
+   Conca K, 2012, GLOBAL ENVIRON POLIT, V12, P127
+   [Anonymous], 2014, UNESCO INT HYDROLOGI
+   Gerlak AK, 2011, WATER INT, V36, P251, DOI 10.1080/02508060.2011.586552
+   Burrell BC, 2007, WATER INT, V32, P342
+   Kaygusuz K, 2009, ENERG SOURCE PART B, V4, P365, DOI 10.1080/15567240701756889
+   Sachs JD, 2012, LANCET, V379, P2206, DOI 10.1016/S0140-6736(12)60685-0
+   Young OR, 2008, GLOBAL ENVIRON POLIT, V8, P14, DOI 10.1162/glep.2008.8.1.14
+   Gurria A, 2009, WATER INT, V34, P396, DOI 10.1080/02508060903377601
+   Cook C, 2012, GLOBAL ENVIRON CHANG, V22, P94, DOI 10.1016/j.gloenvcha.2011.10.011
+   Grigg NS, 2011, WATER INT, V36, P799, DOI 10.1080/02508060.2011.617671
+   Bruch C, 2002, NEW PUBLIC GLOBALIZA
+   Bucknall J, 2006, GOOD GOVERNANCE GOOD
+   Budapest Water Summit Statement, 2013, BUD WAT SUMM STAT 11
+   Chasek P, 2015, J ARID ENVIRON, V112, P5, DOI 10.1016/j.jaridenv.2014.05.020
+   Eds J.R., 2014, TRANSBOUNDARY WATER
+   Gerlak A, 2009, INT NEGOTIATION, V14, P311
+   IISD, 2014, WORLD WAT WEEK CALLS
+   International Council for Science, 2015, REV SUST DEV GOALS S
+   McIntyre O., 2010, Journal of Environmental Law, V22, P475, DOI 10.1093/jel/eqq019
+   McIntyre O., 2007, ENV PROTECTION INT W
+   Mirumachi N, 2015, EARTHSCAN STUD WATER, P1
+   NIDOS, 2015, WHAT IS POST2015 AG
+   Rieu-Clarke A., 2009, REV EUR COMMUN INT E, V18, P185, DOI DOI 10.1111/J.1467-9388.2009.00640.-X
+   Schmidt-Traub G, 2015, FINANCING SUSTAINABL
+   The Federal Democratic Republic of Ethiopia, 2010, GROWTH TRANSF PLAN G
+   Tignino M., 2015, INT C P GEN 13 DEC U
+   UN Water, 2014, MDGS SDGS UN INT MEC
+   UN Water for Life, 2015, WAT LIF DEC TRANSB W
+   UNEP, 1972, UN C HUM ENV STOCKH
+   UNEP, 1992, RIO DECL ENV DEV 199
+   Van der Bliek J., 2014, TARGET PEOPLE PLANET
+   Young O.R., 2003, INT ENVIRON AGREEM-P, V3, P377, DOI DOI 10.1023/B:INEA.0000005802.86439.39
+NR 36
+TC 0
+Z9 0
+U1 6
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0250-8060
+EI 1941-1707
+J9 WATER INT
+JI Water Int.
+PD NOV 10
+PY 2015
+VL 40
+IS 7
+BP 969
+EP 983
+DI 10.1080/02508060.2015.1099083
+PG 15
+WC Engineering, Civil; Water Resources
+SC Engineering; Water Resources
+GA CW1OH
+UT WOS:000364759800002
+ER
+
+PT J
+AU den Uyl, RM
+   Driessen, PPJ
+AF den Uyl, Roos M.
+   Driessen, Peter P. J.
+TI Evaluating governance for sustainable development - Insights from
+   experiences in the Dutch fen landscape
+SO JOURNAL OF ENVIRONMENTAL MANAGEMENT
+LA English
+DT Article
+DE Governance; Sustainable development; Adaptive management; Transition
+   management; Payments for environmental services; PES; Equity; Democracy;
+   Legitimacy; Uncertainties; Scale; Dutch fen landscape
+ID SOCIAL-ECOLOGICAL SYSTEMS; AGRI-ENVIRONMENT SCHEMES; ADAPTIVE
+   GOVERNANCE; TRANSITION MANAGEMENT; ECOSYSTEM SERVICES; CLIMATE-CHANGE;
+   PRIVATE GOVERNANCE; DESIGNING PAYMENTS; WETLAND LANDSCAPE; WATER
+   MANAGEMENT
+AB Prominent strands of discussion in the literature on governance for sustainable development debate how change can be induced to enhance sustainability, and how to evaluate the interventions aimed at prompting such change. Strikingly, there are few contributions about how prominent ideas of inducing change deal with multiple governance criteria for pursuing sustainable development. Moreover, the way ideas about inducing change relate to criteria of governance for sustainable development is not yet studied in an empirical context. This paper therefore comparatively analyses how three prominent modes of sustainable development governance adaptive management, transition management and payments for environmental services relate to a set of five prominent criteria reported in the literature, namely: equity, democracy, legitimacy, the handling of scale issues and the handling of uncertainty issues. It finds that the academic debates on these three modes address these criteria with varying attention and rather fragmented, while in the empirical setting of the Dutch fen landscape several aspects relating to the studied criteria were present and substantially influenced the functioning of the three modes of sustainable development. Together, the analysis of the literature debate and the empirical data are able to show that a narrow evaluation perspective may fail to diagnose and capture relevant struggles and complexities coming along with governance for sustainable development relevant issues. The study shows that in order to advance our understanding of governance for sustainable development, it is indeed important to include multiple criteria in studying these modes. Moreover, the study shows the importance of including empirical experiences which manifest when different modes for sustainable development are applied in real-world settings. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [den Uyl, Roos M.] Univ Exeter, Dept Polit, Ctr Rural Policy Res, Exeter EX4 4RJ, Devon, England.
+   [Driessen, Peter P. J.] Univ Utrecht, Fac Geosci, Copernicus Inst Sustainable Dev, Utrecht, Netherlands.
+RP den Uyl, RM (reprint author), Univ Exeter, Dept Polit, Ctr Rural Policy Res, Rennes Dr, Exeter EX4 4RJ, Devon, England.
+EM r.m.den-uyl@exeter.ac.uk; p.driessen@uu.nl
+RI Driessen, Peter/M-6751-2013
+OI Driessen, Peter/0000-0002-0724-6666
+FU Dutch research programme BSIK/Leven met Water, in the context of the
+   project 'What about the peat areas?'
+FX The authors would like to thank Dave Huitema for input in the analysis
+   of this paper, and for his comments during the beginning of this paper.
+   Duncan Russel is thanked for his constructive feedback on both structure
+   and language, in the later stages of this paper. Also thanks to the
+   three anonymous reviewers who contributed to improving this paper with
+   their helpful feedback. The empirical data was gathered with funding
+   from the Dutch research programme BSIK/Leven met Water, in the context
+   of the project 'What about the peat areas?'.
+CR Adger WN, 2003, ENVIRON PLANN A, V35, P1095, DOI 10.1068/a35289
+   Schouten G, 2011, ECOL ECON, V70, P1891, DOI 10.1016/j.ecolecon.2011.03.012
+   Folke C, 2006, GLOBAL ENVIRON CHANG, V16, P253, DOI 10.1016/j.gloenvcha.2006.04.002
+   Olsson P, 2008, P NATL ACAD SCI USA, V105, P9489, DOI 10.1073/pnas.0706905105
+   Kemp R, 2007, INT J SUST DEV WORLD, V14, P78
+   Vatn A, 2013, GLOBAL ENVIRON CHANG, V23, P422, DOI 10.1016/j.gloenvcha.2012.11.005
+   Hatfield-Dodds S, 2006, ECOL ECON, V56, P373, DOI 10.1016/j.ecolecon.2005.09.015
+   van Asselt MBA, 2002, CLIMATIC CHANGE, V54, P75, DOI 10.1023/A:1015783803445
+   Cooney R, 2007, EUR J INT LAW, V18, P523, DOI 10.1093/ejil/chm030
+   Hildingsson R, 2012, EUR POLIT SCI, V11, P18, DOI 10.1057/eps.2011.8
+   Kemp R, 1998, TECHNOL ANAL STRATEG, V10, P175, DOI 10.1080/09537329808524310
+   Satake A, 2008, GLOBAL ENVIRON CHANG, V18, P768, DOI 10.1016/j.gloenvcha.2008.07.007
+   Davies AR, 2002, AREA, V34, P190, DOI 10.1111/1475-4762.00071
+   Meadowcroft J, 2009, POLICY SCI, V42, P323, DOI 10.1007/s11077-009-9097-z
+   Borner J, 2010, ECOL ECON, V69, P1272, DOI 10.1016/j.ecolecon.2009.11.003
+   Collier MJ, 2008, LANDSCAPE RES, V33, P439, DOI 10.1080/01426390801948406
+   Arnouts R, 2012, FOREST POLICY ECON, V16, P43, DOI 10.1016/j.forpol.2011.04.001
+   Smith A, 2010, RES POLICY, V39, P435, DOI 10.1016/j.respol.2010.01.023
+   Den Uyl RM, 2013, EUR PLAN STUD, V21, P801, DOI 10.1080/09654313.2012.692773
+   Folke C, 2002, AMBIO, V31, P437, DOI 10.1639/0044-7447(2002)031[0437:RASDBA]2.0.CO;2
+   Gunderson L, 2006, POLICY SCI, V39, P323, DOI 10.1007/s11077-006-9027-2
+   Ikeme J, 2003, GLOBAL ENVIRON CHANG, V13, P195, DOI 10.1016/S0959-3780(03)00047-5
+   Petheram L, 2010, J ENVIRON MANAGE, V91, P1139, DOI 10.1016/j.jenvman.2010.01.002
+   Vatn A, 2010, ECOL ECON, V69, P1245, DOI 10.1016/j.ecolecon.2009.11.018
+   Voss JP, 2009, POLICY SCI, V42, P275, DOI 10.1007/s11077-009-9103-5
+   Pagiola S, 2010, ENVIRON RESOUR ECON, V47, P371, DOI 10.1007/s10640-010-9383-4
+   Adger WN, 2005, GLOBAL ENVIRON CHANG, V15, P77, DOI [10.1016/j.gloenvcha.2004.12.005, 10.1016/j.gloenvcha.2005.03.001]
+   Kerr J, 2002, WORLD DEV, V30, P1387, DOI 10.1016/S0305-750X(02)00042-6
+   Smith A, 2009, ENVIRON POLIT, V18, P78, DOI 10.1080/09644010802624835
+   Rotmans J, 2009, J IND ECOL, V13, P184, DOI 10.1111/j.1530-9290.2009.00116.x
+   Swagemakers P, 2009, J ENVIRON MANAGE, V90, pS185, DOI 10.1016/j.jenvman.2008.11.020
+   Grieg-Gran M, 2005, WORLD DEV, V33, P1511, DOI 10.1016/j.worlddev.2005.05.002
+   Clark JRA, 2013, ENVIRON MANAGE, V51, P882, DOI 10.1007/s00267-012-9993-4
+   Kinzig AP, 2011, SCIENCE, V334, P603, DOI 10.1126/science.1210297
+   Corbera E, 2007, DEV CHANGE, V38, P587, DOI 10.1111/j.1467-7660.2007.00425.x
+   Hysing E, 2009, PUBLIC ADMIN, V87, P312, DOI 10.1111/j.1467-9299.2008.01750.x
+   Glicksman RL, 2013, TRANSNATL ENVIRON LA, V2, P259, DOI 10.1017/S2047102513000125
+   McDougall C, 2013, SOC NATUR RESOUR, V26, P1235, DOI 10.1080/08941920.2013.779344
+   Lee S. K., 2008, Journal of Ecotourism, V7, P44, DOI 10.2167/joe191.0
+   van der Horst D, 2007, J ENVIRON MANAGE, V85, P1076, DOI 10.1016/j.jenvman.2006.11.034
+   Lennox GD, 2013, ECOL ECON, V93, P69, DOI 10.1016/j.ecolecon.2013.04.016
+   Driessen PPJ, 2012, ENVIRON POLICY GOV, V22, P143, DOI 10.1002/eet.1580
+   Wunder S, 2008, ECOL ECON, V65, P834, DOI 10.1016/j.ecolecon.2008.03.010
+   Renn O, 2011, AMBIO, V40, P231, DOI 10.1007/s13280-010-0134-0
+   Klooster DJ, 2002, ECON GEOGR, V78, P43, DOI 10.2307/4140823
+   Biermann F, 2010, INT ENVIRON AGREEM-P, V10, P277, DOI 10.1007/s10784-010-9137-3
+   KEMP R, 1994, FUTURES, V26, P1023, DOI 10.1016/0016-3287(94)90071-X
+   Hahn T, 2006, HUM ECOL, V34, P573, DOI 10.1007/s10745-006-9035-z
+   Derissen S, 2013, ECOL ECON, V85, P77, DOI 10.1016/j.ecolecon.2012.11.001
+   Holden E, 2014, GLOBAL ENVIRON CHANG, V26, P130, DOI 10.1016/j.gloenvcha.2014.04.006
+   Meadowcroft J, 2002, LANDSCAPE URBAN PLAN, V61, P169, DOI 10.1016/S0169-2046(02)00111-1
+   Huntjens P, 2011, ENVIRON POLICY GOV, V21, P145, DOI 10.1002/eet.571
+   Wilson GA, 2000, ENVIRON PLANN A, V32, P2161, DOI 10.1068/a3311
+   Jack BK, 2008, P NATL ACAD SCI USA, V105, P9465, DOI 10.1073/pnas.0705503104
+   Nicolaus K, 2014, SUSTAINABILITY-BASEL, V6, P3019, DOI 10.3390/su6053019
+   Pulwarty RS, 2001, J ENVIRON MANAGE, V63, P307, DOI 10.1006/jema.2001.0494
+   Brunner RD, 2010, POLICY SCI, V43, P301, DOI 10.1007/s11077-010-9117-z
+   van Zeijl-Rozema A, 2008, SUSTAIN DEV, V16, P410, DOI 10.1002/sd.367
+   Lundmark C, 2014, EUR J WILDLIFE RES, V60, P637, DOI 10.1007/s10344-014-0827-y
+   Engel S, 2008, ECOL ECON, V65, P663, DOI 10.1016/j.ecolecon.2008.03.011
+   WALTERS CJ, 1990, ECOLOGY, V71, P2060, DOI 10.2307/1938620
+   Roe E, 2002, ECOSYSTEMS, V5, P509, DOI 10.1007/s10021-002-1015-6
+   Shove E, 2007, ENVIRON PLANN A, V39, P763, DOI 10.1068/a39310
+   Syme GJ, 1999, J ENVIRON MANAGE, V57, P51, DOI 10.1006/jema.1999.0282
+   Dobbs TL, 2008, ECOL ECON, V65, P765, DOI 10.1016/j.ecolecon.2007.07.030
+   Thomas DSG, 2005, GLOBAL ENVIRON CHANG, V15, P115, DOI 10.1016/j.gloenvcha.2004.10.001
+   Olsson P, 2004, ENVIRON MANAGE, V34, P75, DOI 10.1007/s00267-003-0101-7
+   McDermott M, 2013, ENVIRON SCI POLICY, V33, P416, DOI 10.1016/j.envsci.2012.10.006
+   Rauschmayer F, 2009, ENVIRON PLANN C, V27, P42, DOI 10.1068/c0703j
+   Jordan A, 2009, ENVIRON PLANN C, V27, P762, DOI 10.1068/c2705bed
+   Bremer LL, 2014, LAND USE POLICY, V36, P122, DOI 10.1016/j.landusepol.2013.08.002
+   Folke C, 2003, PHILOS T ROY SOC B, V358, P2027, DOI 10.1098/rstb.2003.1385
+   Kleijn D, 2003, J APPL ECOL, V40, P947, DOI 10.1111/j.1365-2664.2003.00868.x
+   Armitage D, 2011, GLOBAL ENVIRON CHANG, V21, P995, DOI 10.1016/j.gloenvcha.2011.04.006
+   Clark JRA, 2011, LAND USE POLICY, V28, P314, DOI 10.1016/j.landusepol.2010.06.012
+   Armitage D, 2008, GLOBAL ENVIRON CHANG, V18, P86, DOI 10.1016/j.gloenvcha.2007.07.002
+   Jordan A, 2008, ENVIRON PLANN C, V26, P17, DOI 10.1068/cav6
+   Henriksen HJ, 2008, J ENVIRON MANAGE, V88, P1025, DOI 10.1016/j.jenvman.2007.05.099
+   Hendriks CM, 2009, POLICY SCI, V42, P341, DOI 10.1007/s11077-009-9095-1
+   Kleijn D, 2001, NATURE, V413, P723, DOI 10.1038/35099540
+   Folke C, 2005, ANNU REV ENV RESOUR, V30, P441, DOI 10.1146/annurev.energy.30.050504.144511
+   Olsson P, 2001, ECOSYSTEMS, V4, P85, DOI 10.1007/s100210000061
+   Cashore B, 2002, GOVERNANCE, V15, P503, DOI 10.1111/1468-0491.00199
+   Huitema D, 2011, POLICY SCI, V44, P179, DOI 10.1007/s11077-011-9125-7
+   Olsson P, 2006, ECOL SOC, V11
+   Adhikari B, 2013, CONSERV SOC, V11, P359, DOI 10.4103/0972-4923.125748
+   Merckx T, 2009, AGR ECOSYST ENVIRON, V130, P177, DOI 10.1016/j.agee.2009.01.006
+   McCauley DJ, 2006, NATURE, V443, P27, DOI 10.1038/443027a
+   Pascual U, 2010, ECOL ECON, V69, P1237, DOI 10.1016/j.ecolecon.2009.11.004
+   van der Brugge R, 2007, ECOL SOC, V12
+   WILSON GA, 1995, J RURAL STUD, V11, P149, DOI 10.1016/0743-0167(95)00009-C
+   Backstrand K., 2006, European Environment, V16, DOI 10.1002/eet.425
+   Berkes F, 2003, NAVIGATING SOCIAL EC
+   Voss JP, 2011, ECOL SOC, V16
+   Chaffin BC, 2014, ECOL SOC, V19, DOI 10.5751/ES-06824-190356
+   Coenen F.H.J.M., 2003, ACHIEVING SUSTAINABL, P185
+   Coenen F.H.J.M., 1998, PARTICIPATION QUALIT
+   Cosens BA, 2013, ECOL SOC, V18, DOI 10.5751/ES-05093-180103
+   Den Uyl R.M., 2014, THESIS UTRECHT U UTR
+   Duit A., 2010, GLOBAL ENVIRON CHANG, V20, P130
+   Edelenbos J, 2013, INT J WATER GOV, V1, P89
+   Foxon Timothy J, 2009, European Environment, V19, DOI 10.1002/eet.496
+   Grin J., 2010, TRANSITIONS SUSTAINA
+   Gunderson L., 1999, CONSERV ECOL, V3, P7
+   Holguin V.A., 2007, LIVEST RES RURAL DEV, V19
+   Holling C.S., 1978, ADAPTIVE ENV ASSESSM
+   Huitema D., 2009, ECOL SOC, V14, P1
+   Jiggins J., 2000, International Journal of Agricultural Resources, Governance and Ecology, V1, P28, DOI 10.1504/IJARGE.2000.000003
+   Johnson B.L., 1999, CONSERV ECOL, V3, P10
+   Jordan A., 2010, CLIMATE CHANGE POLIC
+   Kemp R., 2007, Sustainability: Science, Practice & Policy, V3, P5
+   Label L., 2005, ECOL SOC, V10
+   Lafferty WM, 2004, GOVERNANCE FOR SUSTAINABLE DEVELOPMENT: THE CHALLENGE OF ADAPTING FORM TO FUNCTION, P1
+   Lebel L, 2006, ECOL SOC, V11
+   Lee KN, 1993, COMPASS GYROSCOPE IN
+   Lee KN, 1999, CONSERV ECOL, V3, P3, DOI DOI 10.1201/9781420042597.SEC1
+   McLain RJ, 1996, ENVIRON MANAGE, V20, P437, DOI 10.1007/BF01474647
+   Meadowcroft J., 2007, J ENVIRON POL PLAN, V9, P299, DOI DOI 10.1080/15239080701631544
+   Olsson P, 2004, ECOL SOC, V9
+   Pagiola Stefano, 2002, SELLING FOREST ENV S
+   Pahl-Wostl C, 2007, ECOL SOC, V12
+   Plummer R, 2013, ECOL SOC, V18, DOI 10.5751/ES-05383-180121
+   Press D., 1994, DEMOCRATIC DILEMMAS
+   Rotmans J., 2001, FORESIGHT, V3, P15, DOI DOI 10.1108/14636680110803003
+   Ruckelshaus M., 2013, ECOL EC IN PRESS
+   Smith A, 2010, ECOL SOC, V15
+   Stone D, 2001, POLICY PARADOX ART P
+   Van de Kerkhof M., 2005, LEARNING STAKEHOLDER
+   Voss J.P., 2007, J ENVIRON POL PLAN, V9, P193, DOI DOI 10.1080/15239080701622881
+   Walters CJ, 1986, ADAPTIVE MANAGEMENT
+   WCED (World Commission on Environment and Development), 1987, OUR COMMON FUTURE
+   Wunder S, 2005, 42 CIFOR
+NR 132
+TC 0
+Z9 0
+U1 8
+U2 14
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0301-4797
+EI 1095-8630
+J9 J ENVIRON MANAGE
+JI J. Environ. Manage.
+PD NOV 1
+PY 2015
+VL 163
+BP 186
+EP 203
+DI 10.1016/j.jenvman.2015.08.022
+PG 18
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA CS7ZX
+UT WOS:000362306600023
+PM 26320012
+ER
+
+PT J
+AU Halbe, J
+   Pahl-Wostl, C
+   Lange, MA
+   Velonis, C
+AF Halbe, Johannes
+   Pahl-Wostl, Claudia
+   Lange, Manfred A.
+   Velonis, Christina
+TI Governance of transitions towards sustainable development - the
+   water-energy-food nexus in Cyprus
+SO WATER INTERNATIONAL
+LA English
+DT Article
+DE reflexive governance; water-energy-food nexus; systems thinking;
+   viability loops; Cyprus
+ID MULTILEVEL PERSPECTIVE; INTEGRATED MANAGEMENT; RENEWABLE ENERGY; SYSTEM;
+   DESALINATION; BIODIVERSITY; RETHINKING; CHALLENGES; RESOURCES; DYNAMICS
+AB This paper presents a methodological framework to analyse sustainability innovations in the water-energy-food nexus and strategies for governing transition processes towards their widespread implementation. An application to a case study in Cyprus shows the interrelations of several sustainability innovations in the water, energy and food sectors, and specific learning requirements that need to be addressed to achieve a transition towards sustainable development. The framework helps to explore systematically responsibilities of different stakeholders for the implementation of innovations and thereby provides critical information for reflexive governance processes.
+C1 [Halbe, Johannes; Pahl-Wostl, Claudia; Velonis, Christina] Univ Osnabruck, Inst Environm Syst Res, Dept Math & Comp Sci, Osnabruck, Germany.
+   [Lange, Manfred A.] Cyprus Inst, EEWRC, Nicosia, Cyprus.
+RP Halbe, J (reprint author), Univ Osnabruck, Inst Environm Syst Res, Dept Math & Comp Sci, Osnabruck, Germany.
+EM jhalbe@uni-osnabrueck.de
+CR Dincer I, 2000, RENEW SUST ENERG REV, V4, P157, DOI 10.1016/S1364-0321(99)00011-8
+   Topping CJ, 2011, ECOL ENG, V37, P2009, DOI 10.1016/j.ecoleng.2011.08.010
+   Kemp R, 1998, TECHNOL ANAL STRATEG, V10, P175, DOI 10.1080/09537329808524310
+   Bergek A, 2008, RES POLICY, V37, P407, DOI 10.1016/j.respol.2007.12.003
+   Voss JP, 2009, POLICY SCI, V42, P275, DOI 10.1007/s11077-009-9103-5
+   Inam A, 2015, J ENVIRON MANAGE, V152, P251, DOI 10.1016/j.jenvman.2015.01.052
+   Koutsakos E, 2005, DESALINATION, V184, P157, DOI 10.1016/j.desal.2005.03.061
+   Koussis AD, 2010, HYDROLOG SCI J, V55, P1234, DOI 10.1080/02626667.2010.512469
+   Pahl-Wostl C, 2007, ENVIRON MODELL SOFTW, V22, P561, DOI 10.1016/j.envsoft.2005.12.024
+   Memon FA, 2007, ENVIRON MONIT ASSESS, V129, P27, DOI 10.1007/s10661-006-9422-3
+   Gabriel D, 2007, AGR ECOSYST ENVIRON, V118, P43, DOI 10.1016/j.agee.2006.04.005
+   Avelino F, 2009, POLICY SCI, V42, P369, DOI 10.1007/s11077-009-9102-6
+   Mader P, 2002, SCIENCE, V296, P1694, DOI 10.1126/science.1071148
+   Hjorth P, 2006, FUTURES, V38, P74, DOI 10.1016/j.futures.2005.04.005
+   Palla A, 2012, RESOUR CONSERV RECY, V62, P71, DOI 10.1016/j.resconrec.2012.02.006
+   Ness B, 2007, ECOL ECON, V60, P498, DOI 10.1016/j.ecolecon.2006.07.023
+   Genus A, 2008, RES POLICY, V37, P1436, DOI 10.1016/j.respol.2008.05.006
+   Shove E, 2007, ENVIRON PLANN A, V39, P763, DOI 10.1068/a39310
+   Geels FW, 2005, TECHNOL FORECAST SOC, V72, P681, DOI 10.1016/j.techfore.2004.08.014
+   Stanghellini PSL, 2010, WATER POLICY, V12, P675, DOI 10.2166/wp.2010.004
+   Halbe J, 2013, WATER SCI TECHNOL, V67, P2651, DOI 10.2166/wst.2013.146
+   Koroneos C, 2005, ENERGY, V30, P1889, DOI [10.1016/j.energy.2004.11.011, 10.1016/j.energy.2004.1]
+   Small E., 2008, Biodiversity (Ottawa), V9, P3
+   Dewulf A, 2005, WATER SCI TECHNOL, V52, P115
+   Voss JP, 2006, REFLEXIVE GOVERNANCE FOR SUSTAINABLE DEVELOPMENT, P3
+   [Anonymous], 2005, INT J SUSTAIN DEV, DOI 10.1504/IJSD.2005.009576
+   Sallangos OLV, 2005, DESALINATION, V173, P91, DOI 10.1016/j.desal.2004.07.045
+   Pahl-Wostl C, 2002, AQUAT SCI, V64, P394, DOI 10.1007/PL00012594
+   Bringezu S, 2004, ECOL ECON, V51, P97, DOI 10.1016/j.ecolecon.2004.04.010
+   Borg M, 2014, ACTA HORTIC, V1034, P163
+   Carr G, 2012, WATER RESOUR RES, V48, DOI 10.1029/2011WR011662
+   EUROSTAT, 2014, SHAR REN EN GROSS FI
+   EUROSTAT, 2014, FRESH WAT ABSTR SOUR
+   EUROSTAT, 2014, GROSS INL EN CONS FU
+   EUROSTAT, 2014, EN PROD
+   EUROSTAT, 2014, CERT ORG CROP AR CRO
+   Food and Agriculture Organization of the United Nations (FAO), 2013, CYPR EV TRAD VAL SEL
+   Geological Survey Department, 1998, WAT RES WAT POL
+   Katsikides S., 2005, ZUFO REPORTS, V5
+   Kemp R., 2006, REFLEXIVE GOVERNANCE, P131
+   Nasr J., 2010, SCALING URBAN AGR TO
+   Richmond AK, 2006, ECOL ECON, V56, P176, DOI 10.1016/j.ecolecon.2005.01.011
+   Rogers E.M., 2003, DIFFUSION INNOVATION
+   Savvides L., 2001, REASSESSMENT WATER R
+   Sterman J.D., 2000, BUSINESS DYNAMICS SY
+   Tsiourtis N., 2004, WATER MANAGEMENT SUS
+   United Nations Development Programme (UNDP), 2011, AW RAIS MEAS WAT SAV
+   Van den Bergh JCM, 2011, ENV INN SOC T, V1, P1, DOI DOI 10.1016/J.EIST.2011.04.010
+   Velonis C., 2015, THESIS I ENV SYSTEMS
+   Vennix JAM, 1996, GROUP MODEL BUILDING
+   Water Development Department, 2011, CYPR RIV BAS MAN PLA
+   Water Development Department, 2014, ANN REP 2014
+   Water Development Department, 2010, FIN REP WAT POL SUMM
+   Water Development Department, 2011, PROGR MEAS
+NR 54
+TC 1
+Z9 1
+U1 20
+U2 21
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0250-8060
+EI 1941-1707
+J9 WATER INT
+JI Water Int.
+PD SEP 19
+PY 2015
+VL 40
+IS 5-6
+SI SI
+BP 877
+EP 894
+DI 10.1080/02508060.2015.1070328
+PG 18
+WC Engineering, Civil; Water Resources
+SC Engineering; Water Resources
+GA CT8FF
+UT WOS:000363049700010
+ER
+
+PT J
+AU McCauley, D
+AF McCauley, Darren
+TI Sustainable Development in Energy Policy: A Governance Assessment of
+   Environmental Stakeholder Inclusion in Waste-to-Energy
+SO SUSTAINABLE DEVELOPMENT
+LA English
+DT Article
+DE environmental policy integration; interest groups; governance; energy
+   policy; stakeholder; sustainable development
+ID CLIMATE-CHANGE; PUBLIC PERCEPTIONS; INTEGRATION; KNOWLEDGE; TRANSITION;
+   ENGAGEMENT; MANAGEMENT; DEMOCRACY; PATHWAYS; JUSTICE
+AB The inclusion of environmental interest groups in policy-making is said to provide greater legitimacy (Bernauer and Gampfer, 2013), accountability (Feldman and Blokov, 2009), new policy preferences (Bunea, 2013) and, ultimately, pro-environmental outcomes (Bohmelt and Betzold, 2013). This paper focuses on the development of inclusive governance structures and processes (with regard to environmental interests) in waste-to-energy policy designed to facilitate pro-environmental outcomes in the generation of 'clean' renewable energy within the national context of France. Empirically, the paper argues that change in long-term exclusionary patterns in energy policy remains enduringly weak. Normatively, environmental 'inclusivity' (i.e. the construction of meaningful pluralistic structures and processes) as a mechanism for achieving the prioritization of environmental concerns should become a central objective for energy policy, and more generally in the environmental policy integration literature. Copyright (c) 2015 John Wiley & Sons, Ltd and ERP Environment
+C1 Univ St Andrews, St Andrews KY16 9AJ, Fife, Scotland.
+RP McCauley, D (reprint author), Univ St Andrews, St Andrews KY16 9AJ, Fife, Scotland.
+EM dam7@st-andrews.ac.uk
+FU British Academy
+FX I would like to think the British Academy for a generous grant on WtE in
+   France.
+CR Saikku L, 2008, ENERG POLICY, V36, P730, DOI 10.1016/j.enpol.2007.10.007
+   Johnson TL, 2013, ENVIRON MANAGE, V51, P339, DOI 10.1007/s00267-012-9884-8
+   Dreiling M, 2001, ORGAN ENVIRON, V14, P34, DOI 10.1177/1086026601141002
+   Eltham DC, 2008, ENERG POLICY, V36, P23, DOI 10.1016/j.enpol.2007.09.010
+   Barzelay M, 2006, GOVERNANCE, V19, P531, DOI 10.1111/j.1468-0491.2006.00339.x
+   Gullberg AT, 2008, ENERG POLICY, V36, P2964, DOI 10.1016/j.enpol.2008.04.016
+   Watson M, 2008, ENVIRON PLANN C, V26, P481, DOI 10.1068/c0510j
+   Gunningham N, 2013, ENERG POLICY, V54, P184, DOI 10.1016/j.enpol.2012.11.018
+   Storbjork S, 2014, J ENVIRON PLANN MAN, V57, P1023, DOI 10.1080/09640568.2013.779232
+   Bulkeley H, 2012, ENVIRON PLANN A, V44, P2428, DOI 10.1068/a44678
+   Graham JB, 2009, ENERG POLICY, V37, P3348, DOI 10.1016/j.enpol.2008.12.035
+   Beland D, 2009, J EUR PUBLIC POLICY, V16, P701, DOI 10.1080/13501760902983382
+   Vieira J, 2007, TRANSPORT POLICY, V14, P421, DOI 10.1016/j.tranpol.2007.04.007
+   Liberatore A, 1997, GL ENVIR CH, P107
+   Pidgeon NF, 2008, GLOBAL ENVIRON CHANG, V18, P69, DOI 10.1016/j.gloenvcha.2007.09.005
+   Loring JM, 2007, ENERG POLICY, V35, P2648, DOI 10.1016/j.enpol.2006.10.008
+   Lafferty WM, 2003, ENVIRON POLIT, V12, P1, DOI 10.1080/09644010412331308254
+   Pointvogl A, 2009, ENERG POLICY, V37, P5704, DOI 10.1016/j.enpol.2009.08.035
+   Bull R, 2010, J ENVIRON PLANN MAN, V53, P991, DOI 10.1080/09640568.2010.495503
+   Feindt PH, 2010, PUBLIC ADMIN, V88, P296, DOI 10.1111/j.1467-9299.2010.01833.x
+   Bohmelt T, 2013, INT ENVIRON AGREEM-P, V13, P127, DOI 10.1007/s10784-012-9180-3
+   Petts J, 2006, ENVIRON PLANN A, V38, P1045, DOI 10.1068/a37373
+   Feldman DL, 2009, REV POLICY RES, V26, P729, DOI 10.1111/j.1541-1338.2009.00414.x
+   Soderbaum P, 2009, SUSTAIN DEV, V17, P70, DOI 10.1002/sd.404
+   Tsang S, 2010, ENVIRON POLICY GOV, V20, P180, DOI 10.1002/eet.540
+   Jordan A, 2010, ENVIRON POLICY GOV, V20, P147, DOI 10.1002/eet.539
+   Shukla PR, 2013, SUSTAIN DEV, V21, P48, DOI 10.1002/sd.516
+   Bernauer T, 2013, GLOBAL ENVIRON POLIT, V13, P88
+   Cowell R, 2011, J ENVIRON PLANN MAN, V54, P539, DOI 10.1080/09640568.2010.521047
+   Simpson A, 2013, PAC REV, V26, P129, DOI 10.1080/09512748.2012.759264
+   Liao SY, 2010, ENERG POLICY, V38, P7054, DOI 10.1016/j.enpol.2010.07.025
+   Aylett A, 2010, ENVIRON PLANN A, V42, P99, DOI 10.1068/a4274
+   Foxon TJ, 2013, ENERG POLICY, V52, P10, DOI 10.1016/j.enpol.2012.04.001
+   Bunea A, 2013, J EUR PUBLIC POLICY, V20, P552, DOI 10.1080/13501763.2012.726467
+   Bernauer T, 2013, GLOBAL ENVIRON CHANG, V23, P439, DOI 10.1016/j.gloenvcha.2013.01.001
+   Bertolini G, 1998, POLITIQUES ENV EVALU, P171
+   Briassoulis H, 2010, LAND DEGRAD DEV, V22, P313
+   Brousse J, 2005, INCINERATION DECHETS
+   Busch P.-O., 2005, European Environment, V15, DOI 10.1002/eet.374
+   Collier R. B., 1991, SHAPING POLITICAL AR
+   Collier U, 1997, ENERGY ENV EUROPEAN
+   Carpini MXD, 2004, ANNU REV POLIT SCI, V7, P315, DOI 10.1146/annurev.polisci.7.121003.091630
+   Dryzek J., 2002, DELIBERATIVE DEMOCRA
+   EEA, 2008, CONTR TERR DECH SYND
+   Fischer Frank, 2003, REFRAMING PUBLIC POL
+   Hazareesingh S, 2002, JACOBIN LEGACY MODER
+   Hunter S, 1995, POLICY STUD J, V23, P601, DOI 10.1111/j.1541-0072.1995.tb00537.x
+   International Solid Waste Association (ISWA), 2012, EN WAST STAT STAT AR
+   Jouzel J, 2008, SYNTHESE RAPPORT LUT
+   Keysar E, 2005, J ENVIRON PLANN MAN, V48, P549, DOI 10.1080/09640560500128475
+   Lafferty WM, 2004, GOVERNANCE FOR SUSTAINABLE DEVELOPMENT: THE CHALLENGE OF ADAPTING FORM TO FUNCTION, P1
+   Leach M, 2008, ENVIRON PLANN A, V40, P1783, DOI 10.1068/a40215
+   Lenschow A, 1997, J EUR PUBLIC POLICY, V4, P109, DOI 10.1080/135017697344262
+   Lepellier L, 2008, DEMARCHE TERRITORIAL
+   Lima MGB, 2013, GLOBAL ENVIRON POLIT, V13, P46, DOI 10.1162/GLEP_a_00166
+   Maraninchi D, 2008, SYNTHESE RAPPORT INS
+   Ministere de l'Environnement et de Developpement Durable (MEDD), 1998, GEST DECH FRANC PLAN
+   Notat N, 2008, SYNTHESE RAPPORT CON
+   Peters BG, 2005, J POLIT, V67, P1275
+   Petts J., 1995, J ENVIRON PLANN MAN, V38, P519, DOI 10.1080/09640569512797
+   Petts J, 2005, LOCAL ENV, V10, P397, DOI 10.1080/13549830500160933
+   Pollitt Christopher, 2008, TIME POLICY MANAGEME
+   Sanders E, 2008, OXFORD HDB POLITICAL, P456
+   Schmidt V, 2010, IDEAS POLITICS SOCIA, P145
+   Steurer R, 2010, SUSTAIN DEV, V21, P224
+   Thelen K. A., 2004, I EVOLVE POLITICAL E
+NR 66
+TC 0
+Z9 0
+U1 8
+U2 8
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0968-0802
+EI 1099-1719
+J9 SUSTAIN DEV
+JI Sustain. Dev.
+PD SEP-OCT
+PY 2015
+VL 23
+IS 5
+BP 273
+EP 284
+DI 10.1002/sd.1584
+PG 12
+WC GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY; Planning & Development
+SC Science & Technology - Other Topics; Public Administration
+GA CU3EE
+UT WOS:000363406100002
+ER
+
+EF

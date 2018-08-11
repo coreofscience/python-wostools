@@ -1,0 +1,238 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Lee, Hye-Ju
+   Han, Dong-Hun
+TI Early-life socioeconomic position and periodontal status in Korean
+   adults
+SO COMMUNITY DENTISTRY AND ORAL EPIDEMIOLOGY
+VL 44
+IS 1
+BP 11
+EP 23
+DI 10.1111/cdoe.12184
+PD FEB 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0301-5661
+EI 1600-0528
+UT WOS:000368346900002
+PM 26179795
+ER
+
+PT J
+AU Caparros Ruiz, Antonio
+TI The impact of education on intergenerational occupational mobility in
+   Spain
+SO JOURNAL OF VOCATIONAL BEHAVIOR
+VL 92
+BP 94
+EP 104
+DI 10.1016/j.jvb.2015.11.010
+PD FEB 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0001-8791
+EI 1095-9084
+UT WOS:000368315600009
+ER
+
+PT J
+AU Mare, Robert D.
+TI Educational Homogamy in Two Gilded Ages: Evidence from
+   Inter-generational Social Mobility Data
+SO ANNALS OF THE AMERICAN ACADEMY OF POLITICAL AND SOCIAL SCIENCE
+VL 663
+IS 1
+BP 117
+EP 139
+DI 10.1177/0002716215596967
+PD JAN 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0002-7162
+EI 1552-3349
+UT WOS:000366602500007
+ER
+
+PT J
+AU Mitnik, Pablo A.
+   Cumberworth, Erin
+   Grusky, David B.
+TI Social Mobility in a High-Inequality Regime
+SO ANNALS OF THE AMERICAN ACADEMY OF POLITICAL AND SOCIAL SCIENCE
+VL 663
+IS 1
+BP 140
+EP 184
+DI 10.1177/0002716215596971
+PD JAN 2016
+PY 2016
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0002-7162
+EI 1552-3349
+UT WOS:000366602500008
+ER
+
+PT J
+AU De Grande, Hannelore
+   Vandenheede, Hadewijch
+   Deboosere, Patrick
+TI Educational Inequalities in the Transition to Adulthood in Belgium: The
+   Impact of Intergenerational Mobility on Young-Adult Mortality in
+   2001-2009
+SO PLOS ONE
+VL 10
+IS 12
+AR e0142104
+DI 10.1371/journal.pone.0142104
+PD DEC 14 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1932-6203
+UT WOS:000366715900005
+PM 26657691
+ER
+
+PT J
+AU Miallegaard, Stine
+   Jaeger, Mads Meier
+TI The effect of grandparents' economic, cultural, and social capital on
+   grandchildren's educational success
+SO RESEARCH IN SOCIAL STRATIFICATION AND MOBILITY
+VL 42
+BP 11
+EP 19
+DI 10.1016/j.rssm.2015.06.004
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0276-5624
+EI 1878-5654
+UT WOS:000369179900002
+ER
+
+PT J
+AU Kwenda, Prudence
+   Ntuli, Miracle
+   Gwatidzo, Tendai
+TI Temporal developments in intergenerational transmission of education:
+   Case for black South Africans
+SO RESEARCH IN SOCIAL STRATIFICATION AND MOBILITY
+VL 42
+BP 96
+EP 113
+DI 10.1016/j.rssm.2015.09.002
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0276-5624
+EI 1878-5654
+UT WOS:000369179900009
+ER
+
+PT J
+AU Azam, Mehtabul
+   Bhatt, Vipul
+TI Like Father, Like Son? Intergenerational Educational Mobility in India
+SO DEMOGRAPHY
+VL 52
+IS 6
+BP 1929
+EP 1959
+DI 10.1007/s13524-015-0428-8
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0070-3370
+EI 1533-7790
+UT WOS:000368889600007
+ER
+
+PT J
+AU Jerrim, John
+   Macmillan, Lindsey
+TI Income Inequality, Intergenerational Mobility, and the Great Gatsby
+   Curve: Is Education the Key?
+SO SOCIAL FORCES
+VL 94
+IS 2
+BP 505
+EP 533
+DI 10.1093/sf/sov075
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0037-7732
+EI 1534-7605
+UT WOS:000368441300032
+ER
+
+PT J
+AU Torche, Florencia
+TI Intergenerational Mobility and Gender in Mexico
+SO SOCIAL FORCES
+VL 94
+IS 2
+BP 563
+EP 587
+DI 10.1093/sf/sov082
+PD DEC 2015
+PY 2015
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 0037-7732
+EI 1534-7605
+UT WOS:000368441300034
+ER
+
+EF

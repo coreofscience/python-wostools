@@ -1,0 +1,814 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Crespo, NF
+   Crespo, CF
+AF Crespo, Nuno Fernandes
+   Crespo, Catia Fernandes
+TI Global innovation index: Moving beyond the absolute value of ranking
+   with a fuzzy-set analysis
+SO JOURNAL OF BUSINESS RESEARCH
+LA English
+DT Article
+DE National Innovation Systems; GII data; fsQCA; Country level of economic
+   development; Country innovation outcomes; Country input innovation
+   enablers
+ID SYSTEMS
+AB This study applies a fuzzy-set qualitative comparative analysis to data from the Global Innovation Index (GII). Building on the National Innovation System's approach, this study posits that a country can achieve high innovation performance via several combinations of causal conditions. These conditions are the five input enablers of GII: institutions, human capital and research, infrastructure, market sophistication, and business sophistication. By defining two subsamples of countries (high-income and low-income), this study finds that several causal combinations of conditions lead to high innovation performance in both groups. In order to obtain better innovation performance, the low-income countries show more multifaceted solutions. These results indicate that none of the conditions is necessary for predicting high innovation performance in both samples. Additionally, in the low-income group, none of the conditions, individually, is sufficient to predict higher innovation performance, while in the high-income group the infrastructure and human capital and research conditions, on their own, are sufficient to obtain better innovation performance. These results indicate that the political decision making processes required for improving the level of innovation need to be different for each group of countries. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Crespo, Nuno Fernandes] Univ Lisbon, ISEG, ADVANCE, Rua Miguel Lupi 20,Off 314, P-1249078 Lisbon, Portugal.
+   [Crespo, Catia Fernandes] ESTG, Polytech Inst Leiria, ADVANCE, CIGS, Campus 2, P-2411901 Leiria, Portugal.
+RP Crespo, NF (reprint author), Univ Lisbon, ISEG, ADVANCE, Rua Miguel Lupi 20,Off 314, P-1249078 Lisbon, Portugal.
+EM ncrespo@iseg.ulisboa.pt; catia.crespo@ipleiria.pt
+FU FCT (Fundacao para a Ciencia e Tecnologia, Portugal) [UID/SOC/
+   04521/2013]
+FX The authors gratefully acknowledge financial support from FCT (Fundacao
+   para a Ciencia e Tecnologia, Portugal), national funding through
+   research grant (UID/SOC/ 04521/2013).
+CR Alcorta L, 1998, RES POLICY, V26, P857, DOI 10.1016/S0048-7333(97)00067-X
+   Arocena R., 2000, IND INNOV, V7, P55, DOI 10.1080/713670247
+   Balzat M, 2004, J EVOL ECON, V14, P197, DOI 10.1007/s00191-004-0187-y
+   Cornell U., 2015, GLOBAL INNOVATION IN
+   Dosi G., 1988, TECHNICAL CHANGE EC
+   Edquist C., 1997, SYSTEMS INNOVATION T, P1
+   Fiss PC, 2007, ACAD MANAGE REV, V32, P1180
+   Fiss PC, 2011, ACAD MANAGE J, V54, P393
+   Freeman Christopher, 1997, EC IND INNOVATION
+   Freeman C, 1987, TECHNOLOGY POLICY EC
+   Gu S., 1999, IMPLICATIONS NATL IN
+   Kan AKS, 2016, J BUS RES, V69, P1458, DOI 10.1016/j.jbusres.2015.10.125
+   Lundvall B. -A., 1992, NATL SYSTEMS INNOVAT
+   Lundvall B.-A., 2007, IND INNOV, V14, P95, DOI DOI 10.1080/13662710601130863
+   Mahroum S, 2013, TECHNOVATION, V33, P320, DOI 10.1016/j.technovation.2013.03.013
+   Metcalfe S., 1995, HDB EC INNOVATION TE, P409
+   Metcalfe S., 2008, Q REV EC FINANCE, V48, P433, DOI DOI 10.1016/J.QREF.2006.12.021
+   Nelson R.R., 1993, NATL INNOVATION SYST
+   Nelson R.R., 1982, EVOLUTIONARY THEORY
+   OECD, 1992, TECHN EC KEY REL
+   OECD/Eurostat, 2005, GUID COLL INT INN DA
+   Ragin C. C., 2000, FUZZY SET SOCIAL SCI
+   Ragin C. C., 2008, REDESIGNING SOCIAL I
+   Ragin CC, 2006, POLIT ANAL, V14, P291, DOI 10.1093/pan/mpg019
+   Rihoux B., 2009, CONFIGURATIONAL COMP
+   Schneider MR, 2010, J INT BUS STUD, V41, P246, DOI 10.1057/jibs.2009.36
+   Sharif N, 2006, RES POLICY, V35, P745, DOI 10.1016/j.respol.2006.04.001
+   Sonrexa J, 2013, AUST ECON REV, V46, P70, DOI 10.1111/j.1467-8462.2013.12006.x
+   Watkins A, 2015, RES POLICY, V44, P1407, DOI 10.1016/j.respol.2015.05.004
+   Woodside AG, 2013, J BUS RES, V66, P463, DOI 10.1016/j.jbusres.2012.12.021
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0148-2963
+EI 1873-7978
+J9 J BUS RES
+JI J. Bus. Res.
+PD NOV
+PY 2016
+VL 69
+IS 11
+SI SI
+BP 5265
+EP 5271
+DI 10.1016/j.jbusres.2016.04.123
+PG 7
+WC Business
+SC Business & Economics
+GA DW8WS
+UT WOS:000383936800091
+ER
+
+PT J
+AU Choi, H
+AF Choi, Hyundo
+TI A typology of agro-innovation adoptions: the case of organic farming in
+   Korea
+SO REGIONAL ENVIRONMENTAL CHANGE
+LA English
+DT Article
+DE Adoption; Agro-innovations; Organic farming; Governance; Spatial
+   location
+ID URBAN FRINGE; EAST ENGLAND; GOVERNANCE; AGRICULTURE; SUSTAINABILITY;
+   FARMERS; TRANSFORMATION; TRANSITIONS; PERSPECTIVE; FRAMEWORK
+AB A shift to organic farming in the agricultural sector is a process of building a new system where on the one hand, agro-innovations are generated and on the other, farmers adopt and use them instead of agrochemical materials for sustainability. This study examines local governance (state-led versus community-led modes) and spatial conditions (urban fringe versus rural areas) of four adoption modes of organic farming in the agricultural sector. Local governance affects the ways of mobilizing resources for the diffusion of innovation, while spatial location represents available regional resources. A comparative case study using qualitative semi-structured interviews and national statistics in four Korean agricultural regions was conducted to understand the four adoption modes along two dimensions. The results confirm the usefulness of the typology in describing heterogeneous adoption modes and the complementary effect between governance and spatial location.
+C1 [Choi, Hyundo] Chosun Univ, Coll Business, 309 Pilmun Daero, Gwangju 501759, South Korea.
+RP Choi, H (reprint author), Chosun Univ, Coll Business, 309 Pilmun Daero, Gwangju 501759, South Korea.
+EM hyundo_choi@chosun.ac.kr
+FU Chosun University
+FX This study was supported by research fund from Chosun University, 2014.
+CR Anadon LD, 2014, 201401 HARV KENN SCH
+   Ansell C, 2008, J PUBL ADM RES THEOR, V18, P543, DOI 10.1093/jopart/mum032
+   Beauchesne A, 1999, TIJDSCHR ECON SOC GE, V90, P320, DOI 10.1111/1467-9663.00073
+   Bogason P, 2006, AM REV PUBLIC ADM, V36, P3, DOI 10.1177/0275074005282581
+   Bostrom M, 2006, AGR HUM VALUES, V23, P163, DOI 10.1007/s10460-005-6099-0
+   Choo H, 2009, J SUSTAIN TOUR, V17, P431, DOI 10.1080/09669580802713440
+   Coenen L, 2012, RES POLICY, V41, P968, DOI 10.1016/j.respol.2012.02.014
+   Darnhofer I, 2005, AGR HUM VALUES, V22, P39, DOI 10.1004/s10460-004-7229-9
+   Denhardt RB, 2000, PUBLIC ADMIN REV, V60, P549, DOI 10.1111/0033-3352.00117
+   Fairweather J. R., 1999, Agriculture and Human Values, V16, P51, DOI 10.1023/A:1007522819471
+   Garb Y, 2014, AGR SYST, V128, P13, DOI 10.1016/j.agsy.2014.04.003
+   Goldberger JR, 2011, J RURAL STUD, V27, P288, DOI 10.1016/j.jrurstud.2011.03.002
+   Hekkert MP, 2009, TECHNOL FORECAST SOC, V76, P584, DOI 10.1016/j.techfore.2008.04.013
+   Hendriks CM, 2009, GOVERNANCE, V22, P689
+   Hill CJ, 2005, J PUBL ADM RES THEOR, V15, P173, DOI 10.1093/jopart/mui011
+   Hillman K, 2011, SCI PUBL POLICY, V38, P403, DOI 10.3152/030234211X12960315267499
+   Holloway L, 2002, ENVIRON PLANN A, V34, P2055, DOI 10.1068/a34261
+   Ilbery B, 2016, REG STUD, V50, P110, DOI 10.1080/00343404.2014.895805
+   JESSOP B, 1995, ECON SOC, V24, P307, DOI 10.1080/03085149500000013
+   Kalantaridis C, 2010, J RURAL STUD, V26, P418, DOI 10.1016/j.jrurstud.2010.03.001
+   Kim L, 1997, IMITATION INNOVATION
+   Lapple D, 2011, ECOL ECON, V70, P1406, DOI 10.1016/j.ecolecon.2011.03.002
+   Lapple D, 2013, ECOL ECON, V88, P11, DOI 10.1016/j.ecolecon.2012.12.025
+   Little R, 2010, ENVIRON PLANN A, V42, P1797, DOI 10.1068/a4262
+   Lowitt K, 2015, REG ENVIRON CHANGE, V15, P1367, DOI 10.1007/s10113-015-0805-2
+   Martellozzo F, 2015, REG ENVIRON CHANGE, V15, P881, DOI 10.1007/s10113-014-0658-0
+   Mihm J, 2010, MANAGE SCI, V56, P831, DOI 10.1287/mnsc.1100.1148
+   Morgan SL, 2010, J RURAL STUD, V26, P116, DOI 10.1016/j.jrurstud.2009.09.002
+   Musshoff O, 2008, AGR ECON-BLACKWELL, V39, P135, DOI 10.1111/j.1574-0862.2008.00321.x
+   Mzoughi N, 2011, ECOL ECON, V70, P1536, DOI 10.1016/j.ecolecon.2011.03.016
+   Noppers EH, 2014, GLOBAL ENVIRON CHANG, V25, P52, DOI 10.1016/j.gloenvcha.2014.01.012
+   Padel S, 2001, SOCIOL RURALIS, V41, P40, DOI 10.1111/1467-9523.00169
+   Patel R, 2013, J PEASANT STUD, V40, P1, DOI 10.1080/03066150.2012.719224
+   Rennings K, 2000, ECOL ECON, V32, P319, DOI 10.1016/S0921-8009(99)00112-3
+   Risgaard ML, 2007, AGR HUM VALUES, V24, P445, DOI 10.1007/s10460-007-9092-y
+   Robichau RW, 2011, POLICY STUD J, V39, P113, DOI 10.1111/j.1541-0072.2010.00389_8.x
+   Roco L, 2015, REG ENVIRON CHANGE, V15, P867, DOI 10.1007/s10113-014-0669-x
+   Schmidtner E, 2012, EUR REV AGRIC ECON, V39, P661, DOI 10.1093/erae/jbr047
+   Seufert V, 2012, NATURE, V485, P229, DOI 10.1038/nature11069
+   Seuneke P, 2013, J RURAL STUD, V32, P208, DOI 10.1016/j.jrurstud.2013.06.001
+   Sharp JS, 2008, CITY COMMUNITY, V7, P61, DOI 10.1111/j.1540-6040.2007.00241.x
+   Smith A, 2005, RES POLICY, V34, P1491, DOI 10.1016/j.respol.2005.07.005
+   Stivers C., 2008, GOVERNANCE DARK TIME
+   Tabara JD, 2008, REG ENVIRON CHANGE, V8, P59, DOI 10.1007/s10113-007-0043-3
+   Thiel A, 2014, ENVIRON POLICY GOV, V24, P289, DOI 10.1002/eet.1644
+   Thiers P, 2002, ENVIRON PLANN C, V20, P357, DOI 10.1068/c2v
+   Truffer B, 2012, REG STUD, V46, P1, DOI 10.1080/00343404.2012.646164
+   Tuomisto HL, 2012, J ENVIRON MANAGE, V112, P309, DOI 10.1016/j.jenvman.2012.08.018
+   Vesala HT, 2010, J RURAL STUD, V26, P21, DOI 10.1016/j.jrurstud.2009.06.001
+   von Tunzelmann N., 2005, OXFORD HDB INNOVATIO
+   White R, 2013, GLOBAL ENVIRON CHANG, V23, P838, DOI 10.1016/j.gloenvcha.2013.06.004
+   Wollni M, 2014, ECOL ECON, V97, P120, DOI 10.1016/j.ecolecon.2013.11.010
+   WorldBank, 1993, E ASIAN MIRACLE EC G
+   Yin R.K., 2009, CASE STUDY RES DESIG
+   Zasada I, 2011, GEOGR TIDSSKR-DEN, V111, P59
+NR 55
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1436-3798
+EI 1436-378X
+J9 REG ENVIRON CHANGE
+JI Reg. Envir. Chang.
+PD AUG
+PY 2016
+VL 16
+IS 6
+BP 1847
+EP 1857
+DI 10.1007/s10113-016-0932-4
+PG 11
+WC Environmental Sciences; Environmental Studies
+SC Environmental Sciences & Ecology
+GA DT0ZW
+UT WOS:000381212500024
+ER
+
+PT J
+AU Redwood, S
+   Brangan, E
+   Leach, V
+   Horwood, J
+   Donovan, JL
+AF Redwood, Sabi
+   Brangan, Emer
+   Leach, Verity
+   Horwood, Jeremy
+   Donovan, Jenny L.
+TI Integration of research and practice to improve public health and
+   healthcare delivery through a collaborative 'Health Integration Team'
+   model - a qualitative investigation
+SO BMC HEALTH SERVICES RESEARCH
+LA English
+DT Article
+DE Research and healthcare collaborations; Coproduction of healthcare
+   knowledge and practice; Integrated knowledge translation
+ID BOUNDARY ORGANIZATIONS; ENGLAND; CENTERS; SCIENCE; POLICY
+AB Background: Economic considerations and the requirement to ensure the quality, safety and integration of research with health and social care provision have given rise to local developments of collaborative organisational forms and strategies to span the translational gaps. One such model - the Health Integration Team (HIT) model in Bristol in the United Kingdom (UK) - brings together National Health Service (NHS) organisations, universities, local authorities, patients and the public to facilitate the systematic application of evidence to promote integration across healthcare pathways. This study aimed to (1) provide empirical evidence documenting the evolution of the model; (2) to identify the social and organisational processes and theory of change underlying healthcare knowledge and practice; and (3) elucidate the key aspects of the HIT model for future development and translation to other localities.
+   Methods: Contemporaneous documents were analysed, using procedures associated with Framework Analysis to produce summarised data for descriptive accounts. In-depth interviews were undertaken with key informants and analysed thematically. Comparative methods were applied to further analyse the two data sets.
+   Results: One hundred forty documents were analysed and 10 interviews conducted with individuals in leadership positions in the universities, NHS commissioning and provider organisations involved in the design and implementation of the HIT model. Data coalesced around four overarching themes: 'Whole system' engagement, requiring the active recruitment of all those who have a stake in the area of practice being considered, and 'collaboration' to enable coproduction were identified as 'process' themes. System-level integration and innovation were identified as potential 'outcomes' with far-reaching impacts on population health and service delivery.
+   Conclusion: The HIT model emerged as a particular response to the perceived need for integration of research and practice to improve public health and healthcare delivery at a time of considerable organisational turmoil and financial constraints. The concept gained momentum and will likely be of interest to those involved in setting up similar arrangements, and researchers in the social and implementation sciences with an interest in their evaluation.
+C1 [Redwood, Sabi; Brangan, Emer; Leach, Verity; Horwood, Jeremy; Donovan, Jenny L.] Univ Bristol, Sch Social & Community Med, Canynge Hall Bristol39,Whatley Rd, Bristol BS8 2PS, Avon, England.
+   [Redwood, Sabi; Brangan, Emer; Leach, Verity; Horwood, Jeremy; Donovan, Jenny L.] Natl Inst Hlth Res Collaborat Leadership Appl Hlt, 9th Floor Whitefriars, Bristol BS1 2NT, Avon, England.
+RP Redwood, S (reprint author), Univ Bristol, Sch Social & Community Med, Canynge Hall Bristol39,Whatley Rd, Bristol BS8 2PS, Avon, England.; Redwood, S (reprint author), Natl Inst Hlth Res Collaborat Leadership Appl Hlt, 9th Floor Whitefriars, Bristol BS1 2NT, Avon, England.
+EM sabi.redwood@bristol.ac.uk
+FU National Institute for Health Research (NIHR) Collaboration for
+   Leadership in Applied Health Research and Care West at the University of
+   Bristol NHS Foundation Trust
+FX We would like to give our thanks to the individuals who gave their time
+   to be interviewed. This research was funded by the National Institute
+   for Health Research (NIHR) Collaboration for Leadership in Applied
+   Health Research and Care West at the University of Bristol NHS
+   Foundation Trust. The views expressed are those of the authors and not
+   necessarily those of the NHS, the NIHR or the Department of Health. The
+   funding body had no role in the design, collection, analysis, or
+   interpretation of data in the writing of the manuscript, or in the
+   decision to submit the manuscript for publication. Documentary data were
+   provided by Bristol Health Partners, but the organisation had no role in
+   the design of the research, and the views expressed here are not
+   necessarily those of Bristol Health Partners. We thank Dr Lesley Wye for
+   her thoughtful comments on earlier versions of this article.
+CR Davidoff F, 2015, BMJ QUAL SAF, V24, P228, DOI 10.1136/bmjqs-2014-003627
+   Dzau VJ, 2010, LANCET, V375, P949, DOI 10.1016/S0140-6736(09)61082-5
+   Fischer MD, 2013, CREATION SURVIVAL AC
+   French CE, 2014, HEALTH POLICY, V117, P382, DOI 10.1016/j.healthpol.2014.07.005
+   Gagliardi AR, 2016, IMPL SCI, V11, P1
+   Gale NK, 2013, BMC MED RES METHODOL, V13, DOI 10.1186/1471-2288-13-117
+   Glaser BG, 1967, DISCOVERY GROUNDED T
+   Graham ID, 2009, IMPLEMENT SCI, V4, DOI 10.1186/1748-5908-4-13
+   Greenhalgh T, 2004, MILBANK Q, V82, P581, DOI 10.1111/j.0887-378X.2004.00325.x
+   Gridley K, 2012, J HEALTH SERV RES PO, V17, P87, DOI 10.1258/jhsrp.2011.010176
+   Guston DH, 2001, SCI TECHNOL HUM VAL, V26, P399
+   Ham C, 2015, NHS COALITION GOVT 1
+   Khunti K, 2010, BRIT J GEN PRACT, V60, P157, DOI 10.3399/bjgp10X483454
+   Kothari A, 2013, HEALTH POLICY, V109, P187, DOI 10.1016/j.healthpol.2012.11.004
+   Lockett A, 2014, HLTH SERV DELIV RES, V2, DOI 10.3310/hsdr02310
+   Lomas J, 2007, BRIT MED J, V334, P129, DOI 10.1136/bmj.39038.593380.AE
+   Parker J, 2012, SOC STUD SCI, V42, P262, DOI 10.1177/0306312711435833
+   Ritchie J., 1993, ANAL QUALITATIVE DAT, P173
+   Rycroft-Malone J, 2013, J HEALTH SERV RES PO, V18, P13, DOI 10.1177/1355819613498859
+   Tong A, 2007, INT J QUAL HEALTH C, V19, P349, DOI 10.1093/intqhc/mzm042
+   Walshe K, 2013, J HEALTH SERV RES PO, V18, P1, DOI 10.1177/1355819613502011
+   Wehrens R, 2012, EVID POLICY, V8, P149, DOI 10.1332/174426412X640063
+   Weiss C, 1995, NEW APPROACHES EVALU, P65
+   Weiss CH, 1972, EVALUATION RES METHO
+   Wenger E., 2002, CULTIVATING COMMUNIT
+   Lave J., 1991, SITUATED LEARNING LE
+NR 26
+TC 0
+Z9 0
+U1 8
+U2 8
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1472-6963
+J9 BMC HEALTH SERV RES
+JI BMC Health Serv. Res.
+PD JUN 22
+PY 2016
+VL 16
+AR 201
+DI 10.1186/s12913-016-1445-z
+PG 13
+WC Health Care Sciences & Services
+SC Health Care Sciences & Services
+GA DP9QL
+UT WOS:000378831500001
+PM 27334144
+ER
+
+PT J
+AU Birzu, B
+AF Birzu, Bogdan
+TI The right to interpretation and translation within criminal proceedings
+   in the European Union. Comparative examination. Critical opinions
+SO JURIDICAL TRIBUNE-TRIBUNA JURIDICA
+LA English
+DT Article
+DE suspect; accused; offense; criminal proceedings; the right to a fair
+   trial
+AB In the present study we have examined the Directive 2010/64/EU of the European Parliament and the Council, the European legal instrument governing the right to interpretation and translation within criminal proceedings in the European Union. The innovations in this paper concern the examination of the regulatory way of the mentioned two rights, the formulated critical opinions and the proposals of de lege ferenda. The value of the paper lies in the de lege ferenda proposals, which that can contribute to improving the system of European legislation in the field, which in the constant interpretation of the ECHR it also requires respecting the right to interpretation and translation in ongoing criminal proceedings. Also, the examination highlights the importance and necessity of adopting this European legal instrument regarding the harmonization of the national laws in terms of compulsoriness and the procedure for complying with the two rights to which we referred, in case where the suspect or the accused is to be judged of the territory of a Member State other than his State of origin. The work can be useful to theorists, practitioners and to the European legislator from the perspective of operating the suggested changes.
+C1 [Birzu, Bogdan] Titu Maiorescu Univ Bucharest, Bucharest, Romania.
+RP Birzu, B (reprint author), Titu Maiorescu Univ Bucharest, Bucharest, Romania.
+EM birzu_bogdan@yahoo.com
+CR Boroi Al., 2012, JUDICIAL COOPERATION
+   Boroi Al., 2016, COOPERAREA JUDICIARA
+   Boroi Al., 2008, COOPERAREA JUDICIARA
+   Rusu I., 2013, EUROPEAN ARREST WARR
+   Rusu Minodora-Ioana, 2015, ASISTENTA JUDICIARA
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BUCHAREST ACAD ECONOMIC STUDIES, LAW DEPT
+PI BUCURESTI
+PA CALEA DOROBANTILOR NR 15-17, SECTOR 1, BUCURESTI, 010552, ROMANIA
+SN 2247-7195
+EI 2248-0382
+J9 JURID TRIB
+JI Jurid. Trib.
+PD JUN
+PY 2016
+VL 6
+IS 1
+BP 137
+EP 147
+PG 11
+WC Law
+SC Government & Law
+GA DR2NT
+UT WOS:000379741900010
+ER
+
+PT J
+AU Fedulova, L
+AF Fedulova, Liubov
+TI Innovativeness of the economies of the EU and Ukraine: undertakings to
+   narrow the gap
+SO ECONOMIC ANNALS-XXI
+LA English
+DT Article
+DE Innovative Factor; Human Potential; Intellectual Resource; Ratings
+AB The article provides comparative characteristics of the level of innovation development in the EU member countries and Ukraine based on official statistics and international rankings. The authors have identified the factors which constrain the implementation of innovations and impede competitiveness in Ukraine. They are insufficient demand for innovation; lack of development institutions; a small number of highly qualified innovation managers capable of working in the innovation sector; lack of consistency of state educational, scientific, technological, industrial and innovation policies. The present work covers the best policies of the European Union related to the formation of innovative space in the EU, as well as mechanisms for the regions' "smart policies" implementation to ensure the realisation of their potential.
+   The author has made the proposals related to the ways of narrowing the gap in innovation development between the EU and Ukraine, including the formation of an institutional framework for interaction between the state and private companies in order to provide the implementation of innovative development programmes, regional programmes of assistance to small businesses and specific projects within the relevant state programmes developed for high-tech sectors. It is proved that borrowing the best practices of the EU member countries in addressing strategic and tactical problems on the formation of the national innovation system will be a catalyst of innovation development of Ukraine narrowing the gap at the stage of formation of knowledge economy.
+C1 [Fedulova, Liubov] Kyiv Natl Trade & Econ Univ, 19 Kyoto Str, UA-02156 Kiev, Ukraine.
+RP Fedulova, L (reprint author), Kyiv Natl Trade & Econ Univ, 19 Kyoto Str, UA-02156 Kiev, Ukraine.
+EM fedulova2010@rambler.ru
+CR Asheim B. T., 1996, LOCATION AGGLOMERATI
+   Bilozubenko V. S., 2012, INNOVATION SYSTEM EU
+   Cooke P., 2004, REGIONAL INNOVATION
+   Fressine J.-M., 2011, B INNOVATSIONNYIE TR, V11, P4
+   OECD, 2011, REV REG INN REG INN
+   Soskin O., 2013, EKONOMICNIJ CASOPIS, P3
+   Stein J. A., 2004, SCI PUBL POLICY, V31
+   [Anonymous], 2013, REV INN DEV UKR
+   Vodopianova E. V., 2014, SOVREMENNAYA YEVROPA, V2, P31
+   The World Bank, 2013, INN POL 10 MILL EUR
+   [Anonymous], 2016, DOING BUSINESS 2015
+   [Anonymous], 2014, EUROPE 2020 EUROPEAN
+   [Anonymous], 2015, INNOVATION UNION SCO
+   [Anonymous], 2016, GLOBAL INNOVATION IN
+   [Anonymous], 2015, SCI INNOVATIVE ACTIV
+   [Anonymous], 2015, NETWORKED READINESS
+   [Anonymous], 2014, E GOVT SURVEY
+   [Anonymous], 2014, GLOBAL COMPETITIVENE
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INST SOC TRANSFORMATION
+PI KYIV
+PA VUL GONCHARA 43-V, OFIS 20, KYIV, 01030, UKRAINE
+SN 1728-6220
+EI 1728-6239
+J9 ECON ANN-XXI
+JI Econ. Ann.-XXI
+PD APR 12
+PY 2016
+VL 156
+IS 1-2
+BP 22
+EP 25
+DI 10.21003/ea.V156-0005
+PG 4
+WC Economics
+SC Business & Economics
+GA DR0SO
+UT WOS:000379617400005
+ER
+
+PT J
+AU Liu, N
+   Guan, JC
+AF Liu, Na
+   Guan, JianCheng
+TI Policy and innovation: Nanoenergy technology in the USA and China
+SO ENERGY POLICY
+LA English
+DT Article
+DE Nanotechnology policy; Nanoenergy; Performance; Pattern;
+   Interorganizational collaboration
+ID PATENT ANALYSIS; UNITED-STATES; NANO-ENERGY; NANOTECHNOLOGY;
+   NANOSCIENCE; GROWTH; JAPAN; FIELD
+AB The USA is a leading country while China is an up-and-coming one in nanotechnology. We carried out a cross-country comparative study on policy and innovation of the two countries in subset nanoenergy field. They both created favorable policy environments for nanotechnology involving applications of nanotechnology in the energy sector. However, Chinese policy deployments for nanotechnology lack coordinated arrangements and effective assessment mechanisms. China performs better than the USA in technological quantity, but weaker in technological influence. The USA expresses an industry-oriented model in nanoenergy technological research and development, but China exhibits a university-and-institute-oriented model. Interorganizational collaboration relationships in the two countries are both still very rare and have huge development space. They both have a long way to go in converting their technological achievements into commercial products, especially China. Finally, we provide the policy implications of this study. In particular, the Chinese government should strengthen its efforts in policies by changing the national S&T evaluation system to set up the basic idea that quality is better than quantity in order to raise the original innovation motivations of innovators. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Liu, Na; Guan, JianCheng] Univ Chinese Acad Sci, Sch Econ & Management, Beijing 100190, Peoples R China.
+   [Liu, Na] Shandong Technol & Business Univ, Sch Business Adm, Yantai 264005, Peoples R China.
+   [Guan, JianCheng] S China Univ Technol, Sch Business Adm, Guangzhou 510640, Guangdong, Peoples R China.
+RP Guan, JC (reprint author), Univ Chinese Acad Sci, Sch Econ & Management, Beijing 100190, Peoples R China.
+EM guanjianch@ucas.ac.cn
+FU National Natural Science Foundation of China [71373254, 71540034];
+   Shandong Collaborative Innovation Center of Energy Economy [2014SDXT004]
+FX This study is supported by the Grants from National Natural Science
+   Foundation of China (Nos. 71373254 and 71540034) and a Grant from
+   Shandong Collaborative Innovation Center of Energy Economy (No.
+   2014SDXT004). The authors are very grateful for the very valuable
+   comments and suggestions from two anonymous reviewers, which
+   significantly improved the quality of the paper.
+CR Appelbaum RP, 2011, GLOBAL NETW, V11, P298, DOI 10.1111/j.1471-0374.2011.00327.x
+   Appelbaum R.P., 2008, SCI PUBL POLICY, V35, P319, DOI [DOI 10.3152/030234208X319366, 10.3152/030234208x319366]
+   Arora SK, 2013, SCIENTOMETRICS, V95, P351, DOI 10.1007/s11192-012-0903-6
+   Baglieri D, 2014, TECHNOVATION, V34, P746, DOI 10.1016/j.technovation.2014.07.009
+   Bai CL, 2005, SCIENCE, V309, P61, DOI 10.1126/science.1115172
+   Bhatti S. A., 2011, P INT C COMM IND APP, P1
+   Carnabuci G, 2013, STRATEGIC MANAGE J, V34, P1591, DOI 10.1002/smj.2084
+   CHAKRABARTI AK, 1991, IEEE T ENG MANAGE, V38, P78, DOI 10.1109/17.65763
+   Connelly MC, 2012, TECHNOL FORECAST SOC, V79, P30, DOI 10.1016/j.techfore.2011.05.001
+   Leite E.R., 2012, NANOENERGY NANOTECHN
+   Fisher E, 2006, SCI PUBL POLICY, V33, P5, DOI 10.3152/147154306781779181
+   Gorjiara T, 2014, SCIENTOMETRICS, V100, P121, DOI 10.1007/s11192-014-1287-6
+   Guan J. C., 2014, J NANOPART RES, V16, P1
+   Guan JC, 2009, J AM SOC INF SCI TEC, V60, P35, DOI 10.1002/asi.20954
+   Guan JC, 2007, RES POLICY, V36, P880, DOI 10.1016/j.respol.2007.02.004
+   Guan JC, 2016, RES POLICY, V45, P97, DOI 10.1016/j.respol.2015.08.002
+   Guan JC, 2015, ENERG POLICY, V76, P146, DOI 10.1016/j.enpol.2014.11.024
+   Guo Y, 2015, TECHNOL FORECAST SOC, V97, P168, DOI 10.1016/j.techfore.2014.02.026
+   Hullmann A, 2007, SCIENTOMETRICS, V70, P739, DOI 10.1007/s11192-007-0310-6
+   Hussein AK, 2015, RENEW SUST ENERG REV, V42, P460, DOI 10.1016/j.rser.2014.10.027
+   Invernizzi N, 2015, J NANOPART RES, V17, DOI 10.1007/s11051-015-3037-y
+   Islam N, 2010, TECHNOVATION, V30, P229, DOI 10.1016/j.technovation.2009.10.002
+   Jarvis D. S., 2011, EUROPEAN J LAW TECHN, V2, P1
+   Jung HJ, 2014, RES POLICY, V43, P74, DOI 10.1016/j.respol.2013.07.001
+   Kostoff RN, 2012, TECHNOL FORECAST SOC, V79, P986, DOI 10.1016/j.techfore.2012.01.007
+   Kostoff RN, 2008, J INFORMETR, V2, P354, DOI 10.1016/j.joi.2008.06.004
+   Lee K, 2013, ENERG POLICY, V59, P415, DOI 10.1016/j.enpol.2013.03.054
+   Lee S, 2012, COMPUT IND ENG, V63, P564, DOI 10.1016/j.cie.2011.12.002
+   Lee WJ, 2014, ENERG POLICY, V74, P111, DOI 10.1016/j.enpol.2014.08.009
+   Luther W, 2008, NSTI NANOTECH 2008, VOL 1, TECHNICAL PROCEEDINGS, P1054
+   Mangematin V, 2012, TECHNOVATION, V32, P157, DOI 10.1016/j.technovation.2012.01.003
+   Menendez-Manjon A, 2011, J NANOPART RES, V13, P3911, DOI 10.1007/s11051-011-0344-9
+   MOST, 2012, 12 SPEC PLANN MAJ NA
+   MOST NDRC MOE CAS NNSF, 2001, COMP NAT NAN NAN DEV
+   NSET CoT NSTC, 2007, NAT NAN IN STRAT PLA
+   NSET CoT NSTC, 2004, NAT NAN IN STRAT PLA
+   NSTC, 2011, NAT NAN IN STRAT PLA
+   NSTC, 2014, NAT NAN IN STRAT PLA
+   NSTC CoT NSET, 2000, NAT NAN IN IN ITS IM
+   Roco M.C., 2007, HDB NANOSCIENCE ENG, V2
+   Roco MC, 2011, SCI POL REP, V1, P1, DOI 10.1007/978-94-007-1168-6_1
+   So D., 2012, J NANOPART RES, V14, P1
+   State Council, 2006, NAT MID TO LONG TERM
+   Tegart G, 2009, TECHNOL FORECAST SOC, V76, P1240, DOI 10.1016/j.techfore.2009.06.010
+   Walsh J. P., 2014, SCI PUBLIC POLICY
+   Yujuan Z., 2014, SHS WEB C, V7, P02003
+NR 46
+TC 1
+Z9 1
+U1 25
+U2 30
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0301-4215
+EI 1873-6777
+J9 ENERG POLICY
+JI Energy Policy
+PD APR
+PY 2016
+VL 91
+BP 220
+EP 232
+DI 10.1016/j.enpol.2016.01.020
+PG 13
+WC Energy & Fuels; Environmental Sciences; Environmental Studies
+SC Energy & Fuels; Environmental Sciences & Ecology
+GA DF7PO
+UT WOS:000371550300020
+ER
+
+PT J
+AU Mahalatchimy, A
+AF Mahalatchimy, Aurelie
+TI REIMBURSEMENT OF CELL-BASED REGENERATIVE THERAPY IN THE UK AND FRANCE
+SO MEDICAL LAW REVIEW
+LA English
+DT Article
+DE Regenerative therapy; Pricing; reimbursement; Access; England; France
+AB Cell-based regenerative therapies are presented as being able to cure the diseases of the twenty-first century, especially those coming from the degeneration of the aging human body. But their specific nature based on biological materials raises particular challenging issues on how regulation should frame biomedical innovation for society's benefit regarding public health. The European Union (EU) supports the development of cell-based regenerative therapies that are medicinal products with a specific regulation providing their wide access to the European market for European patients. However, once these medicinal products have obtained a European marketing authorisation, they are still far away from being fully accessible to European patients in all EU Member States. Whereas there is much written on the EU regulatory system for new biotechnologies, there is no systematic legal study comparing the insurance provisions in two EU countries. Focussing on the situation in the UK and France that are based on two different healthcare systems, this paper is based on a comparative methodological approach. It raises the question of regulatory reimbursement mechanisms that determine access to innovative treatments and their consequences for social protection systems in the general context of public health. After having compared the French and English regulations of cell-based regenerative therapy regarding pricing and reimbursement, this papers analyses how England and France are addressing two main challenges of cell-based regenerative therapy, to take into account their long-term benefit through their potential curative nature and their high upfront cost, towards their adoption within the English and French healthcare systems. It concludes that England and France have different general legal frameworks that are not specific to the reimbursement of cell-based regenerative therapy, although their two current and respective trends would bring more convergence between the two systems while addressing the main challenges for the reimbursement of these therapies. Nevertheless, despite their current differences, neither the English nor the French national healthcare system has yet approved the reimbursement of cell-based regenerative therapies. The paper highlights where both systems could be learning from each others' experiences to favour the adoption of cell-based regenerative therapies through the adaptation of their reimbursement methodologies. It also emphasises the gap between market access and patients' access, and it calls for research and discussions through reflexive agencies such as the Regenerative Medicine Expert Group in the UK.
+C1 [Mahalatchimy, Aurelie] Univ Sussex, Sch Global Studies, Ctr Global Hlth Policy, Brighton BN1 9RH, E Sussex, England.
+RP Mahalatchimy, A (reprint author), Univ Sussex, Sch Global Studies, Ctr Global Hlth Policy, Brighton BN1 9RH, E Sussex, England.
+EM aurelie.mahalatchimy@gmail.com
+FU REGenableMED, UK Economic and Social Research Council Project
+   [ES/L002779/1]
+FX This work has been supported by REGenableMED, UK Economic and Social
+   Research Council Project ES/L002779/1.
+CR ABPI, 2014, UND 2014 PHARM PRIC
+   Aulois-Griot M, 2013, ETABLISSEMENTS SANTE, P453
+   Chester Knee Clinic & Cartilage Repair Centre Nuffield Health The Grosvenor Hospital Chester, TIG CHONDROCELECT CH, P3
+   Drummond M, 2009, WHAT ARE HTA PROCESS
+   EMA, 2014, PIL PROJ AD LIC
+   Epstein D, 2014, VALUE BASED PRICING
+   Faulkner A, 2015, SPECIAL TREATMENT EX
+   Freeman DW, 2011, CBS NEWS
+   Gardner J, 2015, REGEN MED, V10, P895
+   Gardner J, 2015, REGEN MED, V10, P885, DOI 10.2217/rme.15.50
+   HAS Transparency Commission, 2010, CHONDROCELECT, P17
+   Hirschler B, 2013, REUTERS         0103
+   Kulesher R, 2014, J HOSP ADM, V3, P127
+   Kulesher R, 2014, J HOSP ADM, V3, P139
+   Kutzin J., 2011, 1 ANN M SBO NETW HLT
+   Mahalatchimy A, 2011, EJHL, V18, P317
+   Mahalatchimy A, 2011, Eur J Health Law, V18, P305
+   Mason C, 2011, REGEN MED, V6, P265, DOI [10.2217/rme.11.28, 10.2217/RME.11.28]
+   Mason C., 2011, REGEN MED, V6, P272
+   Nguyen-Kim L, 2005, IRDES, V99, P1
+   Nguyen-Kim L, 2005, ISSUES HLTH EC, V99, P5
+   NHS England, 2014, MAN PRESCR SPEC SERV, P8
+   NICE, 2014, GUID PROC TECHN APPR
+   NICE, 2013, GUID METH TECHN APPR
+   NICE, 2006, MOS KNEE CART DEF IN
+   NICE, 2012, PART REPL MEN KNEE U
+   NICE, 2013, TECHN APPR TOP SEL
+   NICE, 2005, AUT CHONDR IMPL ACI
+   NICE, 2014, GUID PROC TECHN APPR
+   NIHR National Horizon Scanning Centre, 2008, CHONDROCELECT KNEE C
+   Premier Ministre de la Republique francaise Commissariat a la strategie et a la prospective, 2014, NOT AN MED LEURS PRI, V10, P5
+   Regenerative Medicine Expert Group (RMEG), 2015, BUILD OUR OWN POT UK
+   Tigenix, 2013, ANN REPORT, P40
+   UK Councils (BBSRC EPSRC ESRC MRC) and TSB, 2012, STRAT UK REG MED, P2
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 0
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0967-0742
+EI 1464-3790
+J9 MED LAW REV
+JI Med. Law. Rev.
+PD SPR
+PY 2016
+VL 24
+IS 2
+BP 234
+EP 258
+DI 10.1093/medlaw/fww009
+PG 25
+WC Law; Medical Ethics
+SC Government & Law; Medical Ethics
+GA DP2UL
+UT WOS:000378348600004
+PM 27083495
+ER
+
+PT J
+AU Augier, M
+   Guo, J
+   Rowen, H
+AF Augier, Mie
+   Guo, Jerry
+   Rowen, Harry
+TI The Needham Puzzle Reconsidered: Organizations, Organizing, and
+   Innovation in China
+SO MANAGEMENT AND ORGANIZATION REVIEW
+LA English
+DT Article
+DE China; competition; innovation; R & D
+ID ECONOMIC-DEVELOPMENT; EUROPE; PERFORMANCE; BUSINESS; SCIENCE
+AB This paper discusses some aspects of innovation in China. As China seeks to transition to a knowledge-based economy, it may become more important for China to develop innovative technologies to sustain economic growth. How do China's history, culture, institutions, and organizations aid or hinder innovation? How does China's national innovation system compare to the innovation culture in the US, as well as other developed and emerging economies? What are the prospects for the future of the Chinese national innovation system?
+   Our starting point is the Needham Puzzle - the paradox that while China was once a world leader in technological development, it fell behind; the Industrial Revolution happened in Europe rather than in China. Potential explanations for the Needham Puzzle may shed light on the challenges facing innovation in modern China. We identify three factors that might help explain the Needham Puzzle; assess how the Needham Puzzle and Chinese culture and history have affected the modern innovation system; discuss comparative aspects of innovation ecosystems in the United States and elsewhere; and suggest that Chinese innovation emphasizes exploitation and refinement of existing knowledge to the exploration and development of new knowledge. We also discuss implications for the future of innovation in China.
+C1 [Augier, Mie] Naval Postgraduate Sch, Monterey, CA USA.
+   [Guo, Jerry] Carnegie Mellon Univ, Tepper Sch Business, Org Behav & theory, Pittsburgh, PA 15213 USA.
+   [Rowen, Harry] Stanford Univ, Stanford, CA 94305 USA.
+RP Augier, M (reprint author), Naval Postgraduate Sch, Monterey, CA USA.; Guo, J (reprint author), Carnegie Mellon Univ, Tepper Sch Business, Org Behav & theory, Pittsburgh, PA 15213 USA.
+EM augier@stanford.edu; jmguo@andrew.cmu.edu
+CR Adams SB, 2011, RES POLICY, V40, P368, DOI 10.1016/j.respol.2010.12.002
+   Augier M., 2011, ROOTS RITUALS RHETOR
+   Augier M, 2015, ORGAN SCI, V26, P1140, DOI 10.1287/orsc.2014.0962
+   Baark E., 2007, ASIA PACIFIC BUSINES, V13, P337, DOI 10.1080/13602380701291917
+   Becker MC, 2004, IND CORP CHANGE, V13, P643, DOI 10.1093/icc/dth026
+   Broadberry S, 2006, ECON HIST REV, V59, P2, DOI 10.1111/j.1468-0289.2005.00331.x
+   BUCK P, 1975, SOC STUD SCI, V5, P237, DOI 10.1177/030631277500500301
+   Cauley L., 2005, END LINE RISE FALL A
+   Chang PL, 2004, TECHNOVATION, V24, P529, DOI 10.1016/S0166-4972(02)00117-7
+   Cheatham Jr T. E., 1973, SCIENCE, P134
+   Chen C. J., 2012, TRANSFORMING RURAL C
+   Cheung KY, 2004, CHINA ECON REV, V15, P25, DOI 10.1016/S1043-951X(03)00027-0
+   Cohen M. D., 1976, ADM SCI Q, V17, P1
+   Crozier M., 1967, BUREAUCRATIC PHENOME
+   DENNIS MA, 1987, SOC STUD SCI, V17, P479, DOI 10.1177/030631287017003005
+   Dobson Wendy, 2008, Journal of Asian Economics, V19, P301, DOI 10.1016/j.asieco.2008.05.007
+   Etzkowitz H, 2013, SOC SCI INFORM, V52, P515, DOI 10.1177/0539018413501946
+   Flexner A, 1939, HARPERS MAGAZINE, V179, P544
+   FORTUN M, 1993, SOC STUD SCI, V23, P595, DOI 10.1177/030631293023004001
+   Gebhardt C., 2013, IND HIGHER ED, V27, P297
+   Geiger R. L., 2004, RES RELEVANT KNOWLED, VII
+   George A., 1969, CHINESE COMMUNIST AR
+   Gertner J., 2003, IDEA FACTORY BELL LA
+   Hitch C.J., 1958, CHARACTER RES DEV CO, p[P, 1297]
+   Jullien F., 2004, TREATISE EFFICACY W
+   Klepper S, 2010, J URBAN ECON, V67, P15, DOI 10.1016/j.jue.2009.09.004
+   van Leeuwen G., 2001, INT J EC BUSINESS, V8, P343
+   Koellinger P, 2008, RES POLICY, V37, P1317, DOI 10.1016/j.respol.2008.04.024
+   Kristensen PM, 2013, INT POLIT SOCIOL, V7, P19, DOI 10.1111/ips.12007
+   Landes DS, 2006, J ECON PERSPECT, V20, P3, DOI 10.1257/jep.20.2.3
+   Laufer B, 1917, AM ANTHROPOL, V19, P71, DOI 10.1525/aa.1917.19.1.02a00110
+   Leites N, 1948, WORLD POLIT, V1, P102, DOI 10.2307/2009160
+   Lin J., 2008, CHINA EC J, V1, P63, DOI 10.1080/17538960701565053
+   Lin J., 1995, EC DEV CULTURAL CHAN, V43, P269, DOI 10.1086/452150
+   LIPSET SM, 1959, AM POLIT SCI REV, V53, P69, DOI 10.2307/1951731
+   Liu FC, 2011, RES POLICY, V40, P917, DOI 10.1016/j.respol.2011.05.005
+   Lu QW, 2001, RES POLICY, V30, P55, DOI 10.1016/S0048-7333(99)00082-7
+   Mao Z., 1937, ON GUERILLA WARFARE
+   Mao Zedong, 1971, SELECTED READINGS WO
+   March J., 1958, ORGANIZATIONS
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   March J. G., 2010, REDISCOVERING I ORG
+   Marshall A., 1890, PRINCIPLES EC
+   Maxwell J. C., 1865, PHILOS T ROY SOC LON, V166, P459, DOI DOI 10.1098/RSTL.1865.0008
+   McClelland Charles, 1980, STATE SOC U GERMANY
+   Millman S., 1983, HIST ENG SCI BELL SY
+   NEEDHAM J, 1980, INTERDISCIPL SCI REV, V5, P263
+   Needham J., 1954, SCI CIVILISATION CHI, VI
+   Nguyen C, 2009, THESIS TEXAS TECH U
+   Plechero M, 2013, IND INNOV, V20, P661, DOI 10.1080/13662716.2013.849457
+   PYE LW, 1982, ASIAN SURV, V22, P1147, DOI 10.1525/as.1982.22.12.01p0432x
+   Reed T. C., 2009, NUCL EXPRESS POLITIC
+   Rosegrant S., 1993, ROUTE 128 LESSONS BO
+   Ross E. D., 1969, DEMOCRACYS COLL LAND
+   Rowen H. S., 1997, NATL INTEREST, V48, P101
+   Rowen H. S., 2008, GREATER CHINAS QUEST
+   Schumpeter J., 1942, CAPITALISM SOCIALISM
+   SIMON HA, 1993, AM ECON REV, V83, P156
+   SIMON HA, 1991, J ECON PERSPECT, V5, P25
+   Sivin N, 1982, Chin Sci, V5, P45
+   Vogel Ezra, 1991, 4 LITTLE DRAGONS SPR
+   Ware W. H., 2008, RAND INFORM EVOLUTIO
+   Weimin S., 2009, DAO, V8, P403
+   Whittle R., 2013, AIR SPACE MAGAZI APR
+   Winter SG, 2003, STRATEGIC MANAGE J, V24, P991, DOI 10.1002/smj.318
+   Xie W., 2006, J TECHNOLOGY MANAGEM, V1, P229, DOI 10.1108/17468770610704912
+   Xie W., 2009, J KNOWLEDGE BASED IN, V1, P8, DOI DOI 10.1108/17561410910912887
+   Zhou H., 2011, FRONTIERS EC CHINA, V6, P616
+   Zhou KZ, 2006, IND MARKET MANAG, V35, P394, DOI 10.1016/j.indmarman.2005.10.006
+NR 69
+TC 3
+Z9 3
+U1 12
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1740-8776
+EI 1740-8784
+J9 MANAGE ORGAN REV
+JI Manag. Organ. Rev.
+PD MAR
+PY 2016
+VL 12
+IS 1
+BP 5
+EP 24
+DI 10.1017/mor.2016.5
+PG 20
+WC Management
+SC Business & Economics
+GA DJ4MW
+UT WOS:000374180900002
+ER
+
+PT J
+AU Deissinger, T
+   Gonon, P
+AF Deissinger, Thomas
+   Gonon, Philipp
+TI Stakeholders in the German and Swiss vocational educational and training
+   system Their role in innovating apprenticeships against the background
+   of academisation
+SO EDUCATION AND TRAINING
+LA English
+DT Article
+DE Apprenticeships; Stakeholders; Academisation; Dual system; VET reform
+AB Purpose - The purpose of this paper is to compare stakeholders' roles in Germany and Switzerland when it comes to promoting innovation in the dual apprenticeship model. In both countries, the relevant stakeholders who represent the various occupations and, in a more narrow sense, the social partners, actively shape vocational education and training (VET) reforms. They represent the area of public educational policy, besides governments, political parties and the public, who, in both countries, appreciate the decisive role of apprenticeships for youth education, employment and social stability. Thus, the broad consensus of the relevant stakeholders is crucial in order to keep apprenticeship systems alive. Both countries face challenges related to academisation, which means, that the Gymnasium (high school) and higher education now are even more the first option for parents than in former times. On several levels German and Swiss policy makers try to strengthen VET paying tribute to and trying to cope with these developments.
+   Design/methodology/approach - The paper is situated in the field of comparative VET research. Based on policy documents and findings from research the paper analyses the discourse and perspectives related to VET reforms. The authors deliberately focus on two countries, Germany and Switzerland, which share a great deal of common features in relation to VET, nevertheless developed different measures in order to cope with the pressure of increasing the ratio of students in higher education. The comparative paper looks at the topical reform discourse and taken measures and the specific culture of apprenticeships in the two countries by focusing on those stakeholders, which, besides governments, are crucially involved in the system. The paper draws its insights from the VET policy debate and from both national policy documents and national and international expert publications in the field of VET. A strong focus is given to the emerging new environment of the VET system. Methodologically, the paper draws from an institutional view on VET, which is being discussed broadly in comparative research, since VET systems with a "dual system", such as the two discussed here, may be categorized as "state-steered market models", "occupation-based qualifications styles", "collective skill formation systems" or specific realizations of "transition systems". All these categories refer to the observation that in these societies it is not the state alone, who defines the structure of the respective VET system, but non-state stakeholders are capable of influencing VET policy and VET reform in a substantial and visible way.
+   Findings - In both countries, Germany and Switzerland, the importance and value of VET is based on an overall consensus, shared by all relevant actors. The basis of this consensus is that the dual system so far successfully opened and should continue to open career paths in industry. Apprenticeships undoubtedly are cornerstones of economic welfare in these countries and can be associated with low youth unemployment rates. A supplementary aspect in the last years however is the political will that VET should also have some kind of link with higher education. Despite some interesting reform measures ambivalences cannot be ignored: against what could be called "academic fallacy" the importance of a highly qualified workforce, trained in non-academic fields, and the future of this kind of skill formation have become major topics and concerns in both societies.
+   Originality/value - This paper is comparing two similar cases, Switzerland and Germany, in VET in order to profile reform alternatives. Furthermore the actors beyond state are highlighted as important element for reform in VET education.
+C1 [Deissinger, Thomas] Univ Konstanz, Constance, Germany.
+   [Gonon, Philipp] Univ Zurich, Inst Educ, Zurich, Switzerland.
+RP Gonon, P (reprint author), Univ Zurich, Inst Educ, Zurich, Switzerland.
+EM gonon@ife.uzh.ch
+CR Bellenberg G., 2012, SCHULFORMWECHSEL DEU
+   Brandle T., 2010, 10 JAHRE BOLOGNA PRO
+   Bundesministerium fur Bildung und Forschung, 2014, BER 2014
+   Busemeyer MR, 2014, EUR J IND RELAT, V20, P55, DOI 10.1177/0959680113512731
+   Busemeyer Marius R, 2012, POLITICAL EC COLLECT
+   Deissinger T, 1996, OXFORD REV EDUC, V22, P317, DOI 10.1080/0305498960220305
+   Deissinger T., 2015, VERALLGEMEINERUNG BE, P57
+   Deissinger T., 2013, HYBRID QUALIFICATION, P3
+   Deissinger T., 2000, J VOCATIONAL ED TRAI, V52, P609
+   Deissinger T., 1995, Z BERUFS WIRTSCHAFTS, V91, P367
+   Deissinger T., 2015, LOCAL EC, V30, P557
+   Drexel I., 2005, DUALE SYSTEM EUROPA
+   Euler D., 2014, Z BERUFWIRTSCHAFTS, V110, P321
+   Furstenau B., 2014, INT HDB PROFESSIONAL, P427
+   [Anonymous], 1996, SOC INEQUAL SER
+   Gonon P., 2016, TRANSITION IN VET, P1
+   Gonon P., 2014, CHALLENGES POLICY TR, P231
+   Gonon P., 2012, POLITICAL EC COLLECT, P126
+   Gonon P., 2016, ENJEUX STRUCTURELS S, P1
+   Gonon Philipp, 2013, HYBRID QUALIFICATION, P181
+   Graf L, 2016, J VOCAT EDUC TRAIN, V68, P1, DOI 10.1080/13636820.2015.1107749
+   Greinert W.-D., 1988, BERUFSBILDENDE SCHUL, V40, P145
+   Herrlitz H.-G., 1986, DTSCH SCHULGESCHICHT
+   Hippach-Schneider U., 2013, J VOCATIONAL ED TRAI, V65, P1
+   Kiener Ulf, 1998, BERUFSMATUR FALLBEIS
+   Klenk J., 2013, NATL QUALIFIKATIONSR
+   Matthes S., 2014, WACHSENDE PASSUNGSPR
+   Nida-Rumelin J., 2014, AKADEMISIERUNGSWAHN
+   Raffe D., 2008, J ED WORK, V21, P277, DOI DOI 10.1080/13639080802360952
+   Schindler S., 2014, WEGE STUDIENBERCHTIG
+   Schutte F., 1992, BERUFSERZIEHUNG ZWIS
+   Strahm R., 2014, AKADEMISIERUNGSFALLE
+   Swiss Coordination Center for Research in Education, 2014, SWISS ED REP 2014
+   Weber M., 1985, WIRTSCHAFT GESELLSCH
+   Wettstein E., 2014, BERUFSBILDUNG SCHWEI
+   Wettstein E., 2015, BERUFSBILDUNG SCHWEI
+   Winch C, 2006, OXFORD REV EDUC, V32, P381, DOI 10.1080/03054980600776530
+   WINKLER HA, 1976, J MOD HIST, V48, P1, DOI 10.1086/241391
+NR 38
+TC 0
+Z9 0
+U1 3
+U2 3
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0040-0912
+EI 1758-6127
+J9 EDUC TRAIN
+JI Educ. Train.
+PY 2016
+VL 58
+IS 6
+BP 568
+EP 577
+DI 10.1108/ET-02-2016-0034
+PG 10
+WC Education & Educational Research
+SC Education & Educational Research
+GA DR2ZG
+UT WOS:000379771800002
+ER
+
+PT J
+AU Conill, EM
+AF Conill, Eleonor Minho
+TI The socio-ecological and primary care approach to the creation of
+   universal health systems in the work of Hernan San Martin
+SO CIENCIA & SAUDE COLETIVA
+LA English
+DT Article
+DE Environmental; Health systems; Primary care
+AB This article describes the contributions of Chilean physician San Martin Ferrari (1915-200), arguing that they constitute important cornerstones in collective health in Brazil, Latin America, and the Iberian Peninsula. His work is reviewed, establishing a dialog with the current theoretical research in this field and the context of contemporary health systems. Two main aspects are emphasized: the innovation of San Martin in insisting on the importance of analyses that incorporate the relationship between environment and health; and his role in the creation of the Chilean and the Spanish National Health Services. Although they arose in distinct moments and had different trajectories, these systems constitute examples for the creation of universal public health systems, such as the Brazilian health reform and the ongoing challenge to improve the Unified Health System. The analysis of his work and biography contribute elements for the comparative study of these reforms, as well as an eco-systemic approach to health.
+C1 [Conill, Eleonor Minho] Univ Fed Santa Catarina, Dept Saude Publ, Ctr Ciencias Saude, R Vento Sul 306, BR-88063070 Florianopolis, SC, Brazil.
+RP Conill, EM (reprint author), Univ Fed Santa Catarina, Dept Saude Publ, Ctr Ciencias Saude, R Vento Sul 306, BR-88063070 Florianopolis, SC, Brazil.
+EM eleonorconill@gmail.com
+CR Pastor y Aldeguer V, 1985, CRISIS MUNDIAL SALUD, V3, P761
+   Arouca ASS, 1975, THESIS U ESTADUAL CA
+   Carvalho AI, 2012, POLITICAS SISTEMAS S, P121
+   Conill Eleonor Minho, 2012, Saúde debate, V36, P355, DOI 10.1590/S0103-11042012000300007
+   Conill EM, 2012, TRATADO SAUDE COLETI, P623
+   Conill EM, 1982, THESIS U PARIS 1 SOR
+   Gran Bretana. Ministerio de la Salud, 1964, INF DAWS FUT SERV ME, V93
+   Yuste Grijalba FJ, 1985, CRISIS MUNDIAL SALUD, V3, P753
+   Labra ME, 2001, CIENCIA SAUDE COLETI, V6, P361
+   Lalonde M, 2008, NEW PERSPECTIVE HLTH
+   Miguel JM, 1985, CRISIS MUNDIAL SALUD, V3, P771
+   Minayo MC, 2012, TRATADO SAUDE COLETI, P79
+   Nunes ED, 2012, TRATADO SAUDE COLETI, P17
+   San Martin H., 1985, CRISIS MUNDIAL SALUD, V3
+   San Martin H, 1989, MANUAL SALUD PUBLICA
+   San Martin H, 1962, VIAJES TRAVES ARTE U
+   San Martin H, 1979, ECOLOGIA HUMANA SALU
+   Pastor V, 1984, SALUD COMUNITARIA TE
+   San Martin H, 1981, SALUD Y ENFERMEDAD
+   San Martin H, 1982, CRISIS MUNDIAL SALUD
+   TERUEL J, 1970, MILBANK FUND Q, V48, P373, DOI 10.2307/3349246
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ABRASCO
+PI RIO DE JANEIRO
+PA RUA HESPERIA, 16-PARTE MANGUINHOS, RIO DE JANEIRO, 21050-040, BRAZIL
+SN 1413-8123
+EI 1678-4561
+J9 CIENC SAUDE COLETIVA
+JI Cienc. Saude Coletiva
+PD JAN
+PY 2016
+VL 21
+IS 1
+BP 173
+EP 178
+DI 10.1590/1413-81232015211.20522015
+PG 6
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA DC8VT
+UT WOS:000369498500018
+PM 26816174
+ER
+
+EF

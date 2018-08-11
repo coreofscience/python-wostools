@@ -60,6 +60,7 @@ class Article(object):
             )
         return self._processed_data[name]
 
+
     def __hasattr__(self, name):
         return name in self._data
 

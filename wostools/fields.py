@@ -107,12 +107,6 @@ FIELDS = {
         lambda seq: ' '.join(seq),
         ['conference_date']
     ),
-    'CL': IsiField(
-        'CL',
-        'Conference Location',
-        lambda seq: ' '.join(seq),
-        ['conference_location']
-    ),
     'DE': IsiField(
         'DE',
         'Author Keywords',

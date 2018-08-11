@@ -7,7 +7,8 @@ import glob
 import itertools
 import re
 
-from wostools.isi_fields import FIELDS
+from wostools.fields import FIELDS
+
 
 def popular(iterable, limit):
     """
@@ -67,12 +68,10 @@ class Article(object):
         self._processed_data = preprocess(self._data)
 
     def __getattr__(self, name):
-        if name not in self._processed_data and not hasattr(self._processed_data, name):
+        if name not in self._processed_data:
             raise AttributeError(
                 f'{self.__class__.__name__} does not have an attribute {name}'
             )
-        if name not in self._processed_data:
-            return getattr(self, name)
         return self._processed_data[name]
 
     def __hasattr__(self, name):
@@ -95,6 +94,7 @@ class Article(object):
         ]
         label = ', '.join(normalized_fields)
         return label
+
 
 class CollectionLazy(object):
     """

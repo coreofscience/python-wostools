@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """Tests for `wostools` package."""
 
 from wostools import CollectionLazy
@@ -23,3 +20,12 @@ def test_article_label(article):
         'Wodarz S, 2017, J MAGN MAGN MATER, '
         'V430, P7, DOI 10.1016/j.jmmm.2017.01.061'
     )
+
+
+def test_aliases(article):
+    assert article.TI == article.title
+
+
+def test_parsers(article):
+    assert article.year_published == 2017
+    assert article.beginning_page == '52'

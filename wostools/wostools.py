@@ -7,6 +7,8 @@ import glob
 import itertools
 import re
 
+from wostools.fields import preprocess
+
 
 def popular(iterable, limit):
     """
@@ -49,15 +51,15 @@ class Article(object):
     def __init__(self, article_text):
         self._article_text = article_text
         self._data = article_text_to_dict(article_text)
+        self._processed_data = preprocess(self._data)
 
     def __getattr__(self, name):
-        if name not in self._data and not hasattr(self._data, name):
+        if name not in self._processed_data:
             raise AttributeError(
                 f'{self.__class__.__name__} does not have an attribute {name}'
             )
-        if name not in self._data:
-            return getattr(self._data, name)
-        return ' '.join(self._data[name])
+        return self._processed_data[name]
+
 
     def __hasattr__(self, name):
         return name in self._data
@@ -79,6 +81,7 @@ class Article(object):
         ]
         label = ', '.join(normalized_fields)
         return label
+
 
 class CollectionLazy(object):
     """

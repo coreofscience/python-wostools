@@ -71,9 +71,9 @@ class Article(object):
             raise AttributeError(
                 f'{self.__class__.__name__} does not have an attribute {name}'
             )
-        if name not in self._data:
-            return getattr(self._data, name)
-        return self._data[name]
+        if name not in self._processed_data:
+            return getattr(self, name)
+        return self._processed_data[name]
 
     def __hasattr__(self, name):
         return name in self._data

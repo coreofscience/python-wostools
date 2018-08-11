@@ -363,7 +363,7 @@ FIELDS = {
         'TI',
         'Document Title',
         lambda seq: ' '.join(seq),
-        ['document_title']
+        ['title']
     ),
     'U1': IsiField(
         'U1',

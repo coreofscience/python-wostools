@@ -24,3 +24,8 @@ def test_article_label(article):
 
 def test_aliases(article):
     assert article.TI == article.title
+
+
+def test_parsers(article):
+    assert article.year_published == 2017
+    assert article.beginning_page == '52'

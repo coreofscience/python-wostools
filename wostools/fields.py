@@ -3,6 +3,7 @@ The wos fields definitions.
 """
 
 import collections
+import functools
 
 
 IsiField = collections.namedtuple(
@@ -10,389 +11,420 @@ IsiField = collections.namedtuple(
     ['key', 'description', 'parse', 'aliases']
 )
 
+
+def joined(seq, sep=' '):
+    return sep.join(s.strip() for s in seq)
+
+
+def ident(seq):
+    return list(s.strip() for s in seq)
+
+
+def delimited(seq, delim='; '):
+    return joined(seq).split(delim)
+
+
+def integer(seq):
+    return int(joined(seq).strip())
+
+
 FIELDS = {
     'AB': IsiField(
         'AB',
         'Abstract',
-        lambda seq: ' '.join(seq),
+        joined,
         ['abstract']
     ),
     'AF': IsiField(
         'AF',
-        'Author Full Name',
-        lambda seq: ' '.join(seq),
-        ['author_full_name']
+        'Author Full Names',
+        ident,
+        ['author_full_names']
     ),
     'AR': IsiField(
         'AR',
         'Article Number',
-        lambda seq: ' '.join(seq),
+        joined,
         ['article_number']
     ),
     'AU': IsiField(
         'AU',
         'Authors',
-        lambda seq: ' '.join(seq),
+        ident,
         ['authors']
     ),
     'BA': IsiField(
         'BA',
         'Book Authors',
-        lambda seq: ' '.join(seq),
+        ident,
         ['book_authors']
     ),
     'BE': IsiField(
         'BE',
         'Editors',
-        lambda seq: ' '.join(seq),
+        ident,
         ['editors']
     ),
     'BF': IsiField(
         'BF',
         'Book Authors Full Name',
-        lambda seq: ' '.join(seq),
+        ident,
         ['book_authors_full_name']
     ),
     'BN': IsiField(
         'BN',
         'International Standard Book Number (ISBN)',
-        lambda seq: ' '.join(seq),
+        joined,
         ['international_standard_book_number']
     ),
     'BP': IsiField(
         'BP',
         'Beginning Page',
-        lambda seq: ' '.join(seq),
+        joined,
         ['beginning_page']
     ),
     'BS': IsiField(
         'BS',
         'Book Series Subtitle',
-        lambda seq: ' '.join(seq),
+        joined,
         ['book_series_subtitle']
     ),
     'C1': IsiField(
         'C1',
         'Author Address',
-        lambda seq: ' '.join(seq),
+        ident,
         ['author_address']
     ),
     'CA': IsiField(
         'CA',
         'Group Authors',
-        lambda seq: ' '.join(seq),
+        ident,
         ['group_authors']
     ),
     'CL': IsiField(
         'CL',
         'Conference Location',
-        lambda seq: ' '.join(seq),
+        joined,
         ['conference_location']
     ),
     'CR': IsiField(
         'CR',
         'Cited References',
-        lambda seq: ' '.join(seq),
-        ['cited_references']
+        ident,
+        ['cited_references', 'references', 'citations']
     ),
     'CT': IsiField(
         'CT',
         'Conference Title',
-        lambda seq: ' '.join(seq),
+        functools.partial(joined, sep='\n'),
         ['conference_title']
     ),
     'CY': IsiField(
         'CY',
         'Conference Date',
-        lambda seq: ' '.join(seq),
+        joined,
         ['conference_date']
     ),
     'DE': IsiField(
         'DE',
         'Author Keywords',
-        lambda seq: ' '.join(seq),
+        delimited,
         ['author_keywords']
     ),
     'DI': IsiField(
         'DI',
         'Digital Object Identifier (DOI)',
-        lambda seq: ' '.join(seq),
+        joined,
         ['digital_object_identifier']
     ),
     'DT': IsiField(
         'DT',
         'Document Type',
-        lambda seq: ' '.join(seq),
+        joined,
         ['document_type']
     ),
     'D2': IsiField(
         'D2',
         'Book Digital Object Identifier (DOI)',
-        lambda seq: ' '.join(seq),
+        joined,
         ['book_digital_object_identifier']
     ),
     'ED': IsiField(
         'ED',
         'Editors',
-        lambda seq: ' '.join(seq),
+        ident,
         ['editors']
     ),
     'EM': IsiField(
         'EM',
         'E-mail Address',
-        lambda seq: ' '.join(seq),
+        ident,
         ['e-mail_address']
     ),
     'EI': IsiField(
         'EI',
         'Electronic International Standard Serial Number (eISSN)',
-        lambda seq: ' '.join(seq),
+        joined,
         ['eissn']
     ),
     'EP': IsiField(
         'EP',
         'Ending Page',
-        lambda seq: ' '.join(seq),
+        joined,
         ['ending_page']
     ),
     'FU': IsiField(
         'FU',
         'Funding Agency and Grant Number',
-        lambda seq: ' '.join(seq),
+        delimited,
         ['funding_agency_and_grant_number']
     ),
     'FX': IsiField(
         'FX',
         'Funding Text',
-        lambda seq: ' '.join(seq),
+        joined,
         ['funding_text']
     ),
     'GA': IsiField(
         'GA',
         'Document Delivery Number',
-        lambda seq: ' '.join(seq),
+        joined,
         ['document_delivery_number']
     ),
     'GP': IsiField(
         'GP',
         'Book Group Authors',
-        lambda seq: ' '.join(seq),
+        ident,
         ['book_group_authors']
     ),
     'HO': IsiField(
         'HO',
         'Conference Host',
-        lambda seq: ' '.join(seq),
+        joined,
         ['conference_host']
     ),
     'ID': IsiField(
         'ID',
         'Keywords Plus',
-        lambda seq: ' '.join(seq),
-        ['keywords_plus']
+        delimited,
+        ['keywords_plus', 'keywords']
     ),
     'IS': IsiField(
         'IS',
         'Issue',
-        lambda seq: ' '.join(seq),
+        joined,
         ['issue']
     ),
     'J9': IsiField(
         'J9',
         '29-Character Source Abbreviation',
-        lambda seq: ' '.join(seq),
+        joined,
         ['source_abbreviation']
     ),
     'JI': IsiField(
         'JI',
         'ISO Source Abbreviation',
-        lambda seq: ' '.join(seq),
+        joined,
         ['iso_source_abbreviation']
     ),
     'LA': IsiField(
         'LA',
         'Language',
-        lambda seq: ' '.join(seq),
+        joined,
         ['language']
     ),
     'MA': IsiField(
         'MA',
         'Meeting Abstract',
-        lambda seq: ' '.join(seq),
+        joined,
         ['meeting_abstract']
     ),
     'NR': IsiField(
         'NR',
         'Cited Reference Count',
-        lambda seq: ' '.join(seq),
+        integer,
         ['cited_reference_count']
     ),
     'OI': IsiField(
         'OI',
         'ORCID Identifier (Open Researcher and Contributor ID)',
-        lambda seq: ' '.join(seq),
+        delimited,
         ['orcid_identifier']
     ),
     'P2': IsiField(
         'P2',
         'Chapter count (Book Citation Index)',
-        lambda seq: ' '.join(seq),
+        integer,
         ['chapter_count']
     ),
     'PA': IsiField(
         'PA',
         'Publisher Address',
-        lambda seq: ' '.join(seq),
+        functools.partial(joined, sep='\n'),
         ['publisher_address']
     ),
     'PD': IsiField(
         'PD',
         'Publication Date',
-        lambda seq: ' '.join(seq),
+        joined,
         ['publication_date']
     ),
     'PG': IsiField(
         'PG',
         'Page Count',
-        lambda seq: ' '.join(seq),
+        integer,
         ['page_count']
     ),
     'PI': IsiField(
         'PI',
         'Publisher City',
-        lambda seq: ' '.join(seq),
+        joined,
         ['publisher_city']
     ),
     'PM': IsiField(
         'PM',
         'PubMed ID',
-        lambda seq: ' '.join(seq),
+        joined,
         ['pubmed_id']
     ),
     'PN': IsiField(
         'PN',
         'Part Number',
-        lambda seq: ' '.join(seq),
+        joined,
         ['part_number']
     ),
     'PT': IsiField(
         'PT',
         'Publication Type (J=Journal; B=Book; S=Series; P=Patent)',
-        lambda seq: ' '.join(seq),
+        joined,
         ['publication_type']
     ),
     'PU': IsiField(
         'PU',
         'Publisher',
-        lambda seq: ' '.join(seq),
+        joined,
         ['publisher']
     ),
     'PY': IsiField(
         'PY',
         'Year Published',
-        lambda seq: ' '.join(seq),
+        integer,
         ['year_published']
     ),
     'RI': IsiField(
         'RI',
         'ResearcherID Number',
-        lambda seq: ' '.join(seq),
+        delimited,
         ['researcherid_number']
     ),
     'RP': IsiField(
         'RP',
         'Reprint Address',
-        lambda seq: ' '.join(seq),
+        joined,
         ['reprint_address']
     ),
     'SC': IsiField(
         'SC',
         'Research Areas',
-        lambda seq: ' '.join(seq),
+        delimited,
         ['research_areas']
     ),
     'SE': IsiField(
         'SE',
         'Book Series Title',
-        lambda seq: ' '.join(seq),
+        joined,
         ['book_series_title']
     ),
     'SI': IsiField(
         'SI',
         'Special Issue',
-        lambda seq: ' '.join(seq),
+        joined,
         ['special_issue']
     ),
     'SN': IsiField(
         'SN',
         'International Standard Serial Number (ISSN)',
-        lambda seq: ' '.join(seq),
+        joined,
         ['issn']
     ),
     'SO': IsiField(
         'SO',
         'Publication Name',
-        lambda seq: ' '.join(seq),
+        joined,
         ['publication_name']
     ),
     'SP': IsiField(
         'SP',
         'Conference Sponsors',
-        lambda seq: ' '.join(seq),
+        functools.partial(delimited, delim=', '),
         ['conference_sponsors']
     ),
     'SU': IsiField(
         'SU',
         'Supplement',
-        lambda seq: ' '.join(seq),
+        joined,
         ['supplement']
     ),
     'TC': IsiField(
         'TC',
         'Web of Science Core Collection Times Cited Count',
-        lambda seq: ' '.join(seq),
-        ['wos_times_cited_count']
+        integer,
+        ['wos_times_cited_count', 'wos_times_cited']
     ),
     'TI': IsiField(
         'TI',
         'Document Title',
-        lambda seq: ' '.join(seq),
+        joined,
         ['title']
     ),
     'U1': IsiField(
         'U1',
         'Usage Count (Last 180 Days)',
-        lambda seq: ' '.join(seq),
+        integer,
         ['usage_count']
     ),
     'U2': IsiField(
         'U2',
         'Usage Count (Since 2013)',
-        lambda seq: ' '.join(seq),
+        integer,
         ['usage_count']
     ),
     'UT': IsiField(
         'UT',
         'Unique Article Identifier',
-        lambda seq: ' '.join(seq),
+        joined,
         ['unique_article_identifier']
     ),
     'VL': IsiField(
         'VL',
         'Volume',
-        lambda seq: ' '.join(seq),
+        joined,
         ['volume']
     ),
     'WC': IsiField(
         'WC',
         'Web of Science Categories',
-        lambda seq: ' '.join(seq),
+        delimited,
         ['web_of_science_categories']
     ),
     'Z9': IsiField(
         'Z9',
         'Total Times Cited Count (WoS Core, BCI, and CSCD)',
-        lambda seq: ' '.join(seq),
-        ['total_times_cited_count']
+        integer,
+        ['total_times_cited_count', 'times_cited']
     ),
 }
+
+
+def preprocess(raw_dict):
+    processed_data = {}
+    for key, seq in raw_dict.items():
+        if key in FIELDS:
+            field = FIELDS[key]
+            parsed = field.parse(seq)
+            processed_data[key] = parsed
+            for alias in field.aliases:
+                processed_data[alias] = parsed
+        else:
+            processed_data[key] = ' '.join(seq)
+    return processed_data

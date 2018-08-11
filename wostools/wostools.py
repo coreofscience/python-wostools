@@ -7,7 +7,7 @@ import glob
 import itertools
 import re
 
-from wostools.fields import FIELDS
+from wostools.fields import preprocess
 
 
 def popular(iterable, limit):
@@ -34,20 +34,6 @@ def article_text_to_dict(article_text: str):
         if not field.isspace() and field != 'ER':
             data[field].append(value)
     return dict(data)
-
-
-def preprocess(raw_dict):
-    processed_data = {}
-    for key, seq in raw_dict.items():
-        if key in FIELDS:
-            field = FIELDS[key]
-            parsed = field.parse(seq)
-            processed_data[key] = parsed
-            for alias in field.aliases:
-                processed_data[alias] = parsed
-        else:
-            processed_data[key] = ' '.join(seq)
-    return processed_data
 
 
 class WosToolsError(Exception):

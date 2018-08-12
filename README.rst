@@ -23,6 +23,10 @@ Translates isi web of knowledge files into python objects.
 Quickstart
 ----------
 
+Install the library by:
+
+    $ pip install wostools
+
 Say you want to grab the title of all the articles in an isi file, you can grab
 `this example file`_.
 
@@ -30,10 +34,17 @@ Say you want to grab the title of all the articles in an isi file, you can grab
     >>> collection = CollectionLazy('docs/examples/bit-pattern-savedrecs.txt')
     >>> for article in collection.articles:
     ...     print(article.TI)
-    # ['Structural control of ultra-fine CoPt nanodot arrays via', 'electrodeposition process']
-    # ['Porphyrin-based Pt/Pd-containing metallopolymers: Synthesis,', 'characterization, optical property and potential application in', 'bioimaging']
-    # ['Syntheses and Controllable Self-Assembly of Luminescence Platinum(II)', 'Plane-Coil Diblock Copolymers']
+    # Structural control of ultra-fine CoPt nanodot arrays via electrodeposition process
+    # Porphyrin-based Pt/Pd-containing metallopolymers: Synthesis, characterization, optical property and potential application in bioimaging
+    # Syntheses and Controllable Self-Assembly of Luminescence Platinum(II) Plane-Coil Diblock Copolymers
     # ...
+
+Never fear wostools cli is here. To help you do some common tasks right from
+your terminal.
+
+    $ wostools --help
+    $ # To build a citation graph full with properties
+    $ wostools citation-graph docs/examples/bit-pattern-savedrecs.txt output.graphml
 
 Features
 --------
@@ -41,6 +52,7 @@ Features
 * Just parses an isi web of knowledge file and produces a native python object.
 * Through the :code:`CollectionLazy` object it can do this using the minimum
   ammount of memory it can possibly do.
+* It has a cli to generate graphs and analyze stuff for you :smile:
 
 Credits
 -------

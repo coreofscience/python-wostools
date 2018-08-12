@@ -415,9 +415,11 @@ FIELDS = {
     ),
 }
 
+
 def field_aliases():
     for fields in FIELDS.values():
         yield fields.aliases[-1]
+
 
 def preprocess(raw_dict):
     processed_data = {}

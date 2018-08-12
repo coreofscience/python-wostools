@@ -3,6 +3,7 @@
 language: python
 python:
   - 3.6
+  - 3.7
 
 # Command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
 install: pip install -U tox-travis
@@ -19,7 +20,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: odarbelaeze
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: w9KxhyHxZq2HbWsjA/TutcgCsBKhEJQaTLOmFS82e0zZOS5vTuLAQ5dS89CeSwH8vS/whJkgdQcSwCoHQw/g72o+G7ndw6moxQz4wZKUnhh9Ls4EjCDiHM/jDl3rnZzduNzZbMl0TFTG8nw62OvwJIzmjelkvsN+DXy0Oa4hob+I4pEEvhvubvLcemxz+BCIKB+v24mD+t1OFUfkB1bxygA9ekzfRFxOHYR/ZJbwZM7J1+hEhyhsLiVBYDYU5Abx46R34x3OxS98suoW1wGeZMPi4tqBy2hYVZjhJGMAP+aIle3RgS6ld69w/R76RWggW1TDj1UYhMo6LUD77+6A5nHmSab8PEAGiP1pfrU8LDesZyv11Xrfd62Pf+jgbV/1BXnHamOG2YV07dTRVClo9KEvpvhseQnpL0KL1tQDfFW9Wbk2zFFNuhNlLBd6ER0EIu0wpuEvBOCweNnFYyQKYellMPon3P6ljPgNy2Qn1YCRlWVzCoumBpy49ej69DhT0Kt0Bi4VBf7dKAp6ETQFHSiSsJiPm3qY+DQg9UZ5KKSy1wwWd8mo5DvbVjC67uSmF5N4ap+OFhjUQBrcaqsF0/wpO87bse8hScU8e8LAKDzl9UKcyN9USZl0BY2TTTlHqeYiP7FwfJPU421kcd/lNo/Hu6tJBYboQi5MnmkbFug=
   on:
     tags: true
     repo: coreofscience/wostools

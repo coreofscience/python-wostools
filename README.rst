@@ -27,7 +27,7 @@ Install the library by:
 
 .. code-block: bash
 
-    \$ pip install wostools
+    !$ pip install wostools
 
 Say you want to grab the title of all the articles in an isi file, you can grab
 `this example file`_.
@@ -48,9 +48,9 @@ your terminal.
 
 .. code-block: bash
 
-    \$ wostools --help
-    \$ # To build a citation graph full with properties
-    \$ wostools citation-graph docs/examples/bit-pattern-savedrecs.txt output.graphml
+    !$ wostools --help
+    !$ # To build a citation graph full with properties
+    !$ wostools citation-graph docs/examples/bit-pattern-savedrecs.txt output.graphml
 
 Features
 --------

@@ -27,30 +27,30 @@ Install the library by:
 
 .. code-block: bash
 
-    !$ pip install wostools
+   $ pip install wostools
 
 Say you want to grab the title of all the articles in an isi file, you can grab
 `this example file`_.
 
 .. code-block: python
 
-    >>> from wostools import CollectionLazy
-    >>> collection = CollectionLazy('docs/examples/bit-pattern-savedrecs.txt')
-    >>> for article in collection.articles:
-    ...     print(article.TI)
-    # Structural control of ultra-fine CoPt nanodot arrays via electrodeposition process
-    # Porphyrin-based Pt/Pd-containing metallopolymers: Synthesis, characterization, optical property and potential application in bioimaging
-    # Syntheses and Controllable Self-Assembly of Luminescence Platinum(II) Plane-Coil Diblock Copolymers
-    # ...
+   >>> from wostools import CollectionLazy
+   >>> collection = CollectionLazy('docs/examples/bit-pattern-savedrecs.txt')
+   >>> for article in collection.articles:
+   ...     print(article.TI)
+   Structural control of ultra-fine CoPt nanodot arrays via electrodeposition process
+   Porphyrin-based Pt/Pd-containing metallopolymers: Synthesis, characterization, optical property and potential application in bioimaging
+   Syntheses and Controllable Self-Assembly of Luminescence Platinum(II) Plane-Coil Diblock Copolymers
+   # ...
 
 Never fear wostools cli is here. To help you do some common tasks right from
 your terminal.
 
 .. code-block: bash
 
-    !$ wostools --help
-    !$ # To build a citation graph full with properties
-    !$ wostools citation-graph docs/examples/bit-pattern-savedrecs.txt output.graphml
+   $ wostools --help
+   $ # To build a citation graph full with properties
+   $ wostools citation-graph docs/examples/bit-pattern-savedrecs.txt output.graphml
 
 Features
 --------

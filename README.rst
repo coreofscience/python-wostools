@@ -25,10 +25,14 @@ Quickstart
 
 Install the library by:
 
+.. code-block: bash
+
     $ pip install wostools
 
 Say you want to grab the title of all the articles in an isi file, you can grab
 `this example file`_.
+
+.. code-block: python
 
     >>> from wostools import CollectionLazy
     >>> collection = CollectionLazy('docs/examples/bit-pattern-savedrecs.txt')
@@ -41,6 +45,8 @@ Say you want to grab the title of all the articles in an isi file, you can grab
 
 Never fear wostools cli is here. To help you do some common tasks right from
 your terminal.
+
+.. code-block: bash
 
     $ wostools --help
     $ # To build a citation graph full with properties

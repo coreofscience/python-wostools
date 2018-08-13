@@ -13,6 +13,9 @@ Python WoS tools
         :target: https://python-wostools.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://zenodo.org/badge/94160457.svg
+   :target: https://zenodo.org/badge/latestdoi/94160457
+   :alt: DOI: 10.5281/zenodo.1344261
 
 Translates isi web of knowledge files into python objects.
 

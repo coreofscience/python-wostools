@@ -1,0 +1,32 @@
+{
+    "description": "Translates isi web of knowledge files into python objects.",
+    "license": "MIT",
+    "title": "coreofscience/python-wostools: Add citation graph support",
+    "version": "v0.2.0",
+    "upload_type": "software",
+    "publication_date": "2018-08-13",
+    "creators": [
+        {
+            "orcid": "0000-0002-3097-9438",
+            "affiliation": "Core of science",
+            "name": "Oscar David Arbeláe1ez E."
+        },
+        {
+            "name": "Daniel Stiven Valencia Hernandez",
+            "affiliation": "Core of science"
+        }
+    ],
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/coreofscience/python-wostools/tree/v0.2.0",
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.1344260",
+            "relation": "isVersionOf"
+        }
+    ]
+}

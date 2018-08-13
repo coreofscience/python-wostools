@@ -2,12 +2,14 @@
 The whole wostools thing.
 """
 
+import networkx as nx
+
 import collections
 import glob
 import itertools
 import re
 
-from wostools.fields import preprocess
+from wostools.fields import preprocess, field_aliases
 
 
 def popular(iterable, limit):
@@ -59,7 +61,6 @@ class Article(object):
                 f'{self.__class__.__name__} does not have an attribute {name}'
             )
         return self._processed_data[name]
-
 
     def __hasattr__(self, name):
         return name in self._data
@@ -168,3 +169,23 @@ class CollectionLazy(object):
             for key in article.keys():
                 counters[key] += 1
         return {key: val/total for key, val in counters.items()}
+
+    def to_graph(self):
+        adjacency = [
+            (article.label, citation)
+            for article in self.articles
+            for citation in article.references
+        ]
+        g = nx.Graph()
+        g.add_edges_from(adjacency)
+        for alias in field_aliases():
+            attributes = {
+                article.label: article._processed_data.get(alias, '')
+                for article in self.articles
+            }
+            attributes = {
+                label: ';'.join(value) if isinstance(value, list) else value
+                for label, value in attributes.items()
+            }
+            nx.set_node_attributes(g, attributes, alias)
+        return g

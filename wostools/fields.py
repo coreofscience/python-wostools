@@ -416,8 +416,14 @@ FIELDS = {
 }
 
 
+def field_aliases():
+    for fields in FIELDS.values():
+        yield fields.aliases[-1]
+
+
 def preprocess(raw_dict):
     processed_data = {}
+    raw_dict.setdefault('CR', [])
     for key, seq in raw_dict.items():
         if key in FIELDS:
             field = FIELDS[key]

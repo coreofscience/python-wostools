@@ -1,6 +1,9 @@
 """Tests for `wostools` package."""
 
+from click.testing import CliRunner
+
 from wostools import CollectionLazy
+from wostools import cli
 
 
 def test_collection():
@@ -29,3 +32,14 @@ def test_aliases(article):
 def test_parsers(article):
     assert article.year_published == 2017
     assert article.beginning_page == '52'
+
+
+def test_command_line_interface():
+    """Test the CLI."""
+    runner = CliRunner()
+    result = runner.invoke(cli.main)
+    assert result.exit_code == 0
+    assert 'A little cli for wos tools' in result.output
+    help_result = runner.invoke(cli.main, ['--help'])
+    assert help_result.exit_code == 0
+    assert '--help  Show this message and exit.' in help_result.output

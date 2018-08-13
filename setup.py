@@ -10,7 +10,7 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = [ ]
+requirements = ['networkx>=2.0,<3.0', 'click>=6.7,<7.0']
 
 setup_requirements = ['pytest-runner', ]
 
@@ -27,6 +27,11 @@ setup(
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
     ],
+    entry_points={
+        'console_scripts': [
+            'wostools=wostools.cli:main',
+        ],
+    },
     description="Translates isi web of knowledge files into python objects.",
     install_requires=requirements,
     license="MIT license",

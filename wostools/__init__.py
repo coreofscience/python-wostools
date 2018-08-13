@@ -2,7 +2,7 @@
 
 __author__ = """Core of Science"""
 __email__ = 'dev@coreofscience.com'
-__version__ = '0.2.0'
+__version__ = '0.2.1'
 
 from wostools.wostools import CollectionLazy, WosToolsError, Article
 

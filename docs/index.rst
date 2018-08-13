@@ -1,5 +1,5 @@
 Welcome to Python WoS tools's documentation!
-======================================
+============================================
 
 .. toctree::
    :maxdepth: 2

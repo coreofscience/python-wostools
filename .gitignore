@@ -103,3 +103,10 @@ ENV/
 
 # scratch yrself
 scratch/
+
+# pipenv files
+Pipfile
+Pipfile.lock
+
+# data folder
+data/

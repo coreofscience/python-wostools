@@ -110,3 +110,6 @@ Pipfile.lock
 
 # data folder
 data/
+
+# vscode folder
+.vscode

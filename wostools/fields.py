@@ -422,6 +422,24 @@ def field_aliases():
 
 
 def preprocess(raw_dict):
+    """Preprocesses a dictionary, with information about WoS field tags and its
+        value according to a article, with some parser functions that depends on
+        the field tag. If there is no a CR field, it adds one to the output with
+        an empty list as value. Finally, the field aliases are also appended as
+        keys.
+
+        http://wos-resources.roblib.upei.ca/WOK46/help/WOK/hft_wos.html
+
+    Args:
+        raw_dict (dict): Dictionary where the keys are WoS field tags and the
+            values are those corresponding to that field tag.
+
+    Returns:
+        dict: A dict with the same structure of the raw_input but the values are
+            preprocessed according to some functions that depend on the field
+            tag. Those functions were designed based on the field tad value 
+            structure.
+    """
     processed_data = {}
     raw_dict.setdefault('CR', [])
     for key, seq in raw_dict.items():

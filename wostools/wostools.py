@@ -20,8 +20,15 @@ def popular(iterable, limit):
 
 
 def article_text_to_dict(article_text: str):
-    """
-    Translates an article text into a dict.
+    """Translates an article text into a dict using the WoS field tags: 
+            http://wos-resources.roblib.upei.ca/WOK46/help/WOK/hft_wos.html
+
+    Args:
+        article_text (str): String with the text of the record for an article.
+
+    Returns:
+        dict: A dict where the keys are the Web of Science Field Tags and the
+            values are the content of the passed article.
     """
     # Fix little bug with isi files
     if article_text.startswith("null"):

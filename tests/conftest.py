@@ -7,8 +7,8 @@ from wostools import Article
 import pytest
 
 
-@pytest.fixture()
+@pytest.fixture
 def article():
-    article_file = open('docs/examples/single-article.txt')
-    article_text = article_file.read()
+    with open("docs/examples/single-article.txt") as article_file:
+        article_text = article_file.read()
     return Article(article_text)

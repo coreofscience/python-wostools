@@ -58,7 +58,13 @@ class WosToolsError(Exception):
 
 class Article(object):
     """
-    Abstract a WOS article.
+    Abstract a WoS article. It creates some structures to manage the data
+        related to an article. All the fields could be called as attributes.
+        Finally, it contains a method to return a sanitized (and hope unique)
+        label. 
+
+    Args:
+        article_text (str): A string containing the record for a WoS article.
     """
 
     def __init__(self, article_text):
@@ -73,11 +79,25 @@ class Article(object):
             )
         return self._processed_data[name]
 
-    def __hasattr__(self, name):
-        return name in self._data
-
     @property
     def label(self):
+        """Builds a label using the fields ["AU", "PY", "J9", "VL", "PG", "DI"].
+            It raises an error if those fields are not in the article. Finally,
+            cnoverts that label to lower.
+        
+        Returns:
+            str: A label with those required fields separated by a comma and 
+                converted to lower.
+        """
+
+        required_fields = ["AU", "PY", "J9", "VL", "PG", "DI"]
+        for field in required_fields:
+            if field not in self._data:
+                raise Exception(
+                    "It is not possible to build the label because "
+                    "this article does not have all the required fields: " + field
+                )
+
         fields_normalizers = {
             "AU": lambda au: au[0].replace(",", ""),
             "PY": lambda py: py[0],
@@ -86,12 +106,14 @@ class Article(object):
             "PG": lambda pg: f"P{pg[0]}",
             "DI": lambda di: f"DOI {di[0]}",
         }
+
         normalized_fields = [
             normalizer(self._data[field])
             for field, normalizer in fields_normalizers.items()
-            if self._data.get(field)
+            if self._data[field]
         ]
-        label = ", ".join(normalized_fields)
+
+        label = ", ".join(normalized_fields).lower()
         return label
 
 

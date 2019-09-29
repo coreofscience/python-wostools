@@ -152,9 +152,8 @@ class CollectionLazy(object):
         for filehandle in self.files:
             data = filehandle.read()
             for article_text in data.split("\n\n")[1:]:
-                if article_text == "EF":
-                    continue
-                yield article_text
+                if article_text != "EF":
+                    yield article_text
 
     @property
     def articles(self):

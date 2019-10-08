@@ -23,4 +23,4 @@ def citation_graph(source, output):
     collection = CollectionLazy(*[f.name for f in source])
     graph = collection.to_graph()
     networkx.write_graphml(graph, output.name)
-    click.echo(click.style(f"Graph successfuly written to {output.name}", fg="green"))
+    click.secho(f"Graph successfuly written to {output.name}", fg="green")

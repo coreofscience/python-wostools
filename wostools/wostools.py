@@ -99,16 +99,21 @@ class Article(object):
         normalized_fields = [
             normalizer(self._data[field])
             for field, normalizer in fields_normalizers.items()
-            if self._data[field]
+            if self._data.get(field)
         ]
 
         label = ", ".join(normalized_fields)
         return label
 
+    def __repr__(self):
+        return self.label
+
 
 class CollectionLazy(object):
-    """
-    A collection of WOS text files.
+    """A collection of WOS text files.
+
+    Args:
+        *filenames (str): Strings with the names of the files containing articles.
     """
 
     def __init__(self, *filenames):
@@ -116,15 +121,22 @@ class CollectionLazy(object):
 
     @classmethod
     def from_glob(cls, pattern):
-        """
-        Creates a new collection from a pattern using glob.
+        """Creates a new collection from a pattern using glob.
+        
+        Args:
+            pattern (str): String with the patter to be passed to glob.
+        
+        Returns:
+            CollectionLazy: Collection with the articles by using the pattern.
         """
         return cls(*glob.glob(pattern))
 
     @property
     def files(self):
-        """
-        Iterates over all files in the collection
+        """Iterates over all files in the collection
+        
+        Returns:
+            generator: A generator of stream files.
         """
         for filename in self.filenames:
             try:
@@ -135,35 +147,46 @@ class CollectionLazy(object):
 
     @property
     def article_texts(self):
-        """
-        Iterates over all the single article texts in the colection.
+        """Iterates over all the single article texts in the colection.
+        
+        Returns:
+            generator: A generator of strings with the text articles.
         """
         for filehandle in self.files:
             data = filehandle.read()
+            # TODO: error, why are we starting from 1 ?
             for article_text in data.split("\n\n")[1:]:
                 if article_text != "EF":
                     yield article_text
 
     @property
     def articles(self):
-        """
-        Iterates over all articles.
+        """Iterates over all articles.
+
+        Returns:
+            generator: A generator of Articles according to the text articles.
         """
         for article_text in self.article_texts:
             yield Article(article_text)
 
     @property
     def authors(self):
-        """
-        Iterates over all article authors, including duplicates
+        """Iterates over all article authors, including duplicates
+
+        Returns:
+            generator: A generator with the authors (one by one) of the
+                articles in the collection.
         """
         authors = (article.AF for article in self.articles if hasattr(article, "AF"))
         return itertools.chain(*authors)
 
     @property
     def coauthors(self):
-        """
-        Iterates over coauthor pairs.
+        """Iterates over coauthor pairs.
+
+        Returns:
+            generator: A generator with the pair of coauthors of the articles
+                in the collections.
         """
         authors_by_article = (
             article.AF for article in self.articles if hasattr(article, "AF")

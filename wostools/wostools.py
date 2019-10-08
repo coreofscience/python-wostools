@@ -237,7 +237,7 @@ class CollectionLazy(object):
             for article in self.articles
             for citation in article.references
         ]
-        g = nx.Graph()
+        g = nx.DiGraph()
         g.add_edges_from(adjacency)
         for alias in field_aliases():
             attributes = {

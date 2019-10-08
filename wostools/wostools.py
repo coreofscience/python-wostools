@@ -108,6 +108,9 @@ class Article(object):
     def __repr__(self):
         return self.label
 
+    def keys(self):
+        return self._data.keys()
+
 
 class CollectionLazy(object):
     """A collection of WOS text files.
@@ -198,9 +201,17 @@ class CollectionLazy(object):
             )
         )
 
-    def completeness(self, key=None):
-        """
-        Computes the completeness of the collection by key.
+    def completeness(self):
+        """Computes the completeness of the collection by key.
+
+        Returns:
+            dict: A dictionary where the keys are strings corresponding to the
+                WoS field tags and the values are the ratio between the articles
+                containing that field and the total number of articles. E.g., if
+                all the articles contain the field AF, the completeness for the
+                tag AF is 1. On the other hand, e.g., if the half of the articles
+                contain the tag DI while the other half do not, the completeness
+                for the tag DI is 0.5.
         """
         counters = collections.defaultdict(int)
         total = 0

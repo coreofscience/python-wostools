@@ -82,21 +82,10 @@ class Article(object):
     @property
     def label(self):
         """Builds a label using the fields ["AU", "PY", "J9", "VL", "PG", "DI"].
-            It raises an error if those fields are not in the article. Finally,
-            cnoverts that label to lower.
         
         Returns:
-            str: A label with those required fields separated by a comma and 
-                converted to lower.
+            str: A label with those required fields separated by a comma.
         """
-
-        required_fields = ["AU", "PY", "J9", "VL", "PG", "DI"]
-        for field in required_fields:
-            if field not in self._data:
-                raise Exception(
-                    "It is not possible to build the label because "
-                    "this article does not have all the required fields: " + field
-                )
 
         fields_normalizers = {
             "AU": lambda au: au[0].replace(",", ""),
@@ -113,7 +102,7 @@ class Article(object):
             if self._data[field]
         ]
 
-        label = ", ".join(normalized_fields).lower()
+        label = ", ".join(normalized_fields)
         return label
 
 

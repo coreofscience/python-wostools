@@ -20,7 +20,7 @@ def test_article_label(article):
     Test label value of article.
     """
     assert article.label == (
-        "wodarz s, 2017, j magn magn mater, v430, p7, doi 10.1016/j.jmmm.2017.01.061"
+        "Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061"
     )
 
 

@@ -158,7 +158,8 @@ class CollectionLazy(object):
         for filehandle in self.files:
             data = filehandle.read()
             # TODO: error, why are we starting from 1 ?
-            for article_text in data.split("\n\n")[1:]:
+            # for article_text in data.split("\n\n")[1:]:
+            for article_text in data.split("\n\n"):
                 if article_text != "EF":
                     yield article_text
 
@@ -222,6 +223,15 @@ class CollectionLazy(object):
         return {key: val / total for key, val in counters.items()}
 
     def to_graph(self):
+        """Computes the graph for the articles in the collection.
+
+        Returns:
+            networkx.Graph: A graph for the articles in the collection. The nodes
+                are computed by using the Article `label` property (it is 
+                supposed to be unique and it seems, as much as possible, to the
+                cited references format). Also, the graph contains the whole
+                information saved as attributes.
+        """
         adjacency = [
             (article.label, citation)
             for article in self.articles
@@ -235,7 +245,7 @@ class CollectionLazy(object):
                 for article in self.articles
             }
             attributes = {
-                label: ";".join(value) if isinstance(value, list) else value
+                label: "; ".join(value) if isinstance(value, list) else value
                 for label, value in attributes.items()
             }
             nx.set_node_attributes(g, attributes, alias)

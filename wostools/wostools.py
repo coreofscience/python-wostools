@@ -176,7 +176,7 @@ class CollectionLazy(object):
             article = Article(article_text)
             if article.label not in uniques:
                 uniques.add(article.label)
-                yield a
+                yield article
             else:
                 continue
 

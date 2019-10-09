@@ -10,7 +10,7 @@ with open("README.rst") as readme_file:
 with open("HISTORY.rst") as history_file:
     history = history_file.read()
 
-requirements = ["networkx>=2.0,<3.0", "Click>=6.7,<=7.0"]
+requirements = ["networkx>=2.0,<3.0", "Click>=7.0"]
 
 setup_requirements = ["pytest-runner"]
 

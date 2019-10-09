@@ -20,7 +20,7 @@ def popular(iterable, limit):
 
 
 def article_text_to_dict(article_text: str):
-    """Translates an article text into a dict using the WoS field tags: 
+    """Translates an article text into a dict using the WoS field tags:
             http://wos-resources.roblib.upei.ca/WOK46/help/WOK/hft_wos.html
 
     Args:
@@ -61,7 +61,7 @@ class Article(object):
     Abstract a WoS article. It creates some structures to manage the data
         related to an article. All the fields could be called as attributes.
         Finally, it contains a method to return a sanitized (and hope unique)
-        label. 
+        label.
 
     Args:
         article_text (str): A string containing the record for a WoS article.
@@ -82,7 +82,7 @@ class Article(object):
     @property
     def label(self):
         """Builds a label using the fields ["AU", "PY", "J9", "VL", "PG", "DI"].
-        
+
         Returns:
             str: A label with those required fields separated by a comma.
         """
@@ -116,7 +116,8 @@ class CollectionLazy(object):
     """A collection of WOS text files.
 
     Args:
-        *filenames (str): Strings with the names of the files containing articles.
+        *filenames (str): Strings with the names of the files containing
+            articles.
     """
 
     def __init__(self, *filenames):
@@ -125,10 +126,10 @@ class CollectionLazy(object):
     @classmethod
     def from_glob(cls, pattern):
         """Creates a new collection from a pattern using glob.
-        
+
         Args:
             pattern (str): String with the patter to be passed to glob.
-        
+
         Returns:
             CollectionLazy: Collection with the articles by using the pattern.
         """
@@ -137,7 +138,7 @@ class CollectionLazy(object):
     @property
     def files(self):
         """Iterates over all files in the collection
-        
+
         Returns:
             generator: A generator of stream files.
         """
@@ -151,7 +152,7 @@ class CollectionLazy(object):
     @property
     def article_texts(self):
         """Iterates over all the single article texts in the colection.
-        
+
         Returns:
             generator: A generator of strings with the text articles.
         """
@@ -227,7 +228,7 @@ class CollectionLazy(object):
 
         Returns:
             networkx.Graph: A graph for the articles in the collection. The nodes
-                are computed by using the Article `label` property (it is 
+                are computed by using the Article `label` property (it is
                 supposed to be unique and it seems, as much as possible, to the
                 cited references format). Also, the graph contains the whole
                 information saved as attributes.

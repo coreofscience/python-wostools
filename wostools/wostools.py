@@ -136,7 +136,7 @@ class CollectionLazy(object):
         return cls(*glob.glob(pattern))
 
     @property
-    def files(self):
+    def __files(self):
         """Iterates over all files in the collection
 
         Returns:
@@ -150,13 +150,13 @@ class CollectionLazy(object):
                 raise WosToolsError(f"The file {filename} was not found")
 
     @property
-    def article_texts(self):
+    def __article_texts(self):
         """Iterates over all the single article texts in the colection.
 
         Returns:
             generator: A generator of strings with the text articles.
         """
-        for filehandle in self.files:
+        for filehandle in self.__files:
             data = filehandle.read()
             # TODO: error, why are we starting from 1 ?
             # for article_text in data.split("\n\n")[1:]:
@@ -171,8 +171,14 @@ class CollectionLazy(object):
         Returns:
             generator: A generator of Articles according to the text articles.
         """
-        for article_text in self.article_texts:
-            yield Article(article_text)
+        uniques = set()
+        for article_text in self.__article_texts:
+            article = Article(article_text)
+            if article.label not in uniques:
+                uniques.add(article.label)
+                yield a
+            else:
+                continue
 
     @property
     def authors(self):

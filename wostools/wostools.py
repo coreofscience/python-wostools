@@ -120,34 +120,49 @@ class CollectionLazy(object):
             articles.
     """
 
-    def __init__(self, *filenames):
-        self.filenames = filenames
+    def __init__(self, *files):
+        self.__files = files
 
     @classmethod
     def from_glob(cls, pattern):
         """Creates a new collection from a pattern using glob.
 
         Args:
-            pattern (str): String with the patter to be passed to glob.
+            pattern (str): String with the pattern to be passed to glob.
 
         Returns:
             CollectionLazy: Collection with the articles by using the pattern.
         """
         return cls(*glob.glob(pattern))
 
+    @classmethod
+    def from_filenames(cls, *filenames):
+        """Creates a new collection from a list of filenames.
+
+        Args:
+            *filenames (str): String with the filename.
+
+        Returns:
+            CollectionLazy: Collection with the articles by reading the
+                filenames.
+        """
+        files = []
+        for filename in filenames:
+            try:
+                files.append(open(filename))
+            except FileNotFoundError:
+                raise WosToolsError(f"The file {filename} was not found")
+        return cls(*files)
+
     @property
-    def __files(self):
+    def files(self):
         """Iterates over all files in the collection
 
         Returns:
             generator: A generator of stream files.
         """
-        for filename in self.filenames:
-            try:
-                with open(filename) as filehandle:
-                    yield filehandle
-            except FileNotFoundError:
-                raise WosToolsError(f"The file {filename} was not found")
+        for filehandle in self.__files:
+            yield filehandle
 
     @property
     def __article_texts(self):
@@ -156,7 +171,7 @@ class CollectionLazy(object):
         Returns:
             generator: A generator of strings with the text articles.
         """
-        for filehandle in self.__files:
+        for filehandle in self.files:
             data = filehandle.read()
             # TODO: error, why are we starting from 1 ?
             # for article_text in data.split("\n\n")[1:]:

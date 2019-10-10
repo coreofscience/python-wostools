@@ -10,7 +10,9 @@ def test_collection():
     """
     Just kinda an end to end test.
     """
-    collection = CollectionLazy("docs/examples/bit-pattern-savedrecs.txt")
+    collection = CollectionLazy.from_filenames(
+        "docs/examples/bit-pattern-savedrecs.txt"
+    )
     for article in collection.articles:
         assert article.TI
 

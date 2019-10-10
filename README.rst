@@ -3,21 +3,27 @@ Python WoS tools
 ================
 
 
+.. image:: https://pyup.io/repos/github/coreofscience/python-wostools/shield.svg
+     :target: https://pyup.io/repos/github/coreofscience/python-wostools/
+     :alt: Updates
+
 .. image:: https://img.shields.io/pypi/v/wostools.svg
-        :target: https://pypi.python.org/pypi/wostools
+    :target: https://pypi.python.org/pypi/wostools
 
 .. image:: https://img.shields.io/travis/coreofscience/python-wostools.svg
-        :target: https://travis-ci.org/coreofscience/python-wostools
+    :target: https://travis-ci.org/coreofscience/python-wostools
 
 .. image:: https://readthedocs.org/projects/python-wostools/badge/?version=latest
-        :target: https://python-wostools.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
+    :target: https://python-wostools.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
 .. image:: https://zenodo.org/badge/94160457.svg
    :target: https://zenodo.org/badge/latestdoi/94160457
    :alt: DOI: 10.5281/zenodo.1344261
 
 Translates isi web of knowledge files into python objects.
+
+
 
 * Free software: MIT license
 * Documentation: https://python-wostools.readthedocs.io.

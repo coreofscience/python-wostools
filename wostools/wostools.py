@@ -68,6 +68,9 @@ class Article(object):
     """
 
     def __init__(self, article_text):
+        if article_text.startswith("FN"):
+            article_text = "\n".join(article_text.split("\n")[2:])
+
         self._article_text = article_text
         self._data = article_text_to_dict(article_text)
         self._processed_data = preprocess(self._data)
@@ -122,6 +125,8 @@ class CollectionLazy(object):
 
     def __init__(self, *files):
         self.__files = files
+        for file in self.__files:
+            file.seek(0)
 
     @classmethod
     def from_glob(cls, pattern):
@@ -149,7 +154,7 @@ class CollectionLazy(object):
         files = []
         for filename in filenames:
             try:
-                files.append(open(filename))
+                files.append(open(filename, encoding="utf-8-sig"))
             except FileNotFoundError:
                 raise WosToolsError(f"The file {filename} was not found")
         return cls(*files)
@@ -173,6 +178,7 @@ class CollectionLazy(object):
         """
         for filehandle in self.files:
             data = filehandle.read()
+            filehandle.seek(0)
             # TODO: error, why are we starting from 1 ?
             # for article_text in data.split("\n\n")[1:]:
             for article_text in data.split("\n\n"):

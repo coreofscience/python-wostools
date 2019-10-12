@@ -68,7 +68,7 @@ FIELDS = {
         ["book_digital_object_identifier"],
     ),
     "ED": IsiField("ED", "Editors", ident, ["editors"]),
-    "EM": IsiField("EM", "E-mail Address", ident, ["e-mail_address"]),
+    "EM": IsiField("EM", "E-mail Address", ident, ["email_address"]),
     "EI": IsiField(
         "EI",
         "Electronic International Standard Serial Number (eISSN)",

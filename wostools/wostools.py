@@ -19,35 +19,6 @@ def popular(iterable, limit):
     return collections.Counter(iterable).most_common(limit)
 
 
-def article_text_to_dict(article_text: str):
-    """Translates an article text into a dict using the WoS field tags:
-            http://wos-resources.roblib.upei.ca/WOK46/help/WOK/hft_wos.html
-
-    Args:
-        article_text (str): String with the text of the record for an article.
-
-    Returns:
-        dict: A dict where the keys are the Web of Science Field Tags and the
-            values are the content of the passed article.
-    """
-    # Fix little bug with isi files
-    if article_text.startswith("null"):
-        article_text = article_text[4:]
-
-    data = collections.defaultdict(list)
-    field = ""
-    for line in re.split(r"\n+", article_text):
-        name = line[:2]
-        value = line[3:]
-
-        if not name.isspace():
-            field = name
-
-        if field != "ER":
-            data[field].append(value)
-    return dict(data)
-
-
 class WosToolsError(Exception):
     """
     All the errors go here.
@@ -71,16 +42,16 @@ class Article(object):
         if article_text.startswith("FN"):
             article_text = "\n".join(article_text.split("\n")[2:])
 
-        self._article_text = article_text
-        self._data = article_text_to_dict(article_text)
-        self._processed_data = preprocess(self._data)
+        self.__article_text = article_text
+        self.__raw_data = Article.__article_text_to_dict(article_text)
+        self.__processed_data = preprocess(self.__raw_data)
 
     def __getattr__(self, name):
-        if name not in self._processed_data:
+        if name not in self.__processed_data:
             raise AttributeError(
                 f"{self.__class__.__name__} does not have an attribute {name}"
             )
-        return self._processed_data[name]
+        return self.__processed_data[name]
 
     @property
     def label(self):
@@ -100,9 +71,9 @@ class Article(object):
         }
 
         normalized_fields = [
-            normalizer(self._data[field])
+            normalizer(self.__raw_data[field])
             for field, normalizer in fields_normalizers.items()
-            if self._data.get(field)
+            if self.__raw_data.get(field)
         ]
 
         label = ", ".join(normalized_fields)
@@ -112,7 +83,52 @@ class Article(object):
         return self.label
 
     def keys(self):
-        return self._data.keys()
+        return self.__raw_data.keys()
+
+    @property
+    def text(self):
+        return self.__article_text
+
+    @property
+    def raw_data(self):
+        return self.__raw_data
+
+    @property
+    def data(self):
+        return self.__processed_data
+
+    @staticmethod
+    def __article_text_to_dict(article_text: str):
+        """Translates an article text into a dict using the WoS field tags:
+                http://wos-resources.roblib.upei.ca/WOK46/help/WOK/hft_wos.html
+
+        Args:
+            article_text (str): String with the text of the record for an article.
+
+        Returns:
+            dict: A dict where the keys are the Web of Science Field Tags and the
+                values are the content of the passed article.
+        """
+
+        if article_text.startswith("FN"):
+            article_text = "\n".join(article_text.split("\n")[2:])
+
+        # Fix little bug with isi files
+        if article_text.startswith("null"):
+            article_text = article_text[4:]
+
+        data = collections.defaultdict(list)
+        field = ""
+        for line in re.split(r"\n+", article_text):
+            name = line[:2]
+            value = line[3:]
+
+            if not name.isspace():
+                field = name
+
+            if field != "ER":
+                data[field].append(value)
+        return dict(data)
 
 
 class CollectionLazy(object):

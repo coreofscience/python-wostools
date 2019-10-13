@@ -6,17 +6,8 @@ from wostools import CollectionLazy
 from wostools import cli
 from wostools import Article
 import pytest
+import io
 
-
-def test_collection():
-    """
-    Just kinda an end to end test.
-    """
-    collection = CollectionLazy.from_filenames(
-        "docs/examples/bit-pattern-savedrecs.txt"
-    )
-    for article in collection.articles:
-        assert isinstance(article, Article)
 
 
 def test_article_label(article):
@@ -700,6 +691,12 @@ def test_article_data(article):
     assert data.get("Z9") == data.get("times_cited")
 
 
+def test_article_properties(article):
+    assert isinstance(article.text, str)
+    assert isinstance(article.raw_data, dict)
+    assert isinstance(article.data, dict)
+
+
 def test_command_line_interface():
     """Test the CLI."""
     runner = CliRunner()
@@ -709,3 +706,29 @@ def test_command_line_interface():
     help_result = runner.invoke(cli.main, ["--help"])
     assert help_result.exit_code == 0
     assert "--help  Show this message and exit." in help_result.output
+
+
+
+def test_collection_from_filenames():
+    collection = CollectionLazy.from_filenames(
+        "docs/examples/bit-pattern-savedrecs.txt"
+    )
+    for article in collection.articles:
+        assert isinstance(article, Article)
+
+    for file in collection.files:
+        assert hasattr(file, "read")
+        assert isinstance(file, (io.StringIO, io.TextIOWrapper))
+        assert file.tell() == 0
+
+def test_collection_from_glob():
+    collection = CollectionLazy.from_glob(
+        "docs/examples/*.txt"
+    )
+    for article in collection.articles:
+        assert isinstance(article, Article)
+
+    for file in collection.files:
+        assert hasattr(file, "read")
+        assert isinstance(file, (io.StringIO, io.TextIOWrapper))
+        assert file.tell() == 0

@@ -9,7 +9,6 @@ import pytest
 import io
 
 
-
 def test_article_label(article):
     """
     Test label value of article.
@@ -708,7 +707,6 @@ def test_command_line_interface():
     assert "--help  Show this message and exit." in help_result.output
 
 
-
 def test_collection_from_filenames():
     collection = CollectionLazy.from_filenames(
         "docs/examples/bit-pattern-savedrecs.txt"
@@ -721,10 +719,9 @@ def test_collection_from_filenames():
         assert isinstance(file, (io.StringIO, io.TextIOWrapper))
         assert file.tell() == 0
 
+
 def test_collection_from_glob():
-    collection = CollectionLazy.from_glob(
-        "docs/examples/*.txt"
-    )
+    collection = CollectionLazy.from_glob("docs/examples/*.txt")
     for article in collection.articles:
         assert isinstance(article, Article)
 
@@ -732,3 +729,165 @@ def test_collection_from_glob():
         assert hasattr(file, "read")
         assert isinstance(file, (io.StringIO, io.TextIOWrapper))
         assert file.tell() == 0
+
+
+def test_collection_from_streams():
+    with open("docs/examples/single-article.txt") as file:
+        _ = file.read()
+
+        collection = CollectionLazy(file)
+        for article in collection.articles:
+            assert isinstance(article, Article)
+
+        for file in collection.files:
+            assert hasattr(file, "read")
+            assert isinstance(file, (io.StringIO, io.TextIOWrapper))
+            assert file.tell() == 0
+
+
+def test_collection_with_duplicated():
+    collection = CollectionLazy.from_filenames(
+        "docs/examples/single-article.txt",
+        "docs/examples/single-article.txt",
+        "docs/examples/single-article.txt",
+    )
+    assert len(list(collection.files)) == 3
+    assert len(list(collection.articles)) == 1
+
+    collection = CollectionLazy.from_filenames(
+        "docs/examples/bit-pattern-savedrecs.txt",
+        "docs/examples/bit-pattern-savedrecs.txt",
+        "docs/examples/bit-pattern-savedrecs.txt",
+    )
+    assert len(list(collection.files)) == 3
+    assert len(list(collection.articles)) == 500
+
+
+def test_collection_authors():
+    collection = CollectionLazy.from_filenames("docs/examples/single-article.txt")
+
+    authors = collection.authors
+    assert next(authors) == "Wodarz, Siggi"
+    assert next(authors) == "Hasegawa, Takashi"
+    assert next(authors) == "Ishio, Shunji"
+    assert next(authors) == "Homma, Takayuki"
+
+
+def test_collection_coauthors():
+    collection = CollectionLazy.from_filenames("docs/examples/single-article.txt")
+
+    coauthors = collection.coauthors
+    assert next(coauthors) == ("Hasegawa, Takashi", "Homma, Takayuki")
+    assert next(coauthors) == ("Hasegawa, Takashi", "Ishio, Shunji")
+    assert next(coauthors) == ("Hasegawa, Takashi", "Wodarz, Siggi")
+    assert next(coauthors) == ("Homma, Takayuki", "Ishio, Shunji")
+    assert next(coauthors) == ("Homma, Takayuki", "Wodarz, Siggi")
+    assert next(coauthors) == ("Ishio, Shunji", "Wodarz, Siggi")
+
+
+def test_collection_completeness_single_article():
+    collection = CollectionLazy.from_filenames("docs/examples/single-article.txt")
+
+    assert collection.completeness() == {
+        "PT": 1,
+        "AU": 1,
+        "AF": 1,
+        "TI": 1,
+        "SO": 1,
+        "LA": 1,
+        "DT": 1,
+        "DE": 1,
+        "ID": 1,
+        "AB": 1,
+        "C1": 1,
+        "RP": 1,
+        "EM": 1,
+        "OI": 1,
+        "FU": 1,
+        "FX": 1,
+        "CR": 1,
+        "NR": 1,
+        "TC": 1,
+        "Z9": 1,
+        "U1": 1,
+        "U2": 1,
+        "PU": 1,
+        "PI": 1,
+        "PA": 1,
+        "SN": 1,
+        "EI": 1,
+        "J9": 1,
+        "JI": 1,
+        "PD": 1,
+        "PY": 1,
+        "VL": 1,
+        "BP": 1,
+        "EP": 1,
+        "DI": 1,
+        "PG": 1,
+        "WC": 1,
+        "SC": 1,
+        "GA": 1,
+        "UT": 1,
+    }
+
+
+def test_collection_completeness_many_articles():
+    collection = CollectionLazy.from_filenames(
+        "docs/examples/bit-pattern-savedrecs.txt"
+    )
+
+    assert collection.completeness() == {
+        "AB": 497 / 500,
+        "AF": 500 / 500,
+        "AR": 216 / 500,
+        "AU": 500 / 500,
+        "BP": 281 / 500,
+        "C1": 500 / 500,
+        "CL": 152 / 500,
+        "CR": 500 / 500,
+        "CT": 152 / 500,
+        "CY": 152 / 500,
+        "DE": 336 / 500,
+        "DI": 486 / 500,
+        "DT": 500 / 500,
+        "EI": 262 / 500,
+        "EM": 469 / 500,
+        "EP": 281 / 500,
+        "FU": 270 / 500,
+        "FX": 270 / 500,
+        "GA": 500 / 500,
+        "HO": 24 / 500,
+        "ID": 440 / 500,
+        "IS": 458 / 500,
+        "J9": 500 / 500,
+        "JI": 500 / 500,
+        "LA": 500 / 500,
+        "NR": 500 / 500,
+        "OI": 168 / 500,
+        "PA": 500 / 500,
+        "PD": 469 / 500,
+        "PG": 500 / 500,
+        "PI": 500 / 500,
+        "PM": 60 / 500,
+        "PN": 60 / 500,
+        "PT": 500 / 500,
+        "PU": 500 / 500,
+        "PY": 500 / 500,
+        "RI": 172 / 500,
+        "RP": 498 / 500,
+        "SC": 500 / 500,
+        "SI": 23 / 500,
+        "SN": 500 / 500,
+        "SO": 500 / 500,
+        "SP": 88 / 500,
+        "SU": 2 / 500,
+        "TC": 500 / 500,
+        "TI": 500 / 500,
+        "U1": 500 / 500,
+        "U2": 500 / 500,
+        "UT": 500 / 500,
+        "VL": 495 / 500,
+        "WC": 500 / 500,
+        "Z9": 500 / 500,
+    }

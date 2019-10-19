@@ -141,8 +141,8 @@ class CollectionLazy(object):
 
     def __init__(self, *files):
         self.__files = files
-        # for file in self.__files:
-        #     file.seek(0)
+        for file in self.__files:
+            file.seek(0)
 
     @classmethod
     def from_glob(cls, pattern):

@@ -2,7 +2,7 @@
 Configuration file for python-wostools tests.
 """
 
-from wostools import Article
+from wostools import Article, CollectionLazy
 
 import pytest
 import io
@@ -92,3 +92,23 @@ def article():
     )
     article_text = file.read()
     return Article(article_text)
+
+
+@pytest.fixture
+def filename_single_document():
+    return "docs/examples/single-article.txt"
+
+
+@pytest.fixture
+def filename_many_documents():
+    return "docs/examples/bit-pattern-savedrecs.txt"
+
+
+@pytest.fixture
+def collection_single_document(filename_single_document):
+    return CollectionLazy.from_filenames(filename_single_document)
+
+
+@pytest.fixture
+def collection_many_documents(filename_many_documents):
+    return CollectionLazy.from_filenames(filename_many_documents)

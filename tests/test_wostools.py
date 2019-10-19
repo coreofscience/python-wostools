@@ -362,9 +362,6 @@ def test_aliases(article):
 
 
 def test_parsers(article):
-    # assert article.year_published == 2017
-    # assert article.beginning_page == "52"
-
     assert article.PT == "J"
     assert article.AU == ["Wodarz, S", "Hasegawa, T", "Ishio, S", "Homma, T"]
     assert article.AF == [
@@ -707,14 +704,11 @@ def test_command_line_interface():
     assert "--help  Show this message and exit." in help_result.output
 
 
-def test_collection_from_filenames():
-    collection = CollectionLazy.from_filenames(
-        "docs/examples/bit-pattern-savedrecs.txt"
-    )
-    for article in collection.articles:
+def test_collection_from_filenames(collection_many_documents):
+    for article in collection_many_documents.articles:
         assert isinstance(article, Article)
 
-    for file in collection.files:
+    for file in collection_many_documents.files:
         assert hasattr(file, "read")
         assert isinstance(file, (io.StringIO, io.TextIOWrapper))
         assert file.tell() == 0
@@ -725,14 +719,16 @@ def test_collection_from_glob():
     for article in collection.articles:
         assert isinstance(article, Article)
 
+    assert len(list(collection.articles)) == 500
+
     for file in collection.files:
         assert hasattr(file, "read")
         assert isinstance(file, (io.StringIO, io.TextIOWrapper))
         assert file.tell() == 0
 
 
-def test_collection_from_streams():
-    with open("docs/examples/single-article.txt") as file:
+def test_collection_from_streams(filename_single_document):
+    with open(filename_single_document) as file:
         _ = file.read()
 
         collection = CollectionLazy(file)
@@ -745,38 +741,32 @@ def test_collection_from_streams():
             assert file.tell() == 0
 
 
-def test_collection_with_duplicated():
+def test_collection_with_duplicated(filename_single_document, filename_many_documents):
     collection = CollectionLazy.from_filenames(
-        "docs/examples/single-article.txt",
-        "docs/examples/single-article.txt",
-        "docs/examples/single-article.txt",
+        filename_single_document,
+        filename_single_document,
+        filename_single_document,
     )
     assert len(list(collection.files)) == 3
     assert len(list(collection.articles)) == 1
 
     collection = CollectionLazy.from_filenames(
-        "docs/examples/bit-pattern-savedrecs.txt",
-        "docs/examples/bit-pattern-savedrecs.txt",
-        "docs/examples/bit-pattern-savedrecs.txt",
+        filename_many_documents, filename_many_documents, filename_many_documents
     )
     assert len(list(collection.files)) == 3
     assert len(list(collection.articles)) == 500
 
 
-def test_collection_authors():
-    collection = CollectionLazy.from_filenames("docs/examples/single-article.txt")
-
-    authors = collection.authors
+def test_collection_authors(collection_single_document):
+    authors = collection_single_document.authors
     assert next(authors) == "Wodarz, Siggi"
     assert next(authors) == "Hasegawa, Takashi"
     assert next(authors) == "Ishio, Shunji"
     assert next(authors) == "Homma, Takayuki"
 
 
-def test_collection_coauthors():
-    collection = CollectionLazy.from_filenames("docs/examples/single-article.txt")
-
-    coauthors = collection.coauthors
+def test_collection_coauthors(collection_single_document):
+    coauthors = collection_single_document.coauthors
     assert next(coauthors) == ("Hasegawa, Takashi", "Homma, Takayuki")
     assert next(coauthors) == ("Hasegawa, Takashi", "Ishio, Shunji")
     assert next(coauthors) == ("Hasegawa, Takashi", "Wodarz, Siggi")
@@ -785,10 +775,8 @@ def test_collection_coauthors():
     assert next(coauthors) == ("Ishio, Shunji", "Wodarz, Siggi")
 
 
-def test_collection_completeness_single_article():
-    collection = CollectionLazy.from_filenames("docs/examples/single-article.txt")
-
-    assert collection.completeness() == {
+def test_collection_completeness_single_article(collection_single_document):
+    assert collection_single_document.completeness() == {
         "PT": 1,
         "AU": 1,
         "AF": 1,
@@ -832,12 +820,8 @@ def test_collection_completeness_single_article():
     }
 
 
-def test_collection_completeness_many_articles():
-    collection = CollectionLazy.from_filenames(
-        "docs/examples/bit-pattern-savedrecs.txt"
-    )
-
-    assert collection.completeness() == {
+def test_collection_completeness_many_articles(collection_many_documents):
+    assert collection_many_documents.completeness() == {
         "AB": 497 / 500,
         "AF": 500 / 500,
         "AR": 216 / 500,
@@ -891,3 +875,38 @@ def test_collection_completeness_many_articles():
         "WC": 500 / 500,
         "Z9": 500 / 500,
     }
+
+
+def test_collection_citation_pairs(collection_single_document):
+    pairs = [
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Albrecht TR, 2013, IEEE T MAGN, V49, P773, DOI 10.1109/TMAG.2012.2227303"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "BUSCHOW KHJ, 1983, J MAGN MAGN MATER, V38, P1, DOI 10.1016/0304-8853(83)90097-5"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Gapin AI, 2006, J APPL PHYS, V99, DOI 10.1063/1.2163289"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Homma Takayuki, 2015, ECS Transactions, V64, P1, DOI 10.1149/06431.0001ecst"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Kryder MH, 2008, P IEEE, V96, P1810, DOI 10.1109/JPROC.2008.2004315"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Kubo T, 2005, J APPL PHYS, V97, DOI 10.1063/1.1855572"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Lodder JC, 2004, J MAGN MAGN MATER, V272, P1692, DOI 10.1016/j.jmmm.2003.12.259"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Mitsuzuka K, 2007, IEEE T MAGN, V43, P2160, DOI 10.1109/TMAG.2007.893129"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Ouchi T, 2010, ELECTROCHIM ACTA, V55, P8081, DOI 10.1016/j.electacta.2010.02.073"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Pattanaik G, 2006, J APPL PHYS, V99, DOI 10.1063/1.2150805"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Pattanaik G, 2007, ELECTROCHIM ACTA, V52, P2755, DOI 10.1016/j.electacta.2006.07.062"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Piramanayagam SN, 2009, J MAGN MAGN MATER, V321, P485, DOI 10.1016/j.jmmm.2008.05.007"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Ross CA, 2008, MRS BULL, V33, P838, DOI 10.1557/mrs2008.179"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Shiroishi Y, 2009, IEEE T MAGN, V45, P3816, DOI 10.1109/TMAG.2009.2024879"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Sirtori V, 2011, ACS APPL MATER INTER, V3, P1800, DOI 10.1021/am200267u"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Sohn JS, 2009, NANOTECHNOLOGY, V20, DOI 10.1088/0957-4484/20/2/025302"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Sun SH, 2000, SCIENCE, V287, P1989, DOI 10.1126/science.287.5460.1989"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Terris BD, 2007, MICROSYST TECHNOL, V13, P189, DOI 10.1007/s00542-006-0144-9"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Wang JP, 2008, P IEEE, V96, P1847, DOI 10.1109/JPROC.2008.2004318"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Weller D, 1999, IEEE T MAGN, V35, P4423, DOI 10.1109/20.809134"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Weller D, 2000, IEEE T MAGN, V36, P10, DOI 10.1109/20.824418"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Wodarz S, 2016, ELECTROCHIM ACTA, V197, P330, DOI 10.1016/j.electacta.2015.11.136"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Xu X, 2012, J ELECTROCHEM SOC, V159, pD240, DOI 10.1149/2.090204jes"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Yang X, 2007, J VAC SCI TECHNOL B, V25, P2202, DOI 10.1116/1.2798711"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Yang XM, 2009, ACS NANO, V3, P1844, DOI 10.1021/nn900073r"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Yasui N, 2003, APPL PHYS LETT, V83, P3347, DOI 10.1063/1.1622787"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Yua H., 2009, J APPL PHYS, V105"),
+        ("Wodarz S, 2017, J MAGN MAGN MATER, V430, P7, DOI 10.1016/j.jmmm.2017.01.061", "Zhu JG, 2008, IEEE T MAGN, V44, P125, DOI 10.1109/TMAG.2007.911031"),
+    ]
+
+    assert collection_single_document.citation_pairs() == pairs

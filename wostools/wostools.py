@@ -267,31 +267,16 @@ class CollectionLazy(object):
                 counters[key] += 1
         return {key: val / total for key, val in counters.items()}
 
-    def to_graph(self):
-        """Computes the graph for the articles in the collection.
+    def citation_pairs(self):
+        """Computes the citation pairs for the articles in the collection.
 
         Returns:
-            networkx.Graph: A graph for the articles in the collection. The nodes
-                are computed by using the Article `label` property (it is
-                supposed to be unique and it seems, as much as possible, to the
-                cited references format). Also, the graph contains the whole
-                information saved as attributes.
+            list: A list with the citation links: pairs of article labesl, where
+            the firts element is the article which cites the second element.
         """
-        adjacency = [
+        return [
             (article.label, citation)
             for article in self.articles
             for citation in article.references
         ]
-        g = nx.DiGraph()
-        g.add_edges_from(adjacency)
-        for alias in field_aliases():
-            attributes = {
-                article.label: article._processed_data.get(alias, "")
-                for article in self.articles
-            }
-            attributes = {
-                label: "; ".join(value) if isinstance(value, list) else value
-                for label, value in attributes.items()
-            }
-            nx.set_node_attributes(g, attributes, alias)
-        return g
+

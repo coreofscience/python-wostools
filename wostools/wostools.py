@@ -280,3 +280,27 @@ class CollectionLazy(object):
             for citation in article.references
         ]
 
+
+    def to_graph(self):
+        """Computes the graph for the articles in the collection.
+        Returns:
+            networkx.Graph: A graph for the articles in the collection. The nodes
+                are computed by using the Article `label` property (it is
+                supposed to be unique and it seems, as much as possible, to the
+                cited references format). Also, the graph contains the whole
+                information saved as attributes.
+        """
+        pairs = self.citation_pairs()
+        g = nx.DiGraph()
+        g.add_edges_from(pairs)
+        for alias in field_aliases():
+            attributes = {
+                article.label: article._processed_data.get(alias, "")
+                for article in self.articles
+            }
+            attributes = {
+                label: "; ".join(value) if isinstance(value, list) else value
+                for label, value in attributes.items()
+            }
+            nx.set_node_attributes(g, attributes, alias)
+        return g

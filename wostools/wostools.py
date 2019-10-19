@@ -193,6 +193,7 @@ class CollectionLazy(object):
             generator: A generator of strings with the text articles.
         """
         for filehandle in self.files:
+            filehandle.seek(0)
             data = filehandle.read()
             filehandle.seek(0)
             # TODO: error, why are we starting from 1 ?

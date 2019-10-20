@@ -2,14 +2,12 @@
 The whole wostools thing.
 """
 
-import networkx as nx
-
 import collections
 import glob
 import itertools
 import re
 
-from wostools.fields import preprocess, field_aliases
+from wostools.fields import preprocess
 
 
 def popular(iterable, limit):
@@ -130,6 +128,9 @@ class Article(object):
                 data[field].append(value)
         return dict(data)
 
+    def __contains__(self, value):
+        return value in self.__processed_data
+
 
 class CollectionLazy(object):
     """A collection of WOS text files.
@@ -217,6 +218,13 @@ class CollectionLazy(object):
                 yield article
             else:
                 continue
+
+    @property
+    def lenght(self):
+        count = 0
+        for _ in self.articles:
+            count += 1
+        return count
 
     @property
     def authors(self):

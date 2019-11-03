@@ -111,8 +111,10 @@ Pipfile.lock
 # data folder
 data/
 
-# vscode folder
+# editors
 .vscode
+.idea
+*.iml
 
 # xml files
 *.xml

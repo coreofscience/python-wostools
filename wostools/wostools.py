@@ -2,14 +2,12 @@
 The whole wostools thing.
 """
 
-import networkx as nx
-
 import collections
 import glob
 import itertools
 import re
 
-from wostools.fields import preprocess, field_aliases
+from wostools.fields import preprocess
 
 
 def popular(iterable, limit):
@@ -17,35 +15,6 @@ def popular(iterable, limit):
     A little utility to compute popular values on an iterable.
     """
     return collections.Counter(iterable).most_common(limit)
-
-
-def article_text_to_dict(article_text: str):
-    """Translates an article text into a dict using the WoS field tags:
-            http://wos-resources.roblib.upei.ca/WOK46/help/WOK/hft_wos.html
-
-    Args:
-        article_text (str): String with the text of the record for an article.
-
-    Returns:
-        dict: A dict where the keys are the Web of Science Field Tags and the
-            values are the content of the passed article.
-    """
-    # Fix little bug with isi files
-    if article_text.startswith("null"):
-        article_text = article_text[4:]
-
-    data = collections.defaultdict(list)
-    field = ""
-    for line in re.split(r"\n+", article_text):
-        name = line[:2]
-        value = line[3:]
-
-        if not name.isspace():
-            field = name
-
-        if field != "ER":
-            data[field].append(value)
-    return dict(data)
 
 
 class WosToolsError(Exception):
@@ -71,16 +40,16 @@ class Article(object):
         if article_text.startswith("FN"):
             article_text = "\n".join(article_text.split("\n")[2:])
 
-        self._article_text = article_text
-        self._data = article_text_to_dict(article_text)
-        self._processed_data = preprocess(self._data)
+        self.__article_text = article_text
+        self.__raw_data = Article.__article_text_to_dict(article_text)
+        self.__processed_data = preprocess(self.__raw_data)
 
     def __getattr__(self, name):
-        if name not in self._processed_data:
+        if name not in self.__processed_data:
             raise AttributeError(
                 f"{self.__class__.__name__} does not have an attribute {name}"
             )
-        return self._processed_data[name]
+        return self.__processed_data[name]
 
     @property
     def label(self):
@@ -100,9 +69,9 @@ class Article(object):
         }
 
         normalized_fields = [
-            normalizer(self._data[field])
+            normalizer(self.__raw_data[field])
             for field, normalizer in fields_normalizers.items()
-            if self._data.get(field)
+            if self.__raw_data.get(field)
         ]
 
         label = ", ".join(normalized_fields)
@@ -112,7 +81,55 @@ class Article(object):
         return self.label
 
     def keys(self):
-        return self._data.keys()
+        return self.__raw_data.keys()
+
+    @property
+    def text(self):
+        return self.__article_text
+
+    @property
+    def raw_data(self):
+        return self.__raw_data
+
+    @property
+    def data(self):
+        return self.__processed_data
+
+    @staticmethod
+    def __article_text_to_dict(article_text: str):
+        """Translates an article text into a dict using the WoS field tags:
+                http://wos-resources.roblib.upei.ca/WOK46/help/WOK/hft_wos.html
+
+        Args:
+            article_text (str): String with the text of the record for an article.
+
+        Returns:
+            dict: A dict where the keys are the Web of Science Field Tags and the
+                values are the content of the passed article.
+        """
+
+        if article_text.startswith("FN"):
+            article_text = "\n".join(article_text.split("\n")[2:])
+
+        # Fix little bug with isi files
+        if article_text.startswith("null"):
+            article_text = article_text[4:]
+
+        data = collections.defaultdict(list)
+        field = ""
+        for line in re.split(r"\n+", article_text):
+            name = line[:2]
+            value = line[3:]
+
+            if not name.isspace():
+                field = name
+
+            if field != "ER":
+                data[field].append(value)
+        return dict(data)
+
+    def __contains__(self, value):
+        return value in self.__processed_data
 
 
 class CollectionLazy(object):
@@ -138,7 +155,7 @@ class CollectionLazy(object):
         Returns:
             CollectionLazy: Collection with the articles by using the pattern.
         """
-        return cls(*glob.glob(pattern))
+        return cls.from_filenames(*glob.glob(pattern))
 
     @classmethod
     def from_filenames(cls, *filenames):
@@ -177,6 +194,7 @@ class CollectionLazy(object):
             generator: A generator of strings with the text articles.
         """
         for filehandle in self.files:
+            filehandle.seek(0)
             data = filehandle.read()
             filehandle.seek(0)
             # TODO: error, why are we starting from 1 ?
@@ -200,6 +218,12 @@ class CollectionLazy(object):
                 yield article
             else:
                 continue
+
+    def __len__(self):
+        count = 0
+        for _ in self.articles:
+            count += 1
+        return count
 
     @property
     def authors(self):
@@ -250,31 +274,15 @@ class CollectionLazy(object):
                 counters[key] += 1
         return {key: val / total for key, val in counters.items()}
 
-    def to_graph(self):
-        """Computes the graph for the articles in the collection.
+    def citation_pairs(self):
+        """Computes the citation pairs for the articles in the collection.
 
         Returns:
-            networkx.Graph: A graph for the articles in the collection. The nodes
-                are computed by using the Article `label` property (it is
-                supposed to be unique and it seems, as much as possible, to the
-                cited references format). Also, the graph contains the whole
-                information saved as attributes.
+            list: A list with the citation links: pairs of article labesl, where
+            the firts element is the article which cites the second element.
         """
-        adjacency = [
+        return [
             (article.label, citation)
             for article in self.articles
             for citation in article.references
         ]
-        g = nx.DiGraph()
-        g.add_edges_from(adjacency)
-        for alias in field_aliases():
-            attributes = {
-                article.label: article._processed_data.get(alias, "")
-                for article in self.articles
-            }
-            attributes = {
-                label: "; ".join(value) if isinstance(value, list) else value
-                for label, value in attributes.items()
-            }
-            nx.set_node_attributes(g, attributes, alias)
-        return g

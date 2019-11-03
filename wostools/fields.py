@@ -19,8 +19,8 @@ def ident(seq):
     return list(s.strip() for s in seq)
 
 
-def delimited(seq, delim="; "):
-    return joined(seq).split(delim)
+def delimited(seq, delimiter="; "):
+    return joined(seq).split(delimiter)
 
 
 def integer(seq):
@@ -139,7 +139,7 @@ FIELDS = {
     "SP": IsiField(
         "SP",
         "Conference Sponsors",
-        functools.partial(delimited, delim=", "),
+        functools.partial(delimited, delimiter=", "),
         ["conference_sponsors"],
     ),
     "SU": IsiField("SU", "Supplement", joined, ["supplement"]),

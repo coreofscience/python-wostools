@@ -219,8 +219,7 @@ class CollectionLazy(object):
             else:
                 continue
 
-    @property
-    def lenght(self):
+    def __len__(self):
         count = 0
         for _ in self.articles:
             count += 1

@@ -173,6 +173,11 @@ def field_aliases():
         yield fields.aliases[-1]
 
 
+def field_keys():
+    for fields in FIELDS.values():
+        yield fields.key
+
+
 def preprocess(raw_dict):
     """Preprocesses a dictionary, with information about WoS field tags and its
         value according to a article, with some parser functions that depends on

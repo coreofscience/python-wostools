@@ -118,3 +118,6 @@ data/
 
 # xml files
 *.xml
+
+# json files
+*.json

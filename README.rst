@@ -21,7 +21,7 @@ Python WoS tools
    :target: https://zenodo.org/badge/latestdoi/94160457
    :alt: DOI: 10.5281/zenodo.1344261
 
-Translates isi web of knowledge files into python objects.
+Translates ISI Web of Knowledge files into python objects.
 
 
 
@@ -38,15 +38,16 @@ Install the library by:
 
    $ pip install wostools
 
-Say you want to grab the title of all the articles in an isi file, you can grab
+Say you want to grab the title of all the articles in an ISI file, you can grab
 `this example file`_.
 
 .. code-block:: python
 
    >>> from wostools import CollectionLazy
-   >>> collection = CollectionLazy('docs/examples/bit-pattern-savedrecs.txt')
+   >>> collection = CollectionLazy.from_filenames('docs/examples/bit-pattern-savedrecs.txt')
    >>> for article in collection.articles:
    ...     print(article.TI)
+   In situ grazing incidence small-angle X-ray scattering study of solvent vapor annealing in lamellae-forming block copolymer thin films: Trade-off of defects in deswelling
    Structural control of ultra-fine CoPt nanodot arrays via electrodeposition process
    Porphyrin-based Pt/Pd-containing metallopolymers: Synthesis, characterization, optical property and potential application in bioimaging
    Syntheses and Controllable Self-Assembly of Luminescence Platinum(II) Plane-Coil Diblock Copolymers
@@ -58,16 +59,16 @@ your terminal.
 .. code-block:: bash
 
    $ wostools --help
-   $ # To build a citation graph full with properties
-   $ wostools citation-graph docs/examples/bit-pattern-savedrecs.txt output.graphml
+   $ # To extract all the properties in a json file
+   $ wostools to-json docs/examples/bit-pattern-savedrecs.txt --output=document.json
 
 Features
 --------
 
-* Just parses an isi web of knowledge file and produces a native python object.
+* Just parses an ISI Web of Knowledge file and produces a native python object.
 * Through the :code:`CollectionLazy` object it can do this using the minimum
-  ammount of memory it can possibly do.
-* It has a cli to generate graphs and analyze stuff for you :smile:
+  amount of memory it can possibly do.
+* It has a cli to extract documents and citation pairs for you :smile:
 
 Credits
 -------

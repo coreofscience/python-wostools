@@ -3,7 +3,7 @@ import json
 import click
 
 from wostools import CollectionLazy
-from wostools.fields import field_aliases
+from wostools.fields import field_aliases, field_keys
 
 
 @click.group()
@@ -15,7 +15,13 @@ def main():
 
 @main.command("citation-pairs")
 @click.argument("sources", type=click.File("r"), nargs=-1)
-@click.option("--output", type=click.File("w"), show_default=True, default="-")
+@click.option(
+    "--output",
+    type=click.File("w"),
+    show_default=True,
+    default="-",
+    help="File to save json otuput.",
+)
 def citation_pairs(sources, output):
     """
     Build a collection by using the sources and print the citation pairs in json
@@ -34,9 +40,20 @@ def citation_pairs(sources, output):
 @main.command("to-json")
 @click.argument("sources", type=click.File("r"), nargs=-1)
 @click.option(
-    "--output", type=click.File("w"), show_default=True, default="-"
+    "--output",
+    type=click.File("w"),
+    show_default=True,
+    default="-",
+    help="File to save json otuput.",
 )
-def to_json(sources, output):
+@click.option(
+    "--raw",
+    default=False,
+    is_flag=True,
+    show_default=True,
+    help="Flag; If true, the fields are the field tags; If false, the fields are the aliases.",
+)
+def to_json(sources, output, raw):
     """
     Build a collection by using the sources and print the entries converted to
     to json format or dumps them in the `output`.
@@ -49,8 +66,10 @@ def to_json(sources, output):
     length = len(collection)
     output.write("[\n")
     for i, article in enumerate(collection.articles):
+        fields = field_keys() if raw else field_aliases()
+
         text = json.dumps(
-            {field: article.data[field] for field in field_aliases() if field in article},
+            {field: article.data[field] for field in fields if field in article},
             indent=2,
         )
         text = "  " + "\n  ".join(text.split("\n"))
@@ -62,4 +81,3 @@ def to_json(sources, output):
         else:
             output.write("\n")
     output.write("]")
-

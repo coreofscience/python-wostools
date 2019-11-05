@@ -66,10 +66,7 @@ def to_json(sources, output, raw):
     length = len(collection)
     output.write("[\n")
     for i, article in enumerate(collection.articles):
-        if raw:
-            fields = field_keys()
-        else:
-            fields = field_aliases()
+        fields = field_keys() if raw else field_aliases()
 
         text = json.dumps(
             {field: article.data[field] for field in fields if field in article},

@@ -20,7 +20,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/coreofscience/python-wostools/tree/v0.2.3",
+            "identifier": "https://github.com/coreofscience/python-wostools/tree/v1.0.0",
             "relation": "isSupplementTo"
         },
         {

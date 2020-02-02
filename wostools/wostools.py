@@ -64,7 +64,7 @@ class Article(object):
             "PY": lambda py: py[0],
             "J9": lambda j9: j9[0],
             "VL": lambda vl: f"V{vl[0]}",
-            "PG": lambda pg: f"P{pg[0]}",
+            "BP": lambda bp: f"P{bp[0]}",
             "DI": lambda di: f"DOI {di[0]}",
         }
 
@@ -197,8 +197,6 @@ class CollectionLazy(object):
             filehandle.seek(0)
             data = filehandle.read()
             filehandle.seek(0)
-            # TODO: error, why are we starting from 1 ?
-            # for article_text in data.split("\n\n")[1:]:
             for article_text in data.split("\n\n"):
                 if article_text != "EF":
                     yield article_text
@@ -278,11 +276,12 @@ class CollectionLazy(object):
         """Computes the citation pairs for the articles in the collection.
 
         Returns:
-            list: A list with the citation links: pairs of article labesl, where
-            the firts element is the article which cites the second element.
+            genertator: A generator with the citation links: pairs of article
+            labesl, where the firts element is the article which cites the
+            second element.
         """
-        return [
+        yield from (
             (article.label, citation)
             for article in self.articles
             for citation in article.references
-        ]
+        )

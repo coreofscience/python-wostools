@@ -32,7 +32,7 @@ def citation_pairs(sources, output):
         return
 
     collection = CollectionLazy.from_filenames(*[f.name for f in sources])
-    pairs = collection.citation_pairs()
+    pairs = list(collection.citation_pairs())
 
     json.dump(pairs, output, indent=2)
 

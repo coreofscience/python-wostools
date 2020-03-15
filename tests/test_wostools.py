@@ -90,7 +90,7 @@ def test_aliases(article):
         with pytest.raises(AttributeError):
             article.CR
     if hasattr(article, "CR"):
-        assert article.CR == article.references
+        assert article.CR == [ref.label for ref in article.references]
     else:
         with pytest.raises(AttributeError):
             article.CR

@@ -10,6 +10,9 @@ import re
 from wostools.fields import preprocess
 
 
+LABEL_ATTRIBUTES = ["AU", "PY", "J9", "VL", "BP", "DI"]
+
+
 def popular(iterable, limit):
     """
     A little utility to compute popular values on an iterable.
@@ -23,6 +26,48 @@ class WosToolsError(Exception):
     """
 
     pass
+
+class Reference(object):
+    def __init__(self, label: str):
+        self._label = label
+        self.__processed_data = Reference.__attrs_from_label(label)
+
+    def __getattr__(self, name: str):
+        if name not in self.__processed_data:
+            raise AttributeError(
+                f"{self.__class__.__name__} does not have an attribute {name}"
+            )
+        return self.__processed_data[name]
+
+    @property
+    def label_attrs(self):
+        return self.__processed_data
+
+    @property
+    def label(self):
+        return self._label
+
+    @staticmethod
+    def __attrs_from_label(label: str):
+        pattern = re.compile(
+            r"""^(?P<AU>[^,]+)?,[ ]         # First author
+                (?P<PY>\d{4})?,[ ]          # Publication year
+                (?P<J9>[^,]+)?              # Journal
+                (,[ ]V(?P<VL>[\w\d-]+))?    # Volume
+                (,[ ][Pp](?P<BP>\d+))?      # Start page
+                (,[ ]DOI[ ](?P<DI>.+))?     # The all important DOI
+                """,
+            re.X,
+        )
+
+        default_value = {attr: None for attr in LABEL_ATTRIBUTES}
+
+        match_result = pattern.match(label)
+        if match_result:
+            return match_result.groupdict()
+        else:
+            # TODO: maybe we can raise a warning about the label parsing
+            return default_value
 
 
 class Article(object):
@@ -49,7 +94,13 @@ class Article(object):
             raise AttributeError(
                 f"{self.__class__.__name__} does not have an attribute {name}"
             )
+        if name == "references":
+            return [Reference(ref_label) for ref_label in self.__processed_data[name]]
         return self.__processed_data[name]
+
+    @property
+    def label_attrs(self):
+        return {attr: self.__processed_data.get(attr) for attr in LABEL_ATTRIBUTES}
 
     @property
     def label(self):
@@ -272,7 +323,7 @@ class CollectionLazy(object):
                 counters[key] += 1
         return {key: val / total for key, val in counters.items()}
 
-    def citation_pairs(self):
+    def citation_pairs(self, pair_parser=lambda art, ref: (art.label, ref.label)):
         """Computes the citation pairs for the articles in the collection.
 
         Returns:
@@ -281,7 +332,7 @@ class CollectionLazy(object):
             second element.
         """
         yield from (
-            (article.label, citation)
+            pair_parser(article, reference)
             for article in self.articles
-            for citation in article.references
+            for reference in article.references
         )

@@ -39,6 +39,9 @@ class Reference(object):
             )
         return self.__processed_data[name]
 
+    def __repr__(self):
+        return self._label
+
     @property
     def label_attrs(self):
         return self.__processed_data

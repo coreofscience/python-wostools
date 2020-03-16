@@ -27,6 +27,7 @@ class WosToolsError(Exception):
 
     pass
 
+
 class Reference(object):
     def __init__(self, label: str):
         self._label = label
@@ -63,16 +64,12 @@ class Reference(object):
             re.X,
         )
 
-        default_value = {attr: attr is "PY" and 0 or None for attr in LABEL_ATTRIBUTES}
+        default_value = {attr: 0 if attr is "PY" else None for attr in LABEL_ATTRIBUTES}
 
         match_result = pattern.match(label)
         if match_result:
             match_dict = match_result.groupdict()
-            try:
-                match_dict["PY"] = int(match_dict["PY"])
-            except ValueError:
-                # TODO: maybe we can raise a warning about the year parsing failure
-                match_dict["PY"] = 0
+            match_dict["PY"] = int(match_dict["PY"] or 0)
             return match_dict
         else:
             # TODO: maybe we can raise a warning about the label parsing failure

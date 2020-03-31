@@ -6,15 +6,23 @@ import collections
 import glob
 import itertools
 import re
+from typing import Dict, Callable, Optional, Tuple, TypeVar, Iterable
 
 from wostools.fields import preprocess
 
 
-def popular(iterable, limit):
-    """
-    A little utility to compute popular values on an iterable.
-    """
-    return collections.Counter(iterable).most_common(limit)
+LABEL_ATTRIBUTES = {
+    "AU": lambda au: au[0].replace(",", ""),
+    "PY": lambda py: py[0],
+    "J9": lambda j9: j9[0],
+    "VL": lambda vl: f"V{vl[0]}",
+    "BP": lambda bp: f"P{bp[0]}",
+    "DI": lambda di: f"DOI {di[0]}",
+}
+
+
+_T = TypeVar("T")
+_V = TypeVar("V")
 
 
 class WosToolsError(Exception):
@@ -23,6 +31,29 @@ class WosToolsError(Exception):
     """
 
     pass
+
+
+def parse_label(label: str) -> Dict:
+    pattern = re.compile(
+        r"""^(?P<AU>[^,]+)?,[ ]         # First author
+            (?P<PY>\d{4})?,[ ]          # Publication year
+            (?P<J9>[^,]+)?              # Journal
+            (,[ ]V(?P<VL>[\w\d-]+))?    # Volume
+            (,[ ][Pp](?P<BP>\d+))?      # Start page
+            (,[ ]DOI[ ](?P<DI>.+))?     # The all important DOI
+            """,
+        re.X,
+    )
+
+    default_value = {attr: 0 if attr == "PY" else None for attr in LABEL_ATTRIBUTES}
+
+    match_result = pattern.match(label)
+    if match_result:
+        match_dict = match_result.groupdict()
+        match_dict["PY"] = int(match_dict["PY"] or 0)
+        return match_dict
+    else:
+        return default_value
 
 
 class Article(object):
@@ -52,6 +83,10 @@ class Article(object):
         return self.__processed_data[name]
 
     @property
+    def label_attrs(self):
+        return {attr: self.__processed_data.get(attr) for attr in LABEL_ATTRIBUTES}
+
+    @property
     def label(self):
         """Builds a label using the fields ["AU", "PY", "J9", "VL", "PG", "DI"].
 
@@ -59,18 +94,9 @@ class Article(object):
             str: A label with those required fields separated by a comma.
         """
 
-        fields_normalizers = {
-            "AU": lambda au: au[0].replace(",", ""),
-            "PY": lambda py: py[0],
-            "J9": lambda j9: j9[0],
-            "VL": lambda vl: f"V{vl[0]}",
-            "BP": lambda bp: f"P{bp[0]}",
-            "DI": lambda di: f"DOI {di[0]}",
-        }
-
         normalized_fields = [
             normalizer(self.__raw_data[field])
-            for field, normalizer in fields_normalizers.items()
+            for field, normalizer in LABEL_ATTRIBUTES.items()
             if self.__raw_data.get(field)
         ]
 
@@ -272,7 +298,22 @@ class CollectionLazy(object):
                 counters[key] += 1
         return {key: val / total for key, val in counters.items()}
 
-    def citation_pairs(self):
+    @staticmethod
+    def metadata_pair_parser(
+        article: Article, reference: str
+    ) -> Tuple[Tuple[str, Dict], Tuple[str, Dict]]:
+        """
+        Convenience function to pass to `citation_pairs` so that we get in 
+        each side of a citation the respective labels and attributes.
+        """
+        return (
+            (article.label, article.label_attrs),
+            (reference, parse_label(reference)),
+        )
+
+    def citation_pairs(
+        self, pair_parser: Optional[Callable[[Article, str], Tuple[_T, _V]]] = None
+    ) -> Iterable[Tuple[_T, _V]]:
         """Computes the citation pairs for the articles in the collection.
 
         Returns:
@@ -280,8 +321,10 @@ class CollectionLazy(object):
             labesl, where the firts element is the article which cites the
             second element.
         """
+        if pair_parser is None:
+            pair_parser = lambda a, r: (a.label, r)
         yield from (
-            (article.label, citation)
+            pair_parser(article, reference)
             for article in self.articles
-            for citation in article.references
+            for reference in article.references
         )

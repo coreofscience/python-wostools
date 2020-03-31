@@ -6,18 +6,23 @@ import collections
 import glob
 import itertools
 import re
+from typing import Dict, Callable, Optional, Tuple, TypeVar, Iterable
 
 from wostools.fields import preprocess
 
 
-LABEL_ATTRIBUTES = ["AU", "PY", "J9", "VL", "BP", "DI"]
+LABEL_ATTRIBUTES = {
+    "AU": lambda au: au[0].replace(",", ""),
+    "PY": lambda py: py[0],
+    "J9": lambda j9: j9[0],
+    "VL": lambda vl: f"V{vl[0]}",
+    "BP": lambda bp: f"P{bp[0]}",
+    "DI": lambda di: f"DOI {di[0]}",
+}
 
 
-def popular(iterable, limit):
-    """
-    A little utility to compute popular values on an iterable.
-    """
-    return collections.Counter(iterable).most_common(limit)
+_T = TypeVar("T")
+_V = TypeVar("V")
 
 
 class WosToolsError(Exception):
@@ -28,52 +33,27 @@ class WosToolsError(Exception):
     pass
 
 
-class Reference(object):
-    def __init__(self, label: str):
-        self._label = label
-        self.__processed_data = Reference.__attrs_from_label(label)
+def parse_label(label: str) -> Dict:
+    pattern = re.compile(
+        r"""^(?P<AU>[^,]+)?,[ ]         # First author
+            (?P<PY>\d{4})?,[ ]          # Publication year
+            (?P<J9>[^,]+)?              # Journal
+            (,[ ]V(?P<VL>[\w\d-]+))?    # Volume
+            (,[ ][Pp](?P<BP>\d+))?      # Start page
+            (,[ ]DOI[ ](?P<DI>.+))?     # The all important DOI
+            """,
+        re.X,
+    )
 
-    def __getattr__(self, name: str):
-        if name not in self.__processed_data:
-            raise AttributeError(
-                f"{self.__class__.__name__} does not have an attribute {name}"
-            )
-        return self.__processed_data[name]
+    default_value = {attr: 0 if attr == "PY" else None for attr in LABEL_ATTRIBUTES}
 
-    def __repr__(self):
-        return self._label
-
-    @property
-    def label_attrs(self):
-        return self.__processed_data
-
-    @property
-    def label(self):
-        return self._label
-
-    @staticmethod
-    def __attrs_from_label(label: str):
-        pattern = re.compile(
-            r"""^(?P<AU>[^,]+)?,[ ]         # First author
-                (?P<PY>\d{4})?,[ ]          # Publication year
-                (?P<J9>[^,]+)?              # Journal
-                (,[ ]V(?P<VL>[\w\d-]+))?    # Volume
-                (,[ ][Pp](?P<BP>\d+))?      # Start page
-                (,[ ]DOI[ ](?P<DI>.+))?     # The all important DOI
-                """,
-            re.X,
-        )
-
-        default_value = {attr: 0 if attr is "PY" else None for attr in LABEL_ATTRIBUTES}
-
-        match_result = pattern.match(label)
-        if match_result:
-            match_dict = match_result.groupdict()
-            match_dict["PY"] = int(match_dict["PY"] or 0)
-            return match_dict
-        else:
-            # TODO: maybe we can raise a warning about the label parsing failure
-            return default_value
+    match_result = pattern.match(label)
+    if match_result:
+        match_dict = match_result.groupdict()
+        match_dict["PY"] = int(match_dict["PY"] or 0)
+        return match_dict
+    else:
+        return default_value
 
 
 class Article(object):
@@ -100,8 +80,6 @@ class Article(object):
             raise AttributeError(
                 f"{self.__class__.__name__} does not have an attribute {name}"
             )
-        if name == "references":
-            return [Reference(ref_label) for ref_label in self.__processed_data[name]]
         return self.__processed_data[name]
 
     @property
@@ -116,18 +94,9 @@ class Article(object):
             str: A label with those required fields separated by a comma.
         """
 
-        fields_normalizers = {
-            "AU": lambda au: au[0].replace(",", ""),
-            "PY": lambda py: py[0],
-            "J9": lambda j9: j9[0],
-            "VL": lambda vl: f"V{vl[0]}",
-            "BP": lambda bp: f"P{bp[0]}",
-            "DI": lambda di: f"DOI {di[0]}",
-        }
-
         normalized_fields = [
             normalizer(self.__raw_data[field])
-            for field, normalizer in fields_normalizers.items()
+            for field, normalizer in LABEL_ATTRIBUTES.items()
             if self.__raw_data.get(field)
         ]
 
@@ -329,7 +298,22 @@ class CollectionLazy(object):
                 counters[key] += 1
         return {key: val / total for key, val in counters.items()}
 
-    def citation_pairs(self, pair_parser=lambda art, ref: (art.label, ref.label)):
+    @staticmethod
+    def metadata_pair_parser(
+        article: Article, reference: str
+    ) -> Tuple[Tuple[str, Dict], Tuple[str, Dict]]:
+        """
+        Convenience function to pass to `citation_pairs` so that we get in 
+        each side of a citation the respective labels and attributes.
+        """
+        return (
+            (article.label, article.label_attrs),
+            (reference, parse_label(reference)),
+        )
+
+    def citation_pairs(
+        self, pair_parser: Optional[Callable[[Article, str], Tuple[_T, _V]]] = None
+    ) -> Iterable[Tuple[_T, _V]]:
         """Computes the citation pairs for the articles in the collection.
 
         Returns:
@@ -337,6 +321,8 @@ class CollectionLazy(object):
             labesl, where the firts element is the article which cites the
             second element.
         """
+        if pair_parser is None:
+            pair_parser = lambda a, r: (a.label, r)
         yield from (
             pair_parser(article, reference)
             for article in self.articles

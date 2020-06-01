@@ -4,6 +4,7 @@ __author__ = """Core of Science"""
 __email__ = "dev@coreofscience.com"
 __version__ = "1.1.0"
 
-from wostools.wostools import CollectionLazy, WosToolsError, Article
+from wostools.article import Article
+from wostools.lazy import CollectionLazy
 
-__all__ = ["CollectionLazy", "WosToolsError", "Article"]
+__all__ = ["CollectionLazy", "Article"]

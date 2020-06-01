@@ -91,7 +91,7 @@ def article():
         "ER"
     )
     article_text = file.read()
-    return Article(article_text)
+    return Article.from_isi_text(article_text)
 
 
 @pytest.fixture

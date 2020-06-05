@@ -1,4 +1,4 @@
-bumpversion==0.5.3
+bumpversion==0.6.0
 flake8==3.7.8
 coverage==4.5.4
 Sphinx==3.0.4

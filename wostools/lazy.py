@@ -2,12 +2,10 @@
 The whole wostools thing.
 """
 
-import collections
 import glob
 import itertools
 import logging
-import re
-from typing import Callable, Dict, Iterable, Optional, Tuple, TypeVar, Union
+from typing import Iterable, Tuple
 
 from wostools.article import Article
 
@@ -18,7 +16,7 @@ class CollectionLazy(object):
     """A collection of WOS text files.
 
     Args:
-        *filenames (str): Strings with the names of the files containing
+        filenames (str): Strings with the names of the files containing
             articles.
     """
 
@@ -44,7 +42,7 @@ class CollectionLazy(object):
         """Creates a new collection from a list of filenames.
 
         Args:
-            *filenames (str): String with the filename.
+            filenames (str): String with the filename.
 
         Returns:
             CollectionLazy: Collection with the articles by reading the

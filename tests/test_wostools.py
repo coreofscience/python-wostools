@@ -167,7 +167,7 @@ def test_collection_from_filenames(collection_many_documents):
         assert file.tell() == 0
 
 
-@pytest.mark.parametrize("cls,count", [(CollectionLazy, 13892), (Collection, 8797),])
+@pytest.mark.parametrize("cls,count", [(CollectionLazy, 13892), (Collection, 8797)])
 def test_collection_from_glob(cls, count):
     collection = cls.from_glob("docs/examples/*.txt")
     for article in collection.articles:

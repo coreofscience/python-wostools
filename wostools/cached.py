@@ -2,12 +2,10 @@
 Collection with a nice cache.
 """
 
-import collections
 import glob
 import itertools
 import logging
-import re
-from typing import Callable, Dict, Iterable, Optional, Tuple, TypeVar, Union
+from typing import Dict, Iterable, Tuple
 
 from wostools.article import Article
 
@@ -15,11 +13,8 @@ logger = logging.getLogger(__name__)
 
 
 class CollectionCached(object):
-    """A collection of WOS text files.
-
-    Args:
-        *filenames (str): Strings with the names of the files containing
-            articles.
+    """
+    A collection of WOS text files.
     """
 
     def __init__(self, *files):
@@ -69,7 +64,7 @@ class CollectionCached(object):
         """Creates a new collection from a list of filenames.
 
         Args:
-            *filenames (str): String with the filename.
+            filenames (str): String with the filename.
 
         Returns:
             CollectionLazy: Collection with the articles by reading the

@@ -1,7 +1,7 @@
 import collections
 import logging
 import re
-from typing import Any, List, Mapping, Optional, Set, TypeVar
+from typing import Any, List, Mapping, Optional, Set
 
 from wostools.fields import parse_all
 

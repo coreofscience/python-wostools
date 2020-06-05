@@ -1,7 +1,7 @@
+import collections
 import logging
 import re
-import collections
-from typing import List, Optional, Mapping, TypeVar, Any
+from typing import Any, List, Mapping, Optional, Set, TypeVar
 
 from wostools.fields import parse_all
 
@@ -33,7 +33,7 @@ class Article(object):
         page: Optional[str] = None,
         doi: Optional[str] = None,
         references: Optional[List[str]] = None,
-        sources: Optional[List[str]] = None,
+        sources: Optional[Set[str]] = None,
         extra: Optional[Mapping] = None,
     ):
         self.title: Optional[str] = title
@@ -44,7 +44,7 @@ class Article(object):
         self.page: Optional[str] = page
         self.doi: Optional[str] = doi
         self.references: List[str] = references or []
-        self.sources: List[str] = sources or []
+        self.sources: Set[str] = sources or set()
         self.extra: Mapping[str, Any] = extra or {}
 
     @property
@@ -61,6 +61,31 @@ class Article(object):
         }
         return ", ".join(value for value in pieces.values() if value)
 
+    def to_dict(self, simplified=True):
+        """
+        Transform the article into some key value pairs for easy transportation.
+        """
+        extra = (
+            {
+                "references": self.references,
+                "extra": self.extra,
+                "sources": list(self.sources),
+            }
+            if not simplified
+            else {}
+        )
+        return {
+            "title": self.title,
+            "authors": self.authors,
+            "keywords": self.extra.get("keywords", []),
+            "year": self.year,
+            "journal": self.journal,
+            "volume": self.volume,
+            "page": self.page,
+            "doi": self.doi,
+            **extra,
+        }
+
     def merge(self, other: "Article") -> "Article":
         if self.label != other.label:
             logger.warning(
@@ -74,7 +99,7 @@ class Article(object):
             volume=self.volume or other.volume,
             page=self.page or other.page,
             doi=self.doi or other.doi,
-            sources=[*self.sources, *other.sources],
+            sources={*self.sources, *other.sources},
             extra={**self.extra, **other.extra},
         )
 
@@ -102,7 +127,7 @@ class Article(object):
             doi=processed.get("DOI"),
             references=processed.get("references"),
             extra=processed,
-            sources=[raw],
+            sources={raw},
         )
 
     @classmethod
@@ -121,5 +146,5 @@ class Article(object):
             page=processed.get("beginning_page"),
             doi=processed.get("DOI"),
             extra=processed,
-            sources=[citation],
+            sources={citation},
         )

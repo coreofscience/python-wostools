@@ -2,7 +2,7 @@
 
 from click.testing import CliRunner
 
-from wostools import CollectionLazy
+from wostools import CollectionLazy, Collection
 from wostools import cli
 from wostools import Article
 import pytest
@@ -161,20 +161,21 @@ def test_collection_from_filenames(collection_many_documents):
     for article in collection_many_documents.articles:
         assert isinstance(article, Article)
 
-    for file in collection_many_documents.files:
+    for file in collection_many_documents._files:
         assert hasattr(file, "read")
         assert isinstance(file, (io.StringIO, io.TextIOWrapper))
         assert file.tell() == 0
 
 
-def test_collection_from_glob():
-    collection = CollectionLazy.from_glob("docs/examples/*.txt")
+@pytest.mark.parametrize("cls,count", [(CollectionLazy, 13892), (Collection, 8797),])
+def test_collection_from_glob(cls, count):
+    collection = cls.from_glob("docs/examples/*.txt")
     for article in collection.articles:
         assert isinstance(article, Article)
 
-    assert len(list(collection.articles)) == 13892
+    assert len(list(collection.articles)) == count
 
-    for file in collection.files:
+    for file in collection._files:
         assert hasattr(file, "read")
         assert isinstance(file, (io.StringIO, io.TextIOWrapper))
         assert file.tell() == 0
@@ -188,42 +189,54 @@ def test_collection_from_streams(filename_single_document):
         for article in collection.articles:
             assert isinstance(article, Article)
 
-        for file in collection.files:
+        for file in collection._files:
             assert hasattr(file, "read")
             assert isinstance(file, (io.StringIO, io.TextIOWrapper))
             assert file.tell() == 0
 
 
 def test_collection_with_duplicated(filename_single_document, filename_many_documents):
+    collection = CollectionLazy.from_filenames(filename_single_document)
+    assert len(list(collection._files)) == 1
+    assert len(list(collection.articles)) == 29
+
     collection = CollectionLazy.from_filenames(
         filename_single_document, filename_single_document, filename_single_document
     )
-    assert len(list(collection.files)) == 3
-    assert len(list(collection.articles)) == 87
+    assert len(list(collection._files)) == 3
+    assert len(list(collection.articles)) == 3 * 29
 
-    collection = CollectionLazy.from_filenames(
-        filename_many_documents, filename_many_documents, filename_many_documents
+
+def test_cached_collection_with_duplicated(
+    filename_single_document, filename_many_documents
+):
+    collection = Collection.from_filenames(filename_single_document)
+    assert len(list(collection._files)) == 1
+    assert len(list(collection.articles)) == 29
+
+    collection = Collection.from_filenames(
+        filename_single_document, filename_single_document
     )
-    assert len(list(collection.files)) == 3
-    assert len(list(collection.articles)) == 41589
+    assert len(list(collection._files)) == 2
+    assert len(list(collection.articles)) == 29
 
 
 def test_collection_authors(collection_single_document):
-    authors = collection_single_document.authors
-    assert next(authors) == "Wodarz, S"
-    assert next(authors) == "Hasegawa, T"
-    assert next(authors) == "Ishio, S"
-    assert next(authors) == "Homma, T"
+    assert {"Wodarz, S", "Hasegawa, T", "Ishio, S", "Homma, T"}.issubset(
+        set(collection_single_document.authors)
+    )
 
 
 def test_collection_coauthors(collection_single_document):
     coauthors = collection_single_document.coauthors
-    assert next(coauthors) == ("Hasegawa, T", "Homma, T")
-    assert next(coauthors) == ("Hasegawa, T", "Ishio, S")
-    assert next(coauthors) == ("Hasegawa, T", "Wodarz, S")
-    assert next(coauthors) == ("Homma, T", "Ishio, S")
-    assert next(coauthors) == ("Homma, T", "Wodarz, S")
-    assert next(coauthors) == ("Ishio, S", "Wodarz, S")
+    assert {
+        ("Hasegawa, T", "Homma, T"),
+        ("Hasegawa, T", "Ishio, S"),
+        ("Hasegawa, T", "Wodarz, S"),
+        ("Homma, T", "Ishio, S"),
+        ("Homma, T", "Wodarz, S"),
+        ("Ishio, S", "Wodarz, S"),
+    }.issubset(set(coauthors))
 
 
 def test_command_line_interface():

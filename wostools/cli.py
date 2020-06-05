@@ -1,8 +1,9 @@
 import json
+import logging
 
 import click
 
-from wostools import CollectionLazy
+from wostools import Collection
 
 
 @click.group()
@@ -10,6 +11,8 @@ def main():
     """
     A little cli for wos tools.
     """
+    logger = logging.getLogger("wostools")
+    logger.setLevel(logging.ERROR)
 
 
 @main.command("citation-pairs")
@@ -30,7 +33,7 @@ def citation_pairs(sources, output):
         click.secho("You should give at least a file with documents.", fg="red")
         return
 
-    collection = CollectionLazy.from_filenames(*[f.name for f in sources])
+    collection = Collection.from_filenames(*[f.name for f in sources])
     pairs = [
         (source.label, target.label) for source, target in collection.citation_pairs()
     ]

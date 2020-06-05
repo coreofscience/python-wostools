@@ -6,5 +6,6 @@ __version__ = "1.1.0"
 
 from wostools.article import Article
 from wostools.lazy import CollectionLazy
+from wostools.cached import CollectionCached as Collection
 
-__all__ = ["CollectionLazy", "Article"]
+__all__ = ["Collection", "CollectionLazy", "Article"]

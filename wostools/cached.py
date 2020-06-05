@@ -1,5 +1,5 @@
 """
-The whole wostools thing.
+Collection with a nice cache.
 """
 
 import collections
@@ -14,7 +14,7 @@ from wostools.article import Article
 logger = logging.getLogger(__name__)
 
 
-class CollectionLazy(object):
+class CollectionCached(object):
     """A collection of WOS text files.
 
     Args:
@@ -26,6 +26,31 @@ class CollectionLazy(object):
         self._files = files
         for file in self._files:
             file.seek(0)
+        self._cache_key = None
+        self._cache: Dict[str, Article] = {}
+        self._preheat()
+
+    def _add_article(self, article):
+        label = article.label
+        if label in self._cache:
+            article = article.merge(self._cache[label])
+        self._cache[label] = article
+
+    def _preheat(self):
+        # Preheat our cache
+        key = ":".join(str(id(file) for file in self._files))
+        if key == self._cache_key:
+            return
+        for article in self._articles:
+            self._add_article(article)
+            for reference in article.references:
+                try:
+                    self._add_article(Article.from_isi_citation(reference))
+                except ValueError:
+                    logger.info(
+                        f"Ignoring malformed reference '{reference}' from '{article.label}'"
+                    )
+        self._cache_key = key
 
     @classmethod
     def from_glob(cls, pattern):
@@ -54,7 +79,7 @@ class CollectionLazy(object):
         return cls(*files)
 
     @property
-    def _article_texts(self):
+    def _article_texts(self) -> Iterable[str]:
         """Iterates over all the single article texts in the colection.
 
         Returns:
@@ -80,15 +105,8 @@ class CollectionLazy(object):
         Returns:
             generator: A generator of Articles according to the text articles.
         """
-        for article in self._articles:
-            yield article
-            for reference in article.references:
-                try:
-                    yield Article.from_isi_citation(reference)
-                except ValueError:
-                    logger.info(
-                        f"Ignoring malformed reference '{reference}' from '{article.label}'"
-                    )
+        self._preheat()
+        yield from self._cache.values()
 
     def __len__(self):
         return sum(1 for _ in self.articles)
@@ -126,11 +144,7 @@ class CollectionLazy(object):
             labesl, where the firts element is the article which cites the
             second element.
         """
-        for article in self._articles:
+        for article in self._cache.values():
             for reference in article.references:
-                try:
-                    yield (article, Article.from_isi_citation(reference))
-                except ValueError:
-                    logger.info(
-                        f"Ignoring malformed reference '{reference}' from '{article.label}'"
-                    )
+                if reference in self._cache:
+                    yield (article, self._cache[reference])

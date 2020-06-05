@@ -1,14 +1,10 @@
 # Python WoS tools
 
-[![Updates](https://pyup.io/repos/github/coreofscience/python-wostools/shield.svg)](https://pyup.io/repos/github/coreofscience/python-wostools/)
-
+![Python package](https://github.com/coreofscience/python-wostools/workflows/Python%20package/badge.svg)
 [![image](https://img.shields.io/pypi/v/wostools.svg)](https://pypi.python.org/pypi/wostools)
-
 [![DOI: 10.5281/zenodo.1344261](https://zenodo.org/badge/94160457.svg)](https://zenodo.org/badge/latestdoi/94160457)
 
 Translates ISI Web of Knowledge files into python objects.
-
--   Free software: MIT license
 
 ## Quickstart
 
@@ -44,6 +40,7 @@ $ wostools to-json docs/examples/bit-pattern-savedrecs.txt --output=document.jso
 
 ## Features
 
+-   Free software: MIT license
 -   Just parses an ISI Web of Knowledge file and produces a native
     python object.
 -   Through the `CollectionLazy` object it can do this using the minimum

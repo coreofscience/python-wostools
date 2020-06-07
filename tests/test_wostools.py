@@ -2,7 +2,7 @@
 
 from click.testing import CliRunner
 
-from wostools import CollectionLazy, Collection
+from wostools import LazyCollection, CachedCollection
 from wostools import cli
 from wostools import Article
 import pytest
@@ -158,7 +158,7 @@ def test_article_properties(article):
 
 
 def test_collection_from_filenames(collection_many_documents):
-    for article in collection_many_documents.articles:
+    for article in collection_many_documents:
         assert isinstance(article, Article)
 
     for file in collection_many_documents._files:
@@ -167,13 +167,15 @@ def test_collection_from_filenames(collection_many_documents):
         assert file.tell() == 0
 
 
-@pytest.mark.parametrize("cls,count", [(CollectionLazy, 13892), (Collection, 8797)])
+@pytest.mark.parametrize(
+    "cls,count", [(LazyCollection, 13892), (CachedCollection, 8797)]
+)
 def test_collection_from_glob(cls, count):
     collection = cls.from_glob("docs/examples/*.txt")
-    for article in collection.articles:
+    for article in collection:
         assert isinstance(article, Article)
 
-    assert len(list(collection.articles)) == count
+    assert len(list(collection)) == count
 
     for file in collection._files:
         assert hasattr(file, "read")
@@ -185,8 +187,8 @@ def test_collection_from_streams(filename_single_document):
     with open(filename_single_document) as file:
         _ = file.read()
 
-        collection = CollectionLazy(file)
-        for article in collection.articles:
+        collection = LazyCollection(file)
+        for article in collection:
             assert isinstance(article, Article)
 
         for file in collection._files:
@@ -196,29 +198,29 @@ def test_collection_from_streams(filename_single_document):
 
 
 def test_collection_with_duplicated(filename_single_document, filename_many_documents):
-    collection = CollectionLazy.from_filenames(filename_single_document)
+    collection = LazyCollection.from_filenames(filename_single_document)
     assert len(list(collection._files)) == 1
-    assert len(list(collection.articles)) == 29
+    assert len(list(collection)) == 29
 
-    collection = CollectionLazy.from_filenames(
+    collection = LazyCollection.from_filenames(
         filename_single_document, filename_single_document, filename_single_document
     )
     assert len(list(collection._files)) == 3
-    assert len(list(collection.articles)) == 3 * 29
+    assert len(list(collection)) == 3 * 29
 
 
 def test_cached_collection_with_duplicated(
     filename_single_document, filename_many_documents
 ):
-    collection = Collection.from_filenames(filename_single_document)
+    collection = CachedCollection.from_filenames(filename_single_document)
     assert len(list(collection._files)) == 1
-    assert len(list(collection.articles)) == 29
+    assert len(list(collection)) == 29
 
-    collection = Collection.from_filenames(
+    collection = CachedCollection.from_filenames(
         filename_single_document, filename_single_document
     )
     assert len(list(collection._files)) == 2
-    assert len(list(collection.articles)) == 29
+    assert len(list(collection)) == 29
 
 
 def test_collection_authors(collection_single_document):

@@ -3,7 +3,7 @@ import logging
 
 import click
 
-from wostools import Collection
+from wostools import CachedCollection
 
 
 @click.group()
@@ -33,7 +33,7 @@ def citation_pairs(sources, output):
         click.secho("You should give at least a file with documents.", fg="red")
         return
 
-    collection = Collection.from_filenames(*[f.name for f in sources])
+    collection = CachedCollection.from_filenames(*[f.name for f in sources])
     pairs = [
         (source.label, target.label) for source, target in collection.citation_pairs()
     ]
@@ -67,9 +67,9 @@ def to_dict(sources, output, more):
         click.secho("You should give at least a file with documents.", fg="red")
         return
 
-    collection = Collection.from_filenames(*[f.name for f in sources])
+    collection = CachedCollection.from_filenames(*[f.name for f in sources])
     json.dump(
-        [article.to_dict(simplified=not more) for article in collection.articles],
+        [article.to_dict(simplified=not more) for article in collection],
         output,
         indent=2,
     )

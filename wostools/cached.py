@@ -2,29 +2,31 @@
 Collection with a nice cache.
 """
 
-import glob
 import itertools
 import logging
-from typing import Dict, Iterable, Tuple
+from typing import Dict, Iterable, Iterator, Tuple
 
 from wostools.article import Article
+from wostools.base import BaseCollection
 from wostools.exceptions import InvalidReference
 
 logger = logging.getLogger(__name__)
 
 
-class CollectionCached(object):
+class CachedCollection(BaseCollection):
     """
     A collection of WOS text files.
     """
 
     def __init__(self, *files):
-        self._files = files
-        for file in self._files:
-            file.seek(0)
+        super().__init__(*files)
         self._cache_key = None
         self._cache: Dict[str, Article] = {}
         self._preheat()
+
+    def _articles(self) -> Iterable[Article]:
+        for article_text in self._article_texts:
+            yield Article.from_isi_text(article_text)
 
     def _add_article(self, article):
         label = article.label
@@ -37,7 +39,7 @@ class CollectionCached(object):
         key = ":".join(str(id(file) for file in self._files))
         if key == self._cache_key:
             return
-        for article in self._articles:
+        for article in self._articles():
             self._add_article(article)
             for reference in article.references:
                 try:
@@ -48,54 +50,7 @@ class CollectionCached(object):
                     )
         self._cache_key = key
 
-    @classmethod
-    def from_glob(cls, pattern):
-        """Creates a new collection from a pattern using glob.
-
-        Args:
-            pattern (str): String with the pattern to be passed to glob.
-
-        Returns:
-            CollectionLazy: Collection with the articles by using the pattern.
-        """
-        return cls.from_filenames(*glob.glob(pattern))
-
-    @classmethod
-    def from_filenames(cls, *filenames):
-        """Creates a new collection from a list of filenames.
-
-        Args:
-            filenames (str): String with the filename.
-
-        Returns:
-            CollectionLazy: Collection with the articles by reading the
-                filenames.
-        """
-        files = [open(filename, encoding="utf-8-sig") for filename in filenames]
-        return cls(*files)
-
-    @property
-    def _article_texts(self) -> Iterable[str]:
-        """Iterates over all the single article texts in the colection.
-
-        Returns:
-            generator: A generator of strings with the text articles.
-        """
-        for filehandle in self._files:
-            filehandle.seek(0)
-            data = filehandle.read()
-            filehandle.seek(0)
-            for article_text in data.split("\n\n"):
-                if article_text != "EF":
-                    yield article_text
-
-    @property
-    def _articles(self) -> Iterable[Article]:
-        for article_text in self._article_texts:
-            yield Article.from_isi_text(article_text)
-
-    @property
-    def articles(self) -> Iterable[Article]:
+    def __iter__(self) -> Iterator[Article]:
         """Iterates over all articles.
 
         Returns:
@@ -103,9 +58,6 @@ class CollectionCached(object):
         """
         self._preheat()
         yield from self._cache.values()
-
-    def __len__(self):
-        return sum(1 for _ in self.articles)
 
     @property
     def authors(self) -> Iterable[str]:
@@ -115,7 +67,7 @@ class CollectionCached(object):
             generator: A generator with the authors (one by one) of the
                 articles in the collection.
         """
-        for article in self.articles:
+        for article in self:
             yield from article.authors
 
     @property
@@ -126,7 +78,7 @@ class CollectionCached(object):
             generator: A generator with the pair of coauthors of the articles
                 in the collections.
         """
-        for article in self._articles:
+        for article in self._articles():
             yield from (
                 (source, target)
                 for source, target in itertools.combinations(sorted(article.authors), 2)

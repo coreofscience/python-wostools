@@ -18,9 +18,9 @@ Say you want to grab the title of all the articles in an ISI file, you
 can grab [this example file](docs/examples/bit-pattern-savedrecs.txt).
 
 ```python
->>> from wostools import Collection
->>> collection = Collection.from_filenames('docs/examples/bit-pattern-savedrecs.txt')
->>> for article in collection.articles:
+>>> from wostools import CachedCollection
+>>> collection = CachedCollection.from_filenames('docs/examples/bit-pattern-savedrecs.txt')
+>>> for article in collection:
 ...     print(article.title)
 In situ grazing incidence small-angle X-ray scattering study of solvent vapor annealing in lamellae-forming block copolymer thin films: Trade-off of defects in deswelling
 Structural control of ultra-fine CoPt nanodot arrays via electrodeposition process

@@ -2,7 +2,7 @@
 Configuration file for python-wostools tests.
 """
 
-from wostools import Article, CollectionLazy, Collection
+from wostools import Article, LazyCollection, CachedCollection
 
 import pytest
 import io
@@ -104,11 +104,11 @@ def filename_many_documents():
     return "docs/examples/bit-pattern-savedrecs.txt"
 
 
-@pytest.fixture(params=[Collection, CollectionLazy])
+@pytest.fixture(params=[CachedCollection, LazyCollection])
 def collection_single_document(request, filename_single_document):
     return request.param.from_filenames(filename_single_document)
 
 
-@pytest.fixture(params=[Collection, CollectionLazy])
+@pytest.fixture(params=[CachedCollection, LazyCollection])
 def collection_many_documents(request, filename_many_documents):
     return request.param.from_filenames(filename_many_documents)

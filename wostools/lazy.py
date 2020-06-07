@@ -8,6 +8,7 @@ import logging
 from typing import Iterable, Tuple
 
 from wostools.article import Article
+from wostools.exceptions import InvalidReference
 
 logger = logging.getLogger(__name__)
 
@@ -83,7 +84,7 @@ class CollectionLazy(object):
             for reference in article.references:
                 try:
                     yield Article.from_isi_citation(reference)
-                except ValueError:
+                except InvalidReference:
                     logger.info(
                         f"Ignoring malformed reference '{reference}' from '{article.label}'"
                     )
@@ -128,7 +129,7 @@ class CollectionLazy(object):
             for reference in article.references:
                 try:
                     yield (article, Article.from_isi_citation(reference))
-                except ValueError:
+                except InvalidReference:
                     logger.info(
                         f"Ignoring malformed reference '{reference}' from '{article.label}'"
                     )

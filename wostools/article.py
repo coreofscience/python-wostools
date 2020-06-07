@@ -4,6 +4,7 @@ import re
 from typing import Any, List, Mapping, Optional, Set
 
 from wostools.fields import parse_all
+from wostools.exceptions import InvalidReference, InvalidIsiLine
 
 logger = logging.getLogger(__name__)
 
@@ -33,11 +34,13 @@ class Article(object):
         page: Optional[str] = None,
         doi: Optional[str] = None,
         references: Optional[List[str]] = None,
+        keywords: Optional[List[str]] = None,
         sources: Optional[Set[str]] = None,
         extra: Optional[Mapping] = None,
     ):
         self.title: Optional[str] = title
         self.authors: List[str] = authors
+        self.keywords: List[str] = keywords or []
         self.year: Optional[int] = year
         self.journal: Optional[str] = journal
         self.volume: Optional[str] = volume
@@ -50,7 +53,7 @@ class Article(object):
     @property
     def label(self):
         if not (self.authors and self.year and self.journal):
-            raise ValueError("Missing required fields for label")
+            raise ValueError(self)
         pieces = {
             "AU": self.authors[0].replace(",", ""),
             "PY": str(self.year),
@@ -77,7 +80,7 @@ class Article(object):
         return {
             "title": self.title,
             "authors": self.authors,
-            "keywords": self.extra.get("keywords", []),
+            "keywords": self.keywords,
             "year": self.year,
             "journal": self.journal,
             "volume": self.volume,
@@ -110,7 +113,7 @@ class Article(object):
         for line in raw.split("\n"):
             match = ISI_LINE_PATTERN.match(line)
             if not match:
-                raise ValueError(f"'{line}' is not a valid ISI file line")
+                raise InvalidIsiLine(line)
             parsed = match.groupdict()
             field = parsed.get("field") or field
             if not field or "value" not in parsed or parsed["value"] is None:
@@ -126,15 +129,16 @@ class Article(object):
             page=processed.get("beginning_page"),
             doi=processed.get("DOI"),
             references=processed.get("references"),
+            keywords=processed.get("keywords"),
             extra=processed,
             sources={raw},
         )
 
     @classmethod
-    def from_isi_citation(cls, citation: str) -> "Article":
-        match = ISI_CITATION_PATTERN.match(citation)
+    def from_isi_citation(cls, reference: str) -> "Article":
+        match = ISI_CITATION_PATTERN.match(reference)
         if not match:
-            raise ValueError(f"{citation} does not look like an ISI citation")
+            raise InvalidReference(reference)
         data = {key: [value] for key, value in match.groupdict().items() if value}
         processed = parse_all(data)
         return cls(
@@ -146,5 +150,5 @@ class Article(object):
             page=processed.get("beginning_page"),
             doi=processed.get("DOI"),
             extra=processed,
-            sources={citation},
+            sources={reference},
         )

@@ -8,6 +8,7 @@ import logging
 from typing import Dict, Iterable, Tuple
 
 from wostools.article import Article
+from wostools.exceptions import InvalidReference
 
 logger = logging.getLogger(__name__)
 
@@ -41,7 +42,7 @@ class CollectionCached(object):
             for reference in article.references:
                 try:
                     self._add_article(Article.from_isi_citation(reference))
-                except ValueError:
+                except InvalidReference:
                     logger.info(
                         f"Ignoring malformed reference '{reference}' from '{article.label}'"
                     )

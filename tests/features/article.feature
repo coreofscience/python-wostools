@@ -28,3 +28,9 @@ Feature: Article manager class
       Then the article's doi matches the other
       And there's no error computing the label
       And the label contains the doi of the other
+
+   Scenario: Parse article from isi text
+      Given some valid isi text
+      When I create an article from the isi text
+      Then the values in the isi text are part of the article
+      And the isi text itself is part of the articles sources

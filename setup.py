@@ -2,9 +2,7 @@
 
 """The setup script."""
 
-import sys
-
-from setuptools import setup, find_packages
+from setuptools import find_packages, setup
 
 with open("README.md") as readme_file:
     readme = readme_file.read()
@@ -16,10 +14,8 @@ requirements = ["Click>=7.0"]
 
 setup_requirements = ["pytest-runner"]
 
-if sys.version_info < (3, 7):
-    test_requirements = ["pytest", "pytest-bdd", "dataclasses"]
-else:
-    test_requirements = ["pytest", "pytest-bdd"]
+
+test_requirements = ["pytest", "pytest-bdd", 'dataclasses; python_version<"3.7"']
 
 setup(
     author="Core of Science",

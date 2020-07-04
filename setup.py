@@ -14,7 +14,7 @@ requirements = ["Click>=7.0"]
 
 setup_requirements = ["pytest-runner"]
 
-test_requirements = ["pytest"]
+test_requirements = ["pytest", "pytest-bdd"]
 
 setup(
     author="Core of Science",

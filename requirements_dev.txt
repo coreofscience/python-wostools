@@ -1,5 +1,5 @@
 bumpversion==0.6.0
-flake8==3.8.2
+flake8==3.8.3
 coverage==5.2
 Sphinx==3.0.4
 

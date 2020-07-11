@@ -34,3 +34,24 @@ Feature: Article manager class
       When I create an article from the isi text
       Then the values in the isi text are part of the article
       And the isi text itself is part of the articles sources
+
+   Scenario: Parse article from invalid isi text
+      Given some isi text with invalid lines
+      When I create an article from the isi text
+      Then an invalid line error is risen
+
+   Scenario: Turn an article to dict
+      Given a reference article
+      When I turn the article into a dict
+      Then I get a reference dict of values
+
+   Scenario: Parse article from citation
+      Given some valid isi citation
+      When I create an article from the citation
+      Then the values of the citation are part of the article
+      And the citation itself is part of the articles sources
+
+   Scenario: Parse article from an invalid citation
+      Given some invalid isi citation
+      When I create an article from the citation
+      Then an invalid reference error is risen

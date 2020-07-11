@@ -1,12 +1,13 @@
+from contextlib import contextmanager
 from copy import deepcopy
 from dataclasses import dataclass
-from typing import Optional, List
+from typing import Dict, Generic, List, Optional, TypeVar, Iterator
 
 from pytest import fixture
-from pytest_bdd import scenarios, scenario, given, then, when, parsers
+from pytest_bdd import given, parsers, scenario, scenarios, then, when
 
 from wostools.article import Article
-
+from wostools.exceptions import InvalidIsiLine, InvalidReference
 
 ISI_TEMPLATE = """
 PT J
@@ -93,18 +94,41 @@ class Context:
     error: Optional[Exception] = None
 
 
-@dataclass
-class ParseContext:
-    history: Optional[List[Article]] = None
-    error: Optional[Exception] = None
-    article: Optional[Article] = None
+T = TypeVar("T")
 
-    def push(self, article: Article):
+
+@dataclass
+class OperationContext(Generic[T]):
+    history: Optional[List[T]] = None
+    error: Optional[Exception] = None
+    data: Optional[T] = None
+
+    def push(self, data: Optional[T], error: Optional[Exception] = None):
         if self.history is None:
             self.history = []
-        self.history.append(article)
-        self.article = article
-        self.error = None
+        if self.data:
+            self.history.append(self.data)
+        self.data = data
+        self.error = error
+
+    @contextmanager
+    def capture(self):
+        try:
+            yield
+        except Exception as e:
+            self.push(None, error=e)
+
+    @contextmanager
+    def assert_data(self, name=None) -> Iterator[T]:
+        if name is None:
+            name = "data"
+        assert self.data, f"No {name} computed yet"
+        yield self.data
+
+    @contextmanager
+    def assert_error(self) -> Iterator[Exception]:
+        assert self.error, f"Expected an error and found none"
+        yield self.error
 
 
 scenarios("features/article.feature")
@@ -126,8 +150,36 @@ def attributes():
 
 
 @fixture
-def parse_context():
-    return ParseContext()
+def citation_attributes():
+    # Kryder MH, 2008, P IEEE, V96, P1810, DOI 10.1109/JPROC.2008.2004315
+    return {
+        "author": "L Antuan",
+        "year": "2008",
+        "journal": "P IEEE",
+        "volume": "69",
+        "page": "1810",
+        "doi": "DOI 10.1109/JPROC.2008.2004315",
+    }
+
+
+@fixture
+def label_context() -> OperationContext[str]:
+    return OperationContext()
+
+
+@fixture
+def parse_context() -> OperationContext[Article]:
+    return OperationContext()
+
+
+@fixture
+def citation_parse_context() -> OperationContext[Article]:
+    return OperationContext()
+
+
+@fixture
+def to_dict_context() -> OperationContext[Dict]:
+    return OperationContext()
 
 
 @given("a complete article missing <field>", target_fixture="context")
@@ -168,6 +220,44 @@ def valid_isi_text(attributes):
     return ISI_TEMPLATE.format(**attributes)
 
 
+@given("some isi text with invalid lines", target_fixture="isi_text")
+def invalid_lines_in_isi_text(attributes):
+    return """
+    INVALIDKEY This value is going to die
+    """.strip()
+
+
+@given("some invalid isi citation", target_fixture="isi_citation")
+def invalid_isi_citation():
+    return "Da Lambert, Hello"
+
+
+@given("some valid isi citation", target_fixture="isi_citation")
+def valid_isi_citation(citation_attributes):
+    return "{author}, {year}, {journal}, V{volume}, P{page}, DOI {doi}".format(
+        **citation_attributes
+    )
+
+
+@given("a reference article", target_fixture="context")
+def reference_article(attributes):
+    return Context(
+        article=Article(
+            title=attributes.get("title"),
+            authors=attributes.get("authors"),
+            year=attributes.get("year"),
+            journal=attributes.get("journal"),
+            volume=attributes.get("volume"),
+            page=attributes.get("page"),
+            doi=attributes.get("doi"),
+            references=attributes.get("references"),
+            keywords=attributes.get("keywords"),
+            sources=attributes.get("sources"),
+            extra=attributes.get("extra"),
+        )
+    )
+
+
 @when("I merge the two articles")
 def merge_articles(context: Context, other: Context):
     assert context.article, "Missing article for this step"
@@ -186,10 +276,27 @@ def try_to_compute_label(context: Context):
         context.error = e
 
 
+@when("I turn the article into a dict")
+def try_to_go_to_dict(context: Context, to_dict_context: OperationContext[Dict]):
+    assert context.article, "Missing article for this step"
+    with to_dict_context.capture():
+        to_dict_context.push(context.article.to_dict())
+
+
 @when("I create an article from the isi text")
-def create_article_from_isi_text(isi_text, parse_context):
-    article = Article.from_isi_text(isi_text)
-    parse_context.push(article)
+def create_article_from_isi_text(isi_text, parse_context: OperationContext[Article]):
+    assert isi_text, "define some isi text to parse"
+    with parse_context.capture():
+        parse_context.push(Article.from_isi_text(isi_text))
+
+
+@when("I create an article from the citation")
+def create_article_from_citation(
+    isi_citation, citation_parse_context: OperationContext[Article]
+):
+    assert isi_citation, "define some isi citation to parse"
+    with citation_parse_context.capture():
+        citation_parse_context.push(Article.from_isi_citation(isi_citation))
 
 
 @then("the label is a proper string")
@@ -229,22 +336,63 @@ def contais_others_field(context: Context, other: Context, field: str):
 
 
 @then("the values in the isi text are part of the article")
-def values_make_it_to_the_article(parse_context: ParseContext, attributes: dict):
-    assert parse_context.article, "no article parsed yet"
-    for field in [
-        "title",
-        "authors",
-        "year",
-        "page",
-        "journal",
-        "volume",
-        "doi",
-    ]:
-        assert getattr(parse_context.article, field)
-        assert getattr(parse_context.article, field) == attributes[field]
+def values_make_it_to_the_article(
+    parse_context: OperationContext[Article], attributes: dict
+):
+    with parse_context.assert_data() as article:
+        for field in [
+            "title",
+            "authors",
+            "year",
+            "page",
+            "journal",
+            "volume",
+            "doi",
+        ]:
+            assert getattr(article, field)
+            assert getattr(article, field) == attributes[field]
+
+
+@then("the values of the citation are part of the article")
+def citation_values_make_it_to_article(
+    citation_parse_context: OperationContext[Article], citation_attributes: dict
+):
+    with citation_parse_context.assert_data() as article:
+        assert article.authors == [citation_attributes["author"]]
+        for field in ["year", "journal", "page", "volume", "doi"]:
+            assert str(getattr(article, field)) == citation_attributes[field]
 
 
 @then("the isi text itself is part of the articles sources")
-def isi_text_in_sources(parse_context: ParseContext, isi_text: str):
-    assert parse_context.article, "no article parsed yet"
-    assert isi_text in parse_context.article.sources
+def isi_text_in_sources(parse_context: OperationContext[Article], isi_text: str):
+    assert parse_context.data, "no article parsed yet"
+    assert isi_text in parse_context.data.sources
+
+
+@then("the citation itself is part of the articles sources")
+def citation_in_sources(
+    citation_parse_context: OperationContext[Article], isi_citation: str
+):
+    with citation_parse_context.assert_data() as article:
+        assert isi_citation in article.sources
+
+
+@then("an invalid line error is risen")
+def invialid_isi_line_risen(parse_context: OperationContext[Article]):
+    with parse_context.assert_error() as error:
+        assert isinstance(error, InvalidIsiLine)
+
+
+@then("an invalid reference error is risen")
+def invialid_reference_risen(citation_parse_context: OperationContext[Article]):
+    with citation_parse_context.assert_error() as error:
+        assert isinstance(error, InvalidReference)
+
+
+@then("I get a reference dict of values")
+def get_a_reference_dict(to_dict_context: OperationContext[Dict], attributes: Dict):
+    with to_dict_context.assert_data() as article_dict:
+        assert any(article_dict.values()), "your dict has no values son"
+        for key, value in article_dict.items():
+            assert not value or key in attributes
+            assert not value or value == attributes[key]

@@ -1,5 +1,7 @@
-.PHONY: clean clean-test clean-pyc clean-build docs help
+.PHONY: clean clean-test clean-pyc clean-build docs help, test-watch
 .DEFAULT_GOAL := help
+
+NOTIFY_FILE := /tmp/pytest-$$(pwd | md5sum | cut -d " " -f 1)
 
 define BROWSER_PYSCRIPT
 import os, webbrowser, sys
@@ -54,7 +56,15 @@ lint: ## check style with flake8
 	flake8 wostools tests
 
 test: ## run tests quickly with the default Python
-	py.test
+	python -m pytest
+
+test-watch:
+	ptw \
+		--ext "py,feature" \
+		--onpass "coverage report --skip-empty --skip-covered -m" \
+		--onfail "notify-send.py -R $(NOTIFY_FILE) -i face-worried --hint int:transient:1 'Test failed' 'Ooops we have a problem, not all tests passed'" \
+		--onexit "notify-send.py -R $(NOTIFY_FILE) -i media-playback-stop --hint int:transient:1 'Test runner stopped' 'Just so you know, the test runner stopped'" \
+		--runner "coverage run --source wostools -m pytest" \
 
 coverage: ## check code coverage quickly with the default Python
 	coverage run --source wostools -m pytest

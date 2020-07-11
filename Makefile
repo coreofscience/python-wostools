@@ -59,11 +59,11 @@ test: ## run tests quickly with the default Python
 	python -m pytest
 
 test-watch:
-	ptw \
+	@ptw \
 		--ext "py,feature" \
 		--onpass "coverage report --skip-empty --skip-covered -m" \
-		--onfail "notify-send.py -R $(NOTIFY_FILE) -i face-worried --hint int:transient:1 'Test failed' 'Ooops we have a problem, not all tests passed'" \
-		--onexit "notify-send.py -R $(NOTIFY_FILE) -i media-playback-stop --hint int:transient:1 'Test runner stopped' 'Just so you know, the test runner stopped'" \
+		--onfail "notify-send.sh -R $(NOTIFY_FILE) -i face-worried --hint int:transient:1 'Test failed' 'Ooops we have a problem, not all tests passed'" \
+		--onexit "notify-send.sh -R $(NOTIFY_FILE) -i media-playback-stop --hint int:transient:1 'Test runner stopped' 'Just so you know, the test runner stopped'" \
 		--runner "coverage run --source wostools -m pytest" \
 
 coverage: ## check code coverage quickly with the default Python

@@ -3,8 +3,8 @@ import logging
 import re
 from typing import Any, List, Mapping, Optional, Set
 
+from wostools.exceptions import InvalidIsiLine, InvalidReference, MissingLabelFields
 from wostools.fields import parse_all
-from wostools.exceptions import InvalidReference, InvalidIsiLine
 
 logger = logging.getLogger(__name__)
 
@@ -53,7 +53,7 @@ class Article(object):
     @property
     def label(self):
         if not (self.authors and self.year and self.journal):
-            raise ValueError(self)
+            raise MissingLabelFields(self)
         pieces = {
             "AU": self.authors[0].replace(",", ""),
             "PY": str(self.year),

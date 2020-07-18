@@ -1,6 +1,6 @@
 import pytest
 
-from wostools.fields import joined, delimited, integer
+from wostools.fields import joined, delimited, integer, parse
 
 
 def test_joined_joins_sequences():
@@ -22,3 +22,18 @@ def test_integer_integer_makes_an_integer():
 def test_integer_raises_if_more_than_one_value_is_passed():
     with pytest.raises(ValueError):
         integer(["", ""])
+
+
+@pytest.mark.parametrize("header", ["VR", "FN"])
+def test_parse_ignores_headers(header):
+    assert parse(header, ["value", "value"]) == {}
+
+
+def test_parse_raises_on_unknown_fields():
+    with pytest.raises(ValueError):
+        assert parse("FG", ["value", "value"]) == {}
+
+
+def test_parse_raises_on_invalid_values():
+    with pytest.raises(ValueError):
+        assert parse("PY", ["1994b"]) == {}

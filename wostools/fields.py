@@ -35,10 +35,6 @@ def integer(seq):
     return int(first.strip())
 
 
-def unknown(key) -> IsiField:
-    return IsiField(key, key, joined, [])
-
-
 FIELDS = {
     "AB": IsiField("AB", "Abstract", joined, ["abstract"]),
     "AF": IsiField("AF", "Author Full Names", ident, ["author_full_names"]),
@@ -197,16 +193,6 @@ def parse(key: str, value: List) -> Dict:
         return {k: parsed for k in [key, *field.aliases]}
     except ValueError as e:
         raise ValueError(f"Field {key}: {e}")
-    except AttributeError as e:
-        raise AttributeError(f"Field {key}: {e}")
-
-
-def alias(raw: Dict) -> Dict:
-    output: Dict[str, Any] = {}
-    for key, value in output:
-        field = FIELDS.get(key, unknown(key))
-        output.update({k: value for k in [key, *field.aliases]})
-    return output
 
 
 def parse_all(raw_dict: Dict[str, List[str]]) -> Mapping[str, Any]:

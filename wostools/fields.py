@@ -20,7 +20,12 @@ def ident(seq):
 
 
 def delimited(seq, delimiter="; "):
-    return joined(seq).split(delimiter)
+    return [
+        word.replace(delimiter.strip(), "")
+        for words in seq
+        for word in words.split(delimiter)
+        if word
+    ]
 
 
 def integer(seq):

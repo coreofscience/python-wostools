@@ -1,13 +1,14 @@
-from contextlib import contextmanager
 from copy import deepcopy
 from dataclasses import dataclass
-from typing import Dict, Generic, List, Optional, TypeVar, Iterator
+from typing import Dict, Optional
 
 from pytest import fixture
-from pytest_bdd import given, parsers, scenario, scenarios, then, when
+from pytest_bdd import given, parsers, scenarios, then, when
 
 from wostools.article import Article
 from wostools.exceptions import InvalidIsiLine, InvalidReference
+
+from wostools._testutils import Context
 
 ISI_TEMPLATE = """
 PT J
@@ -90,43 +91,6 @@ ER
 class ArticleWrapper:
     article: Optional[Article]
     label: Optional[str] = None
-
-
-T = TypeVar("T")
-
-
-@dataclass
-class Context(Generic[T]):
-    history: Optional[List[T]] = None
-    error: Optional[Exception] = None
-    data: Optional[T] = None
-
-    def push(self, data: Optional[T], error: Optional[Exception] = None):
-        if self.history is None:
-            self.history = []
-        if self.data:
-            self.history.append(self.data)
-        self.data = data
-        self.error = error
-
-    @contextmanager
-    def capture(self):
-        try:
-            yield
-        except Exception as e:
-            self.push(None, error=e)
-
-    @contextmanager
-    def assert_data(self, name=None) -> Iterator[T]:
-        if name is None:
-            name = "data"
-        assert self.data, f"No {name} computed yet"
-        yield self.data
-
-    @contextmanager
-    def assert_error(self) -> Iterator[Exception]:
-        assert self.error, f"Expected an error and found none"
-        yield self.error
 
 
 scenarios("features/article.feature")

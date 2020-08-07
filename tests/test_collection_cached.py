@@ -110,7 +110,7 @@ ER
 """.strip()
 
 
-@scenario("features/cached.feature", "list coauthors")
+@scenario("features/cached.feature", "duplicated articles are removed")
 def test_preheat_cache():
     pass
 
@@ -118,6 +118,11 @@ def test_preheat_cache():
 @fixture
 def collection_context() -> Context[CachedCollection]:
     return Context()
+
+
+@fixture
+def two_collections_context() -> Tuple[Context, Context]:
+    return Context(), Context()
 
 
 @fixture
@@ -205,4 +210,31 @@ def iterate_over_collection_coauthors(
             assert author in ISI_TEXT
             assert coauthor in ISI_TEXT
             assert count >= 1
+
+
+@when("I create a collection from that text")
+@when("I create a collection from twice that text")
+def create_two_collections(isi_text, two_collections_context):
+    first_context, second_context = two_collections_context
+    buffer = io.StringIO(isi_text)
+
+    with first_context.capture():
+        first_collection = CachedCollection(buffer)
+        first_context.push(first_collection)
+
+    with second_context.capture():
+        second_collection = CachedCollection(buffer, buffer)
+        second_context.push(second_collection)
+
+
+@then("both collections have the same number of articles")
+def same_number_of_articles(two_collections_context):
+    first_context, second_context = two_collections_context
+
+    with first_context.assert_data() as first_collection:
+        with second_context.assert_data() as second_collection:
+            assert len(first_collection) == len(second_collection)
+            assert sorted([art.label for art in first_collection]) == sorted(
+                [art.label for art in second_collection]
+            )
 

@@ -110,7 +110,7 @@ ER
 """.strip()
 
 
-@scenario("features/cached.feature", "preheat cache")
+@scenario("features/cached.feature", "collection list articles and references")
 def test_preheat_cache():
     pass
 
@@ -152,3 +152,13 @@ def context_valid_collection(create_valid_collection):
 def the_collection_cache_is_preheated(collection_context: Context[CachedCollection]):
     with collection_context.assert_data() as collection:
         assert collection._cache
+
+
+@when("I iterate over the collection")
+@then("all articles and references are present")
+def iterate_over_collection(context_valid_collection: Context[CachedCollection]):
+    with context_valid_collection.assert_data() as collection:
+        assert len(collection) == 38
+        for article in collection:
+            assert article
+            assert article.label

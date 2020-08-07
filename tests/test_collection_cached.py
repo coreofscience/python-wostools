@@ -120,15 +120,32 @@ def collection_context() -> Context[CachedCollection]:
     return Context()
 
 
-@given("some valid isi text", target_fixture="isi_text")
-def valid_isi_text():
+@fixture
+def isi_text():
     return ISI_TEXT
 
 
-@when("I create a collection from that text")
-def create_collection(isi_text, collection_context: Context[CachedCollection]):
+@given("some valid isi text")
+def valid_isi_text(isi_text):
+    return isi_text
+
+
+@fixture
+def create_valid_collection(isi_text, collection_context: Context[CachedCollection]):
     with collection_context.capture():
-        collection_context.push(CachedCollection(io.StringIO(isi_text)))
+        collection = CachedCollection(io.StringIO(isi_text))
+        collection_context.push(collection)
+    return collection_context
+
+
+@when("I create a collection from that text")
+def create_collection(create_valid_collection):
+    pass
+
+
+@given("a valid collection")
+def context_valid_collection(create_valid_collection):
+    return create_valid_collection
 
 
 @then("the collection's cache is preheated")

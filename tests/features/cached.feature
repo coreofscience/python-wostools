@@ -30,7 +30,7 @@ Feature: cached collection
 
    Scenario: duplicated articles are removed
 
-      Given somve valid isi text
+      Given some valid isi text
       When I create a collection from that text
       And I create a collection from twice that text
       Then both collections have the same number of articles

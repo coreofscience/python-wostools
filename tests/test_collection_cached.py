@@ -1,5 +1,5 @@
 import io
-from typing import Collection, Dict
+from typing import Collection, Dict, Tuple
 
 from pytest import fixture
 from pytest_bdd import scenario, given, when, then
@@ -110,7 +110,7 @@ ER
 """.strip()
 
 
-@scenario("features/cached.feature", "list authors")
+@scenario("features/cached.feature", "list coauthors")
 def test_preheat_cache():
     pass
 
@@ -181,3 +181,28 @@ def iterate_over_collection_authors(
         for author, count in authors.items():
             assert author in ISI_TEXT
             assert count >= 1
+
+
+@when("I iterate over the collection coauthors")
+@then("all coauthor pairs are included")
+@then("the coauthor list include duplicates")
+def iterate_over_collection_coauthors(
+    context_valid_collection: Context[CachedCollection],
+):
+    with context_valid_collection.assert_data() as collection:
+        assert collection.coauthors
+
+        coauthors: Dict[Tuple[str, str], int] = {}
+        for pair in collection.coauthors:
+            coauthors[pair] = coauthors.get(pair, 0) + 1
+
+            author, coauthor = pair
+            assert author
+            assert coauthor
+
+        for pair, count in coauthors.items():
+            author, coauthor = pair
+            assert author in ISI_TEXT
+            assert coauthor in ISI_TEXT
+            assert count >= 1
+

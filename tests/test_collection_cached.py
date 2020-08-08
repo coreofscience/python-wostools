@@ -2,7 +2,7 @@ import io
 from typing import Collection, Dict, Tuple
 
 from pytest import fixture
-from pytest_bdd import scenario, given, when, then
+from pytest_bdd import scenarios, given, when, then
 
 from wostools import CachedCollection, Article
 from wostools._testutils import Context
@@ -107,12 +107,95 @@ SC Polymer Science
 GA EU7BQ
 UT WOS:000401190100002
 ER
+
+EF
 """.strip()
 
+ISI_TEXT_DIFFERENT_RECORD = """
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Bosworth, JK
+   Dobisz, EA
+   Hellwig, O
+   Ruiz, R
+AF Bosworth, Joan K.
+   Dobisz, Elizabeth A.
+   Hellwig, Olav
+   Ruiz, Ricardo
+TI Impact of Out-of-Plane Translational Order in Block Copolymer
+   Lithography
+SO MACROMOLECULES
+LA English
+DT Article
+ID BIT-PATTERNED MEDIA; DENSITY MULTIPLICATION; TERNARY BLENDS; THIN-FILMS;
+   DIMENSIONS; ROUGHNESS; DOMAINS; SHAPES
+AB In block copolymer lithography, subtle distortions in the self-assembled domains, such as tilting or bending, have a strong impact on the quality of the lithographic features upon pattern transfer. We compared the feature size distribution observed at the top-surface of block copolymer thin films with the size distribution that the self-assembled structures project at the substrate interface, i.e., the lithographic image. We performed the comparison for films of perpendicularly oriented cylindrical block copolymer domains with various degrees of lateral order. We found that the size distribution of the projected image does not mimic the well-known Gaussian distribution observed at the top surface. Instead, the lithographic features display a skewed distribution with a long tail toward smaller feature dimensions, a shift of the median and a reduced number of transferred features. The distortions are more pronounced for films with shorter correlation lengths. We propose a simplified model that explains the observed shifts in the size distribution of the projected image by considering the tilting that cylinders undergo in the vicinity of dislocations. The presence of defects disrupting the in-plane orientational order riot only impacts the size distribution of the self-assembled features, but also induces nearby cylinder tilting and some general loss of out-of-plane translational order which, upon pattern transfer, is responsible for the observed distortions on the feature size distribution,
+C1 [Bosworth, Joan K.; Dobisz, Elizabeth A.; Hellwig, Olav; Ruiz, Ricardo] Hitachi Global Storage Technol, San Jose Res Ctr, San Jose, CA 95135 USA.
+RP Ruiz, R (reprint author), Hitachi Global Storage Technol, San Jose Res Ctr, 3403 Yerba Buena Rd, San Jose, CA 95135 USA.
+EM ricardo.ruiz@hitachigst.com
+OI Ruiz, Ricardo/0000-0002-1698-4281
+CR ALBRECHT T, 2009, NANOSCALE MAGNETIC M
+   BATES FS, 1990, ANNU REV PHYS CHEM, V41, P525, DOI 10.1146/annurev.pc.41.100190.002521
+   Black CT, 2007, IBM J RES DEV, V51, P605
+   Cheng JY, 2008, ADV MATER, V20, P3155, DOI 10.1002/adma.200800826
+   Cheng JY, 2010, ACS NANO, V4, P4815, DOI 10.1021/nn100686v
+   Detcheverry FA, 2010, MACROMOLECULES, V43, P3446, DOI 10.1021/ma902332h
+   Edwards EW, 2007, MACROMOLECULES, V40, P90, DOI 10.1021/ma0607564
+   Guarini KW, 2002, ADV MATER, V14, P1290, DOI 10.1002/1521-4095(20020916)14:18<1290::AID-ADMA1290>3.0.CO;2-N
+   Hammond MR, 2003, MACROMOLECULES, V36, P8712, DOI 10.1021/ma026001o
+   Harrison C, 2004, EUROPHYS LETT, V67, P800, DOI 10.1209/epl/i2004-10126-5
+   Harrison C, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.011706
+   Hellwig O, 2010, APPL PHYS LETT, V96, DOI 10.1063/1.3293301
+   HO CS, 1983, IEEE T PATTERN ANAL, V5, P593
+   *INTRS, LITH
+   Ji SX, 2011, MACROMOLECULES, V44, P4291, DOI 10.1021/ma2005734
+   Kleman M., 2003, SOFT MATTER PHYS INT
+   LIU CC, 2010, J VAC SCI TECHNOL B, V34
+   Liu G, 2010, J VAC SCI TECHNOL B, V28
+   Nagpal U, 2011, ACS NANO, V5, P5673, DOI 10.1021/nn201335v
+   Ruiz R, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.054204
+   Ruiz R, 2008, SCIENCE, V321, P936, DOI 10.1126/science.1157626
+   Segalman RA, 2005, MAT SCI ENG R, V48, P191, DOI 10.1016/j.mser.2004.12.003
+   Segalman RA, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.196101
+   Segalman RA, 2003, MACROMOLECULES, V36, P3272, DOI 10.1021/ma021367m
+   Stipe BC, 2010, NAT PHOTONICS, V4, P484, DOI 10.1038/nphoton.2010.90
+   Stoykovich MP, 2010, MACROMOLECULES, V43, P2334, DOI 10.1021/ma902494v
+   Stuen KO, 2009, MACROMOLECULES, V42, P5139, DOI 10.1021/ma900520v
+   Tada Y, 2009, POLYMER, V50, P4250, DOI 10.1016/j.polymer.2009.06.039
+   Welander AM, 2008, MACROMOLECULES, V41, P2759, DOI 10.1021/ma800056s
+   Welander AM, 2008, J VAC SCI TECHNOL B, V26, P2484, DOI 10.1116/1.2987963
+   Xiao SG, 2007, J VAC SCI TECHNOL B, V25, P1953, DOI 10.1116/1.2801860
+   Yang XM, 2009, ACS NANO, V3, P1844, DOI 10.1021/nn900073r
+NR 32
+TC 11
+Z9 11
+U1 4
+U2 22
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0024-9297
+J9 MACROMOLECULES
+JI Macromolecules
+PD DEC 13
+PY 2011
+VL 44
+IS 23
+BP 9196
+EP 9204
+DI 10.1021/ma201967a
+PG 9
+WC Polymer Science
+SC Polymer Science
+GA 855ZG
+UT WOS:000297604200016
+ER
 
-@scenario("features/cached.feature", "citation pairs")
-def test_preheat_cache():
-    pass
+EF
+""".strip()
+
+scenarios("features/cached.feature")
 
 
 @fixture
@@ -133,6 +216,11 @@ def isi_text():
 @given("some valid isi text")
 def valid_isi_text(isi_text):
     return isi_text
+
+
+@given("a diferent isi record that references the former")
+def isi_text_different_record():
+    return ISI_TEXT_DIFFERENT_RECORD
 
 
 @fixture
@@ -161,8 +249,8 @@ def the_collection_cache_is_preheated(collection_context: Context[CachedCollecti
 
 @when("I iterate over the collection")
 @then("all articles and references are present")
-def iterate_over_collection(context_valid_collection: Context[CachedCollection]):
-    with context_valid_collection.assert_data() as collection:
+def iterate_over_collection(collection_context: Context[CachedCollection]):
+    with collection_context.assert_data() as collection:
         assert len(collection) == 38
         for article in collection:
             assert article
@@ -172,10 +260,8 @@ def iterate_over_collection(context_valid_collection: Context[CachedCollection])
 @when("I iterate over the collection authors")
 @then("all authors are included")
 @then("the author list include duplicates")
-def iterate_over_collection_authors(
-    context_valid_collection: Context[CachedCollection],
-):
-    with context_valid_collection.assert_data() as collection:
+def iterate_over_collection_authors(collection_context: Context[CachedCollection]):
+    with collection_context.assert_data() as collection:
         assert collection.authors
 
         authors: Dict[str, int] = {}
@@ -191,10 +277,8 @@ def iterate_over_collection_authors(
 @when("I iterate over the collection coauthors")
 @then("all coauthor pairs are included")
 @then("the coauthor list include duplicates")
-def iterate_over_collection_coauthors(
-    context_valid_collection: Context[CachedCollection],
-):
-    with context_valid_collection.assert_data() as collection:
+def iterate_over_collection_coauthors(collection_context: Context[CachedCollection]):
+    with collection_context.assert_data() as collection:
         assert collection.coauthors
 
         coauthors: Dict[Tuple[str, str], int] = {}
@@ -247,3 +331,39 @@ def list_collection_citation_pairs(context_valid_collection: Context[CachedColle
         for article, reference in collection.citation_pairs():
             assert isinstance(article, Article)
             assert isinstance(reference, Article)
+
+
+@when("I create a collection from that text")
+def create_collection_two_isi_files(
+    isi_text: str,
+    isi_text_different_record: str,
+    collection_context: Context[CachedCollection],
+):
+    buffer_1 = io.StringIO(isi_text)
+    buffer_2 = io.StringIO(isi_text_different_record)
+
+    with collection_context.capture():
+        collection = CachedCollection(buffer_1, buffer_2)
+        collection_context.push(collection)
+
+
+@when("I list the collection's citation pairs [2]")
+@then("the citation always include all the available data")
+def iterate_over_citation_pairs_two_isi_files(
+    collection_context: Context[CachedCollection],
+):
+    with collection_context.assert_data() as collection:
+        assert len(list(collection.citation_pairs())) == 68
+
+        having_keywords = False
+        for article, reference in collection.citation_pairs():
+            assert isinstance(article, Article)
+            assert isinstance(reference, Article)
+
+            if (
+                article.to_dict()["doi"] == "10.1002/polb.24346"
+                and reference.to_dict()["doi"] == "10.1021/ma201967a"
+            ):
+                having_keywords = bool(article.keywords and reference.keywords)
+
+        assert having_keywords

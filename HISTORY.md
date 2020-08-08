@@ -1,5 +1,11 @@
 # History
 
+## 2.0.0 (2020-08-09)
+
+-   Make the article class more concrete
+-   Make collections iterable
+-   Add cached and lazy collections for different use cases
+
 ## 0.2.0 (2018-08-12)
 
 -   Add support for all WOS fields.

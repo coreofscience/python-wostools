@@ -6,4 +6,6 @@
 
 ## Contributors
 
-None yet. Why not be the first?
+-   Oscar Arbeláez \<<odarbelaeze@gmail.com>\>
+-   Juan David Alzate Cardona \<<jdalzatec@gmail.com>\>
+-   Daniel Valencia \<<dsvalenciah@unal.edu.co>\>

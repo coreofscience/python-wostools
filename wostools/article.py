@@ -104,6 +104,8 @@ class Article(object):
             doi=self.doi or other.doi,
             sources={*self.sources, *other.sources},
             extra={**self.extra, **other.extra},
+            references=list({*self.references, *other.references}),
+            keywords=list({*self.keywords, *other.keywords}),
         )
 
     @classmethod

@@ -4,7 +4,7 @@ from typing import Collection, Dict, Tuple
 from pytest import fixture
 from pytest_bdd import scenario, given, when, then
 
-from wostools import CachedCollection
+from wostools import CachedCollection, Article
 from wostools._testutils import Context
 
 ISI_TEXT = """
@@ -110,7 +110,7 @@ ER
 """.strip()
 
 
-@scenario("features/cached.feature", "duplicated articles are removed")
+@scenario("features/cached.feature", "citation pairs")
 def test_preheat_cache():
     pass
 
@@ -238,3 +238,12 @@ def same_number_of_articles(two_collections_context):
                 [art.label for art in second_collection]
             )
 
+
+@when("I list the collection's citation pairs")
+@then("all citation pairs are included")
+def list_collection_citation_pairs(context_valid_collection: Context[CachedCollection]):
+    with context_valid_collection.assert_data() as collection:
+        assert len(list(collection.citation_pairs())) == 37
+        for article, reference in collection.citation_pairs():
+            assert isinstance(article, Article)
+            assert isinstance(reference, Article)

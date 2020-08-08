@@ -209,6 +209,23 @@ def iterate_collection_context() -> Context[List[Article]]:
 
 
 @fixture
+def iterate_authors_collection_context() -> Context[List[str]]:
+    return Context()
+
+
+@fixture
+def iterate_coauthors_collection_context() -> Context[List[Tuple[str, str]]]:
+    return Context()
+
+
+@fixture
+def iterate_citation_pairs_collection_context() -> Context[
+    List[Tuple[Article, Article]]
+]:
+    return Context()
+
+
+@fixture
 def two_collections_context() -> Tuple[Context, Context]:
     return Context(), Context()
 
@@ -276,38 +293,60 @@ def all_articles_and_references_are_present(
 
 
 @when("I iterate over the collection authors")
+def iterate_over_collection_authors(
+    collection_context: Context[CachedCollection],
+    iterate_authors_collection_context: Context[List[str]],
+):
+    with collection_context.assert_data() as collection:
+        with iterate_authors_collection_context.capture():
+            iterate_authors_collection_context.push(list(collection.authors))
+
+
 @then("all authors are included")
 @then("the author list include duplicates")
-def iterate_over_collection_authors(collection_context: Context[CachedCollection]):
-    with collection_context.assert_data() as collection:
-        assert collection.authors
+def all_authors_included_even_duplicates(
+    iterate_authors_collection_context: Context[List[str]],
+):
+    with iterate_authors_collection_context.assert_data() as authors:
+        assert authors
 
-        authors: Dict[str, int] = {}
-        for author in collection.authors:
-            authors[author] = authors.get(author, 0) + 1
+        authors_count: Dict[str, int] = {}
+        for author in authors:
+            authors_count[author] = authors_count.get(author, 0) + 1
             assert author
 
-        for author, count in authors.items():
+        for author, count in authors_count.items():
             assert author in ISI_TEXT
             assert count >= 1
 
 
 @when("I iterate over the collection coauthors")
+def iterate_over_collection_coauthors(
+    collection_context: Context[CachedCollection],
+    iterate_coauthors_collection_context: Context[List[Tuple[str, str]]],
+):
+    with collection_context.assert_data() as collection:
+        with iterate_coauthors_collection_context.capture():
+            iterate_coauthors_collection_context.push(list(collection.coauthors))
+
+
 @then("all coauthor pairs are included")
 @then("the coauthor list include duplicates")
-def iterate_over_collection_coauthors(collection_context: Context[CachedCollection]):
-    with collection_context.assert_data() as collection:
-        assert collection.coauthors
+def all_coauthors_pairs_included_even_duplicates(
+    iterate_coauthors_collection_context: Context[List[Tuple[str, str]]],
+):
+    with iterate_coauthors_collection_context.assert_data() as coauthors:
+        assert coauthors
 
-        coauthors: Dict[Tuple[str, str], int] = {}
-        for pair in collection.coauthors:
-            coauthors[pair] = coauthors.get(pair, 0) + 1
+        coauthors_count: Dict[Tuple[str, str], int] = {}
+        for pair in coauthors:
+            coauthors_count[pair] = coauthors_count.get(pair, 0) + 1
 
             author, coauthor = pair
             assert author
             assert coauthor
 
-        for pair, count in coauthors.items():
+        for pair, count in coauthors_count.items():
             author, coauthor = pair
             assert author in ISI_TEXT
             assert coauthor in ISI_TEXT
@@ -342,11 +381,24 @@ def same_number_of_articles(two_collections_context):
 
 
 @when("I list the collection's citation pairs")
-@then("all citation pairs are included")
-def list_collection_citation_pairs(collection_context: Context[CachedCollection]):
+def list_collection_citation_pairs(
+    collection_context: Context[CachedCollection],
+    iterate_citation_pairs_collection_context: Context[List[Tuple[Article, Article]]],
+):
     with collection_context.assert_data() as collection:
-        assert len(list(collection.citation_pairs())) == 37
-        for article, reference in collection.citation_pairs():
+        with iterate_citation_pairs_collection_context.capture():
+            iterate_citation_pairs_collection_context.push(
+                list(collection.citation_pairs())
+            )
+
+
+@then("all citation pairs are included")
+def all_citation_pairs_are_included(
+    iterate_citation_pairs_collection_context: Context[List[Tuple[Article, Article]]]
+):
+    with iterate_citation_pairs_collection_context.assert_data() as citation_pairs:
+        assert len(citation_pairs) == 37
+        for article, reference in citation_pairs:
             assert isinstance(article, Article)
             assert isinstance(reference, Article)
 
@@ -365,16 +417,15 @@ def create_collection_two_isi_files(
         collection_context.push(collection)
 
 
-@when("I list the collection's citation pairs [2]")
 @then("the citation always include all the available data")
 def iterate_over_citation_pairs_two_isi_files(
-    collection_context: Context[CachedCollection],
+    iterate_citation_pairs_collection_context: Context[List[Tuple[Article, Article]]]
 ):
-    with collection_context.assert_data() as collection:
-        assert len(list(collection.citation_pairs())) == 68
+    with iterate_citation_pairs_collection_context.assert_data() as citation_pairs:
+        assert len(citation_pairs) == 68
 
         having_keywords = False
-        for article, reference in collection.citation_pairs():
+        for article, reference in citation_pairs:
             assert isinstance(article, Article)
             assert isinstance(reference, Article)
 

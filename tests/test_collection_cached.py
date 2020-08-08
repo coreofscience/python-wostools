@@ -1,5 +1,5 @@
 import io
-from typing import Collection, Dict, Tuple
+from typing import List, Dict, Tuple
 
 from pytest import fixture
 from pytest_bdd import scenarios, given, when, then
@@ -204,18 +204,23 @@ def collection_context() -> Context[CachedCollection]:
 
 
 @fixture
+def iterate_collection_context() -> Context[List[Article]]:
+    return Context()
+
+
+@fixture
 def two_collections_context() -> Tuple[Context, Context]:
     return Context(), Context()
 
 
-@fixture
-def isi_text():
+@given("some valid isi text", target_fixture="isi_text")
+def valid_isi_text():
     return ISI_TEXT
 
 
-@given("some valid isi text")
-def valid_isi_text(isi_text):
-    return isi_text
+@given("some invalid isi text", target_fixture="isi_text")
+def invalid_isi_text():
+    return "INVALID invalid"
 
 
 @given("a diferent isi record that references the former")
@@ -224,21 +229,23 @@ def isi_text_different_record():
 
 
 @fixture
-def create_valid_collection(isi_text, collection_context: Context[CachedCollection]):
+def create_valid_collection(collection_context: Context[CachedCollection]):
+    collection = CachedCollection(io.StringIO(ISI_TEXT))
+    collection_context.push(collection)
+
+
+@when("I create a collection from that text")
+def create_collection(isi_text):
     with collection_context.capture():
         collection = CachedCollection(io.StringIO(isi_text))
         collection_context.push(collection)
     return collection_context
 
 
-@when("I create a collection from that text")
-def create_collection(create_valid_collection):
-    pass
-
-
 @given("a valid collection")
-def context_valid_collection(create_valid_collection):
-    return create_valid_collection
+def context_valid_collection(collection_context):
+    collection = CachedCollection(io.StringIO(ISI_TEXT))
+    collection_context.push(collection)
 
 
 @then("the collection's cache is preheated")
@@ -248,11 +255,22 @@ def the_collection_cache_is_preheated(collection_context: Context[CachedCollecti
 
 
 @when("I iterate over the collection")
-@then("all articles and references are present")
-def iterate_over_collection(collection_context: Context[CachedCollection]):
+def iterate_over_collection(
+    collection_context: Context[CachedCollection],
+    iterate_collection_context: Context[List[Article]],
+):
     with collection_context.assert_data() as collection:
-        assert len(collection) == 38
-        for article in collection:
+        with iterate_collection_context.capture():
+            iterate_collection_context.push(list(collection))
+
+
+@then("all articles and references are present")
+def all_articles_and_references_are_present(
+    iterate_collection_context: Context[List[Article]],
+):
+    with iterate_collection_context.assert_data() as articles:
+        assert len(articles) == 38
+        for article in articles:
             assert article
             assert article.label
 
@@ -325,8 +343,8 @@ def same_number_of_articles(two_collections_context):
 
 @when("I list the collection's citation pairs")
 @then("all citation pairs are included")
-def list_collection_citation_pairs(context_valid_collection: Context[CachedCollection]):
-    with context_valid_collection.assert_data() as collection:
+def list_collection_citation_pairs(collection_context: Context[CachedCollection]):
+    with collection_context.assert_data() as collection:
         assert len(list(collection.citation_pairs())) == 37
         for article, reference in collection.citation_pairs():
             assert isinstance(article, Article)

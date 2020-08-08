@@ -121,3 +121,4 @@ data/
 
 # json files
 *.json
+.testmondata

@@ -1,5 +1,7 @@
-.PHONY: clean clean-test clean-pyc clean-build docs help
+.PHONY: clean clean-test clean-pyc clean-build docs help, test-watch
 .DEFAULT_GOAL := help
+
+NOTIFY_FILE := /tmp/pytest-$$(pwd | md5sum | cut -d " " -f 1)
 
 define BROWSER_PYSCRIPT
 import os, webbrowser, sys
@@ -54,27 +56,21 @@ lint: ## check style with flake8
 	flake8 wostools tests
 
 test: ## run tests quickly with the default Python
-	py.test
+	python -m pytest
 
-test-all: ## run tests on every Python version with tox
-	tox
+test-watch:
+	@ptw \
+		--ext "py,feature" \
+		--onpass "coverage report --skip-empty --skip-covered -m" \
+		--onfail "notify-send.sh -R $(NOTIFY_FILE) -i face-worried --hint int:transient:1 'Test failed' 'Ooops we have a problem, not all tests passed'" \
+		--onexit "notify-send.sh -R $(NOTIFY_FILE) -i media-playback-stop --hint int:transient:1 'Test runner stopped' 'Just so you know, the test runner stopped'" \
+		--runner "coverage run --source wostools -m pytest" \
 
 coverage: ## check code coverage quickly with the default Python
 	coverage run --source wostools -m pytest
 	coverage report -m
 	coverage html
 	$(BROWSER) htmlcov/index.html
-
-docs: ## generate Sphinx HTML documentation, including API docs
-	rm -f docs/wostools.rst
-	rm -f docs/modules.rst
-	sphinx-apidoc -o docs/ wostools
-	$(MAKE) -C docs clean
-	$(MAKE) -C docs html
-	$(BROWSER) docs/_build/html/index.html
-
-servedocs: docs ## compile the docs watching for changes
-	watchmedo shell-command -p '*.rst' -c '$(MAKE) -C docs html' -R -D .
 
 release: dist ## package and upload a release
 	twine upload dist/*

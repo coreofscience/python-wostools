@@ -4,7 +4,7 @@ The wos fields definitions.
 
 import collections
 import functools
-
+from typing import Any, Dict, List, Mapping
 
 IsiField = collections.namedtuple(
     "IsiField", ["key", "description", "parse", "aliases"]
@@ -16,15 +16,23 @@ def joined(seq, sep=" "):
 
 
 def ident(seq):
-    return list(s.strip() for s in seq)
+    return [s.strip() for s in seq]
 
 
 def delimited(seq, delimiter="; "):
-    return joined(seq).split(delimiter)
+    return [
+        word.replace(delimiter.strip(), "")
+        for words in seq
+        for word in words.split(delimiter)
+        if word
+    ]
 
 
 def integer(seq):
-    return int(joined(seq).strip())
+    if len(seq) > 1:
+        raise ValueError(f"Expected no more than one item and got {seq}")
+    (first,) = seq
+    return int(first.strip())
 
 
 FIELDS = {
@@ -58,7 +66,10 @@ FIELDS = {
     "CY": IsiField("CY", "Conference Date", joined, ["conference_date"]),
     "DE": IsiField("DE", "Author Keywords", delimited, ["author_keywords"]),
     "DI": IsiField(
-        "DI", "Digital Object Identifier (DOI)", joined, ["digital_object_identifier"]
+        "DI",
+        "Digital Object Identifier (DOI)",
+        joined,
+        ["digital_object_identifier", "DOI"],
     ),
     "DT": IsiField("DT", "Document Type", joined, ["document_type"]),
     "D2": IsiField(
@@ -126,7 +137,9 @@ FIELDS = {
         ["publication_type"],
     ),
     "PU": IsiField("PU", "Publisher", joined, ["publisher"]),
-    "PY": IsiField("PY", "Year Published", integer, ["year_published"]),
+    "PY": IsiField(
+        "PY", "Year Published", integer, ["year_published", "year", "publication_year"]
+    ),
     "RI": IsiField("RI", "ResearcherID Number", delimited, ["researcherid_number"]),
     "RP": IsiField("RP", "Reprint Address", joined, ["reprint_address"]),
     "SC": IsiField("SC", "Research Areas", delimited, ["research_areas"]),
@@ -168,17 +181,21 @@ FIELDS = {
 }
 
 
-def field_aliases():
-    for fields in FIELDS.values():
-        yield fields.aliases[-1]
+def parse(key: str, value: List) -> Dict:
+    if key in {"FN", "VR"}:
+        # This disregards headers
+        return {}
+    if key not in FIELDS:
+        raise ValueError(f"{key} is not a known ISI field.")
+    try:
+        field = FIELDS[key]
+        parsed = field.parse(value)
+        return {k: parsed for k in [key, *field.aliases]}
+    except ValueError as e:
+        raise ValueError(f"Field {key}: {e}")
 
 
-def field_keys():
-    for fields in FIELDS.values():
-        yield fields.key
-
-
-def preprocess(raw_dict):
+def parse_all(raw_dict: Dict[str, List[str]]) -> Mapping[str, Any]:
     """Preprocesses a dictionary, with information about WoS field tags and its
         value according to a article, with some parser functions that depends on
         the field tag. If there is no a CR field, it adds one to the output with
@@ -200,12 +217,5 @@ def preprocess(raw_dict):
     processed_data = {}
     raw_dict.setdefault("CR", [])
     for key, seq in raw_dict.items():
-        if key in FIELDS:
-            field = FIELDS[key]
-            parsed = field.parse(seq)
-            processed_data[key] = parsed
-            for alias in field.aliases:
-                processed_data[alias] = parsed
-        else:
-            processed_data[key] = " ".join(seq)
+        processed_data.update(parse(key, seq))
     return processed_data

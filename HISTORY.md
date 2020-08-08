@@ -1,0 +1,17 @@
+# History
+
+## 2.0.0 (2020-08-09)
+
+-   Make the article class more concrete
+-   Make collections iterable
+-   Add cached and lazy collections for different use cases
+
+## 0.2.0 (2018-08-12)
+
+-   Add support for all WOS fields.
+-   Add graph building support.
+-   Add a little cli for common tasks.
+
+## 0.1.1 (2018-05-10)
+
+-   First release on PyPI.

@@ -37,3 +37,8 @@ class Context(Generic[T]):
     def assert_error(self) -> Iterator[Exception]:
         assert self.error, f"Expected an error and found none"
         yield self.error
+
+    @contextmanager
+    def assert_history(self, count):
+        assert len(self.history) >= count
+        yield self.history[-count:]

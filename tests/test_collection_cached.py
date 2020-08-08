@@ -1,5 +1,5 @@
 import io
-from typing import List, Dict, Tuple
+from typing import Collection, List, Dict, Tuple
 
 from pytest import fixture
 from pytest_bdd import scenarios, given, when, then
@@ -225,36 +225,20 @@ def iterate_citation_pairs_collection_context() -> Context[
     return Context()
 
 
-@fixture
-def two_collections_context() -> Tuple[Context, Context]:
-    return Context(), Context()
-
-
 @given("some valid isi text", target_fixture="isi_text")
 def valid_isi_text():
-    return ISI_TEXT
+    return [ISI_TEXT]
 
 
-@given("some invalid isi text", target_fixture="isi_text")
-def invalid_isi_text():
-    return "INVALID invalid"
-
-
-@given("a diferent isi record that references the former")
-def isi_text_different_record():
-    return ISI_TEXT_DIFFERENT_RECORD
-
-
-@fixture
-def create_valid_collection(collection_context: Context[CachedCollection]):
-    collection = CachedCollection(io.StringIO(ISI_TEXT))
-    collection_context.push(collection)
+@given("a diferent isi record that references the former", target_fixture="isi_text")
+def isi_text_different_record(isi_text):
+    return [*isi_text, ISI_TEXT_DIFFERENT_RECORD]
 
 
 @when("I create a collection from that text")
-def create_collection(isi_text):
+def create_collection(isi_text, collection_context: Context[CachedCollection]):
     with collection_context.capture():
-        collection = CachedCollection(io.StringIO(isi_text))
+        collection = CachedCollection(*(io.StringIO(doc) for doc in isi_text))
         collection_context.push(collection)
     return collection_context
 
@@ -353,31 +337,13 @@ def all_coauthors_pairs_included_even_duplicates(
             assert count >= 1
 
 
-@when("I create a collection from that text")
-@when("I create a collection from twice that text")
-def create_two_collections(isi_text, two_collections_context):
-    first_context, second_context = two_collections_context
-    buffer = io.StringIO(isi_text)
-
-    with first_context.capture():
-        first_collection = CachedCollection(buffer)
-        first_context.push(first_collection)
-
-    with second_context.capture():
-        second_collection = CachedCollection(buffer, buffer)
-        second_context.push(second_collection)
-
-
 @then("both collections have the same number of articles")
-def same_number_of_articles(two_collections_context):
-    first_context, second_context = two_collections_context
+def same_number_of_articles(collection_context: Context[CachedCollection]):
 
-    with first_context.assert_data() as first_collection:
-        with second_context.assert_data() as second_collection:
-            assert len(first_collection) == len(second_collection)
-            assert sorted([art.label for art in first_collection]) == sorted(
-                [art.label for art in second_collection]
-            )
+    with collection_context.assert_data() as collection:
+        with collection_context.assert_history(1) as latest:
+            print(latest)
+            assert len(collection) == len(latest[0])
 
 
 @when("I list the collection's citation pairs")
@@ -401,20 +367,6 @@ def all_citation_pairs_are_included(
         for article, reference in citation_pairs:
             assert isinstance(article, Article)
             assert isinstance(reference, Article)
-
-
-@when("I create a collection from that text")
-def create_collection_two_isi_files(
-    isi_text: str,
-    isi_text_different_record: str,
-    collection_context: Context[CachedCollection],
-):
-    buffer_1 = io.StringIO(isi_text)
-    buffer_2 = io.StringIO(isi_text_different_record)
-
-    with collection_context.capture():
-        collection = CachedCollection(buffer_1, buffer_2)
-        collection_context.push(collection)
 
 
 @then("the citation always include all the available data")

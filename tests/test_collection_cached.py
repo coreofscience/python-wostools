@@ -1,5 +1,5 @@
 import io
-from typing import Collection, List, Dict, Tuple
+from typing import List, Dict, Tuple
 
 from pytest import fixture
 from pytest_bdd import scenarios, given, when, then

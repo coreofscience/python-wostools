@@ -35,7 +35,7 @@ class Context(Generic[T]):
 
     @contextmanager
     def assert_error(self) -> Iterator[Exception]:
-        assert self.error, f"Expected an error and found none"
+        assert self.error, "Expected an error and found none"
         yield self.error
 
     @contextmanager

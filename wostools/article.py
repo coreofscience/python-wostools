@@ -9,7 +9,9 @@ from wostools.fields import parse_all
 logger = logging.getLogger(__name__)
 
 # The null part accounts for an ISI wok bug
-ISI_LINE_PATTERN = re.compile(r"^(null)?((?P<field>[A-Z0-9]{2})|  )( (?P<value>.*))?$")
+ISI_LINE_PATTERN = re.compile(
+    r"^(null|.)?((?P<field>[A-Z0-9]{2})|  )( (?P<value>.*))?$"
+)
 
 ISI_CITATION_PATTERN = re.compile(
     r"""^(?P<AU>[^,]+)?,[ ]         # First author

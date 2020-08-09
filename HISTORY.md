@@ -1,6 +1,11 @@
 # History
 
-## 2.0.0 (2020-08-09)
+## 2.0.1 (2020-08-09)
+
+-   Fix error with wos files that have an invisible character before the field
+    key.
+
+## 2.0.0 (2020-08-08)
 
 -   Make the article class more concrete
 -   Make collections iterable

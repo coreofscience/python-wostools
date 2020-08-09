@@ -25,7 +25,7 @@ ISI_CITATION_PATTERN = re.compile(
 )
 
 
-class Article(object):
+class Article:
     def __init__(
         self,
         title: Optional[str],
@@ -94,11 +94,20 @@ class Article(object):
     def merge(self, other: "Article") -> "Article":
         if self.label != other.label:
             logger.warning(
-                "Mixing articles with different labels might result in tragedy"
+                "\n".join(
+                    [
+                        "Mixing articles with different labels might result in tragedy",
+                        f"  mine:   {self.label}",
+                        f"  others: {other.label}",
+                    ]
+                )
             )
         return Article(
             title=self.title or other.title,
-            authors=list(set(self.authors).union(set(other.authors))),
+            authors=(
+                self.authors
+                + [author for author in other.authors if author not in self.authors]
+            ),
             year=self.year or other.year,
             journal=self.journal or other.journal,
             volume=self.volume or other.volume,

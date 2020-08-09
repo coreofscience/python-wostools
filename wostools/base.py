@@ -12,7 +12,7 @@ from wostools.exceptions import InvalidReference
 logger = logging.getLogger(__name__)
 
 
-class BaseCollection(object):
+class BaseCollection:
     """
     A collection of WOS text files.
     """

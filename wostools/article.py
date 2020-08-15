@@ -33,6 +33,7 @@ class Article:
         year: Optional[int],
         journal: Optional[str],
         volume: Optional[str] = None,
+        issue: Optional[str] = None,
         page: Optional[str] = None,
         doi: Optional[str] = None,
         references: Optional[List[str]] = None,
@@ -46,6 +47,7 @@ class Article:
         self.year: Optional[int] = year
         self.journal: Optional[str] = journal
         self.volume: Optional[str] = volume
+        self.issue: Optional[str] = volume
         self.page: Optional[str] = page
         self.doi: Optional[str] = doi
         self.references: List[str] = references or []
@@ -111,6 +113,7 @@ class Article:
             year=self.year or other.year,
             journal=self.journal or other.journal,
             volume=self.volume or other.volume,
+            issue=self.issue or other.issue,
             page=self.page or other.page,
             doi=self.doi or other.doi,
             sources={*self.sources, *other.sources},
@@ -139,6 +142,7 @@ class Article:
             year=processed.get("year"),
             journal=processed.get("source_abbreviation"),
             volume=processed.get("volume"),
+            issue=processed.get("issue"),
             page=processed.get("beginning_page"),
             doi=processed.get("DOI"),
             references=processed.get("references"),

@@ -1,5 +1,9 @@
 # History
 
+## 2.0.3 (2020-08-09)
+
+- Add issue to the articles top level.
+
 ## 2.0.2 (2020-08-09)
 
 - Fix bug with first author merging articles.

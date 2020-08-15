@@ -47,7 +47,7 @@ class Article:
         self.year: Optional[int] = year
         self.journal: Optional[str] = journal
         self.volume: Optional[str] = volume
-        self.issue: Optional[str] = volume
+        self.issue: Optional[str] = issue
         self.page: Optional[str] = page
         self.doi: Optional[str] = doi
         self.references: List[str] = references or []

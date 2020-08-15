@@ -75,6 +75,7 @@ JI J. Magn. Magn. Mater.
 PD MAY 15
 PY {year}
 VL {volume}
+IS {issue}
 BP {page}
 EP 58
 DI {doi}
@@ -107,6 +108,7 @@ def attributes():
         "page": "1330-5",
         "journal": "J MAGN MAGN MATER",
         "volume": "1000",
+        "issue": "2",
         "doi": "10.1016/j.jmmm.2017.01.061",
     }
 
@@ -209,6 +211,7 @@ def reference_article(attributes):
             year=attributes.get("year"),
             journal=attributes.get("journal"),
             volume=attributes.get("volume"),
+            issue=attributes.get("issue"),
             page=attributes.get("page"),
             doi=attributes.get("doi"),
             references=attributes.get("references"),

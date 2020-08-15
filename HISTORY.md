@@ -3,6 +3,7 @@
 ## 2.0.4 (2020-08-15)
 
 - Add issue to the articles plain dict output.
+- Fix some bugs with issues.
 
 ## 2.0.3 (2020-08-15)
 

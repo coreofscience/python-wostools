@@ -1,5 +1,9 @@
 # History
 
+## 2.0.5 (2020-08-15)
+
+- Fix and prevent distribution accidents.
+
 ## 2.0.4 (2020-08-15)
 
 - Add issue to the articles plain dict output.

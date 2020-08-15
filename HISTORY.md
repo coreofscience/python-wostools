@@ -1,6 +1,10 @@
 # History
 
-## 2.0.3 (2020-08-09)
+## 2.0.4 (2020-08-15)
+
+- Add issue to the articles plain dict output.
+
+## 2.0.3 (2020-08-15)
 
 - Add issue to the articles top level.
 

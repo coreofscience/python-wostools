@@ -88,6 +88,7 @@ class Article:
             "year": self.year,
             "journal": self.journal,
             "volume": self.volume,
+            "issue": self.issue,
             "page": self.page,
             "doi": self.doi,
             **extra,

@@ -29,9 +29,8 @@ def test_parse_ignores_headers(header):
     assert parse(header, ["value", "value"]) == {}
 
 
-def test_parse_raises_on_unknown_fields():
-    with pytest.raises(ValueError):
-        assert parse("FG", ["value", "value"]) == {}
+def test_parse_includes_on_unknown_fields():
+    assert parse("FG", ["value", "value"]) == {"FG": ["value", "value"]}
 
 
 def test_parse_raises_on_invalid_values():

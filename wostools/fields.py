@@ -4,7 +4,11 @@ The wos fields definitions.
 
 import collections
 import functools
+import logging
 from typing import Any, Dict, List, Mapping
+
+logger = logging.getLogger(__name__)
+
 
 IsiField = collections.namedtuple(
     "IsiField", ["key", "description", "parse", "aliases"]
@@ -182,17 +186,15 @@ FIELDS = {
 
 
 def parse(key: str, value: List) -> Dict:
-    if key in {"FN", "VR"}:
+    if key in {"FN", "VR", "ER"}:
         # This disregards headers
         return {}
-    if key not in FIELDS:
-        raise ValueError(f"{key} is not a known ISI field.")
-    try:
+    if key in FIELDS:
         field = FIELDS[key]
         parsed = field.parse(value)
         return {k: parsed for k in [key, *field.aliases]}
-    except ValueError as e:
-        raise ValueError(f"Field {key}: {e}")
+    logger.info(f"Found an unkown field with key {key} and value {value}")
+    return {key: ident(value)}
 
 
 def parse_all(raw_dict: Dict[str, List[str]]) -> Mapping[str, Any]:

@@ -1,6 +1,6 @@
 # History
 
-## 2.0.5 (2020-08-21)
+## 2.0.6 (2020-08-21)
 
 - Accomodate for unknown fields in ISI WOS files.
 

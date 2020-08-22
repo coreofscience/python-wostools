@@ -40,14 +40,17 @@ class CachedCollection(BaseCollection):
         if key == self._cache_key:
             return
         for article in self._articles():
-            self._add_article(article)
-            for reference in article.references:
-                try:
-                    self._add_article(Article.from_isi_citation(reference))
-                except InvalidReference:
-                    logger.info(
-                        f"Ignoring malformed reference '{reference}' from '{article.label}'"
-                    )
+            if article.label:
+                self._add_article(article)
+                for reference in article.references:
+                    try:
+                        article_reference = Article.from_isi_citation(reference)
+                        if article_reference.label:
+                            self._add_article(article_reference)
+                    except InvalidReference:
+                        logger.info(
+                            f"Ignoring malformed reference '{reference}' from '{article.label}'"
+                        )
         self._cache_key = key
 
     def __iter__(self) -> Iterator[Article]:

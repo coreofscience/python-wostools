@@ -38,7 +38,9 @@ class LazyCollection(BaseCollection):
 
     def _articles(self) -> Iterable[Article]:
         for article_text in self._article_texts:
-            yield Article.from_isi_text(article_text)
+            article = Article.from_isi_text(article_text)
+            if article.label:
+                yield article
 
     @property
     def authors(self) -> Iterable[str]:

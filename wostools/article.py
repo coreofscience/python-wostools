@@ -57,7 +57,10 @@ class Article:
     @property
     def label(self):
         if not (self.authors and self.year and self.journal):
-            raise MissingLabelFields(self)
+            logger.info(
+                f"Ignoring article due to it lacks information to build label."
+            )
+            return None
         pieces = {
             "AU": self.authors[0].replace(",", ""),
             "PY": str(self.year),

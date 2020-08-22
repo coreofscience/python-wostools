@@ -283,10 +283,9 @@ def no_error_computing_label(label_context: Context[str]):
         pass
 
 
-@then("There's an error computing the label")
+@then("the label is returned as None")
 def error_computing_label(label_context: Context[str]):
-    with label_context.assert_error() as error:
-        assert isinstance(error, ValueError)
+    assert label_context.data is None
 
 
 @then(parsers.parse("the article matches the {field:w} of the other"))

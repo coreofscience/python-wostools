@@ -10,7 +10,7 @@ Feature: Article manager class
    Scenario Outline: Fail to compute a label
       Given a complete article missing <field>
       When I try to compute the label for the article
-      Then the label is returned as None
+      Then There's an error computing the label
 
       Examples:
          | field   |

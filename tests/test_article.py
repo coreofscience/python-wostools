@@ -6,7 +6,7 @@ from pytest import fixture
 from pytest_bdd import given, parsers, scenarios, then, when
 
 from wostools.article import Article
-from wostools.exceptions import InvalidIsiLine, InvalidReference
+from wostools.exceptions import InvalidIsiLine, InvalidReference, MissingLabelFields
 
 from wostools._testutils import Context
 
@@ -283,9 +283,10 @@ def no_error_computing_label(label_context: Context[str]):
         pass
 
 
-@then("the label is returned as None")
+@then("There's an error computing the label")
 def error_computing_label(label_context: Context[str]):
-    assert label_context.data is None
+    with label_context.assert_error() as error:
+        assert isinstance(error, MissingLabelFields)
 
 
 @then(parsers.parse("the article matches the {field:w} of the other"))

@@ -4,11 +4,12 @@ The whole wostools thing.
 
 import itertools
 import logging
+from contextlib import suppress
 from typing import Iterable, Tuple
 
 from wostools.article import Article
 from wostools.base import BaseCollection
-from wostools.exceptions import InvalidReference
+from wostools.exceptions import InvalidReference, MissingLabelFields
 
 logger = logging.getLogger(__name__)
 
@@ -37,10 +38,9 @@ class LazyCollection(BaseCollection):
                     yield article_text
 
     def _articles(self) -> Iterable[Article]:
-        for article_text in self._article_texts:
-            article = Article.from_isi_text(article_text)
-            if article.label:
-                yield article
+        with suppress(MissingLabelFields):
+            for article_text in self._article_texts:
+                yield Article.from_isi_text(article_text)
 
     @property
     def authors(self) -> Iterable[str]:

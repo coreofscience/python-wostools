@@ -1,5 +1,9 @@
 # History
 
+## 2.0.7 (2020-08-23)
+
+- Remove from the collection those documents whose label is unknow or conflictive.
+
 ## 2.0.6 (2020-08-21)
 
 - Accomodate for unknown fields in ISI WOS files.

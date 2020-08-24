@@ -2,7 +2,7 @@
     "description": "Translates isi web of knowledge files into python objects.",
     "license": "MIT",
     "title": "coreofscience/python-wostools",
-    "version": "v2.0.6",
+    "version": "v2.0.7",
     "upload_type": "software",
     "publication_date": "2018-08-13",
     "creators": [
@@ -25,7 +25,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/coreofscience/python-wostools/tree/v2.0.6",
+            "identifier": "https://github.com/coreofscience/python-wostools/tree/v2.0.7",
             "relation": "isSupplementTo"
         },
         {

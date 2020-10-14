@@ -10,7 +10,7 @@ with open("README.md") as readme_file:
 with open("HISTORY.md") as history_file:
     history = history_file.read()
 
-requirements = ["Click>=7.0"]
+requirements = ["Click>=7.0<8", "bibtexparser>=1.2.0<2"]
 
 setup_requirements = ["pytest-runner"]
 

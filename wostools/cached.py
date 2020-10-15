@@ -11,9 +11,15 @@ from wostools.article import Article
 from wostools.base import BaseCollection
 from wostools.exceptions import InvalidReference, MissingLabelFields
 
-from memory_profiler import profile
-
 logger = logging.getLogger(__name__)
+
+
+class Ref:
+    def __init__(self, current) -> None:
+        self.current = current
+
+    def __hash__(self) -> int:
+        return id(self)
 
 
 class CachedCollection(BaseCollection):
@@ -25,11 +31,18 @@ class CachedCollection(BaseCollection):
         super().__init__(*files)
         self._cache_key = None
         self._cache: Dict[str, Article] = {}
+        self._refs: Dict[str, Ref] = {}
         self._labels: Dict[str, Set[str]] = {}
         self._preheat()
 
     def _add_article(self, article: Article):
         labels = {article.label, article.simple_label}
+        existing_labels = {
+            l for label in labels for l in self._labels.get(label, set())
+        }
+        existing_refs = {
+            self._refs[label] for label in existing_labels if label in self._refs
+        }
         for label in labels:
             self._labels[label] = self._labels.get(label, set()).union(labels)
         for label in labels:
@@ -37,7 +50,6 @@ class CachedCollection(BaseCollection):
                 article = article.merge(self._cache[label])
         self._cache[article.label] = article
 
-    @profile
     def _preheat(self):
         # Preheat our cache
         key = ":".join(str(id(file) for file in self._files))
@@ -108,7 +120,6 @@ class CachedCollection(BaseCollection):
                     yield (article, self._cache[reference])
 
 
-@profile
 def main():
     collection = CachedCollection.from_filenames(
         "./scratch/scopus.ris", "./scratch/bit-pattern-savedrecs.txt"

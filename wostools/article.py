@@ -55,7 +55,7 @@ class Article:
         self.extra: Mapping[str, Any] = extra or {}
 
     @property
-    def label(self):
+    def simple_label(self):
         if not (self.authors and self.year and self.journal):
             raise MissingLabelFields(self)
         pieces = {
@@ -64,9 +64,14 @@ class Article:
             "J9": str(self.journal),
             "VL": f"V{self.volume}" if self.volume else None,
             "BP": f"P{self.page}" if self.page else None,
-            "DI": f"DOI {self.doi}" if self.doi else None,
         }
         return ", ".join(value for value in pieces.values() if value)
+
+    @property
+    def label(self):
+        if self.doi:
+            return self.doi
+        return self.simple_label
 
     def to_dict(self, simplified=True):
         """
@@ -95,12 +100,13 @@ class Article:
         }
 
     def merge(self, other: "Article") -> "Article":
-        if self.label != other.label:
-            logger.warning(
+        if other.label not in {self.label, self.simple_label}:
+            logger.debug(
                 "\n".join(
                     [
                         "Mixing articles with different labels might result in tragedy",
                         f"  mine:   {self.label}",
+                        f"    or:   {self.simple_label}",
                         f"  others: {other.label}",
                     ]
                 )

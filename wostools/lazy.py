@@ -23,26 +23,6 @@ class LazyCollection(BaseCollection):
     """
 
     @property
-    def _article_texts(self):
-        """Iterates over all the single article texts in the colection.
-
-        Returns:
-            generator: A generator of strings with the text articles.
-        """
-        for filehandle in self._files:
-            filehandle.seek(0)
-            data = filehandle.read()
-            filehandle.seek(0)
-            for article_text in data.split("\n\n"):
-                if article_text != "EF":
-                    yield article_text
-
-    def _articles(self) -> Iterable[Article]:
-        with suppress(MissingLabelFields):
-            for article_text in self._article_texts:
-                yield Article.from_isi_text(article_text)
-
-    @property
     def authors(self) -> Iterable[str]:
         """Iterates over all article authors, including duplicates
 

@@ -5,11 +5,13 @@ Collection with a nice cache.
 import itertools
 import logging
 from contextlib import suppress
-from typing import Dict, Iterable, Iterator, Tuple
+from typing import Dict, Iterable, Iterator, Set, Tuple
 
 from wostools.article import Article
 from wostools.base import BaseCollection
 from wostools.exceptions import InvalidReference, MissingLabelFields
+
+from memory_profiler import profile
 
 logger = logging.getLogger(__name__)
 
@@ -23,18 +25,19 @@ class CachedCollection(BaseCollection):
         super().__init__(*files)
         self._cache_key = None
         self._cache: Dict[str, Article] = {}
+        self._labels: Dict[str, Set[str]] = {}
         self._preheat()
 
-    def _articles(self) -> Iterable[Article]:
-        for article_text in self._article_texts:
-            yield Article.from_isi_text(article_text)
+    def _add_article(self, article: Article):
+        labels = {article.label, article.simple_label}
+        for label in labels:
+            self._labels[label] = self._labels.get(label, set()).union(labels)
+        for label in labels:
+            if label in self._cache:
+                article = article.merge(self._cache[label])
+        self._cache[article.label] = article
 
-    def _add_article(self, article):
-        label = article.label
-        if label in self._cache:
-            article = article.merge(self._cache[label])
-        self._cache[label] = article
-
+    @profile
     def _preheat(self):
         # Preheat our cache
         key = ":".join(str(id(file) for file in self._files))
@@ -59,7 +62,12 @@ class CachedCollection(BaseCollection):
             generator: A generator of Articles according to the text articles.
         """
         self._preheat()
-        yield from self._cache.values()
+        visited = set()
+        for label, article in self._cache.items():
+            if label in visited:
+                continue
+            visited.update(self._labels[label])
+            yield article
 
     @property
     def authors(self) -> Iterable[str]:
@@ -94,7 +102,19 @@ class CachedCollection(BaseCollection):
             labesl, where the firts element is the article which cites the
             second element.
         """
-        for article in self._cache.values():
+        for article in self:
             for reference in article.references:
                 if reference in self._cache:
                     yield (article, self._cache[reference])
+
+
+@profile
+def main():
+    collection = CachedCollection.from_filenames(
+        "./scratch/scopus.ris", "./scratch/bit-pattern-savedrecs.txt"
+    )
+    print(collection)
+
+
+if __name__ == "__main__":
+    main()

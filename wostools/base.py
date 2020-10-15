@@ -4,10 +4,11 @@ Base collection for a shared API.
 
 import glob
 import logging
-from typing import Iterable, Iterator, Tuple
+from typing import Iterable, Iterator, TextIO, Tuple
 
 from wostools.article import Article
-from wostools.exceptions import InvalidReference
+from wostools.exceptions import InvalidReference, WosToolsError
+from wostools.sources import isi, scopus
 
 logger = logging.getLogger(__name__)
 
@@ -49,7 +50,7 @@ class BaseCollection:
         return cls(*files)
 
     @property
-    def _article_texts(self) -> Iterable[str]:
+    def _iter_files(self) -> Iterable[TextIO]:
         """Iterates over all the single article texts in the colection.
 
         Returns:
@@ -57,19 +58,15 @@ class BaseCollection:
         """
         for filehandle in self._files:
             filehandle.seek(0)
-            data = filehandle.read()
+            yield filehandle
             filehandle.seek(0)
-            for article_text in data.split("\n\n"):
-                if article_text != "EF":
-                    yield article_text
 
     def _articles(self) -> Iterable[Article]:
-        """
-        Should iterate over all the articles in the ISI file, excluding references.
-        """
-        raise NotImplementedError(
-            "Sub classes should know how to iterate over articles"
-        )
+        for file in self._iter_files:
+            try:
+                yield from isi.parse_file(file)
+            except WosToolsError:
+                yield from scopus.parse_file(file)
 
     def __iter__(self) -> Iterator[Article]:
         """

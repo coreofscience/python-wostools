@@ -31,7 +31,7 @@ class BaseCollection:
             pattern (str): String with the pattern to be passed to glob.
 
         Returns:
-            CollectionLazy: Collection with the articles by using the pattern.
+            BaseCollection: Collection with the articles by using the pattern.
         """
         return cls.from_filenames(*glob.glob(pattern))
 
@@ -43,7 +43,7 @@ class BaseCollection:
             filenames (str): String with the filename.
 
         Returns:
-            CollectionLazy: Collection with the articles by reading the
+            BaseCollection: Collection with the articles by reading the
                 filenames.
         """
         files = [open(filename, encoding="utf-8-sig") for filename in filenames]

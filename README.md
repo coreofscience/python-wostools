@@ -43,8 +43,6 @@ $ wostools to-json docs/examples/bit-pattern-savedrecs.txt --output=document.jso
 -   Free software: MIT license
 -   Just parses an ISI Web of Knowledge file and produces a native
     python object.
--   Through the `CollectionLazy` object it can do this using the minimum
-    amount of memory it can possibly do.
 -   It has a cli to extract documents and citation pairs for you :smile:
 
 ## Credits

@@ -102,7 +102,7 @@ def parse_references(refs: List[str]) -> List[str]:
         try:
             result.append(_scopus_ref_to_isi(ref))
         except (KeyError, IndexError, TypeError, ValueError):
-            logging.error(f"Ignoring invalid reference {ref}")
+            logging.debug(f"Ignoring invalid reference {ref}")
     return result
 
 

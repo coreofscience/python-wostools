@@ -18,8 +18,8 @@ Say you want to grab the title of all the articles in an ISI file, you
 can grab [this example file](docs/examples/bit-pattern-savedrecs.txt).
 
 ```python
->>> from wostools import CachedCollection
->>> collection = CachedCollection.from_filenames('docs/examples/bit-pattern-savedrecs.txt')
+>>> from wostools import Cached
+>>> collection = Cached.from_filenames('docs/examples/bit-pattern-savedrecs.txt')
 >>> for article in collection:
 ...     print(article.title)
 In situ grazing incidence small-angle X-ray scattering study of solvent vapor annealing in lamellae-forming block copolymer thin films: Trade-off of defects in deswelling
@@ -40,10 +40,11 @@ $ wostools to-json docs/examples/bit-pattern-savedrecs.txt --output=document.jso
 
 ## Features
 
--   Free software: MIT license
--   Just parses an ISI Web of Knowledge file and produces a native
-    python object.
--   It has a cli to extract documents and citation pairs for you :smile:
+- Free software: MIT license
+- Parses an ISI Web of Knowledge file and produces a native python object.
+- Parses RIS scopus files and produces a native python object.
+- Merges ISI and RIS files into enriched collections.
+- It has a cli to extract documents and citation pairs for you :smile:
 
 ## Credits
 
@@ -51,3 +52,5 @@ This package was created with
 [Cookiecutter](https://github.com/audreyr/cookiecutter) and the
 [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage)
 project template.
+
+Development of this package is supported by [Core of Science](https://coreofscience.com).

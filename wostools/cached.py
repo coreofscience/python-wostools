@@ -5,7 +5,7 @@ Collection with a nice cache.
 import itertools
 import logging
 from contextlib import suppress
-from typing import Dict, Iterable, Iterator, Tuple
+from typing import Dict, Iterable, Iterator, Set, Tuple
 
 from wostools.article import Article
 from wostools.base import BaseCollection
@@ -23,17 +23,29 @@ class CachedCollection(BaseCollection):
         super().__init__(*files)
         self._cache_key = None
         self._cache: Dict[str, Article] = {}
+        self._labels: Dict[str, Set[str]] = {}
+        self._refs: Dict[str, str] = {}
         self._preheat()
 
-    def _articles(self) -> Iterable[Article]:
-        for article_text in self._article_texts:
-            yield Article.from_isi_text(article_text)
+    def _add_article(self, article: Article):
+        existing_labels = {
+            alias
+            for label in article.labels
+            for alias in self._labels.get(label, set())
+        }
+        all_labels = existing_labels | article.labels
+        existing_refs = {
+            self._refs[label] for label in all_labels if label in self._refs
+        }
+        for ref in existing_refs:
+            other = self._cache.pop(ref, None)
+            if other is not None:
+                article = article.merge(other)
 
-    def _add_article(self, article):
-        label = article.label
-        if label in self._cache:
-            article = article.merge(self._cache[label])
-        self._cache[label] = article
+        self._cache[article.label] = article
+        for label in all_labels:
+            self._labels[label] = all_labels
+            self._refs[label] = article.label
 
     def _preheat(self):
         # Preheat our cache
@@ -94,7 +106,8 @@ class CachedCollection(BaseCollection):
             labesl, where the firts element is the article which cites the
             second element.
         """
-        for article in self._cache.values():
+        for article in self:
             for reference in article.references:
-                if reference in self._cache:
-                    yield (article, self._cache[reference])
+                if reference in self._refs:
+                    label = self._refs[reference]
+                    yield (article, self._cache[label])

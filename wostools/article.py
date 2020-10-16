@@ -14,11 +14,11 @@ ISI_LINE_PATTERN = re.compile(
 )
 
 ISI_CITATION_PATTERN = re.compile(
-    r"""^(?P<AU>[^,]+)?,[ ]         # First author
-        (?P<PY>\d{4})?,[ ]          # Publication year
-        (?P<J9>[^,]+)?              # Journal
+    r"""^(?P<AU>[^,]+),[ ]          # First author
+        (?P<PY>\d{4}),[ ]           # Publication year
+        (?P<J9>[^,]+)               # Journal
         (,[ ]V(?P<VL>[\w\d-]+))?    # Volume
-        (,[ ][Pp](?P<BP>\d+))?      # Start page
+        (,[ ][Pp](?P<BP>\w+))?      # Start page
         (,[ ]DOI[ ](?P<DI>.+))?     # The all important DOI
         """,
     re.X,
@@ -55,18 +55,36 @@ class Article:
         self.extra: Mapping[str, Any] = extra or {}
 
     @property
-    def label(self):
+    def label(self) -> str:
+        if self.doi:
+            return self.doi
+        return self._label()
+
+    def _label(self, exclude_doi=False, lower_p=False) -> str:
         if not (self.authors and self.year and self.journal):
             raise MissingLabelFields(self)
+        page_prefix = "p" if lower_p else "P"
         pieces = {
             "AU": self.authors[0].replace(",", ""),
             "PY": str(self.year),
             "J9": str(self.journal),
             "VL": f"V{self.volume}" if self.volume else None,
-            "BP": f"P{self.page}" if self.page else None,
+            "BP": f"{page_prefix}{self.page}" if self.page else None,
             "DI": f"DOI {self.doi}" if self.doi else None,
         }
         return ", ".join(value for value in pieces.values() if value)
+
+    @property
+    def labels(self) -> Set[str]:
+        if not self.doi:
+            return {self.label, self._label(lower_p=True)}
+        return {
+            self.doi,
+            self.label,
+            self._label(exclude_doi=True),
+            self._label(lower_p=True),
+            self._label(exclude_doi=True, lower_p=True),
+        }
 
     def to_dict(self, simplified=True):
         """
@@ -95,12 +113,12 @@ class Article:
         }
 
     def merge(self, other: "Article") -> "Article":
-        if self.label != other.label:
+        if other.label not in self.labels:
             logger.warning(
                 "\n".join(
                     [
                         "Mixing articles with different labels might result in tragedy",
-                        f"  mine:   {self.label}",
+                        f"  mine:   {self.labels}",
                         f"  others: {other.label}",
                     ]
                 )

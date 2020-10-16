@@ -1,5 +1,13 @@
 # History
 
+## 3.0.0 (2020-10-15)
+
+- (!) Adds scopus RIS format support.
+- Drops support for `LazyCollection`.
+- Adds docummented support for Python 3.8 and 3.9
+- Drops docummented support for Python 3.6.
+- Improves article matching in collections.
+
 ## 2.0.7 (2020-08-23)
 
 - Remove from the collection those documents whose label is unknow or conflictive.

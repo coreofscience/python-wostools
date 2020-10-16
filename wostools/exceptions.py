@@ -13,6 +13,11 @@ class InvalidReference(WosToolsError, ValueError):
         super().__init__(f"{reference} does not look like an ISI citation")
 
 
+class InvalidScopusFile(WosToolsError, ValueError):
+    def __init__(self):
+        super().__init__("The file does not look like a valid bib file")
+
+
 class InvalidIsiLine(WosToolsError, ValueError):
     """
     Raised when we encounter an invalid line when processing an ISI file.

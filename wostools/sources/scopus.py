@@ -1,5 +1,4 @@
 from collections import defaultdict
-import logging
 import re
 from typing import Dict, Iterable, List, Optional, TextIO, Tuple, Type
 
@@ -29,13 +28,6 @@ def _joined(raw: Optional[List[str]]) -> Optional[str]:
     if not raw:
         return None
     return " ".join(raw)
-
-
-def _parse_page(value: Optional[str]) -> Optional[str]:
-    if not value:
-        return None
-    first, *_ = value.split("-")
-    return first
 
 
 def _find_volume_info(ref: str) -> Tuple[Dict[str, str], str]:
@@ -71,12 +63,13 @@ def _find_volume_info(ref: str) -> Tuple[Dict[str, str], str]:
 
 def _find_doi(ref: str) -> Tuple[Optional[str], str]:
     pattern = re.compile(
-        r"((DOI:?)|(doi.org\/)|(aps.org\/doi\/)) ?(?P<doi>[^\s,]+)", re.I
+        r"((doi.org\/)|(aps.org\/doi\/)|(DOI:?)) ?(?P<doi>[^\s,;:]{5,})", re.I
     )
     result = re.search(pattern, ref)
     if result is None or "doi" not in result.groupdict():
         return None, ref
-    return f"DOI {result.groupdict()['doi']}", ref[result.lastindex :]
+    doi = result.groupdict()["doi"]
+    return f"DOI {doi}", ref[result.lastindex :]
 
 
 def _scopus_ref_to_isi(scopusref: str) -> str:
@@ -107,13 +100,12 @@ def parse_references(refs: List[str]) -> List[str]:
         try:
             result.append(_scopus_ref_to_isi(ref))
         except (KeyError, IndexError, TypeError, ValueError) as e:
-            pass
-            # print(f"ignoring {ref}", e)
+            continue
     return result
 
 
 def ris_to_dict(record: str) -> Dict[str, List[str]]:
-    RIS_PATTERN = re.compile(r"^(((?P<key>[A-Z09]{2}))  - )?(?P<value>(.*))^")
+    RIS_PATTERN = re.compile(r"^(((?P<key>[A-Z0-9]{2}))[ ]{2}-[ ]{1})?(?P<value>(.*))$")
     parsed = defaultdict(list)
     current = None
 
@@ -128,13 +120,13 @@ def ris_to_dict(record: str) -> Dict[str, List[str]]:
             break
         if key:
             if key == "N1" and value and ":" in value:
-                label, value = value.split(": ", 1)
-                current = f"{key}:{label}"
+                label, value = value.split(":", 1)
+                value = value.strip()
+                current = f"{key}:{label.strip()}"
             else:
                 current = data["key"]
         if value and current:
             parsed[current].append(data.get("value", ""))
-
     return dict(parsed)
 
 
@@ -162,20 +154,5 @@ def parse_file(file: TextIO) -> Iterable[Article]:
     for item in file.read().split("\n\n"):
         if item.isspace():
             continue
-        yield parse_record(item)
-
-
-if __name__ == "__main__":
-    with open("./scratch/refs.txt") as refs:
-        data = [line.strip() for line in refs]
-    cit = [ref for line in data for ref in parse_references([line])]
-    print(sum("doi" in ref or "DOI" in ref for ref in data))
-    print(sum("DOI" in ref for ref in cit))
-
-    with open("./scratch/translated.txt", "w") as refs:
-        refs.write("\n".join(cit))
-
-    _scopus_ref_to_isi(
-        "Terris, B.D., Folks, L., Weller, D., Baglin, J.E.E., Kellock, A.J., Rothuizen, H., Vettiger, P., Ion beam patterning of magnetic films using stencil masks (1999) Appl. Phys. Lett., 75 (2), pp. 403-405. , July"
-    )
-
+        article = parse_record(item.strip())
+        yield article

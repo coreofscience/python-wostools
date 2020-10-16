@@ -14,14 +14,6 @@ from wostools.exceptions import InvalidReference, MissingLabelFields
 logger = logging.getLogger(__name__)
 
 
-class Ref:
-    def __init__(self, current) -> None:
-        self.current = current
-
-    def __hash__(self) -> int:
-        return id(self)
-
-
 class CachedCollection(BaseCollection):
     """
     A collection of WOS text files.
@@ -31,24 +23,27 @@ class CachedCollection(BaseCollection):
         super().__init__(*files)
         self._cache_key = None
         self._cache: Dict[str, Article] = {}
-        self._refs: Dict[str, Ref] = {}
         self._labels: Dict[str, Set[str]] = {}
+        self._refs: Dict[str, str] = {}
         self._preheat()
 
     def _add_article(self, article: Article):
-        labels = {article.label, article.simple_label}
         existing_labels = {
-            l for label in labels for l in self._labels.get(label, set())
+            l for label in article.labels for l in self._labels.get(label, set())
         }
+        all_labels = existing_labels | article.labels
         existing_refs = {
-            self._refs[label] for label in existing_labels if label in self._refs
+            self._refs[label] for label in all_labels if label in self._refs
         }
-        for label in labels:
-            self._labels[label] = self._labels.get(label, set()).union(labels)
-        for label in labels:
-            if label in self._cache:
-                article = article.merge(self._cache[label])
+        for ref in existing_refs:
+            other = self._cache.pop(ref, None)
+            if other is not None:
+                article = article.merge(other)
+
         self._cache[article.label] = article
+        for label in all_labels:
+            self._labels[label] = all_labels
+            self._refs[label] = article.label
 
     def _preheat(self):
         # Preheat our cache
@@ -74,12 +69,7 @@ class CachedCollection(BaseCollection):
             generator: A generator of Articles according to the text articles.
         """
         self._preheat()
-        visited = set()
-        for label, article in self._cache.items():
-            if label in visited:
-                continue
-            visited.update(self._labels[label])
-            yield article
+        yield from self._cache.values()
 
     @property
     def authors(self) -> Iterable[str]:
@@ -116,16 +106,6 @@ class CachedCollection(BaseCollection):
         """
         for article in self:
             for reference in article.references:
-                if reference in self._cache:
-                    yield (article, self._cache[reference])
-
-
-def main():
-    collection = CachedCollection.from_filenames(
-        "./scratch/scopus.ris", "./scratch/bit-pattern-savedrecs.txt"
-    )
-    print(collection)
-
-
-if __name__ == "__main__":
-    main()
+                if reference in self._refs:
+                    label = self._refs[reference]
+                    yield (article, self._cache[label])

@@ -41,7 +41,7 @@ def citation_pairs(sources, output):
     json.dump(pairs, output, indent=2)
 
 
-@main.command("to-dict")
+@main.command("to-json")
 @click.argument("sources", type=click.File("r"), nargs=-1)
 @click.option(
     "--output",
@@ -58,7 +58,7 @@ def citation_pairs(sources, output):
     default=False,
     help="Add extra info to the output",
 )
-def to_dict(sources, output, more):
+def to_json(sources, output, more):
     """
     Build a collection by using the sources and print the citation pairs in json
     format or dumps them in the `output`.

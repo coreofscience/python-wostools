@@ -29,7 +29,9 @@ class CachedCollection(BaseCollection):
 
     def _add_article(self, article: Article):
         existing_labels = {
-            l for label in article.labels for l in self._labels.get(label, set())
+            alias
+            for label in article.labels
+            for alias in self._labels.get(label, set())
         }
         all_labels = existing_labels | article.labels
         existing_refs = {

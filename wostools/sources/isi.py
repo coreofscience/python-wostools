@@ -12,4 +12,3 @@ def _split(file) -> Iterable[str]:
 def parse_file(file: TextIO) -> Iterable[Article]:
     for raw in _split(file):
         yield Article.from_isi_text(raw)
-

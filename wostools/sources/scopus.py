@@ -1,11 +1,13 @@
 from collections import defaultdict
+import logging
 import re
-from typing import Dict, Iterable, List, Optional, TextIO, Tuple, Type
-
-from bibtexparser.bparser import BibTexParser
+from typing import Dict, Iterable, List, Optional, TextIO, Tuple
 
 from wostools.article import Article
 from wostools.exceptions import InvalidScopusFile
+
+
+logger = logging.getLogger(__name__)
 
 
 def _size(file) -> int:
@@ -99,8 +101,8 @@ def parse_references(refs: List[str]) -> List[str]:
     for ref in refs:
         try:
             result.append(_scopus_ref_to_isi(ref))
-        except (KeyError, IndexError, TypeError, ValueError) as e:
-            continue
+        except (KeyError, IndexError, TypeError, ValueError):
+            logging.error(f"Ignoring invalid reference {ref}")
     return result
 
 

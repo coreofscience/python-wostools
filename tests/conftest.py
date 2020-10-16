@@ -2,7 +2,7 @@
 Configuration file for python-wostools tests.
 """
 
-from wostools import Article, CachedCollection
+from wostools import Article
 
 import pytest
 import io

@@ -15,7 +15,7 @@ class InvalidReference(WosToolsError, ValueError):
 
 class InvalidScopusFile(WosToolsError, ValueError):
     def __init__(self):
-        super().__init__(f"The file does not look like a valid bib file")
+        super().__init__("The file does not look like a valid bib file")
 
 
 class InvalidIsiLine(WosToolsError, ValueError):

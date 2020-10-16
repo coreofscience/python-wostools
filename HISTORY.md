@@ -1,5 +1,9 @@
 # History
 
+## 3.0.1 (2020-10-15)
+
+- Clear logging error channel.
+
 ## 3.0.0 (2020-10-15)
 
 - (!) Adds scopus RIS format support.

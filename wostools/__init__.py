@@ -2,7 +2,7 @@
 
 __author__ = """Core of Science"""
 __email__ = "dev@coreofscience.com"
-__version__ = "3.0.1"
+__version__ = "3.0.2"
 
 from wostools.article import Article
 from wostools.cached import CachedCollection

@@ -1,5 +1,9 @@
 # History
 
+## 3.0.2 (2020-10-15)
+
+- Fix packaging accident to allow package to install correclty.
+
 ## 3.0.1 (2020-10-15)
 
 - Clear logging error channel.

@@ -6,4 +6,4 @@ pytest-runner==5.2
 pytest-watch==4.2.0
 pytest-bdd==4.0.1
 
-dataclasses==0.7; python_version < "3.7"
+dataclasses==0.8; python_version < "3.7"

@@ -1,6 +1,7 @@
 """
 The wos fields definitions.
 """
+# TODO: Move this file to sources
 
 import collections
 import functools

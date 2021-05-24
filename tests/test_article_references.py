@@ -24,7 +24,7 @@ DI 10.1016/j.jmmm.2017.01.061
 ER
 """.strip()
 
-from wostools.sources.isi import parse_record
+from wostools.sources.isi import parse_record, parse_label
 
 
 def test_parses_basic_data():
@@ -33,7 +33,7 @@ def test_parses_basic_data():
         result.title
         == "Structural control of ultra-fine CoPt nanodot arrays via electrodeposition process"
     )
-    assert result.authors == ["Wodarz, S", "Hasegawa, T"]
+    assert result.authors == ["Wodarz S", "Hasegawa T"]
     assert result.year == 2017
     assert result.journal == "J MAGN MAGN MATER"
 
@@ -43,4 +43,16 @@ def test_parses_references():
     first, *_ = result.references
     assert first.authors == ["Albrecht TR"]
     assert first.year == 2013
-    assert first.journal == "IEEE T MAG"
+    assert first.journal == "IEEE T MAGN"
+
+
+def test_parses_reference():
+    result = parse_label(
+        "Albrecht TR, 2013, IEEE T MAGN, V49, P773, DOI 10.1109/TMAG.2012.2227303"
+    )
+    assert result.authors == ["Albrecht TR"]
+    assert result.year == 2013
+    assert result.journal == "IEEE T MAGN"
+    assert result.doi == "10.1109/TMAG.2012.2227303"
+    assert result.volume == "49"
+    assert result.page == "773"

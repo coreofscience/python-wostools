@@ -187,6 +187,7 @@ FIELDS = {
 
 
 def parse(key: str, value: List) -> Dict:
+    # TODO: move as a constant.
     if key in {"FN", "VR", "ER"}:
         # This disregards headers
         return {}

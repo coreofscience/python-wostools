@@ -44,7 +44,7 @@ Feature: cached collection
    Scenario: citation pairs include complete info from references
 
       Given some valid isi text
-      And a diferent isi record that references the former
+      And a different isi record that references the former
       When I create a collection from that text
       And I list the collection's citation pairs
       Then the citation always include all the available data

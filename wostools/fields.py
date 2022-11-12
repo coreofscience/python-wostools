@@ -193,13 +193,13 @@ def parse(key: str, value: List) -> Dict:
         field = FIELDS[key]
         parsed = field.parse(value)
         return {k: parsed for k in [key, *field.aliases]}
-    logger.info(f"Found an unkown field with key {key} and value {value}")
+    logger.info(f"Found an unknown field with key {key} and value {value}")
     return {key: ident(value)}
 
 
 def parse_all(raw_dict: Dict[str, List[str]]) -> Mapping[str, Any]:
     """Preprocesses a dictionary, with information about WoS field tags and its
-        value according to a article, with some parser functions that depends on
+        value according to an article, with some parser functions that depends on
         the field tag. If there is no a CR field, it adds one to the output with
         an empty list as value. Finally, the field aliases are also appended as
         keys.

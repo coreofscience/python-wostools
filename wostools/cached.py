@@ -102,8 +102,8 @@ class CachedCollection(BaseCollection):
         """Computes the citation pairs for the articles in the collection.
 
         Returns:
-            genertator: A generator with the citation links: pairs of article
-            labesl, where the firts element is the article which cites the
+            generator: A generator with the citation links: pairs of article
+            labels, where the firsts element is the article which cites the
             second element.
         """
         for article in self:

@@ -22,7 +22,7 @@ def main():
     type=click.File("w"),
     show_default=True,
     default="-",
-    help="File to save json otuput.",
+    help="File to save json output.",
 )
 def citation_pairs(sources, output):
     """
@@ -48,7 +48,7 @@ def citation_pairs(sources, output):
     type=click.File("w"),
     show_default=True,
     default="-",
-    help="File to save json otuput.",
+    help="File to save json output.",
 )
 @click.option(
     "-m",

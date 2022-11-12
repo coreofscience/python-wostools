@@ -51,7 +51,7 @@ class BaseCollection:
 
     @property
     def _iter_files(self) -> Iterable[TextIO]:
-        """Iterates over all the single article texts in the colection.
+        """Iterates over all the single article texts in the collection.
 
         Returns:
             generator: A generator of strings with the text articles.

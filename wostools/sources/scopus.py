@@ -83,7 +83,7 @@ def _scopus_ref_to_isi(scopusref: str) -> str:
     doi, _ = _find_doi(scopusref)
     parts = {
         "author": f"{first_name} {last_name.replace(' ', '').replace('.', '')}",
-        "yaer": year,
+        "year": year,
         "journal": journal.strip().replace(".", "").upper()
         if not journal.isspace()
         else None,

@@ -230,7 +230,7 @@ def valid_isi_text():
     return [ISI_TEXT]
 
 
-@given("a diferent isi record that references the former", target_fixture="isi_text")
+@given("a different isi record that references the former", target_fixture="isi_text")
 def isi_text_different_record(isi_text):
     return [*isi_text, ISI_TEXT_DIFFERENT_RECORD]
 

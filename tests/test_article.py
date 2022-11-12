@@ -336,13 +336,13 @@ def citation_in_sources(citation_parse_context: Context[Article], isi_citation: 
 
 
 @then("an invalid line error is risen")
-def invialid_isi_line_risen(parse_context: Context[Article]):
+def invalid_isi_line_risen(parse_context: Context[Article]):
     with parse_context.assert_error() as error:
         assert isinstance(error, InvalidIsiLine)
 
 
 @then("an invalid reference error is risen")
-def invialid_reference_risen(citation_parse_context: Context[Article]):
+def invalid_reference_risen(citation_parse_context: Context[Article]):
     with citation_parse_context.assert_error() as error:
         assert isinstance(error, InvalidReference)
 
